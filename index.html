@@ -183,13 +183,29 @@
 
 
 
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyDhh9HinZcPft6E23hgbzK1uIoy8coyzgQ",
+      authDomain: "feeefnet.firebaseapp.com",
+      projectId: "feeefnet",
+      storageBucket: "feeefnet.appspot.com",
+      messagingSenderId: "24740023407",
+      appId: "1:24740023407:web:132d6fc5091def2023519a",
+      measurementId: "G-5S9MEJ582K"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
 
   <script>
-    // if ("serviceWorker" in navigator) {
-      // window.addEventListener("load", function () {
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
         navigator.serviceWorker.register("/firebase-messaging-sw.js");
-      // });
-    // }
+      });
+    }
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
