@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!-- XD
+  <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
 
@@ -185,11 +185,11 @@
 
 
   <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", function () {
+    // if ("serviceWorker" in navigator) {
+      // window.addEventListener("load", function () {
         navigator.serviceWorker.register("/firebase-messaging-sw.js");
-      });
-    }
+      // });
+    // }
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
