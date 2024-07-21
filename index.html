@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -14,11 +15,12 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/">
+  <!-- <base href="/"> -->
+  <base href="">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="feeef project.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -27,12 +29,168 @@
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/png" href="favicon.png" />
 
-  <title>fash</title>
+  <title>feeef | marchant</title>
   <link rel="manifest" href="manifest.json">
+
+
+
+
+
+
+
+  <!-- // loading Style -->
+  <style>
+    /* html {
+      --clr-s: white;
+      background-color: black;
+    } */
+
+    .prgc {
+      height: 36px;
+      width: 36px;
+      transform: rotate(-90deg);
+      transform-origin: center center;
+      will-change: transform;
+      overflow: visible
+    }
+
+    .prgc.prg-inf {
+      animation: an-prgc 2000ms linear infinite both
+    }
+
+    .prgc circle {
+      stroke-dashoffset: calc(calc(100 + calc(var(--prg-p) * calc(var(--is-rtl) * 2 - 1))) * 114px / 100);
+      stroke-dasharray: 114;
+      stroke-width: 3px;
+      fill: none;
+      stroke: #4caf50;
+      stroke: var(--clr-s, #4caf50);
+      will-change: stroke-dashoffset, transform;
+      transition-property: stroke-dashoffset;
+      transition-duration: 300ms;
+      transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+      transform-origin: center center
+    }
+
+    .prgc.prg-inf {
+      animation: an-prgc 2000ms linear infinite both
+    }
+
+    .prgc.prg-inf circle {
+      animation: an-prg-crcl-rtl 1200ms infinite both
+    }
+
+    @keyframes an-prgc {
+      0% {
+        transform: rotate(0deg)
+      }
+
+      to {
+        transform: rotate(calc(-360deg * calc(2 - 1)))
+      }
+    }
+
+    @keyframes an-prg-crcl-rtl {
+      0% {
+        stroke-dashoffset: -20;
+        transform: rotate(-30deg)
+      }
+
+      50% {
+        stroke-dashoffset: -110;
+        transform: rotate(-360deg)
+      }
+
+      to {
+        stroke-dashoffset: -20;
+        transform: rotate(-390deg)
+      }
+    }
+
+    @keyframes an-prg-inf-a-rtl {
+      0% {
+        left: 100%;
+        right: -25%
+      }
+
+      25% {
+        left: 0%;
+        right: 25%
+      }
+
+      75% {
+        left: 0%;
+        right: 150%
+      }
+
+      to {
+        left: 0%;
+        right: 150%
+      }
+    }
+
+    @keyframes an-prg-inf-b-rtl {
+      0% {
+        left: 100%;
+        right: -50%
+      }
+
+      40% {
+        animation-timing-function: cubic-bezier(0.4, 0.6, 0.6, 0.9);
+        left: 100%;
+        right: -100%
+      }
+
+      75% {
+        left: -10%;
+        right: 100%
+      }
+
+      to {
+        left: -50%;
+        right: 125%
+      }
+    }
+
+    .loading {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      top: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
 </head>
-<body>
+
+<body id="feeef-3"
+  style="position: fixed; inset: 0px; overflow: hidden; padding: 0px; margin: 0px; user-select: none; touch-action: none;">
+  <div id="loading" class="loading" style="background: black;">
+    <div style="text-align: center;">
+      <img alt="DASH" src="/icons/Icon-192.png" style="max-width: 100px;">
+      <div style="height: 12px;"></div>
+      <svg class="prgc prg-inf" viewBox="0 0 38 38">
+        <circle cy="50%" cx="50%" r="18" style="stroke-width: 3px;"></circle>
+      </svg>
+    </div>
+  </div>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+        // Service workers are supported. Use them.
+        window.addEventListener('load', function () {
+          // Register Firebase Messaging service worker.
+          navigator.serviceWorker.register('firebase-messaging-sw.js', {
+            scope: '/firebase-cloud-messaging-push-scope',
+          });
+        });
+      }
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
+
 </html>
