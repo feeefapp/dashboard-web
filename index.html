@@ -15,6 +15,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
+  <!-- <base href="/"> -->
   <base href="">
 
   <meta charset="UTF-8">
@@ -178,14 +179,17 @@
     </div>
   </div>
 
-  <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", function () {
-        navigator.serviceWorker.register("/firebase-messaging-sw.js");
-      });
-    }
+  <script src="flutter_bootstrap.js" async>
+    if ('serviceWorker' in navigator) {
+        // Service workers are supported. Use them.
+        window.addEventListener('load', function () {
+          // Register Firebase Messaging service worker.
+          navigator.serviceWorker.register('firebase-messaging-sw.js', {
+            scope: '/firebase-cloud-messaging-push-scope',
+          });
+        });
+      }
   </script>
-  <script src="flutter_bootstrap.js" async></script>
 </body>
 
 </html>
