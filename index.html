@@ -15,8 +15,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <!-- <base href="/"> -->
-  <base href="">
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -69,17 +68,17 @@
       stroke: var(--clr-s, #4caf50);
       will-change: stroke-dashoffset, transform;
       transition-property: stroke-dashoffset;
-      transition-duration: 300ms;
+      transition-duration: 500ms;
       transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
       transform-origin: center center
     }
 
     .prgc.prg-inf {
-      animation: an-prgc 2000ms linear infinite both
+      animation: an-prgc 3000ms linear infinite both
     }
 
     .prgc.prg-inf circle {
-      animation: an-prg-crcl-rtl 1200ms infinite both
+      animation: an-prg-crcl-rtl 2000ms infinite both
     }
 
     @keyframes an-prgc {
@@ -169,14 +168,14 @@
 
 <body id="feeef-3"
   style="position: fixed; inset: 0px; overflow: hidden; padding: 0px; margin: 0px; user-select: none; touch-action: none;">
-  <div id="loading" class="loading" style="background: black;">
+  <div id="loading" class="loading" style="background: whitesmoke;position: relative;height: 100%;">
     <div style="text-align: center;">
       <img alt="DASH" src="/icons/Icon-192.png" style="max-width: 100px;">
       <div style="height: 12px;"></div>
       <svg class="prgc prg-inf" viewBox="0 0 38 38">
-        <circle cy="50%" cx="50%" r="18" style="stroke-width: 3px;"></circle>
+        <circle cy="50%" cx="50%" r="18" style="stroke-linecap: round;stroke-width: 6;stroke: #60ea60;"></circle>
       </svg>
-    </div>
+    <h1 style="font-size: 14px;font-weight: lighter;font-family: 'Gill Sans', sans-serif;position: absolute;bottom: 100px;right: 0;left: 0;">feeet softwere | marchant App</h1></div>
   </div>
 
   <script>
