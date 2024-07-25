@@ -1,11 +1,11 @@
 {
-    "name": "fash",
-    "short_name": "fash",
+    "name": "feeef marchant",
+    "short_name": "feeef",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#60EA60",
-    "description": "feeef project.",
+    "description": "feeef marchant app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
