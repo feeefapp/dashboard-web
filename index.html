@@ -173,10 +173,30 @@
       <svg class="prgc prg-inf" viewBox="0 0 38 38">
         <circle cy="50%" cx="50%" r="18" style="stroke-linecap: round;stroke-width: 6;stroke: #60ea60;"></circle>
       </svg>
-    <h1 style="font-size: 14px;font-weight: lighter;font-family: 'Gill Sans', sans-serif;position: absolute;bottom: 100px;right: 0;left: 0;">feeet softwere | marchant App</h1></div>
+      <!-- loading bar h 3px -->
+      <div style="height: 5px;margin-top: 2rem;width: 149px;display: flex;border-radius: 100px;overflow: hidden;background: white;">
+        <div style="transition: all 1s;width: calc(var(--loading-bar-width) * 250px);background-color: #60ea60;display: inline-block;border-radius: 10px;"></div>
+      </div>
+
+      <h1 style="font-size: 14px;font-weight: lighter;font-family: 'Gill Sans', sans-serif;position: absolute;bottom: 100px;right: 0;left: 0;">feeet softwere | marchant App</h1>
+    </div>
   </div>
 
   <script>
+
+const loadingBar = document.body;
+    let width = 0;
+    const increaseWidth = () => {
+        if (width < 100) {
+            const increment = Math.random() * 5; // Random increment between 0 and 10
+            width = Math.min(width + increment, 100);
+            document.documentElement.style.setProperty('--loading-bar-width', `${width/100}`);
+            setTimeout(increaseWidth, Math.random() * 2000); // Random delay between increments
+        }
+    };
+    increaseWidth();
+
+
     if ('serviceWorker' in navigator) {
         // Service workers are supported. Use them.
         window.addEventListener('load', function () {
