@@ -9,8 +9,15 @@ if (!window._flutter) {
 _flutter.buildConfig = {"engineRevision":"b8800d88be4866db1b15f8b954ab2573bba9960f","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"}]};
 
 
+const searchParams = new URLSearchParams(window.location.search);
+const renderer = searchParams.get('renderer');
+const userConfig = renderer ? {'renderer': renderer} : {};
 _flutter.loader.load({
+  config: {
+    ...userConfig,
+    mainJsPath: "main.dart.js?v=" + "3837329646",
+  },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "3200985189"
-  }
+    serviceWorkerVersion: "3837329646",
+  },
 });
