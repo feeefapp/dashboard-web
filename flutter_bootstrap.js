@@ -12,12 +12,18 @@ _flutter.buildConfig = {"engineRevision":"b8800d88be4866db1b15f8b954ab2573bba996
 const searchParams = new URLSearchParams(window.location.search);
 const renderer = searchParams.get('renderer');
 const userConfig = renderer ? {'renderer': renderer} : {};
+
+// addversion to mainJsPath
+_flutter.buildConfig.builds.forEach(build => {
+    build.mainJsPath += "?v="+"3710227593".replaceAll("\"", '');
+});
+    
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "3837329646",
+    mainJsPath: "main.dart.js?v=" + "3710227593",
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "3837329646",
+    serviceWorkerVersion: "3710227593",
   },
 });
