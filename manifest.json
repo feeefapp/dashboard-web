@@ -1,11 +1,11 @@
 {
-    "name": "feeef marchant",
-    "short_name": "feeef",
+    "name": "feeef web",
+    "short_name": "feeef web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#60EA60",
-    "description": "feeef marchant app",
+    "description": "feeef marchant web-app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
