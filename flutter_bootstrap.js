@@ -15,15 +15,23 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"4110663332";
+    build.mainJsPath += "?v="+"4151044309";
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "4110663332",
+    mainJsPath: "main.dart.js?v=" + "4151044309",
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "4110663332",
+    serviceWorkerVersion: "4151044309",
+  },
+  onEntrypointLoaded: function (engineInitializer) {
+    engineInitializer.initializeEngine({
+      useColorEmoji: true, // add this parameter
+      renderer: 'canvaskit'
+    }).then(function (appRunner) {
+      appRunner.runApp();
+    });
   },
 });
