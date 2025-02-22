@@ -15,16 +15,16 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"1370451340";
+    build.mainJsPath += "?v="+"3946289989";
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "1370451340",
+    mainJsPath: "main.dart.js?v=" + "3946289989",
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "1370451340",
+    serviceWorkerVersion: "3946289989",
   },
   onEntrypointLoaded: function (engineInitializer) {
     engineInitializer.initializeEngine({
