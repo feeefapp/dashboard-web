@@ -6,7 +6,7 @@ Read more: https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"871f65ac1bf129edb222c3293a636ff4b67534a6","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"}]};
+_flutter.buildConfig = {"engineRevision":"871f65ac1bf129edb222c3293a636ff4b67534a6","builds":[{"compileTarget":"dart2wasm","renderer":"skwasm","mainWasmPath":"main.dart.wasm","jsSupportRuntimePath":"main.dart.mjs"},{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"}]};
 
 
 const searchParams = new URLSearchParams(window.location.search);
@@ -15,16 +15,16 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"1617149547";
+    build.mainJsPath += "?v="+"3136517182";
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "1617149547",
+    mainJsPath: "main.dart.js?v=" + "3136517182",
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "1617149547",
+    serviceWorkerVersion: "3136517182",
   },
   onEntrypointLoaded: function (engineInitializer) {
     engineInitializer.initializeEngine({
