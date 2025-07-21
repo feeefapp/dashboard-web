@@ -34,7 +34,7 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"63f471185f71707d2e2c3c5eaf84280a8d87dd7e","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"a5c93c90a1b1fcb6a2d4223a706de2ef4de5ca6c","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
 
 const searchParams = new URLSearchParams(window.location.search);
@@ -43,16 +43,16 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"4251733974";
+    build.mainJsPath += "?v="+"1324285666";
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "4251733974",
+    mainJsPath: "main.dart.js?v=" + "1324285666",
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "4251733974",
+    serviceWorkerVersion: "1324285666",
   },
   onEntrypointLoaded: function (engineInitializer) {
     engineInitializer.initializeEngine({
