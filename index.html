@@ -19,14 +19,14 @@
   <meta property="og:title" content="feeef | E-Commerce Platform" />
   <meta property="og:description"
     content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
-  <meta property="og:image" content="https://web.feeef.app/icons/Icon-192.png" />
-  <meta property="og:url" content="https://web.feeef.app" />
+  <meta property="og:image" content="https://web.feeef.org/icons/Icon-192.png" />
+  <meta property="og:url" content="https://web.feeef.org" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="feeef" />
   <meta name="twitter:title" content="feeef | E-Commerce Platform" />
   <meta name="twitter:description"
     content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
-  <meta name="twitter:image" content="https://web.feeef.app/icons/Icon-192.png" />
+  <meta name="twitter:image" content="https://web.feeef.org/icons/Icon-192.png" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <!-- iOS meta tags & icons -->
@@ -1127,34 +1127,38 @@
         <div style="position: absolute; inset: 13px"></div>
       </div>
     </div> -->
-  <div id="loading" class="loading" style="         position: relative;         background-repeat: no-repeat;         background-size: cover;         height: 100vh;         width: 100vw;       
-      ">
+  <div id="loading" class="loading" 
+  style="background: white; xconic-gradient(from -45deg,#00ffdb,#00800000);text-align: center;position: relative;background-repeat: no-repeat;background-size: cover;height: 100vh;width: 100vw;">
     <div style="
           text-align: center;
-          color: #fff;
+          /* color: #fff; */
           padding: 5rem;
-          background-image: radial-gradient( circle at 50%, #1c1244 10%, transparent 50% );
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
         ">
       <div style="height: 30px"></div>
-      <img alt="DASH" src="/icons/Icon-192.png" style="max-width: 100px">
+      <!-- <img alt="intro" src="ultra_fast_animated.gif" style="max-width: 300px;mix-blend-mode: difference;"> -->
+      <img alt="DASH" src="icons/black.png" style="max-width: 100px;margin-bottom: 4rem;border-radius: 100%;">
       <div style="height: 12px"></div>
       <svg class="prgc prg-inf" viewBox="0 0 38 38">
-        <circle cy="50%" cx="50%" r="18" style="stroke-linecap: round; stroke-width: 6; stroke: #fff;"></circle>
+        <circle cy="50%" cx="50%" r="18" style="stroke-linecap: round; stroke-width: 6; stroke: black;"></circle>
       </svg>
       <!-- loading bar h 3px -->
       <div style="
-            height: 5px;
+            height: 5.5px;
             margin-top: 2rem;
             width: 150px;
             display: flex;
             border-radius: 100px;
             overflow: hidden;
-            background: #ffffff38;
+            background: rgba(0, 0, 0, 0.255);
           ">
         <div style="
               transition: all 1s;
               width: calc(var(--loading-bar-width) * 250px);
-              background-color: #fff;
+              background-color: black;
               display: inline-block;
               border-radius: 10px;
             "></div>
@@ -1218,7 +1222,7 @@
       });
     }
   </script>
-  <script src='flutter_bootstrap.js?v="394579279"' async></script>
+  <script src='flutter_bootstrap.js?v="3195601323"' async></script>
 </body>
 
 </html>
