@@ -1,0 +1,21 @@
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
+bkg(d){return A.m8($.egb(),new B.dAk(d))},
+dM9:function dM9(){},
+dAk:function dAk(d){this.a=d}}
+J=c[1]
+A=c[0]
+C=c[2]
+B=a.updateHolder(c[4],B)
+var z=a.updateTypes([])
+B.dM9.prototype={
+$1(d){var y=J.ab(d),x=A.bp(y.h(d,"id")),w=A.aa(y.h(d,"name")),v=A.bp(y.h(d,"zone"))
+return new A.bay([x,A.bp(y.h(d,"is_deliverable")),w,v])},
+$S:2123}
+B.dAk.prototype={
+$1(d){return d.a[0]===this.a},
+$S:2124};(function inheritance(){var y=a.inheritMany
+y(A.DI,[B.dM9,B.dAk])})();(function lazyInitializers(){var y=a.lazyFinal
+y($,"eXH","egb",()=>{var x=A.al("j"),w=A.al("X")
+return C.f.hp(A.c([A.G(["id",1,"name","Adrar","zone",4,"is_deliverable",1],x,w),A.G(["id",2,"name","Chlef","zone",2,"is_deliverable",1],x,w),A.G(["id",3,"name","Laghouat","zone",3,"is_deliverable",1],x,w),A.G(["id",4,"name","Oum El Bouaghi","zone",2,"is_deliverable",1],x,w),A.G(["id",5,"name","Batna","zone",2,"is_deliverable",1],x,w),A.G(["id",6,"name","B\xe9ja\xefa","zone",2,"is_deliverable",1],x,w),A.G(["id",7,"name","Biskra","zone",3,"is_deliverable",1],x,w),A.G(["id",8,"name","B\xe9char","zone",4,"is_deliverable",1],x,w),A.G(["id",9,"name","Blida","zone",1,"is_deliverable",1],x,w),A.G(["id",10,"name","Bouira","zone",2,"is_deliverable",1],x,w),A.G(["id",11,"name","Tamanrasset","zone",4,"is_deliverable",1],x,w),A.G(["id",12,"name","T\xe9bessa","zone",3,"is_deliverable",1],x,w),A.G(["id",13,"name","Tlemcen","zone",2,"is_deliverable",1],x,w),A.G(["id",14,"name","Tiaret","zone",2,"is_deliverable",1],x,w),A.G(["id",15,"name","Tizi Ouzou","zone",2,"is_deliverable",1],x,w),A.G(["id",16,"name","Alger","zone",1,"is_deliverable",1],x,w),A.G(["id",17,"name","Djelfa","zone",3,"is_deliverable",1],x,w),A.G(["id",18,"name","Jijel","zone",2,"is_deliverable",1],x,w),A.G(["id",19,"name","S\xe9tif","zone",2,"is_deliverable",1],x,w),A.G(["id",20,"name","Sa\xefda","zone",2,"is_deliverable",1],x,w),A.G(["id",21,"name","Skikda","zone",2,"is_deliverable",1],x,w),A.G(["id",22,"name","Sidi Bel Abb\xe8s","zone",2,"is_deliverable",1],x,w),A.G(["id",23,"name","Annaba","zone",2,"is_deliverable",1],x,w),A.G(["id",24,"name","Guelma","zone",2,"is_deliverable",1],x,w),A.G(["id",25,"name","Constantine","zone",2,"is_deliverable",1],x,w),A.G(["id",26,"name","M\xe9d\xe9a","zone",2,"is_deliverable",1],x,w),A.G(["id",27,"name","Mostaganem","zone",2,"is_deliverable",1],x,w),A.G(["id",28,"name","M'Sila","zone",2,"is_deliverable",1],x,w),A.G(["id",29,"name","Mascara","zone",2,"is_deliverable",1],x,w),A.G(["id",30,"name","Ouargla","zone",3,"is_deliverable",1],x,w),A.G(["id",31,"name","Oran","zone",2,"is_deliverable",1],x,w),A.G(["id",32,"name","El Bayadh","zone",4,"is_deliverable",1],x,w),A.G(["id",33,"name","Illizi","zone",4,"is_deliverable",1],x,w),A.G(["id",34,"name","Bordj Bou Arreridj","zone",2,"is_deliverable",1],x,w),A.G(["id",35,"name","Boumerd\xe8s","zone",1,"is_deliverable",1],x,w),A.G(["id",36,"name","El Tarf","zone",2,"is_deliverable",1],x,w),A.G(["id",37,"name","Tindouf","zone",4,"is_deliverable",1],x,w),A.G(["id",38,"name","Tissemsilt","zone",2,"is_deliverable",1],x,w),A.G(["id",39,"name","El Oued","zone",3,"is_deliverable",1],x,w),A.G(["id",40,"name","Khenchela","zone",2,"is_deliverable",1],x,w),A.G(["id",41,"name","Souk Ahras","zone",2,"is_deliverable",1],x,w),A.G(["id",42,"name","Tipaza","zone",2,"is_deliverable",1],x,w),A.G(["id",43,"name","Mila","zone",2,"is_deliverable",1],x,w),A.G(["id",44,"name","A\xefn Defla","zone",2,"is_deliverable",1],x,w),A.G(["id",45,"name","Na\xe2ma","zone",4,"is_deliverable",1],x,w),A.G(["id",46,"name","A\xefn T\xe9mouchent","zone",2,"is_deliverable",1],x,w),A.G(["id",47,"name","Gharda\xefa","zone",3,"is_deliverable",1],x,w),A.G(["id",48,"name","Relizane","zone",2,"is_deliverable",1],x,w)],A.al("M<D<j,X>>")),new B.dM9(),A.al("+id,isDeliverable,name,zone(l,l,j,l)")).hd(0)})})()};
+(a=>{a["obXDLs0Bs03mboyOCB8nxOqHr1I="]=a.current})($__dart_deferred_initializers__);
