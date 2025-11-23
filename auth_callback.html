@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authentication Callback</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+        }
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="spinner"></div>
+        <p>جاري إتمام عملية تسجيل الدخول...</p>
+        <p style="font-size: 0.9rem; opacity: 0.8;">يمكنك إغلاق هذه النافذة</p>
+    </div>
+    <script>
+        // Extract code, error, provider, and action from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const code = urlParams.get('code');
+        const error = urlParams.get('error');
+        const errorDescription = urlParams.get('error_description');
+        const action = urlParams.get('action') || 'login'; // 'login' or 'link'
+        
+        // Detect provider from URL path or query parameter
+        // URL format: /auth_callback.html?code=...&provider=google&action=link
+        // Or: /auth_callback.html?code=... (default to google for backward compatibility)
+        let provider = urlParams.get('provider');
+        if (!provider) {
+            // Try to detect from URL path
+            const path = window.location.pathname;
+            if (path.includes('google')) provider = 'google';
+            else if (path.includes('github')) provider = 'github';
+            else if (path.includes('apple')) provider = 'apple';
+            else provider = 'google'; // Default fallback
+        }
+
+        console.log('🔐 OAuth callback page loaded', { 
+            provider: provider,
+            action: action,
+            code: code ? code.substring(0, 20) + '...' : null, 
+            error, 
+            errorDescription, 
+            hasOpener: !!window.opener,
+            openerClosed: window.opener ? window.opener.closed : 'no-opener'
+        });
+
+        // Send message to opener window (Flutter app) using postMessage
+        // Use JSON.stringify to ensure proper serialization for Dart
+        function sendMessageAndClose() {
+            if (!window.opener || window.opener.closed) {
+                console.error('❌ No window.opener or opener is closed');
+                // Show error message to user
+                document.querySelector('.container p').textContent = 'خطأ: لا يمكن الاتصال بالنافذة الرئيسية. يرجى إغلاق هذه النافذة والمحاولة مرة أخرى.';
+                return;
+            }
+
+            try {
+                let message;
+                    if (code) {
+                        message = {
+                            type: 'oauth_success',
+                            provider: provider,
+                            code: code,
+                            action: action // Include action (login or link)
+                        };
+                    } else if (error) {
+                        message = {
+                            type: 'oauth_error',
+                            provider: provider,
+                            error: error,
+                            errorDescription: errorDescription || 'Unknown error',
+                            action: action
+                        };
+                    } else {
+                        message = {
+                            type: 'oauth_error',
+                            provider: provider,
+                            error: 'no_code',
+                            errorDescription: 'No authorization code received',
+                            action: action
+                        };
+                    }
+                
+                const targetOrigin = window.location.origin;
+                console.log(`📤 Sending postMessage to opener (provider: ${provider}):`, message);
+                
+                // Send as JSON string to ensure proper parsing in Dart
+                window.opener.postMessage(JSON.stringify(message), targetOrigin);
+                console.log('✅ postMessage sent successfully');
+                
+                // Close window after a short delay to ensure message is sent
+                setTimeout(() => {
+                    try {
+                        window.close();
+                        console.log('✅ Window closed');
+                    } catch (e) {
+                        console.log('⚠️ Could not close window automatically:', e.message);
+                        document.querySelector('.container p:last-child').textContent = 
+                            'تم إتمام تسجيل الدخول بنجاح! يمكنك إغلاق هذه النافذة الآن.';
+                        document.querySelector('.container p:last-child').style.color = '#4ade80';
+                    }
+                }, 300);
+            } catch (e) {
+                console.error('❌ Error sending postMessage:', e);
+                document.querySelector('.container p').textContent = 
+                    'خطأ في إرسال البيانات. يرجى إغلاق هذه النافذة والمحاولة مرة أخرى.';
+            }
+        }
+
+        // Execute immediately when page loads
+        sendMessageAndClose();
+    </script>
+</body>
+</html>
+

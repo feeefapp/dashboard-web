@@ -13,6 +13,7 @@
   <meta name="keywords" content="feeef, e-commerce, shop, shopfy" />
   <meta name="author" content="feeef net" />
   <meta name="robots" content="index, follow" />
+  <meta name="google-signin-client_id" content="24740023407-bmcb0stao9lbjdqbjsbebm7aju2rtcac.apps.googleusercontent.com">
   <meta name="googlebot" content="index, follow" />
   <meta name="description"
     content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
@@ -40,7 +41,10 @@
 
   <title>feeef web</title>
   <link rel="manifest" href="manifest.json" />
-
+  <script
+  src="https://github.com/corbado/flutter-passkeys/releases/download/2.4.0/bundle.js"
+  type="application/javascript"
+></script>
   <!-- // loading Style -->
   <style>
     /* html {
@@ -1196,6 +1200,9 @@
       </div>
     </div>
   </div>
+  <!-- Google Sign-In API -->
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  
   <script>
     const loadingBar = document.body;
     let width = 0;
@@ -1222,7 +1229,7 @@
       });
     }
   </script>
-  <script src='flutter_bootstrap.js?v="334715537" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */' async></script>
+  <script src='flutter_bootstrap.js?v="3085624494" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */' async></script>
 </body>
 
 </html>
