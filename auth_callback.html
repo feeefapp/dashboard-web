@@ -47,6 +47,7 @@
         const error = urlParams.get('error');
         const errorDescription = urlParams.get('error_description');
         const action = urlParams.get('action') || 'login'; // 'login' or 'link'
+        const sessionKey = urlParams.get('sessionKey'); // For Passkey auth
         
         // Detect provider from URL path or query parameter
         // URL format: /auth_callback.html?code=...&provider=google&action=link
@@ -58,6 +59,7 @@
             if (path.includes('google')) provider = 'google';
             else if (path.includes('github')) provider = 'github';
             else if (path.includes('apple')) provider = 'apple';
+            else if (path.includes('passkey')) provider = 'passkey';
             else provider = 'google'; // Default fallback
         }
 
@@ -65,6 +67,7 @@
             provider: provider,
             action: action,
             code: code ? code.substring(0, 20) + '...' : null, 
+            sessionKey: sessionKey ? sessionKey.substring(0, 20) + '...' : null,
             error, 
             errorDescription, 
             hasOpener: !!window.opener,
@@ -73,7 +76,7 @@
 
         // Send message to opener window (Flutter app) using postMessage
         // Use JSON.stringify to ensure proper serialization for Dart
-        function sendMessageAndClose() {
+        async function sendMessageAndClose() {
             if (!window.opener || window.opener.closed) {
                 console.error('❌ No window.opener or opener is closed');
                 // Show error message to user
@@ -83,6 +86,60 @@
 
             try {
                 let message;
+                
+                // Handle Passkey provider (uses session instead of code)
+                if (provider === 'passkey') {
+                    if (sessionKey) {
+                        // Fetch auth data from backend
+                        try {
+                            const apiUrl = window.location.origin.includes('localhost') 
+                                ? 'http://localhost:3333' 
+                                : 'https://api.feeef.org';
+                            const response = await fetch(`${apiUrl}/api/v1/passkeys/auth-callback?sessionKey=${encodeURIComponent(sessionKey)}`);
+                            
+                            if (!response.ok) {
+                                throw new Error(`Failed to fetch auth data: ${response.statusText}`);
+                            }
+                            
+                            const authData = await response.json();
+                            message = {
+                                type: 'passkey_success',
+                                provider: 'passkey',
+                                success: authData.success,
+                                user: authData.user,
+                                token: authData.token,
+                                isNewUser: authData.isNewUser || false,
+                                action: action
+                            };
+                        } catch (fetchError) {
+                            console.error('❌ Error fetching passkey auth data:', fetchError);
+                            message = {
+                                type: 'passkey_error',
+                                provider: 'passkey',
+                                error: 'fetch_failed',
+                                errorDescription: fetchError.message || 'Failed to fetch authentication data',
+                                action: action
+                            };
+                        }
+                    } else if (error) {
+                        message = {
+                            type: 'passkey_error',
+                            provider: 'passkey',
+                            error: error,
+                            errorDescription: errorDescription || 'Unknown error',
+                            action: action
+                        };
+                    } else {
+                        message = {
+                            type: 'passkey_error',
+                            provider: 'passkey',
+                            error: 'no_session',
+                            errorDescription: 'No session key received',
+                            action: action
+                        };
+                    }
+                } else {
+                    // Handle OAuth providers (Google, GitHub, Apple)
                     if (code) {
                         message = {
                             type: 'oauth_success',
@@ -107,6 +164,7 @@
                             action: action
                         };
                     }
+                }
                 
                 const targetOrigin = window.location.origin;
                 console.log(`📤 Sending postMessage to opener (provider: ${provider}):`, message);
