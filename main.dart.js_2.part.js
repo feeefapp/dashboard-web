@@ -1,4250 +1,4304 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-eCa(d,e,f){var w=new B.E1(C.T7,x.c),v=new A.b_1(w)
-w.r=A.f8F(v)
+eEY(d,e,f){var w=new B.E3(C.Tm,x.c),v=new A.b_m(w)
+w.r=A.fbs(v)
 return v},
-f8B(z7,z8){var w,v=null,u="Charger plus",t="Bient\xf4t disponible",s="Image",r="Aujourd'hui",q="Cette semaine",p="Ce mois-ci",o="Retour",n="R\xe9essayer",m="R\xe9initialiser",l="Annuler",k="D\xe9sactiv\xe9",j="Entrer l'ID",i="Fermer",h="Importer des produits",g="Lien du produit",f="Exporter",e="Enregistrer",d="Aper\xe7u",a0="Mettre \xe0 jour",a1="Supprimer",a2="Rafra\xeechir",a3="DZD",a4="Confirmer",a5="Vues",a6="Exp\xe9dition",a7="Total",a8="S\xe9curit\xe9 et donn\xe9es",a9="Se d\xe9connecter",b0="Changer le mot de passe",b1="Produits",b2="Nom",b3="Entrer le nom du produit",b4="Titre du produit",b5="Prix",b6="Quantit\xe9",b7="Ventes",b8="Entrer le nombre de vues",b9="Images",c0="Statut",c1="Description",c2="Entrer une description",c3="Entrer le slug",c4="Entrer le nom",c5="Mot de passe",c6="Entrer le mot de passe",c7="T\xe9l\xe9phone",c8="Livraison",c9="Statut de livraison",d0="Nom du client",d1="T\xe9l\xe9phone client",d2="T\xe9l\xe9phone suppl\xe9mentaire",d3="Adresse client",d4="R\xe9gion",d5="Ville",d6="S\xe9lectionner une ville",d7="Notes",d8="Poids (kg)",d9="Montant total",e0="Peut ouvrir le colis ?",e1="Indiquez si le colis peut \xeatre ouvert",e2="Indiquez si le colis est fragile",e3="Retrait en agence",e4=y.R,e5="Erreur inconnue",e6="Commande envoy\xe9e \xe0 Noest avec succ\xe8s",e7="Imprimer",e8="S\xe9lectionn\xe9",e9="Changer le statut",f0="Supprimer la s\xe9lection",f1="Brouillon",f2="En r\xe9vision",f3="En livraison",f4="\xc9chou\xe9",f5="Non pay\xe9",f6="En attente",f7="Livr\xe9",f8="Retourn\xe9",f9="Commandes",g0="Articles",g1="Adresse email invalide",g2="Note",g3="Adresse de livraison",g4="Entrer ID m\xe9thode",g5="Type de livraison",g6="S\xe9lectionner le statut",g7="Entrer la date",g8="Derni\xe8re mise \xe0 jour",g9="Entrer le total",h0="Payer le montant d\xfb",h1="Payer",h2="Contacter via WhatsApp",h3="WhatsApp",h4="points",h5="Veuillez saisir le montant",h6="Abonnement",h7="Limite de points d\xe9pass\xe9e",h8="Magasins",h9="Cr\xe9er un magasin",i0="Titre",i1="Actif",i2="Recevoir",i3="Envoyer",i4="Programme Partenaire",i5="Statistiques",i6="Ajouter un produit",i7="Param\xe8tres de la boutique",i8="Voir tout",i9="En traitement",j0="Ajouter une commande",j1="D\xe9posez le composant ici",j2="Cliquez sur le bouton d'ajout pour ins\xe9rer des composants",j3="Personnaliser",j4="Modifications non enregistr\xe9es",j5="Mise en page",j6="Au bureau",j7="\xc0 domicile",j8="Int\xe9grations",j9="Param\xe8tres",k0="Mettre \xe0 jour les images",k1="Changer les images",k2="Activer",k3="Sous-domaine",k4="Couleur principale",k5="Couleur secondaire",k6="Adresses et succursales",k7="Ajouter une succursale",k8="Supprimer la succursale",k9="Voulez-vous supprimer cette succursale ?",l0="Modifier la succursale",l1="Ajouter un contact",l2="Modifier le contact",l3="Supprimer le contact",l4="Voulez-vous supprimer ce contact ?",l5="Statuts de commande personnalis\xe9s",l6="Importer un mod\xe8le",l7="Cat\xe9gories",l8="Ajouter une cat\xe9gorie",l9="Cat\xe9gorie de la boutique",m0="Modifier la cat\xe9gorie",m1="Supprimer la cat\xe9gorie",m2="Voulez-vous supprimer cette cat\xe9gorie ?",m3="Exp\xe9dition et livraison",m4="Membres et r\xf4les",m5="Code copi\xe9 avec succ\xe8s",m6="Ajouter un statut personnalis\xe9",m7="Modifier le statut personnalis\xe9",m8="Supprimer le statut personnalis\xe9",m9="Encaissement rapide",n0="Traitement...",n1="Vider le panier",n2="Ajouter au panier",n3="Int\xe9gration de s\xe9curit\xe9",n4="Activer la s\xe9curit\xe9",n5="D\xe9connecter",n6="D\xe9sactiver",n7="S\xe9curit\xe9 activ\xe9e avec succ\xe8s",n8="S\xe9curit\xe9 d\xe9sactiv\xe9e avec succ\xe8s",n9="Copier les tarifs",o0=y.k,o1="Tarifs copi\xe9s avec succ\xe8s",o2="Connecter ma boutique",o3="Jeton API",o4="R\xe9sum\xe9 financier",o5="Forcer la livraison gratuite",o6=y.nU,o7=y.ck,o8="Cl\xe9 API",o9="Ajouter un Pixel",p0="ID Pixel",p1=y.r,p2="ex. : Pixel principal du site",p3=y.i,p4="Modifier le Pixel",p5="S\xe9lectionner un Pixel",p6="Tester CAPI",p7="Catalogue produits",p8="Envoyer un \xe9v\xe9nement test",p9="Code test",q0="\xc9v\xe9nement test envoy\xe9 avec succ\xe8s",q1="Pixel sans nom",q2="Int\xe9gration IA",q3=y.n_,q4=y.a,q5="Mod\xe8le de texte",q6="Mod\xe8le d'image",q7="Configurer l'int\xe9gration IA",q8="Tester l'int\xe9gration IA",q9="Activer l'int\xe9gration IA",r0="D\xe9sactiver l'int\xe9gration IA",r1=y.m6,r2="Modifier",r3="Chargement...",r4="Par d\xe9faut",r5="Email du client",r6="\xcates-vous s\xfbr ?",r7="S\xe9lectionner Pixel",r8="Envoyer test",r9="\xc9v\xe9nement test envoy\xe9",s0="Choisir type d\u2019\xe9v\xe9nement",s1="Achat",s2="Envoyer un achat",s3="Voir contenu",s4="Envoyer vue contenu",s5="Envoyer ajout panier",s6="D\xe9but commande",s7="Envoyer d\xe9but commande",s8="\xc9v\xe9nement {eventName} envoy\xe9",s9="Erreur : {error}",t0="Recherche",t1="Actualiser",t2="Confirmer la suppression",t3="Compl\xe9ments",t4="Envoyer SMS",t5="Appliquer",t6="Voir le contenu",t7="Initier le paiement",t8="Annuler le lien Ecomanager",t9="Acheter un abonnement",u0="Recharger des points",u1="D\xe9p\xf4t min. 500 DZD",u2="D\xe9p\xf4t max. 100000 DZD",u3="Saisissez vos infos carte ou compte",u4="Finalisez le paiement en s\xe9curit\xe9",u5="Confirmation imm\xe9diate en cas de succ\xe8s",u6="Le montant sera ajout\xe9 \xe0 votre portefeuille",u7="Nom du sous-domaine",u8="Couleurs",u9="Entreprise",v0="S\xe9lectionner",v1="Laghouat",v2="Tamanrasset",v3="Constantine",v4="Mostaganem",v5="Boumerdes",v6="Tissemsilt",v7="Khenchela",v8="Ghardaia",v9="Relizane",w0="Timimoun",w1="Touggourt",w2="El Marsa",w3="Sidi Abderrahmane",w4="Ain Beida",w5="El Hassi",w6="Timezrit",w7="Ain El Hadjar",w8="Ain Turk",w9="Taghzout",x0="Mansourah",x1="Sidi Naamane",x2="Ain Benian",x3="Sidi M'hamed",x4="Emir Abdelkader",x5="El Ouldja",x6="Ain Soltane",x7="Ouled Brahim",x8="Sidi Amar",x9="Ben Badis",y0="Sidi Khaled",y1="Sidi Lakhdar",y2="Ain Fares",y3="Ouled Sidi Brahim",y4="Sidi Ameur",y5="Ain Kerma",y6="Mansoura",y7="Ouled Aissa",y8="Khemisti",y9="E-commerce",z0="Fonctions",z1="Param\xe8tres Webhooks",z2="Activer Webhooks",z3="Ajouter Webhook",z4="Zone sensible",z5="Supprimer tous les webhooks d\xe9finitivement",z6="Tout supprimer"
+fbo(aa2,aa3){var w,v=null,u="Charger plus",t="Bient\xf4t disponible",s="Image",r="Aujourd'hui",q="Cette semaine",p="Ce mois-ci",o="Retour",n="R\xe9essayer",m="Aucun r\xe9sultat trouv\xe9",l="R\xe9initialiser",k="Annuler",j="D\xe9sactiv\xe9",i="Entrer l'ID",h="Fermer",g="Importer des produits",f="Lien du produit",e="Exporter",d="Enregistrer",a0="Aper\xe7u",a1="Mettre \xe0 jour",a2="Supprimer",a3="Rafra\xeechir",a4="DZD",a5="Confirmer",a6="Vues",a7="Exp\xe9dition",a8="Total",a9="S\xe9curit\xe9 et donn\xe9es",b0="Se d\xe9connecter",b1="Changer le mot de passe",b2="Produits",b3="Cr\xe9er un produit",b4="Nom",b5="Entrer le nom du produit",b6="Titre du produit",b7="Prix",b8="Quantit\xe9",b9="Ventes",c0="Entrer le nombre de vues",c1="Images",c2="Statut",c3="Description",c4="Entrer une description",c5="Entrer le slug",c6="Entrer le nom",c7="Mot de passe",c8="Entrer le mot de passe",c9="T\xe9l\xe9phone",d0="Livraison",d1="Statut de livraison",d2="Nom du client",d3="T\xe9l\xe9phone client",d4="T\xe9l\xe9phone suppl\xe9mentaire",d5="Adresse client",d6="R\xe9gion",d7="Ville",d8="S\xe9lectionner une ville",d9="Notes",e0="Poids (kg)",e1="Montant total",e2="Peut ouvrir le colis ?",e3="Indiquez si le colis peut \xeatre ouvert",e4="Indiquez si le colis est fragile",e5="Retrait en agence",e6=y.R,e7="Erreur inconnue",e8="Commande envoy\xe9e \xe0 Noest avec succ\xe8s",e9="Imprimer",f0="S\xe9lectionn\xe9",f1="Changer le statut",f2="Supprimer la s\xe9lection",f3="Brouillon",f4="En r\xe9vision",f5="En livraison",f6="Termin\xe9",f7="\xc9chou\xe9",f8="Non pay\xe9",f9="En attente",g0="Livr\xe9",g1="Retourn\xe9",g2="Commandes",g3="Articles",g4="Adresse email invalide",g5="Note",g6="Adresse de livraison",g7="Entrer ID m\xe9thode",g8="Type de livraison",g9="S\xe9lectionner le statut",h0="Entrer la date",h1="Derni\xe8re mise \xe0 jour",h2="Entrer le total",h3="Payer le montant d\xfb",h4="Payer",h5="Contacter via WhatsApp",h6="WhatsApp",h7="points",h8="Veuillez saisir le montant",h9="Abonnement",i0="Limite de points d\xe9pass\xe9e",i1="Magasins",i2="Cr\xe9er un magasin",i3="Titre",i4="Actif",i5="Recevoir",i6="Envoyer",i7="Programme Partenaire",i8="Statistiques",i9="Ajouter un produit",j0="Param\xe8tres de la boutique",j1="Voir tout",j2="En traitement",j3="Ajouter une commande",j4="D\xe9posez le composant ici",j5="Cliquez sur le bouton d'ajout pour ins\xe9rer des composants",j6="Personnaliser",j7="Modifications non enregistr\xe9es",j8="Mise en page",j9="Au bureau",k0="\xc0 domicile",k1="Int\xe9grations",k2="Param\xe8tres",k3="Mettre \xe0 jour les images",k4="Changer les images",k5="Activer",k6="Sous-domaine",k7="Couleur principale",k8="Couleur secondaire",k9="Adresses et succursales",l0="Ajouter une succursale",l1="Supprimer la succursale",l2="Voulez-vous supprimer cette succursale ?",l3="Modifier la succursale",l4="Ajouter un contact",l5="Modifier le contact",l6="Supprimer le contact",l7="Voulez-vous supprimer ce contact ?",l8="Statuts de commande personnalis\xe9s",l9="Importer un mod\xe8le",m0="Cat\xe9gories",m1="Ajouter une cat\xe9gorie",m2="Cat\xe9gorie de la boutique",m3="Modifier la cat\xe9gorie",m4="Supprimer la cat\xe9gorie",m5="Voulez-vous supprimer cette cat\xe9gorie ?",m6="Exp\xe9dition et livraison",m7="Membres et r\xf4les",m8="Code copi\xe9 avec succ\xe8s",m9="Ajouter un statut personnalis\xe9",n0="Modifier le statut personnalis\xe9",n1="Supprimer le statut personnalis\xe9",n2="Encaissement rapide",n3="Traitement...",n4="Vider le panier",n5="Ajouter au panier",n6="Int\xe9gration de s\xe9curit\xe9",n7="Activer la s\xe9curit\xe9",n8="D\xe9connecter",n9="D\xe9sactiver",o0="S\xe9curit\xe9 activ\xe9e avec succ\xe8s",o1="S\xe9curit\xe9 d\xe9sactiv\xe9e avec succ\xe8s",o2="Copier les tarifs",o3=y.k,o4="Tarifs copi\xe9s avec succ\xe8s",o5="Connecter ma boutique",o6="Jeton API",o7="R\xe9sum\xe9 financier",o8="Forcer la livraison gratuite",o9=y.nU,p0=y.ck,p1="Cl\xe9 API",p2="Ajouter un Pixel",p3="ID Pixel",p4=y.r,p5="ex. : Pixel principal du site",p6=y.i,p7="Modifier le Pixel",p8="S\xe9lectionner un Pixel",p9="Tester CAPI",q0="Catalogue produits",q1="Envoyer un \xe9v\xe9nement test",q2="Code test",q3="\xc9v\xe9nement test envoy\xe9 avec succ\xe8s",q4="Pixel sans nom",q5="Int\xe9gration IA",q6=y.n_,q7=y.a,q8="Mod\xe8le de texte",q9="Mod\xe8le d'image",r0="Configurer l'int\xe9gration IA",r1="Tester l'int\xe9gration IA",r2="Activer l'int\xe9gration IA",r3="D\xe9sactiver l'int\xe9gration IA",r4=y.m6,r5="Modifier",r6="Chargement...",r7="Pays",r8="Veuillez s\xe9lectionner un pays par d\xe9faut",r9="Par d\xe9faut",s0="Email du client",s1="\xcates-vous s\xfbr ?",s2="S\xe9lectionner Pixel",s3="Envoyer test",s4="\xc9v\xe9nement test envoy\xe9",s5="Choisir type d\u2019\xe9v\xe9nement",s6="Achat",s7="Envoyer un achat",s8="Voir contenu",s9="Envoyer vue contenu",t0="Envoyer ajout panier",t1="D\xe9but commande",t2="Envoyer d\xe9but commande",t3="\xc9v\xe9nement {eventName} envoy\xe9",t4="Erreur : {error}",t5="Recherche",t6="Actualiser",t7="Confirmer la suppression",t8="Compl\xe9ments",t9="Envoyer SMS",u0="Appliquer",u1="Voir le contenu",u2="Initier le paiement",u3="Annuler le lien Ecomanager",u4="Acheter un abonnement",u5="Recharger des points",u6="D\xe9p\xf4t min. 500 DZD",u7="D\xe9p\xf4t max. 100000 DZD",u8="Saisissez vos infos carte ou compte",u9="Finalisez le paiement en s\xe9curit\xe9",v0="Confirmation imm\xe9diate en cas de succ\xe8s",v1="Le montant sera ajout\xe9 \xe0 votre portefeuille",v2="Nom du sous-domaine",v3="Couleurs",v4="D\xe9finir par d\xe9faut",v5="Entreprise",v6="S\xe9lectionner",v7="Laghouat",v8="Tamanrasset",v9="Constantine",w0="Mostaganem",w1="Boumerdes",w2="Tissemsilt",w3="Khenchela",w4="Ghardaia",w5="Relizane",w6="Timimoun",w7="Touggourt",w8="El Marsa",w9="Ain Beida",x0="El Hassi",x1="Larbaa",x2="Timezrit",x3="Ain El Hadjar",x4="Ain Turk",x5="Taghzout",x6="Mansourah",x7="Sidi Naamane",x8="Ain Benian",x9="Mohammadia",y0="Emir Abdelkader",y1="El Ouldja",y2="Ain Soltane",y3="Ouled Brahim",y4="Sidi Amar",y5="Ben Badis",y6="Sidi Khaled",y7="Sidi Lakhdar",y8="Ain Fares",y9="Ouled Sidi Brahim",z0="Sidi Ameur",z1="Ain Kerma",z2="Mansoura",z3="Ouled Aissa",z4="Khemisti",z5="Fonctions",z6="Param\xe8tres Webhooks",z7="Activer Webhooks",z8="Ajouter Webhook",z9="Zone sensible",aa0="Supprimer tous les webhooks d\xe9finitivement",aa1="Tout supprimer"
 A:{w="Erreur"
-if("app.appName"===z8){w="feeef marchand"
-break A}if("app.all"===z8){w="Tout"
-break A}if("app.loadMore"===z8){w=u
-break A}if("app.soon"===z8){w=t
-break A}if("app.media.browser.maxSelectedFiles"===z8){w=new A.e_Q()
-break A}if("app.media.browser.listMode"===z8){w="Passer en mode Liste"
-break A}if("app.media.browser.gridMode"===z8){w="Passer en mode Grille"
-break A}if("app.media.browser.objectMode"===z8){w="Passer en mode Objet"
-break A}if("app.media.browser.title"===z8){w="Explorateur de m\xe9dias"
-break A}if("app.media.browser.upload.title"===z8){w="T\xe9l\xe9verser un fichier"
-break A}if("app.media.browser.upload.button"===z8){w="T\xe9l\xe9verser"
-break A}if("app.media.browser.upload.multiple"===z8){w="T\xe9l\xe9verser plusieurs"
-break A}if("app.media.browser.upload.progress"===z8){w="T\xe9l\xe9versement..."
-break A}if("app.media.browser.upload.success"===z8){w="T\xe9l\xe9versement r\xe9ussi"
-break A}if("app.media.browser.upload.error"===z8){w="\xc9chec du t\xe9l\xe9versement"
-break A}if("app.media.browser.noFiles"===z8){w="Aucun fichier trouv\xe9"
-break A}if("app.media.browser.dragAndDrop"===z8){w="Glissez-d\xe9posez les fichiers ici"
-break A}if("app.media.browser.or"===z8){w="ou"
-break A}if("app.media.browser.browse"===z8){w="Parcourir"
-break A}if("app.media.browser.selected"===z8){w=new A.e_R()
-break A}if("app.media.browser.selectedPlural"===z8){w=new A.e_S()
-break A}if("app.media.browser.deleteConfirmation"===z8){w=y.kN
-break A}if("app.media.browser.fileTypes.image"===z8){w=s
-break A}if("app.media.browser.fileTypes.video"===z8){w="Vid\xe9o"
-break A}if("app.media.browser.fileTypes.audio"===z8){w="Audio"
-break A}if("app.media.browser.fileTypes.document"===z8){w="Document"
-break A}if("app.media.browser.fileTypes.other"===z8){w="Autre"
-break A}if("app.dateFilter.today"===z8){w=r
-break A}if("app.dateFilter.yesterday"===z8){w="Hier"
-break A}if("app.dateFilter.thisWeek"===z8){w=q
-break A}if("app.dateFilter.thisMonth"===z8){w=p
-break A}if("app.dateFilter.lastYear"===z8){w="L'ann\xe9e derni\xe8re"
-break A}if("app.dateFilter.custom"===z8){w="Personnalis\xe9"
-break A}if("app.general.copy"===z8){w="copi\xe9"
-break A}if("app.general.later"===z8){w="Plus tard"
-break A}if("app.general.noInfo"===z8){w="Aucune information disponible"
-break A}if("app.general.syncs"===z8){w="Synchronisations"
-break A}if("app.general.saved"===z8){w="Enregistr\xe9 avec succ\xe8s"
-break A}if("app.general.badges.new_"===z8){w="NOUVEAU"
-break A}if("app.general.history"===z8){w="Historique"
-break A}if("app.general.at"===z8){w="\xe0"
-break A}if("app.general.optional"===z8){w="Optionnel"
-break A}if("app.general.expired"===z8){w="Expir\xe9"
-break A}if("app.general.expires"===z8){w="Expire"
-break A}if("app.general.deleting"===z8){w="Suppression..."
-break A}if("app.general.back"===z8){w=o
-break A}if("app.general.retry"===z8){w=n
-break A}if("app.general.reset"===z8){w=m
-break A}if("app.general.discard"===z8){w=l
-break A}if("app.general.continueEditing"===z8){w="Continuer l'\xe9dition"
-break A}if("app.general.enabled"===z8){w="Activ\xe9"
-break A}if("app.general.disabled"===z8){w=k
-break A}if("app.general.deliveryService"===z8){w="Service de livraison"
-break A}if("app.general.fields.id.label"===z8){w="ID"
-break A}if("app.general.fields.id.hint"===z8){w=j
-break A}if("app.general.fields.id.helper"===z8){w="Identifiant de l'\xe9l\xe9ment"
-break A}if("app.general.search"===z8){w="Rechercher"
-break A}if("app.general.close"===z8){w=i
-break A}if("app.general.from"===z8){w="De"
-break A}if("app.general.to"===z8){w="\xc0"
-break A}if("app.general.you"===z8){w="Vous"
-break A}if("app.general.localAuthReason"===z8){w=y.fu
-break A}if("app.general.import.title"===z8){w=h
-break A}if("app.general.import.selectPlatform"===z8){w="Choisir la plateforme d'importation"
-break A}if("app.general.import.selectPlatformDescription"===z8){w=y.s
-break A}if("app.general.import.startImport"===z8){w="D\xe9marrer l'importation"
-break A}if("app.general.import.fromWooCommerce"===z8){w="Importer depuis WooCommerce"
-break A}if("app.general.import.fromFoorweb"===z8){w="Importer depuis Foorweb"
-break A}if("app.general.import.fromStoreino"===z8){w="Importer depuis Storeino"
-break A}if("app.general.import.fromYouCan"===z8){w="Importer depuis YouCan"
-break A}if("app.general.import.fromLightfunnels"===z8){w="Importer depuis Lightfunnels"
-break A}if("app.general.import.wooCommerceDescription"===z8){w=y.q
-break A}if("app.general.import.foorwebDescription"===z8){w=y.lH
-break A}if("app.general.import.storeinoDescription"===z8){w=y.jP
-break A}if("app.general.import.youcanDescription"===z8){w=y.a1
-break A}if("app.general.import.lightfunnelsDescription"===z8){w=y.o
-break A}if("app.general.import.steps.selectStore"===z8){w="S\xe9lectionner une boutique"
-break A}if("app.general.import.steps.selectStoreDescription"===z8){w=y.A
-break A}if("app.general.import.steps.selectProducts"===z8){w="S\xe9lectionner des produits"
-break A}if("app.general.import.steps.selectProductsDescription"===z8){w=y.la
-break A}if("app.general.import.steps.confirmImport"===z8){w="Confirmer l'importation"
-break A}if("app.general.import.steps.confirmImportDescription"===z8){w=y.aI
-break A}if("app.general.import.steps.productLink"===z8){w=g
-break A}if("app.general.import.steps.productLinkDescription"===z8){w="Entrez le lien du produit pour commencer"
-break A}if("app.general.import.navigation.previous"===z8){w="Pr\xe9c\xe9dent"
-break A}if("app.general.import.navigation.next"===z8){w="Suivant"
-break A}if("app.general.import.selectAll"===z8){w="Tout s\xe9lectionner"
-break A}if("app.general.import.deselectAll"===z8){w="Tout d\xe9s\xe9lectionner"
-break A}if("app.general.import.importError"===z8){w=y.lo
-break A}if("app.general.import.checkingStore"===z8){w="V\xe9rification..."
-break A}if("app.general.import.checkStore"===z8){w="V\xe9rifier la boutique"
-break A}if("app.general.import.confirmImportMessage"===z8){w="\xcates-vous s\xfbr de vouloir importer"
-break A}if("app.general.import.productSingular"===z8){w="produit"
-break A}if("app.general.import.productsWillBeAdded"===z8){w=y.cV
-break A}if("app.general.import.importSuccess"===z8){w="Importation r\xe9ussie"
-break A}if("app.general.import.confirmSelection"===z8){w="Confirmer la s\xe9lection"
-break A}if("app.general.import.viewProducts"===z8){w="Voir les produits"
-break A}if("app.general.import.checkProduct"===z8){w="V\xe9rifier le produit"
-break A}if("app.general.import.confirmImportProductMessage"===z8){w=y.b3
-break A}if("app.general.import.productWillBeAdded"===z8){w="Le produit sera ajout\xe9 \xe0 votre boutique"
-break A}if("app.general.import.importProductSuccess"===z8){w="Produit import\xe9 avec succ\xe8s"
-break A}if("app.general.import.importErrorWithMessage"===z8){w=new A.e02()
-break A}if("app.general.import.confirmImportCountMessage"===z8){w=new A.e0d()
-break A}if("app.general.import.importSuccessCount"===z8){w=new A.e0o()
-break A}if("app.general.import.confirmSelectionCount"===z8){w=new A.e0z()
-break A}if("app.general.import.useExactPath"===z8){w="Utiliser le chemin exact"
-break A}if("app.general.import.useExactPathDescription"===z8){w=y.fq
-break A}if("app.general.import.productsFound"===z8){w=new A.e0J()
-break A}if("app.general.import.importingProducts"===z8){w="Importation des produits..."
-break A}if("app.general.import.importProgress"===z8){w=new A.e0K()
-break A}if("app.general.import.importErrorTitle"===z8){w="Erreur d'importation"
-break A}if("app.general.import.importSuccessTitle"===z8){w="Produits import\xe9s avec succ\xe8s"
-break A}if("app.general.import.importedCount"===z8){w=new A.e0L()
-break A}if("app.general.import.selectedCount"===z8){w=new A.e0M()
-break A}if("app.general.import.confirmImportSelected"===z8){w=y.fN
-break A}if("app.general.import.importProducts"===z8){w=h
-break A}if("app.general.import.back"===z8){w=o
-break A}if("app.general.export"===z8){w=f
-break A}if("app.general.save"===z8){w=e
-break A}if("app.general.cancel"===z8){w=l
-break A}if("app.general.edit"===z8){w="\xc9diter"
-break A}if("app.general.preview"===z8){w=d
-break A}if("app.general.update"===z8){w=a0
-break A}if("app.general.delete"===z8){w=a1
-break A}if("app.general.add"===z8){w="Ajouter"
-break A}if("app.general.link"===z8){w="Lien"
-break A}if("app.general.error"===z8)break A
-if("app.general.refresh"===z8){w=a2
-break A}if("app.general.required"===z8){w="Obligatoire"
-break A}if("app.general.selectedCurrency.code"===z8){w=a3
-break A}if("app.general.selectedCurrency.symbol"===z8){w="\u062f\u062c"
-break A}if("app.general.selectedCurrency.name"===z8){w="Dinar alg\xe9rien"
-break A}if("app.general.confirm"===z8){w=a4
-break A}if("app.general.done"===z8){w="Op\xe9ration r\xe9ussie"
-break A}if("app.general.failed"===z8){w="\xc9chec de l'op\xe9ration"
-break A}if("app.general.views"===z8){w=a5
-break A}if("app.general.visits"===z8){w="Visites"
-break A}if("app.general.submit"===z8){w="Soumettre"
-break A}if("app.general.shipping"===z8){w=a6
-break A}if("app.general.total"===z8){w=a7
-break A}if("app.general.control"===z8){w="Contr\xf4le"
-break A}if("app.general.empty"===z8){w="Vide"
-break A}if("app.general.copied"===z8){w="Copi\xe9 avec succ\xe8s"
-break A}if("app.general.more"===z8){w="Plus"
-break A}if("app.general.moreInfo"===z8){w="Plus d'infos"
-break A}if("app.general.undo"===z8){w=l
-break A}if("app.general.markdownInfoTitle"===z8){w="Nous utilisons le format Markdown, nous vous recommandons d'utiliser ChatGPT pour g\xe9n\xe9rer la description, [ChatGPT](https://chatgpt.com/?partner=feeef.net)\n\nEx. : ChatGPT : G\xe9n\xe9rer une description de produit pour mon..."
-break A}if("app.general.all"===z8){w="Tout"
-break A}if("app.auth.user.wallet.label"===z8){w="Portefeuille"
-break A}if("app.auth.user.wallet.balance"===z8){w=new A.e_T()
-break A}if("app.auth.user.signoutSubtitle"===z8){w=y.k3
-break A}if("app.auth.user.profile.label"===z8){w="Mon profil"
-break A}if("app.auth.user.profile.updatePhoto.success"===z8){w="Photo mise \xe0 jour avec succ\xe8s"
-break A}if("app.auth.user.profile.updatePhoto.error"===z8){w=y.ob
-break A}if("app.auth.user.alert.title"===z8){w=a8
-break A}if("app.auth.user.alert.subtitle"===z8){w=y.nu
-break A}if("app.auth.user.personalInfo"===z8){w="Informations personnelles"
-break A}if("app.auth.user.securityAndSignin"===z8){w="S\xe9curit\xe9 et connexion"
-break A}if("app.auth.user.signout"===z8){w=a9
-break A}if("app.auth.user.deleteMyAccount"===z8){w="Supprimer mon compte"
-break A}if("app.auth.user.referralCode"===z8){w="Mon code de parrainage"
-break A}if("app.auth.user.changePassword"===z8){w=b0
-break A}if("app.auth.user.changePasswordSubtitle"===z8){w=y.G
-break A}if("app.auth.user.currentPassword"===z8){w="Mot de passe actuel"
-break A}if("app.auth.user.newPassword"===z8){w="Nouveau mot de passe"
-break A}if("app.auth.user.contactUs"===z8){w="Contactez-nous"
-break A}if("app.auth.user.contactUsSubtitle"===z8){w=y.fY
-break A}if("app.auth.forgotPassword"===z8){w="Mot de passe oubli\xe9"
-break A}if("app.auth.resetPassword"===z8){w="R\xe9initialiser le mot de passe"
-break A}if("app.auth.signin"===z8){w="Se connecter"
-break A}if("app.auth.signup"===z8){w="S'inscrire"
-break A}if("app.auth.signout"===z8){w=a9
-break A}if("app.auth.acceptTerms"===z8){w=y.mH
-break A}if("app.auth.acceptTermsValidation"===z8){w=y.ol
-break A}if("app.auth.dontHaveAnAccount"===z8){w="Vous n\u2019avez pas de compte ?"
-break A}if("app.auth.alreadyHaveAnAccount"===z8){w="Vous avez d\xe9j\xe0 un compte ?"
-break A}if("app.auth.logout.revokingTokens"===z8){w="R\xe9vocation des jetons d\u2019acc\xe8s"
-break A}if("app.auth.logout.clearingCache"===z8){w="Nettoyage du cache de l\u2019application"
-break A}if("app.auth.logout.signingOut"===z8){w="D\xe9connexion de votre compte"
-break A}if("app.auth.logout.logoutComplete"===z8){w="D\xe9connexion termin\xe9e"
-break A}if("app.auth.logout.loggingOut"===z8){w="D\xe9connexion en cours"
-break A}if("app.auth.logout.redirecting"===z8){w="Redirection vers la page d\u2019accueil..."
-break A}if("app.auth.logout.pleaseWait"===z8){w=y.hC
-break A}if("app.products.label"===z8){w=b1
-break A}if("app.products.form.create"===z8){w="Cr\xe9er un produit"
-break A}if("app.products.form.name.label"===z8){w=b2
-break A}if("app.products.form.name.hint"===z8){w=b3
-break A}if("app.products.form.title.label"===z8){w=b4
-break A}if("app.products.form.title.hint"===z8){w="Nom connu du client (ex : emballage, nom du fabricant)."
-break A}if("app.products.form.price.label"===z8){w=b5
-break A}if("app.products.form.price.hint"===z8){w="Entrer le prix du produit"
-break A}if("app.products.form.quantity.label"===z8){w=b6
-break A}if("app.products.form.quantity.hint"===z8){w="Entrer la quantit\xe9 du produit"
-break A}if("app.products.form.sales.label"===z8){w=b7
-break A}if("app.products.form.sales.hint"===z8){w="Entrer les ventes du produit"
-break A}if("app.products.form.views.label"===z8){w=a5
-break A}if("app.products.form.views.hint"===z8){w=b8
-break A}if("app.products.form.images.label"===z8){w=b9
-break A}if("app.products.form.images.hint"===z8){w="Importer des images du produit"
-break A}if("app.products.fields.status.label"===z8){w=c0
-break A}if("app.products.fields.status.hint"===z8){w="S\xe9lectionner le statut du produit"
-break A}if("app.products.fields.status.helper"===z8){w="\xc9tat du produit"
-break A}if("app.products.fields.type.label"===z8){w="Type"
-break A}if("app.products.fields.type.hint"===z8){w="S\xe9lectionner le type du produit"
-break A}if("app.products.fields.type.helper"===z8){w="Type du produit"
-break A}if("app.products.fields.media.label"===z8){w="M\xe9dias"
-break A}if("app.products.fields.media.hint"===z8){w="Importer des m\xe9dias"
-break A}if("app.products.fields.media.helper"===z8){w="M\xe9dias du produit"
-break A}if("app.products.fields.media.add"===z8){w="Ajouter m\xe9dia"
-break A}if("app.products.fields.media.addFromYoutube"===z8){w="Ajouter depuis YouTube"
-break A}if("app.products.fields.media.videoLink"===z8){w="Lien vid\xe9o"
-break A}if("app.products.fields.media.videoLinkHelper"===z8){w="Lien vid\xe9o YouTube"
-break A}if("app.products.fields.media.setAsMainImage"===z8){w="D\xe9finir comme image principale"
-break A}if("app.products.fields.media.noMedia"===z8){w="Aucun m\xe9dia"
-break A}if("app.products.fields.media.update"===z8){w=a0
-break A}if("app.products.fields.media.image"===z8){w=s
-break A}if("app.products.fields.discount.label"===z8){w="R\xe9duction"
-break A}if("app.products.fields.discount.hint"===z8){w="Entrer une r\xe9duction"
-break A}if("app.products.fields.discount.helper"===z8){w="R\xe9duction appliqu\xe9e"
-break A}if("app.products.fields.offers.label"===z8){w="Offres"
-break A}if("app.products.fields.offers.hint"===z8){w="Ajouter des offres"
-break A}if("app.products.fields.offers.helper"===z8){w="Offres disponibles"
-break A}if("app.products.fields.offers.alart.title"===z8){w="Avertissement"
-break A}if("app.products.fields.offers.alart.subtitle"===z8){w=y.e
-break A}if("app.products.fields.offers.add"===z8){w="Ajouter une offre"
-break A}if("app.products.fields.description.label"===z8){w=c1
-break A}if("app.products.fields.description.hint"===z8){w=c2
-break A}if("app.products.fields.description.helper"===z8){w="Description du produit"
-break A}if("app.products.fields.variants.label"===z8){w="Variantes"
-break A}if("app.products.fields.variants.hint"===z8){w="Ajouter des variantes"
-break A}if("app.products.fields.variants.helper"===z8){w="Variantes du produit"
-break A}if("app.products.fields.variants.types.text"===z8){w="Texte"
-break A}if("app.products.fields.variants.types.image"===z8){w=s
-break A}if("app.products.fields.variants.types.color"===z8){w="Couleur"
-break A}if("app.products.fields.variants.views.label"===z8){w="Mode d\u2019affichage"
-break A}if("app.products.fields.variants.views.list"===z8){w="Liste"
-break A}if("app.products.fields.variants.views.dropdown"===z8){w="Menu d\xe9roulant"
-break A}if("app.products.fields.variants.views.chips"===z8){w="Boutons"
-break A}if("app.products.fields.name.label"===z8){w=b2
-break A}if("app.products.fields.name.hint"===z8){w=b3
-break A}if("app.products.fields.name.helper"===z8){w="Nom du produit"
-break A}if("app.products.fields.title.label"===z8){w=b4
-break A}if("app.products.fields.title.hint"===z8){w="Nom connu des clients (ex : emballage, fabricant)"
-break A}if("app.products.fields.title.helper"===z8){w=b4
-break A}if("app.products.fields.price.label"===z8){w=b5
-break A}if("app.products.fields.price.hint"===z8){w="Entrer le prix"
-break A}if("app.products.fields.price.helper"===z8){w="Prix du produit"
-break A}if("app.products.fields.quantity.label"===z8){w=b6
-break A}if("app.products.fields.quantity.hint"===z8){w="Entrer la quantit\xe9"
-break A}if("app.products.fields.quantity.helper"===z8){w="Quantit\xe9 en stock"
-break A}if("app.products.fields.sales.label"===z8){w=b7
-break A}if("app.products.fields.sales.hint"===z8){w="Entrer les ventes"
-break A}if("app.products.fields.sales.helper"===z8){w="Nombre de ventes"
-break A}if("app.products.fields.views.label"===z8){w=a5
-break A}if("app.products.fields.views.hint"===z8){w=b8
-break A}if("app.products.fields.views.helper"===z8){w="Vues du produit"
-break A}if("app.products.fields.images.label"===z8){w=b9
-break A}if("app.products.fields.images.hint"===z8){w="Importer des images"
-break A}if("app.products.fields.images.helper"===z8){w="Images du produit"
-break A}if("app.products.fields.slug.label"===z8){w="Slug"
-break A}if("app.products.fields.slug.hint"===z8){w=c3
-break A}if("app.products.fields.slug.helper"===z8){w="Identifiant unique du produit (URL)"
-break A}if("app.products.fields.barcode.label"===z8){w="Code-barres"
-break A}if("app.products.fields.barcode.hint"===z8){w="Entrer le code-barres"
-break A}if("app.products.fields.barcode.helper"===z8){w="Code-barres du produit"
-break A}if("app.products.fields.stock.label"===z8){w="Stock"
-break A}if("app.products.fields.stock.hint"===z8){w="Entrer le stock"
-break A}if("app.products.fields.stock.helper"===z8){w="Stock disponible"
-break A}if("app.products.fields.cost.label"===z8){w="Co\xfbt"
-break A}if("app.products.fields.cost.hint"===z8){w="Entrer le co\xfbt"
-break A}if("app.products.fields.cost.helper"===z8){w="Co\xfbt du produit"
-break A}if("app.products.fields.sku.label"===z8){w="SKU"
-break A}if("app.products.fields.sku.hint"===z8){w="Entrer le SKU"
-break A}if("app.products.fields.sku.helper"===z8){w="Identifiant interne du produit"
-break A}if("app.products.sections.basicInfo.label"===z8){w="Infos de base"
-break A}if("app.products.sections.productLink.label"===z8){w=g
-break A}if("app.products.sections.descriptiveData.label"===z8){w="Donn\xe9es descriptives"
-break A}if("app.products.sections.descriptiveData.categoryHelper"===z8){w="Aide les clients \xe0 trouver vos produits"
-break A}if("app.products.sections.descriptiveData.shortHelper"===z8){w="Am\xe9liore les r\xe9sultats de recherche"
-break A}if("app.products.sections.advancedSettings.label"===z8){w="Param\xe8tres avanc\xe9s"
-break A}if("app.products.sections.inventoryAndAccount.label"===z8){w="Stock et comptabilit\xe9"
-break A}if("app.products.sections.inventoryAndAccount.helper"===z8){w="Gestion du stock et du compte produit"
-break A}if("app.products.sections.shippingMethod.label"===z8){w="M\xe9thode de livraison"
-break A}if("app.products.sections.shippingMethod.helper"===z8){w="M\xe9thode de livraison du produit"
-break A}if("app.products.sections.shippingMethod.defaultPrices"===z8){w="Prix par d\xe9faut"
-break A}if("app.users.label"===z8){w="Utilisateurs"
-break A}if("app.users.form.create"===z8){w="Cr\xe9er un utilisateur"
-break A}if("app.users.form.name.label"===z8){w=b2
-break A}if("app.users.form.name.hint"===z8){w=c4
-break A}if("app.users.form.email.label"===z8){w="Email"
-break A}if("app.users.form.email.hint"===z8){w="Entrer l\u2019adresse email"
-break A}if("app.users.form.password.label"===z8){w=c5
-break A}if("app.users.form.password.hint"===z8){w=c6
-break A}if("app.users.fields.name.label"===z8){w=b2
-break A}if("app.users.fields.name.hint"===z8){w=c4
-break A}if("app.users.fields.name.helper"===z8){w="Nom de l\u2019utilisateur"
-break A}if("app.users.fields.email.label"===z8){w="Email"
-break A}if("app.users.fields.email.hint"===z8){w="Entrer l\u2019email"
-break A}if("app.users.fields.email.helper"===z8){w="Email de l\u2019utilisateur"
-break A}if("app.users.fields.phone.label"===z8){w=c7
-break A}if("app.users.fields.phone.hint"===z8){w="Entrer le t\xe9l\xe9phone"
-break A}if("app.users.fields.phone.helper"===z8){w="Num\xe9ro de l\u2019utilisateur"
-break A}if("app.users.fields.password.label"===z8){w=c5
-break A}if("app.users.fields.password.hint"===z8){w=c6
-break A}if("app.users.fields.password.helper"===z8){w="Mot de passe de l\u2019utilisateur"
-break A}if("app.orders.columns.order"===z8){w="Commande"
-break A}if("app.orders.columns.date"===z8){w="Date"
-break A}if("app.orders.columns.cart"===z8){w="Panier"
-break A}if("app.orders.columns.total"===z8){w=a7
-break A}if("app.orders.columns.shipping"===z8){w=c8
-break A}if("app.orders.columns.status"===z8){w=c0
-break A}if("app.orders.empty.label"===z8){w="Aucune commande"
-break A}if("app.orders.empty.description"===z8){w=y.nV
-break A}if("app.orders.filters.status.label"===z8){w=c0
-break A}if("app.orders.filters.status.hint"===z8){w="S\xe9lectionnez le statut de la commande"
-break A}if("app.orders.filters.paymentStatus.label"===z8){w="Statut du paiement"
-break A}if("app.orders.filters.paymentStatus.hint"===z8){w="S\xe9lectionnez le statut du paiement"
-break A}if("app.orders.filters.deliveryStatus.label"===z8){w=c9
-break A}if("app.orders.filters.deliveryStatus.hint"===z8){w="S\xe9lectionnez le statut de livraison"
-break A}if("app.orders.dialogs.ecotrack.title"===z8){w="Envoyer \xe0 Ecotrack"
-break A}if("app.orders.dialogs.ecotrack.customerName"===z8){w=d0
-break A}if("app.orders.dialogs.ecotrack.phone"===z8){w=d1
-break A}if("app.orders.dialogs.ecotrack.phone2"===z8){w=d2
-break A}if("app.orders.dialogs.ecotrack.address"===z8){w=d3
-break A}if("app.orders.dialogs.ecotrack.state"===z8){w=d4
-break A}if("app.orders.dialogs.ecotrack.city"===z8){w=d5
-break A}if("app.orders.dialogs.ecotrack.selectCity"===z8){w=d6
-break A}if("app.orders.dialogs.ecotrack.notes"===z8){w=d7
-break A}if("app.orders.dialogs.ecotrack.weight"===z8){w=d8
-break A}if("app.orders.dialogs.ecotrack.total"===z8){w=d9
-break A}if("app.orders.dialogs.ecotrack.canOpen"===z8){w=e0
-break A}if("app.orders.dialogs.ecotrack.canOpenDescription"===z8){w=e1
-break A}if("app.orders.dialogs.ecotrack.fragile"===z8){w="Fragile"
-break A}if("app.orders.dialogs.ecotrack.fragileDescription"===z8){w=e2
-break A}if("app.orders.dialogs.ecotrack.prepareFromStock"===z8){w="Pr\xe9parer du stock"
-break A}if("app.orders.dialogs.ecotrack.prepareFromStockDescription"===z8){w=y.aF
-break A}if("app.orders.dialogs.ecotrack.pickupFromOffice"===z8){w=e3
-break A}if("app.orders.dialogs.ecotrack.pickupFromOfficeDescription"===z8){w=e4
-break A}if("app.orders.dialogs.ecotrack.success"===z8){w="Commande envoy\xe9e \xe0 Ecotrack avec succ\xe8s"
-break A}if("app.orders.dialogs.ecotrack.error"===z8)break A
-if("app.orders.dialogs.ecotrack.unknownError"===z8){w=e5
-break A}if("app.orders.dialogs.procolis.title"===z8){w="Envoyer \xe0 Procolis"
-break A}if("app.orders.dialogs.procolis.notConnected"===z8){w="Magasin non connect\xe9 \xe0 Procolis"
-break A}if("app.orders.dialogs.procolis.success"===z8){w="Commande envoy\xe9e \xe0 Procolis avec succ\xe8s"
-break A}if("app.orders.dialogs.procolis.error"===z8)break A
-if("app.orders.dialogs.procolis.unknownError"===z8){w=e5
-break A}if("app.orders.dialogs.yalidine.title"===z8){w="Envoyer \xe0 Yalidine"
-break A}if("app.orders.dialogs.yalidine.customerName"===z8){w=d0
-break A}if("app.orders.dialogs.yalidine.phone"===z8){w=d1
-break A}if("app.orders.dialogs.yalidine.address"===z8){w=d3
-break A}if("app.orders.dialogs.yalidine.state"===z8){w=d4
-break A}if("app.orders.dialogs.yalidine.city"===z8){w=d5
-break A}if("app.orders.dialogs.yalidine.selectCity"===z8){w=d6
-break A}if("app.orders.dialogs.yalidine.notes"===z8){w=d7
-break A}if("app.orders.dialogs.yalidine.weight"===z8){w=d8
-break A}if("app.orders.dialogs.yalidine.total"===z8){w=d9
-break A}if("app.orders.dialogs.yalidine.canOpen"===z8){w=e0
-break A}if("app.orders.dialogs.yalidine.canOpenDescription"===z8){w=e1
-break A}if("app.orders.dialogs.yalidine.fragile"===z8){w="Fragile"
-break A}if("app.orders.dialogs.yalidine.fragileDescription"===z8){w=e2
-break A}if("app.orders.dialogs.yalidine.pickupFromOffice"===z8){w=e3
-break A}if("app.orders.dialogs.yalidine.pickupFromOfficeDescription"===z8){w=e4
-break A}if("app.orders.dialogs.yalidine.success"===z8){w="Commande envoy\xe9e \xe0 Yalidine avec succ\xe8s"
-break A}if("app.orders.dialogs.yalidine.error"===z8)break A
-if("app.orders.dialogs.yalidine.unknownError"===z8){w=e5
-break A}if("app.orders.dialogs.noest.title"===z8){w="Envoyer \xe0 Noest"
-break A}if("app.orders.dialogs.noest.customerName"===z8){w=d0
-break A}if("app.orders.dialogs.noest.phone"===z8){w=d1
-break A}if("app.orders.dialogs.noest.phone2"===z8){w=d2
-break A}if("app.orders.dialogs.noest.address"===z8){w=d3
-break A}if("app.orders.dialogs.noest.state"===z8){w=d4
-break A}if("app.orders.dialogs.noest.city"===z8){w=d5
-break A}if("app.orders.dialogs.noest.selectCity"===z8){w=d6
-break A}if("app.orders.dialogs.noest.notes"===z8){w=d7
-break A}if("app.orders.dialogs.noest.weight"===z8){w=d8
-break A}if("app.orders.dialogs.noest.total"===z8){w=d9
-break A}if("app.orders.dialogs.noest.canOpen"===z8){w=e0
-break A}if("app.orders.dialogs.noest.canOpenDescription"===z8){w=e1
-break A}if("app.orders.dialogs.noest.pickupFromOffice"===z8){w=e3
-break A}if("app.orders.dialogs.noest.pickupFromOfficeDescription"===z8){w=e4
-break A}if("app.orders.dialogs.noest.stationCode"===z8){w="Code station"
-break A}if("app.orders.dialogs.noest.success"===z8){w=e6
-break A}if("app.orders.dialogs.noest.error"===z8)break A
-if("app.orders.dialogs.noest.unknownError"===z8){w=e5
-break A}if("app.orders.table.title"===z8){w="Tableau des commandes"
-break A}if("app.orders.table.columns"===z8){w="Colonnes"
-break A}if("app.orders.table.export"===z8){w=f
-break A}if("app.orders.table.exportExcel"===z8){w="Exporter en Excel"
-break A}if("app.orders.table.print"===z8){w=e7
-break A}if("app.orders.selected"===z8){w=e8
-break A}if("app.orders.changeStatus"===z8){w=e9
-break A}if("app.orders.bulkActions.print"===z8){w="Imprimer la s\xe9lection"
-break A}if("app.orders.bulkActions.delete"===z8){w=f0
-break A}if("app.orders.bulkActions.changeStatus"===z8){w="Changer le statut de la s\xe9lection"
-break A}if("app.orders.status.draft"===z8){w=f1
-break A}if("app.orders.status.pending"===z8){w="Nouveau"
-break A}if("app.orders.status.review"===z8){w=f2
-break A}if("app.orders.status.accepted"===z8){w="Confirm\xe9"
-break A}if("app.orders.status.processing"===z8){w=f3
-break A}if("app.orders.status.completed"===z8){w="Termin\xe9"
-break A}if("app.orders.status.cancelled"===z8){w=f4
-break A}if("app.orders.paymentStatus.unpaid"===z8){w=f5
-break A}if("app.orders.paymentStatus.paid"===z8){w="Pay\xe9"
-break A}if("app.orders.paymentStatus.received"===z8){w="Re\xe7u"
-break A}if("app.orders.deliveryStatus.pending"===z8){w=f6
-break A}if("app.orders.deliveryStatus.delivering"===z8){w="En cours"
-break A}if("app.orders.deliveryStatus.delivered"===z8){w=f7
-break A}if("app.orders.deliveryStatus.returned"===z8){w=f8
-break A}if("app.orders.label"===z8){w=f9
-break A}if("app.orders.title"===z8){w=f9
-break A}if("app.orders.create"===z8){w="Cr\xe9er une commande"
-break A}if("app.orders.update"===z8){w="Modifier la commande"
-break A}if("app.orders.form.title"===z8){w="D\xe9tails de la commande"
-break A}if("app.orders.form.sections.customer"===z8){w="Informations client"
-break A}if("app.orders.form.sections.shipping"===z8){w="Informations de livraison"
-break A}if("app.orders.form.sections.items"===z8){w=g0
-break A}if("app.orders.form.sections.payment"===z8){w="Informations de paiement"
-break A}if("app.orders.form.sections.notes"===z8){w=d7
-break A}if("app.orders.form.actions.save"===z8){w="Enregistrer la commande"
-break A}if("app.orders.form.actions.cancel"===z8){w=l
-break A}if("app.orders.form.actions.delete"===z8){w="Supprimer la commande"
-break A}if("app.orders.form.actions.addItem"===z8){w="Ajouter un article"
-break A}if("app.orders.form.actions.removeItem"===z8){w="Retirer un article"
-break A}if("app.orders.form.validation.required"===z8){w="Ce champ est obligatoire"
-break A}if("app.orders.form.validation.invalidPhone"===z8){w="Num\xe9ro de t\xe9l\xe9phone invalide"
-break A}if("app.orders.form.validation.invalidEmail"===z8){w=g1
-break A}if("app.orders.form.validation.invalidNumberFormat"===z8){w="Format de nombre invalide"
-break A}if("app.orders.fields.id.label"===z8){w="ID"
-break A}if("app.orders.fields.id.hint"===z8){w=j
-break A}if("app.orders.fields.id.helper"===z8){w="L'identifiant de la commande"
-break A}if("app.orders.fields.note.label"===z8){w=g2
-break A}if("app.orders.fields.note.hint"===z8){w="Entrer une note"
-break A}if("app.orders.fields.note.helper"===z8){w="Note suppl\xe9mentaire pour la commande"
-break A}if("app.orders.fields.customerName.label"===z8){w="Nom client"
-break A}if("app.orders.fields.customerName.hint"===z8){w="Entrer le nom du client"
-break A}if("app.orders.fields.customerName.helper"===z8){w="Nom complet du client"
-break A}if("app.orders.fields.customerPhone.label"===z8){w=d1
-break A}if("app.orders.fields.customerPhone.hint"===z8){w="Entrer le t\xe9l\xe9phone du client"
-break A}if("app.orders.fields.customerPhone.helper"===z8){w="Num\xe9ro de contact"
-break A}if("app.orders.fields.customerIp.label"===z8){w="IP client"
-break A}if("app.orders.fields.customerIp.hint"===z8){w="Entrer l\u2019IP du client"
-break A}if("app.orders.fields.customerIp.helper"===z8){w="Adresse IP du client"
-break A}if("app.orders.fields.customerNote.label"===z8){w="Note du client"
-break A}if("app.orders.fields.customerNote.hint"===z8){w="Entrer la note du client"
-break A}if("app.orders.fields.customerNote.helper"===z8){w="Notes suppl\xe9mentaires du client"
-break A}if("app.orders.fields.shippingNote.label"===z8){w="Note livraison"
-break A}if("app.orders.fields.shippingNote.hint"===z8){w="Entrer une note livraison"
-break A}if("app.orders.fields.shippingNote.helper"===z8){w="Notes suppl\xe9mentaires pour la livraison"
-break A}if("app.orders.fields.privateNote.label"===z8){w="Note priv\xe9e"
-break A}if("app.orders.fields.privateNote.hint"===z8){w="Entrer une note priv\xe9e"
-break A}if("app.orders.fields.privateNote.helper"===z8){w="Note interne pour la commande"
-break A}if("app.orders.fields.shippingAddress.label"===z8){w=g3
-break A}if("app.orders.fields.shippingAddress.hint"===z8){w="Entrer l\u2019adresse"
-break A}if("app.orders.fields.shippingAddress.helper"===z8){w=g3
-break A}if("app.orders.fields.shippingCity.label"===z8){w=d5
-break A}if("app.orders.fields.shippingCity.hint"===z8){w="S\xe9lectionner la ville"
-break A}if("app.orders.fields.shippingCity.helper"===z8){w="Ville de livraison"
-break A}if("app.orders.fields.shippingState.label"===z8){w=d4
-break A}if("app.orders.fields.shippingState.hint"===z8){w="S\xe9lectionner la r\xe9gion"
-break A}if("app.orders.fields.shippingState.helper"===z8){w="R\xe9gion de livraison"
-break A}if("app.orders.fields.shippingMethodId.label"===z8){w="ID m\xe9thode livraison"
-break A}if("app.orders.fields.shippingMethodId.hint"===z8){w=g4
-break A}if("app.orders.fields.shippingMethodId.helper"===z8){w="Identifiant de la m\xe9thode de livraison"
-break A}if("app.orders.fields.shippingType.label"===z8){w=g5
-break A}if("app.orders.fields.shippingType.hint"===z8){w="S\xe9lectionner le type"
-break A}if("app.orders.fields.shippingType.helper"===z8){w="Mode de livraison"
-break A}if("app.orders.fields.shippingType.items.home"===z8){w="Domicile"
-break A}if("app.orders.fields.shippingType.items.pickup"===z8){w="Retrait"
-break A}if("app.orders.fields.shippingType.items.store"===z8){w="Magasin"
-break A}if("app.orders.fields.paymentMethodId.label"===z8){w="ID m\xe9thode paiement"
-break A}if("app.orders.fields.paymentMethodId.hint"===z8){w=g4
-break A}if("app.orders.fields.paymentMethodId.helper"===z8){w="Identifiant de la m\xe9thode de paiement"
-break A}if("app.orders.fields.items.label"===z8){w=g0
-break A}if("app.orders.fields.items.hint"===z8){w="S\xe9lectionner les articles"
-break A}if("app.orders.fields.items.helper"===z8){w="Articles de la commande"
-break A}if("app.orders.fields.subtotal.label"===z8){w="Sous-total"
-break A}if("app.orders.fields.subtotal.hint"===z8){w="Entrer le sous-total"
-break A}if("app.orders.fields.subtotal.helper"===z8){w="Sous-total de la commande"
-break A}if("app.orders.fields.shippingPrice.label"===z8){w="Frais de livraison"
-break A}if("app.orders.fields.shippingPrice.hint"===z8){w="Entrer les frais"
-break A}if("app.orders.fields.shippingPrice.helper"===z8){w="Prix de la livraison"
-break A}if("app.orders.fields.discount.label"===z8){w="Remise"
-break A}if("app.orders.fields.discount.hint"===z8){w="Entrer la remise"
-break A}if("app.orders.fields.discount.helper"===z8){w="Remise appliqu\xe9e"
-break A}if("app.orders.fields.coupon.label"===z8){w="Coupon"
-break A}if("app.orders.fields.coupon.hint"===z8){w="Entrer le coupon"
-break A}if("app.orders.fields.coupon.helper"===z8){w="Coupon appliqu\xe9"
-break A}if("app.orders.fields.storeId.label"===z8){w="ID magasin"
-break A}if("app.orders.fields.storeId.hint"===z8){w="Entrer ID magasin"
-break A}if("app.orders.fields.storeId.helper"===z8){w="Identifiant du magasin"
-break A}if("app.orders.fields.metadata.label"===z8){w="M\xe9tadonn\xe9es"
-break A}if("app.orders.fields.metadata.hint"===z8){w="Entrer les m\xe9tadonn\xe9es"
-break A}if("app.orders.fields.metadata.helper"===z8){w="Donn\xe9es suppl\xe9mentaires"
-break A}if("app.orders.fields.status.label"===z8){w="Statut commande"
-break A}if("app.orders.fields.status.hint"===z8){w=g6
-break A}if("app.orders.fields.status.helper"===z8){w="Statut actuel de la commande"
-break A}if("app.orders.fields.paymentStatus.label"===z8){w="Statut paiement"
-break A}if("app.orders.fields.paymentStatus.hint"===z8){w=g6
-break A}if("app.orders.fields.paymentStatus.helper"===z8){w="\xc9tat du paiement"
-break A}if("app.orders.fields.deliveryStatus.label"===z8){w="Statut livraison"
-break A}if("app.orders.fields.deliveryStatus.hint"===z8){w=g6
-break A}if("app.orders.fields.deliveryStatus.helper"===z8){w="\xc9tat de la livraison"
-break A}if("app.orders.fields.createdAt.label"===z8){w="Cr\xe9\xe9 le"
-break A}if("app.orders.fields.createdAt.hint"===z8){w=g7
-break A}if("app.orders.fields.createdAt.helper"===z8){w="Date et heure de cr\xe9ation"
-break A}if("app.orders.fields.updatedAt.label"===z8){w="Mis \xe0 jour le"
-break A}if("app.orders.fields.updatedAt.hint"===z8){w=g7
-break A}if("app.orders.fields.updatedAt.helper"===z8){w=g8
-break A}if("app.orders.fields.manualTotal.label"===z8){w="Total manuel"
-break A}if("app.orders.fields.manualTotal.hint"===z8){w=g9
-break A}if("app.orders.fields.manualTotal.helper"===z8){w="Total calcul\xe9 manuellement"
-break A}if("app.orders.fields.calculatedTotal.label"===z8){w="Total calcul\xe9"
+if("app.appName"===aa3){w="feeef marchand"
+break A}if("app.all"===aa3){w="Tout"
+break A}if("app.loadMore"===aa3){w=u
+break A}if("app.soon"===aa3){w=t
+break A}if("app.media.browser.maxSelectedFiles"===aa3){w=new A.e2F()
+break A}if("app.media.browser.listMode"===aa3){w="Passer en mode Liste"
+break A}if("app.media.browser.gridMode"===aa3){w="Passer en mode Grille"
+break A}if("app.media.browser.objectMode"===aa3){w="Passer en mode Objet"
+break A}if("app.media.browser.title"===aa3){w="Explorateur de m\xe9dias"
+break A}if("app.media.browser.upload.title"===aa3){w="T\xe9l\xe9verser un fichier"
+break A}if("app.media.browser.upload.button"===aa3){w="T\xe9l\xe9verser"
+break A}if("app.media.browser.upload.multiple"===aa3){w="T\xe9l\xe9verser plusieurs"
+break A}if("app.media.browser.upload.progress"===aa3){w="T\xe9l\xe9versement..."
+break A}if("app.media.browser.upload.success"===aa3){w="T\xe9l\xe9versement r\xe9ussi"
+break A}if("app.media.browser.upload.error"===aa3){w="\xc9chec du t\xe9l\xe9versement"
+break A}if("app.media.browser.noFiles"===aa3){w="Aucun fichier trouv\xe9"
+break A}if("app.media.browser.dragAndDrop"===aa3){w="Glissez-d\xe9posez les fichiers ici"
+break A}if("app.media.browser.or"===aa3){w="ou"
+break A}if("app.media.browser.browse"===aa3){w="Parcourir"
+break A}if("app.media.browser.selected"===aa3){w=new A.e2G()
+break A}if("app.media.browser.selectedPlural"===aa3){w=new A.e2H()
+break A}if("app.media.browser.deleteConfirmation"===aa3){w=y.kN
+break A}if("app.media.browser.fileTypes.image"===aa3){w=s
+break A}if("app.media.browser.fileTypes.video"===aa3){w="Vid\xe9o"
+break A}if("app.media.browser.fileTypes.audio"===aa3){w="Audio"
+break A}if("app.media.browser.fileTypes.document"===aa3){w="Document"
+break A}if("app.media.browser.fileTypes.other"===aa3){w="Autre"
+break A}if("app.dateFilter.today"===aa3){w=r
+break A}if("app.dateFilter.yesterday"===aa3){w="Hier"
+break A}if("app.dateFilter.thisWeek"===aa3){w=q
+break A}if("app.dateFilter.thisMonth"===aa3){w=p
+break A}if("app.dateFilter.lastYear"===aa3){w="L'ann\xe9e derni\xe8re"
+break A}if("app.dateFilter.custom"===aa3){w="Personnalis\xe9"
+break A}if("app.general.copy"===aa3){w="copi\xe9"
+break A}if("app.general.later"===aa3){w="Plus tard"
+break A}if("app.general.noInfo"===aa3){w="Aucune information disponible"
+break A}if("app.general.syncs"===aa3){w="Synchronisations"
+break A}if("app.general.saved"===aa3){w="Enregistr\xe9 avec succ\xe8s"
+break A}if("app.general.badges.new_"===aa3){w="NOUVEAU"
+break A}if("app.general.history"===aa3){w="Historique"
+break A}if("app.general.at"===aa3){w="\xe0"
+break A}if("app.general.optional"===aa3){w="Optionnel"
+break A}if("app.general.expired"===aa3){w="Expir\xe9"
+break A}if("app.general.expires"===aa3){w="Expire"
+break A}if("app.general.deleting"===aa3){w="Suppression..."
+break A}if("app.general.back"===aa3){w=o
+break A}if("app.general.retry"===aa3){w=n
+break A}if("app.general.noResults"===aa3){w=m
+break A}if("app.general.reset"===aa3){w=l
+break A}if("app.general.discard"===aa3){w=k
+break A}if("app.general.continueEditing"===aa3){w="Continuer l'\xe9dition"
+break A}if("app.general.enabled"===aa3){w="Activ\xe9"
+break A}if("app.general.disabled"===aa3){w=j
+break A}if("app.general.deliveryService"===aa3){w="Service de livraison"
+break A}if("app.general.fields.id.label"===aa3){w="ID"
+break A}if("app.general.fields.id.hint"===aa3){w=i
+break A}if("app.general.fields.id.helper"===aa3){w="Identifiant de l'\xe9l\xe9ment"
+break A}if("app.general.search"===aa3){w="Rechercher"
+break A}if("app.general.close"===aa3){w=h
+break A}if("app.general.from"===aa3){w="De"
+break A}if("app.general.to"===aa3){w="\xc0"
+break A}if("app.general.you"===aa3){w="Vous"
+break A}if("app.general.localAuthReason"===aa3){w=y.fu
+break A}if("app.general.import.title"===aa3){w=g
+break A}if("app.general.import.selectPlatform"===aa3){w="Choisir la plateforme d'importation"
+break A}if("app.general.import.selectPlatformDescription"===aa3){w=y.s
+break A}if("app.general.import.startImport"===aa3){w="D\xe9marrer l'importation"
+break A}if("app.general.import.fromWooCommerce"===aa3){w="Importer depuis WooCommerce"
+break A}if("app.general.import.fromFoorweb"===aa3){w="Importer depuis Foorweb"
+break A}if("app.general.import.fromStoreino"===aa3){w="Importer depuis Storeino"
+break A}if("app.general.import.fromYouCan"===aa3){w="Importer depuis YouCan"
+break A}if("app.general.import.fromLightfunnels"===aa3){w="Importer depuis Lightfunnels"
+break A}if("app.general.import.wooCommerceDescription"===aa3){w=y.q
+break A}if("app.general.import.foorwebDescription"===aa3){w=y.lH
+break A}if("app.general.import.storeinoDescription"===aa3){w=y.jP
+break A}if("app.general.import.youcanDescription"===aa3){w=y.a1
+break A}if("app.general.import.lightfunnelsDescription"===aa3){w=y.iQ
+break A}if("app.general.import.steps.selectStore"===aa3){w="S\xe9lectionner une boutique"
+break A}if("app.general.import.steps.selectStoreDescription"===aa3){w=y.A
+break A}if("app.general.import.steps.selectProducts"===aa3){w="S\xe9lectionner des produits"
+break A}if("app.general.import.steps.selectProductsDescription"===aa3){w=y.la
+break A}if("app.general.import.steps.confirmImport"===aa3){w="Confirmer l'importation"
+break A}if("app.general.import.steps.confirmImportDescription"===aa3){w=y.aI
+break A}if("app.general.import.steps.productLink"===aa3){w=f
+break A}if("app.general.import.steps.productLinkDescription"===aa3){w="Entrez le lien du produit pour commencer"
+break A}if("app.general.import.navigation.previous"===aa3){w="Pr\xe9c\xe9dent"
+break A}if("app.general.import.navigation.next"===aa3){w="Suivant"
+break A}if("app.general.import.selectAll"===aa3){w="Tout s\xe9lectionner"
+break A}if("app.general.import.deselectAll"===aa3){w="Tout d\xe9s\xe9lectionner"
+break A}if("app.general.import.importError"===aa3){w=y.lo
+break A}if("app.general.import.checkingStore"===aa3){w="V\xe9rification..."
+break A}if("app.general.import.checkStore"===aa3){w="V\xe9rifier la boutique"
+break A}if("app.general.import.confirmImportMessage"===aa3){w="\xcates-vous s\xfbr de vouloir importer"
+break A}if("app.general.import.productSingular"===aa3){w="produit"
+break A}if("app.general.import.productsWillBeAdded"===aa3){w=y.cV
+break A}if("app.general.import.importSuccess"===aa3){w="Importation r\xe9ussie"
+break A}if("app.general.import.confirmSelection"===aa3){w="Confirmer la s\xe9lection"
+break A}if("app.general.import.viewProducts"===aa3){w="Voir les produits"
+break A}if("app.general.import.checkProduct"===aa3){w="V\xe9rifier le produit"
+break A}if("app.general.import.confirmImportProductMessage"===aa3){w=y.b3
+break A}if("app.general.import.productWillBeAdded"===aa3){w="Le produit sera ajout\xe9 \xe0 votre boutique"
+break A}if("app.general.import.importProductSuccess"===aa3){w="Produit import\xe9 avec succ\xe8s"
+break A}if("app.general.import.importErrorWithMessage"===aa3){w=new A.e2S()
+break A}if("app.general.import.confirmImportCountMessage"===aa3){w=new A.e32()
+break A}if("app.general.import.importSuccessCount"===aa3){w=new A.e3d()
+break A}if("app.general.import.confirmSelectionCount"===aa3){w=new A.e3o()
+break A}if("app.general.import.useExactPath"===aa3){w="Utiliser le chemin exact"
+break A}if("app.general.import.useExactPathDescription"===aa3){w=y.fq
+break A}if("app.general.import.productsFound"===aa3){w=new A.e3y()
+break A}if("app.general.import.importingProducts"===aa3){w="Importation des produits..."
+break A}if("app.general.import.importProgress"===aa3){w=new A.e3z()
+break A}if("app.general.import.importErrorTitle"===aa3){w="Erreur d'importation"
+break A}if("app.general.import.importSuccessTitle"===aa3){w="Produits import\xe9s avec succ\xe8s"
+break A}if("app.general.import.importedCount"===aa3){w=new A.e3A()
+break A}if("app.general.import.selectedCount"===aa3){w=new A.e3B()
+break A}if("app.general.import.confirmImportSelected"===aa3){w=y.nB
+break A}if("app.general.import.importProducts"===aa3){w=g
+break A}if("app.general.import.back"===aa3){w=o
+break A}if("app.general.export"===aa3){w=e
+break A}if("app.general.save"===aa3){w=d
+break A}if("app.general.cancel"===aa3){w=k
+break A}if("app.general.edit"===aa3){w="\xc9diter"
+break A}if("app.general.preview"===aa3){w=a0
+break A}if("app.general.update"===aa3){w=a1
+break A}if("app.general.delete"===aa3){w=a2
+break A}if("app.general.add"===aa3){w="Ajouter"
+break A}if("app.general.link"===aa3){w="Lien"
+break A}if("app.general.error"===aa3)break A
+if("app.general.refresh"===aa3){w=a3
+break A}if("app.general.required"===aa3){w="Obligatoire"
+break A}if("app.general.selectedCurrency.code"===aa3){w=a4
+break A}if("app.general.selectedCurrency.symbol"===aa3){w="\u062f\u062c"
+break A}if("app.general.selectedCurrency.name"===aa3){w="Dinar alg\xe9rien"
+break A}if("app.general.confirm"===aa3){w=a5
+break A}if("app.general.done"===aa3){w="Op\xe9ration r\xe9ussie"
+break A}if("app.general.failed"===aa3){w="\xc9chec de l'op\xe9ration"
+break A}if("app.general.views"===aa3){w=a6
+break A}if("app.general.visits"===aa3){w="Visites"
+break A}if("app.general.submit"===aa3){w="Soumettre"
+break A}if("app.general.shipping"===aa3){w=a7
+break A}if("app.general.total"===aa3){w=a8
+break A}if("app.general.control"===aa3){w="Contr\xf4le"
+break A}if("app.general.empty"===aa3){w="Vide"
+break A}if("app.general.copied"===aa3){w="Copi\xe9 avec succ\xe8s"
+break A}if("app.general.more"===aa3){w="Plus"
+break A}if("app.general.moreInfo"===aa3){w="Plus d'infos"
+break A}if("app.general.undo"===aa3){w=k
+break A}if("app.general.markdownInfoTitle"===aa3){w="Nous utilisons le format Markdown, nous vous recommandons d'utiliser ChatGPT pour g\xe9n\xe9rer la description, [ChatGPT](https://chatgpt.com/?partner=feeef.net)\n\nEx. : ChatGPT : G\xe9n\xe9rer une description de produit pour mon..."
+break A}if("app.general.all"===aa3){w="Tout"
+break A}if("app.auth.user.wallet.label"===aa3){w="Portefeuille"
+break A}if("app.auth.user.wallet.balance"===aa3){w=new A.e2I()
+break A}if("app.auth.user.signoutSubtitle"===aa3){w=y.k3
+break A}if("app.auth.user.profile.label"===aa3){w="Mon profil"
+break A}if("app.auth.user.profile.updatePhoto.success"===aa3){w="Photo mise \xe0 jour avec succ\xe8s"
+break A}if("app.auth.user.profile.updatePhoto.error"===aa3){w=y.ob
+break A}if("app.auth.user.alert.title"===aa3){w=a9
+break A}if("app.auth.user.alert.subtitle"===aa3){w=y.nu
+break A}if("app.auth.user.personalInfo"===aa3){w="Informations personnelles"
+break A}if("app.auth.user.securityAndSignin"===aa3){w="S\xe9curit\xe9 et connexion"
+break A}if("app.auth.user.signout"===aa3){w=b0
+break A}if("app.auth.user.deleteMyAccount"===aa3){w="Supprimer mon compte"
+break A}if("app.auth.user.referralCode"===aa3){w="Mon code de parrainage"
+break A}if("app.auth.user.changePassword"===aa3){w=b1
+break A}if("app.auth.user.changePasswordSubtitle"===aa3){w=y.G
+break A}if("app.auth.user.currentPassword"===aa3){w="Mot de passe actuel"
+break A}if("app.auth.user.newPassword"===aa3){w="Nouveau mot de passe"
+break A}if("app.auth.user.contactUs"===aa3){w="Contactez-nous"
+break A}if("app.auth.user.contactUsSubtitle"===aa3){w=y.fY
+break A}if("app.auth.forgotPassword"===aa3){w="Mot de passe oubli\xe9"
+break A}if("app.auth.resetPassword"===aa3){w="R\xe9initialiser le mot de passe"
+break A}if("app.auth.signin"===aa3){w="Se connecter"
+break A}if("app.auth.signup"===aa3){w="S'inscrire"
+break A}if("app.auth.signout"===aa3){w=b0
+break A}if("app.auth.acceptTerms"===aa3){w=y.mH
+break A}if("app.auth.acceptTermsValidation"===aa3){w=y.ol
+break A}if("app.auth.dontHaveAnAccount"===aa3){w="Vous n\u2019avez pas de compte ?"
+break A}if("app.auth.alreadyHaveAnAccount"===aa3){w="Vous avez d\xe9j\xe0 un compte ?"
+break A}if("app.auth.logout.revokingTokens"===aa3){w="R\xe9vocation des jetons d\u2019acc\xe8s"
+break A}if("app.auth.logout.clearingCache"===aa3){w="Nettoyage du cache de l\u2019application"
+break A}if("app.auth.logout.signingOut"===aa3){w="D\xe9connexion de votre compte"
+break A}if("app.auth.logout.logoutComplete"===aa3){w="D\xe9connexion termin\xe9e"
+break A}if("app.auth.logout.loggingOut"===aa3){w="D\xe9connexion en cours"
+break A}if("app.auth.logout.redirecting"===aa3){w="Redirection vers la page d\u2019accueil..."
+break A}if("app.auth.logout.pleaseWait"===aa3){w=y.hC
+break A}if("app.products.label"===aa3){w=b2
+break A}if("app.products.form.create"===aa3){w=b3
+break A}if("app.products.form.name.label"===aa3){w=b4
+break A}if("app.products.form.name.hint"===aa3){w=b5
+break A}if("app.products.form.title.label"===aa3){w=b6
+break A}if("app.products.form.title.hint"===aa3){w="Nom connu du client (ex : emballage, nom du fabricant)."
+break A}if("app.products.form.price.label"===aa3){w=b7
+break A}if("app.products.form.price.hint"===aa3){w="Entrer le prix du produit"
+break A}if("app.products.form.quantity.label"===aa3){w=b8
+break A}if("app.products.form.quantity.hint"===aa3){w="Entrer la quantit\xe9 du produit"
+break A}if("app.products.form.sales.label"===aa3){w=b9
+break A}if("app.products.form.sales.hint"===aa3){w="Entrer les ventes du produit"
+break A}if("app.products.form.views.label"===aa3){w=a6
+break A}if("app.products.form.views.hint"===aa3){w=c0
+break A}if("app.products.form.images.label"===aa3){w=c1
+break A}if("app.products.form.images.hint"===aa3){w="Importer des images du produit"
+break A}if("app.products.fields.status.label"===aa3){w=c2
+break A}if("app.products.fields.status.hint"===aa3){w="S\xe9lectionner le statut du produit"
+break A}if("app.products.fields.status.helper"===aa3){w="\xc9tat du produit"
+break A}if("app.products.fields.type.label"===aa3){w="Type"
+break A}if("app.products.fields.type.hint"===aa3){w="S\xe9lectionner le type du produit"
+break A}if("app.products.fields.type.helper"===aa3){w="Type du produit"
+break A}if("app.products.fields.media.label"===aa3){w="M\xe9dias"
+break A}if("app.products.fields.media.hint"===aa3){w="Importer des m\xe9dias"
+break A}if("app.products.fields.media.helper"===aa3){w="M\xe9dias du produit"
+break A}if("app.products.fields.media.add"===aa3){w="Ajouter m\xe9dia"
+break A}if("app.products.fields.media.addFromYoutube"===aa3){w="Ajouter depuis YouTube"
+break A}if("app.products.fields.media.videoLink"===aa3){w="Lien vid\xe9o"
+break A}if("app.products.fields.media.videoLinkHelper"===aa3){w="Lien vid\xe9o YouTube"
+break A}if("app.products.fields.media.setAsMainImage"===aa3){w="D\xe9finir comme image principale"
+break A}if("app.products.fields.media.noMedia"===aa3){w="Aucun m\xe9dia"
+break A}if("app.products.fields.media.update"===aa3){w=a1
+break A}if("app.products.fields.media.image"===aa3){w=s
+break A}if("app.products.fields.discount.label"===aa3){w="R\xe9duction"
+break A}if("app.products.fields.discount.hint"===aa3){w="Entrer une r\xe9duction"
+break A}if("app.products.fields.discount.helper"===aa3){w="R\xe9duction appliqu\xe9e"
+break A}if("app.products.fields.offers.label"===aa3){w="Offres"
+break A}if("app.products.fields.offers.hint"===aa3){w="Ajouter des offres"
+break A}if("app.products.fields.offers.helper"===aa3){w="Offres disponibles"
+break A}if("app.products.fields.offers.alart.title"===aa3){w="Avertissement"
+break A}if("app.products.fields.offers.alart.subtitle"===aa3){w=y.kO
+break A}if("app.products.fields.offers.add"===aa3){w="Ajouter une offre"
+break A}if("app.products.fields.description.label"===aa3){w=c3
+break A}if("app.products.fields.description.hint"===aa3){w=c4
+break A}if("app.products.fields.description.helper"===aa3){w="Description du produit"
+break A}if("app.products.fields.variants.label"===aa3){w="Variantes"
+break A}if("app.products.fields.variants.hint"===aa3){w="Ajouter des variantes"
+break A}if("app.products.fields.variants.helper"===aa3){w="Variantes du produit"
+break A}if("app.products.fields.variants.types.text"===aa3){w="Texte"
+break A}if("app.products.fields.variants.types.image"===aa3){w=s
+break A}if("app.products.fields.variants.types.color"===aa3){w="Couleur"
+break A}if("app.products.fields.variants.views.label"===aa3){w="Mode d\u2019affichage"
+break A}if("app.products.fields.variants.views.list"===aa3){w="Liste"
+break A}if("app.products.fields.variants.views.dropdown"===aa3){w="Menu d\xe9roulant"
+break A}if("app.products.fields.variants.views.chips"===aa3){w="Boutons"
+break A}if("app.products.fields.name.label"===aa3){w=b4
+break A}if("app.products.fields.name.hint"===aa3){w=b5
+break A}if("app.products.fields.name.helper"===aa3){w="Nom du produit"
+break A}if("app.products.fields.title.label"===aa3){w=b6
+break A}if("app.products.fields.title.hint"===aa3){w="Nom connu des clients (ex : emballage, fabricant)"
+break A}if("app.products.fields.title.helper"===aa3){w=b6
+break A}if("app.products.fields.price.label"===aa3){w=b7
+break A}if("app.products.fields.price.hint"===aa3){w="Entrer le prix"
+break A}if("app.products.fields.price.helper"===aa3){w="Prix du produit"
+break A}if("app.products.fields.quantity.label"===aa3){w=b8
+break A}if("app.products.fields.quantity.hint"===aa3){w="Entrer la quantit\xe9"
+break A}if("app.products.fields.quantity.helper"===aa3){w="Quantit\xe9 en stock"
+break A}if("app.products.fields.sales.label"===aa3){w=b9
+break A}if("app.products.fields.sales.hint"===aa3){w="Entrer les ventes"
+break A}if("app.products.fields.sales.helper"===aa3){w="Nombre de ventes"
+break A}if("app.products.fields.views.label"===aa3){w=a6
+break A}if("app.products.fields.views.hint"===aa3){w=c0
+break A}if("app.products.fields.views.helper"===aa3){w="Vues du produit"
+break A}if("app.products.fields.images.label"===aa3){w=c1
+break A}if("app.products.fields.images.hint"===aa3){w="Importer des images"
+break A}if("app.products.fields.images.helper"===aa3){w="Images du produit"
+break A}if("app.products.fields.slug.label"===aa3){w="Slug"
+break A}if("app.products.fields.slug.hint"===aa3){w=c5
+break A}if("app.products.fields.slug.helper"===aa3){w="Identifiant unique du produit (URL)"
+break A}if("app.products.fields.barcode.label"===aa3){w="Code-barres"
+break A}if("app.products.fields.barcode.hint"===aa3){w="Entrer le code-barres"
+break A}if("app.products.fields.barcode.helper"===aa3){w="Code-barres du produit"
+break A}if("app.products.fields.stock.label"===aa3){w="Stock"
+break A}if("app.products.fields.stock.hint"===aa3){w="Entrer le stock"
+break A}if("app.products.fields.stock.helper"===aa3){w="Stock disponible"
+break A}if("app.products.fields.cost.label"===aa3){w="Co\xfbt"
+break A}if("app.products.fields.cost.hint"===aa3){w="Entrer le co\xfbt"
+break A}if("app.products.fields.cost.helper"===aa3){w="Co\xfbt du produit"
+break A}if("app.products.fields.sku.label"===aa3){w="SKU"
+break A}if("app.products.fields.sku.hint"===aa3){w="Entrer le SKU"
+break A}if("app.products.fields.sku.helper"===aa3){w="Identifiant interne du produit"
+break A}if("app.products.sections.basicInfo.label"===aa3){w="Infos de base"
+break A}if("app.products.sections.productLink.label"===aa3){w=f
+break A}if("app.products.sections.descriptiveData.label"===aa3){w="Donn\xe9es descriptives"
+break A}if("app.products.sections.descriptiveData.categoryHelper"===aa3){w="Aide les clients \xe0 trouver vos produits"
+break A}if("app.products.sections.descriptiveData.shortHelper"===aa3){w="Am\xe9liore les r\xe9sultats de recherche"
+break A}if("app.products.sections.advancedSettings.label"===aa3){w="Param\xe8tres avanc\xe9s"
+break A}if("app.products.sections.inventoryAndAccount.label"===aa3){w="Stock et comptabilit\xe9"
+break A}if("app.products.sections.inventoryAndAccount.helper"===aa3){w="Gestion du stock et du compte produit"
+break A}if("app.products.sections.shippingMethod.label"===aa3){w="M\xe9thode de livraison"
+break A}if("app.products.sections.shippingMethod.helper"===aa3){w="M\xe9thode de livraison du produit"
+break A}if("app.products.sections.shippingMethod.defaultPrices"===aa3){w="Prix par d\xe9faut"
+break A}if("app.users.label"===aa3){w="Utilisateurs"
+break A}if("app.users.form.create"===aa3){w="Cr\xe9er un utilisateur"
+break A}if("app.users.form.name.label"===aa3){w=b4
+break A}if("app.users.form.name.hint"===aa3){w=c6
+break A}if("app.users.form.email.label"===aa3){w="Email"
+break A}if("app.users.form.email.hint"===aa3){w="Entrer l\u2019adresse email"
+break A}if("app.users.form.password.label"===aa3){w=c7
+break A}if("app.users.form.password.hint"===aa3){w=c8
+break A}if("app.users.fields.name.label"===aa3){w=b4
+break A}if("app.users.fields.name.hint"===aa3){w=c6
+break A}if("app.users.fields.name.helper"===aa3){w="Nom de l\u2019utilisateur"
+break A}if("app.users.fields.email.label"===aa3){w="Email"
+break A}if("app.users.fields.email.hint"===aa3){w="Entrer l\u2019email"
+break A}if("app.users.fields.email.helper"===aa3){w="Email de l\u2019utilisateur"
+break A}if("app.users.fields.phone.label"===aa3){w=c9
+break A}if("app.users.fields.phone.hint"===aa3){w="Entrer le t\xe9l\xe9phone"
+break A}if("app.users.fields.phone.helper"===aa3){w="Num\xe9ro de l\u2019utilisateur"
+break A}if("app.users.fields.password.label"===aa3){w=c7
+break A}if("app.users.fields.password.hint"===aa3){w=c8
+break A}if("app.users.fields.password.helper"===aa3){w="Mot de passe de l\u2019utilisateur"
+break A}if("app.orders.columns.order"===aa3){w="Commande"
+break A}if("app.orders.columns.date"===aa3){w="Date"
+break A}if("app.orders.columns.cart"===aa3){w="Panier"
+break A}if("app.orders.columns.total"===aa3){w=a8
+break A}if("app.orders.columns.shipping"===aa3){w=d0
+break A}if("app.orders.columns.status"===aa3){w=c2
+break A}if("app.orders.empty.label"===aa3){w="Aucune commande"
+break A}if("app.orders.empty.description"===aa3){w=y.nV
+break A}if("app.orders.filters.status.label"===aa3){w=c2
+break A}if("app.orders.filters.status.hint"===aa3){w="S\xe9lectionnez le statut de la commande"
+break A}if("app.orders.filters.paymentStatus.label"===aa3){w="Statut du paiement"
+break A}if("app.orders.filters.paymentStatus.hint"===aa3){w="S\xe9lectionnez le statut du paiement"
+break A}if("app.orders.filters.deliveryStatus.label"===aa3){w=d1
+break A}if("app.orders.filters.deliveryStatus.hint"===aa3){w="S\xe9lectionnez le statut de livraison"
+break A}if("app.orders.dialogs.ecotrack.title"===aa3){w="Envoyer \xe0 Ecotrack"
+break A}if("app.orders.dialogs.ecotrack.customerName"===aa3){w=d2
+break A}if("app.orders.dialogs.ecotrack.phone"===aa3){w=d3
+break A}if("app.orders.dialogs.ecotrack.phone2"===aa3){w=d4
+break A}if("app.orders.dialogs.ecotrack.address"===aa3){w=d5
+break A}if("app.orders.dialogs.ecotrack.state"===aa3){w=d6
+break A}if("app.orders.dialogs.ecotrack.city"===aa3){w=d7
+break A}if("app.orders.dialogs.ecotrack.selectCity"===aa3){w=d8
+break A}if("app.orders.dialogs.ecotrack.notes"===aa3){w=d9
+break A}if("app.orders.dialogs.ecotrack.weight"===aa3){w=e0
+break A}if("app.orders.dialogs.ecotrack.total"===aa3){w=e1
+break A}if("app.orders.dialogs.ecotrack.canOpen"===aa3){w=e2
+break A}if("app.orders.dialogs.ecotrack.canOpenDescription"===aa3){w=e3
+break A}if("app.orders.dialogs.ecotrack.fragile"===aa3){w="Fragile"
+break A}if("app.orders.dialogs.ecotrack.fragileDescription"===aa3){w=e4
+break A}if("app.orders.dialogs.ecotrack.prepareFromStock"===aa3){w="Pr\xe9parer du stock"
+break A}if("app.orders.dialogs.ecotrack.prepareFromStockDescription"===aa3){w=y.aF
+break A}if("app.orders.dialogs.ecotrack.pickupFromOffice"===aa3){w=e5
+break A}if("app.orders.dialogs.ecotrack.pickupFromOfficeDescription"===aa3){w=e6
+break A}if("app.orders.dialogs.ecotrack.success"===aa3){w="Commande envoy\xe9e \xe0 Ecotrack avec succ\xe8s"
+break A}if("app.orders.dialogs.ecotrack.error"===aa3)break A
+if("app.orders.dialogs.ecotrack.unknownError"===aa3){w=e7
+break A}if("app.orders.dialogs.procolis.title"===aa3){w="Envoyer \xe0 Procolis"
+break A}if("app.orders.dialogs.procolis.notConnected"===aa3){w="Magasin non connect\xe9 \xe0 Procolis"
+break A}if("app.orders.dialogs.procolis.success"===aa3){w="Commande envoy\xe9e \xe0 Procolis avec succ\xe8s"
+break A}if("app.orders.dialogs.procolis.error"===aa3)break A
+if("app.orders.dialogs.procolis.unknownError"===aa3){w=e7
+break A}if("app.orders.dialogs.yalidine.title"===aa3){w="Envoyer \xe0 Yalidine"
+break A}if("app.orders.dialogs.yalidine.customerName"===aa3){w=d2
+break A}if("app.orders.dialogs.yalidine.phone"===aa3){w=d3
+break A}if("app.orders.dialogs.yalidine.address"===aa3){w=d5
+break A}if("app.orders.dialogs.yalidine.state"===aa3){w=d6
+break A}if("app.orders.dialogs.yalidine.city"===aa3){w=d7
+break A}if("app.orders.dialogs.yalidine.selectCity"===aa3){w=d8
+break A}if("app.orders.dialogs.yalidine.notes"===aa3){w=d9
+break A}if("app.orders.dialogs.yalidine.weight"===aa3){w=e0
+break A}if("app.orders.dialogs.yalidine.total"===aa3){w=e1
+break A}if("app.orders.dialogs.yalidine.canOpen"===aa3){w=e2
+break A}if("app.orders.dialogs.yalidine.canOpenDescription"===aa3){w=e3
+break A}if("app.orders.dialogs.yalidine.fragile"===aa3){w="Fragile"
+break A}if("app.orders.dialogs.yalidine.fragileDescription"===aa3){w=e4
+break A}if("app.orders.dialogs.yalidine.pickupFromOffice"===aa3){w=e5
+break A}if("app.orders.dialogs.yalidine.pickupFromOfficeDescription"===aa3){w=e6
+break A}if("app.orders.dialogs.yalidine.success"===aa3){w="Commande envoy\xe9e \xe0 Yalidine avec succ\xe8s"
+break A}if("app.orders.dialogs.yalidine.error"===aa3)break A
+if("app.orders.dialogs.yalidine.unknownError"===aa3){w=e7
+break A}if("app.orders.dialogs.noest.title"===aa3){w="Envoyer \xe0 Noest"
+break A}if("app.orders.dialogs.noest.customerName"===aa3){w=d2
+break A}if("app.orders.dialogs.noest.phone"===aa3){w=d3
+break A}if("app.orders.dialogs.noest.phone2"===aa3){w=d4
+break A}if("app.orders.dialogs.noest.address"===aa3){w=d5
+break A}if("app.orders.dialogs.noest.state"===aa3){w=d6
+break A}if("app.orders.dialogs.noest.city"===aa3){w=d7
+break A}if("app.orders.dialogs.noest.selectCity"===aa3){w=d8
+break A}if("app.orders.dialogs.noest.notes"===aa3){w=d9
+break A}if("app.orders.dialogs.noest.weight"===aa3){w=e0
+break A}if("app.orders.dialogs.noest.total"===aa3){w=e1
+break A}if("app.orders.dialogs.noest.canOpen"===aa3){w=e2
+break A}if("app.orders.dialogs.noest.canOpenDescription"===aa3){w=e3
+break A}if("app.orders.dialogs.noest.pickupFromOffice"===aa3){w=e5
+break A}if("app.orders.dialogs.noest.pickupFromOfficeDescription"===aa3){w=e6
+break A}if("app.orders.dialogs.noest.stationCode"===aa3){w="Code station"
+break A}if("app.orders.dialogs.noest.success"===aa3){w=e8
+break A}if("app.orders.dialogs.noest.error"===aa3)break A
+if("app.orders.dialogs.noest.unknownError"===aa3){w=e7
+break A}if("app.orders.table.title"===aa3){w="Tableau des commandes"
+break A}if("app.orders.table.columns"===aa3){w="Colonnes"
+break A}if("app.orders.table.export"===aa3){w=e
+break A}if("app.orders.table.exportExcel"===aa3){w="Exporter en Excel"
+break A}if("app.orders.table.print"===aa3){w=e9
+break A}if("app.orders.selected"===aa3){w=f0
+break A}if("app.orders.changeStatus"===aa3){w=f1
+break A}if("app.orders.bulkActions.print"===aa3){w="Imprimer la s\xe9lection"
+break A}if("app.orders.bulkActions.delete"===aa3){w=f2
+break A}if("app.orders.bulkActions.changeStatus"===aa3){w="Changer le statut de la s\xe9lection"
+break A}if("app.orders.status.draft"===aa3){w=f3
+break A}if("app.orders.status.pending"===aa3){w="Nouveau"
+break A}if("app.orders.status.review"===aa3){w=f4
+break A}if("app.orders.status.accepted"===aa3){w="Confirm\xe9"
+break A}if("app.orders.status.processing"===aa3){w=f5
+break A}if("app.orders.status.completed"===aa3){w=f6
+break A}if("app.orders.status.cancelled"===aa3){w=f7
+break A}if("app.orders.paymentStatus.unpaid"===aa3){w=f8
+break A}if("app.orders.paymentStatus.paid"===aa3){w="Pay\xe9"
+break A}if("app.orders.paymentStatus.received"===aa3){w="Re\xe7u"
+break A}if("app.orders.deliveryStatus.pending"===aa3){w=f9
+break A}if("app.orders.deliveryStatus.delivering"===aa3){w="En cours"
+break A}if("app.orders.deliveryStatus.delivered"===aa3){w=g0
+break A}if("app.orders.deliveryStatus.returned"===aa3){w=g1
+break A}if("app.orders.label"===aa3){w=g2
+break A}if("app.orders.title"===aa3){w=g2
+break A}if("app.orders.create"===aa3){w="Cr\xe9er une commande"
+break A}if("app.orders.update"===aa3){w="Modifier la commande"
+break A}if("app.orders.form.title"===aa3){w="D\xe9tails de la commande"
+break A}if("app.orders.form.sections.customer"===aa3){w="Informations client"
+break A}if("app.orders.form.sections.shipping"===aa3){w="Informations de livraison"
+break A}if("app.orders.form.sections.items"===aa3){w=g3
+break A}if("app.orders.form.sections.payment"===aa3){w="Informations de paiement"
+break A}if("app.orders.form.sections.notes"===aa3){w=d9
+break A}if("app.orders.form.actions.save"===aa3){w="Enregistrer la commande"
+break A}if("app.orders.form.actions.cancel"===aa3){w=k
+break A}if("app.orders.form.actions.delete"===aa3){w="Supprimer la commande"
+break A}if("app.orders.form.actions.addItem"===aa3){w="Ajouter un article"
+break A}if("app.orders.form.actions.removeItem"===aa3){w="Retirer un article"
+break A}if("app.orders.form.validation.required"===aa3){w="Ce champ est obligatoire"
+break A}if("app.orders.form.validation.invalidPhone"===aa3){w="Num\xe9ro de t\xe9l\xe9phone invalide"
+break A}if("app.orders.form.validation.invalidEmail"===aa3){w=g4
+break A}if("app.orders.form.validation.invalidNumberFormat"===aa3){w="Format de nombre invalide"
+break A}if("app.orders.fields.id.label"===aa3){w="ID"
+break A}if("app.orders.fields.id.hint"===aa3){w=i
+break A}if("app.orders.fields.id.helper"===aa3){w="L'identifiant de la commande"
+break A}if("app.orders.fields.note.label"===aa3){w=g5
+break A}if("app.orders.fields.note.hint"===aa3){w="Entrer une note"
+break A}if("app.orders.fields.note.helper"===aa3){w="Note suppl\xe9mentaire pour la commande"
+break A}if("app.orders.fields.customerName.label"===aa3){w="Nom client"
+break A}if("app.orders.fields.customerName.hint"===aa3){w="Entrer le nom du client"
+break A}if("app.orders.fields.customerName.helper"===aa3){w="Nom complet du client"
+break A}if("app.orders.fields.customerPhone.label"===aa3){w=d3
+break A}if("app.orders.fields.customerPhone.hint"===aa3){w="Entrer le t\xe9l\xe9phone du client"
+break A}if("app.orders.fields.customerPhone.helper"===aa3){w="Num\xe9ro de contact"
+break A}if("app.orders.fields.customerIp.label"===aa3){w="IP client"
+break A}if("app.orders.fields.customerIp.hint"===aa3){w="Entrer l\u2019IP du client"
+break A}if("app.orders.fields.customerIp.helper"===aa3){w="Adresse IP du client"
+break A}if("app.orders.fields.customerNote.label"===aa3){w="Note du client"
+break A}if("app.orders.fields.customerNote.hint"===aa3){w="Entrer la note du client"
+break A}if("app.orders.fields.customerNote.helper"===aa3){w="Notes suppl\xe9mentaires du client"
+break A}if("app.orders.fields.shippingNote.label"===aa3){w="Note livraison"
+break A}if("app.orders.fields.shippingNote.hint"===aa3){w="Entrer une note livraison"
+break A}if("app.orders.fields.shippingNote.helper"===aa3){w="Notes suppl\xe9mentaires pour la livraison"
+break A}if("app.orders.fields.privateNote.label"===aa3){w="Note priv\xe9e"
+break A}if("app.orders.fields.privateNote.hint"===aa3){w="Entrer une note priv\xe9e"
+break A}if("app.orders.fields.privateNote.helper"===aa3){w="Note interne pour la commande"
+break A}if("app.orders.fields.shippingAddress.label"===aa3){w=g6
+break A}if("app.orders.fields.shippingAddress.hint"===aa3){w="Entrer l\u2019adresse"
+break A}if("app.orders.fields.shippingAddress.helper"===aa3){w=g6
+break A}if("app.orders.fields.shippingCity.label"===aa3){w=d7
+break A}if("app.orders.fields.shippingCity.hint"===aa3){w="S\xe9lectionner la ville"
+break A}if("app.orders.fields.shippingCity.helper"===aa3){w="Ville de livraison"
+break A}if("app.orders.fields.shippingState.label"===aa3){w=d6
+break A}if("app.orders.fields.shippingState.hint"===aa3){w="S\xe9lectionner la r\xe9gion"
+break A}if("app.orders.fields.shippingState.helper"===aa3){w="R\xe9gion de livraison"
+break A}if("app.orders.fields.shippingMethodId.label"===aa3){w="ID m\xe9thode livraison"
+break A}if("app.orders.fields.shippingMethodId.hint"===aa3){w=g7
+break A}if("app.orders.fields.shippingMethodId.helper"===aa3){w="Identifiant de la m\xe9thode de livraison"
+break A}if("app.orders.fields.shippingType.label"===aa3){w=g8
+break A}if("app.orders.fields.shippingType.hint"===aa3){w="S\xe9lectionner le type"
+break A}if("app.orders.fields.shippingType.helper"===aa3){w="Mode de livraison"
+break A}if("app.orders.fields.shippingType.items.home"===aa3){w="Domicile"
+break A}if("app.orders.fields.shippingType.items.pickup"===aa3){w="Retrait"
+break A}if("app.orders.fields.shippingType.items.store"===aa3){w="Magasin"
+break A}if("app.orders.fields.paymentMethodId.label"===aa3){w="ID m\xe9thode paiement"
+break A}if("app.orders.fields.paymentMethodId.hint"===aa3){w=g7
+break A}if("app.orders.fields.paymentMethodId.helper"===aa3){w="Identifiant de la m\xe9thode de paiement"
+break A}if("app.orders.fields.items.label"===aa3){w=g3
+break A}if("app.orders.fields.items.hint"===aa3){w="S\xe9lectionner les articles"
+break A}if("app.orders.fields.items.helper"===aa3){w="Articles de la commande"
+break A}if("app.orders.fields.subtotal.label"===aa3){w="Sous-total"
+break A}if("app.orders.fields.subtotal.hint"===aa3){w="Entrer le sous-total"
+break A}if("app.orders.fields.subtotal.helper"===aa3){w="Sous-total de la commande"
+break A}if("app.orders.fields.shippingPrice.label"===aa3){w="Frais de livraison"
+break A}if("app.orders.fields.shippingPrice.hint"===aa3){w="Entrer les frais"
+break A}if("app.orders.fields.shippingPrice.helper"===aa3){w="Prix de la livraison"
+break A}if("app.orders.fields.discount.label"===aa3){w="Remise"
+break A}if("app.orders.fields.discount.hint"===aa3){w="Entrer la remise"
+break A}if("app.orders.fields.discount.helper"===aa3){w="Remise appliqu\xe9e"
+break A}if("app.orders.fields.coupon.label"===aa3){w="Coupon"
+break A}if("app.orders.fields.coupon.hint"===aa3){w="Entrer le coupon"
+break A}if("app.orders.fields.coupon.helper"===aa3){w="Coupon appliqu\xe9"
+break A}if("app.orders.fields.storeId.label"===aa3){w="ID magasin"
+break A}if("app.orders.fields.storeId.hint"===aa3){w="Entrer ID magasin"
+break A}if("app.orders.fields.storeId.helper"===aa3){w="Identifiant du magasin"
+break A}if("app.orders.fields.metadata.label"===aa3){w="M\xe9tadonn\xe9es"
+break A}if("app.orders.fields.metadata.hint"===aa3){w="Entrer les m\xe9tadonn\xe9es"
+break A}if("app.orders.fields.metadata.helper"===aa3){w="Donn\xe9es suppl\xe9mentaires"
+break A}if("app.orders.fields.status.label"===aa3){w="Statut commande"
+break A}if("app.orders.fields.status.hint"===aa3){w=g9
+break A}if("app.orders.fields.status.helper"===aa3){w="Statut actuel de la commande"
+break A}if("app.orders.fields.paymentStatus.label"===aa3){w="Statut paiement"
+break A}if("app.orders.fields.paymentStatus.hint"===aa3){w=g9
+break A}if("app.orders.fields.paymentStatus.helper"===aa3){w="\xc9tat du paiement"
+break A}if("app.orders.fields.deliveryStatus.label"===aa3){w="Statut livraison"
+break A}if("app.orders.fields.deliveryStatus.hint"===aa3){w=g9
+break A}if("app.orders.fields.deliveryStatus.helper"===aa3){w="\xc9tat de la livraison"
+break A}if("app.orders.fields.createdAt.label"===aa3){w="Cr\xe9\xe9 le"
+break A}if("app.orders.fields.createdAt.hint"===aa3){w=h0
+break A}if("app.orders.fields.createdAt.helper"===aa3){w="Date et heure de cr\xe9ation"
+break A}if("app.orders.fields.updatedAt.label"===aa3){w="Mis \xe0 jour le"
+break A}if("app.orders.fields.updatedAt.hint"===aa3){w=h0
+break A}if("app.orders.fields.updatedAt.helper"===aa3){w=h1
+break A}if("app.orders.fields.manualTotal.label"===aa3){w="Total manuel"
+break A}if("app.orders.fields.manualTotal.hint"===aa3){w=h2
+break A}if("app.orders.fields.manualTotal.helper"===aa3){w="Total calcul\xe9 manuellement"
 break A}w=v
-break A}if(w==null)B:{w=n9
-if("app.orders.fields.calculatedTotal.hint"===z8){w=g9
-break B}if("app.orders.fields.calculatedTotal.helper"===z8){w="Total calcul\xe9 automatiquement"
-break B}if("app.orders.fields.total.label"===z8){w=a7
-break B}if("app.orders.fields.total.hint"===z8){w=g9
-break B}if("app.orders.fields.total.helper"===z8){w="Montant total de la commande"
-break B}if("app.stores.lockIfHaveDue.title"===z8){w="Contenu verrouill\xe9"
-break B}if("app.stores.lockIfHaveDue.message"===z8){w=y.l9
-break B}if("app.stores.lockIfHaveDue.locked"===z8){w="Verrouill\xe9"
-break B}if("app.stores.duePaymentBanner.title"===z8){w="Vous avez un montant d\xfb \xe0 payer"
-break B}if("app.stores.duePaymentBanner.message"===z8){w=y.d_
-break B}if("app.stores.duePaymentBanner.payButton"===z8){w=h0
-break B}if("app.stores.duePaymentBanner.payButtonShort"===z8){w=h1
-break B}if("app.stores.duePaymentBanner.contactInfo"===z8){w=y.kj
-break B}if("app.stores.duePaymentBanner.contactWhatsApp"===z8){w=h2
-break B}if("app.stores.duePaymentBanner.contactWhatsAppShort"===z8){w=h3
-break B}if("app.stores.duePaymentBanner.dialog.title"===z8){w=h0
-break B}if("app.stores.duePaymentBanner.dialog.dueAmount"===z8){w="Montant d\xfb"
-break B}if("app.stores.duePaymentBanner.dialog.points"===z8){w=h4
-break B}if("app.stores.duePaymentBanner.dialog.paymentAmount"===z8){w="Montant \xe0 payer"
-break B}if("app.stores.duePaymentBanner.dialog.pointsToDeduct"===z8){w="{points} points seront d\xe9duits"
-break B}if("app.stores.duePaymentBanner.dialog.remainingAfterPayment"===z8){w=y.hs
-break B}if("app.stores.duePaymentBanner.dialog.quickActions.payFull"===z8){w="Payer le montant complet"
-break B}if("app.stores.duePaymentBanner.dialog.quickActions.payHalf"===z8){w="Payer la moiti\xe9"
-break B}if("app.stores.duePaymentBanner.dialog.quickActions.payQuarter"===z8){w="Payer le quart"
-break B}if("app.stores.duePaymentBanner.dialog.validation.required"===z8){w=h5
-break B}if("app.stores.duePaymentBanner.dialog.validation.invalid"===z8){w="Veuillez saisir un montant valide"
-break B}if("app.stores.duePaymentBanner.dialog.validation.exceedsDue"===z8){w=y.kc
-break B}if("app.stores.duePaymentBanner.dialog.validation.notMultiple"===z8){w=y.eN
-break B}if("app.stores.duePaymentBanner.dialog.validation.minAmount"===z8){w="Paiement minimum : {amount} DZD"
-break B}if("app.stores.duePaymentBanner.dialog.actions.cancel"===z8){w=l
-break B}if("app.stores.duePaymentBanner.dialog.actions.pay"===z8){w=h1
-break B}if("app.stores.duePaymentBanner.dialog.success"===z8){w=y.kU
-break B}if("app.stores.duePaymentBanner.dialog.error"===z8){w="Erreur de paiement : {error}"
-break B}if("app.stores.subscription.label"===z8){w=h6
-break B}if("app.stores.subscription.subtitle"===z8){w="Profitez des remises de d\xe9but d\u2019ann\xe9e"
-break B}if("app.stores.subscription.renew"===z8){w="Renouveler l\u2019abonnement"
-break B}if("app.stores.subscription.countdown.label"===z8){w="Temps restant pour l\u2019abonnement"
-break B}if("app.stores.subscription.countdown.days"===z8){w="Jour"
-break B}if("app.stores.subscription.countdown.hours"===z8){w="Heure"
-break B}if("app.stores.subscription.countdown.minutes"===z8){w="Minute"
-break B}if("app.stores.subscription.countdown.seconds"===z8){w="Seconde"
-break B}if("app.stores.subscription.countdown.quotaExceeded.title"===z8){w=h7
-break B}if("app.stores.subscription.countdown.quotaExceeded.message"===z8){w=y.jH
-break B}if("app.stores.subscription.countdown.consumedPoints"===z8){w="Points utilis\xe9s"
-break B}if("app.stores.subscription.countdown.points"===z8){w=h4
-break B}if("app.stores.subscription.countdown.exceededBy"===z8){w=new A.e_U()
-break B}if("app.stores.subscription.countdown.remaining"===z8){w=new A.e_V()
-break B}if("app.stores.subscription.countdown.buyPlan"===z8){w="Acheter un forfait"
-break B}if("app.stores.subscription.countdown.chargePoints"===z8){w="Recharger"
-break B}if("app.stores.label"===z8){w=h8
-break B}if("app.stores.myStores"===z8){w="Mes magasins"
-break B}if("app.stores.form.create"===z8){w=h9
-break B}if("app.stores.form.storeNameExample"===z8){w="ex : Mon Magasin"
-break B}if("app.stores.fields.name.label"===z8){w=b2
-break B}if("app.stores.fields.name.hint"===z8){w="Entrer le nom du magasin"
-break B}if("app.stores.fields.name.helper"===z8){w="Nom de votre magasin"
-break B}if("app.stores.fields.title.label"===z8){w=i0
-break B}if("app.stores.fields.title.hint"===z8){w="Entrer le titre du magasin"
-break B}if("app.stores.fields.title.helper"===z8){w="Titre de votre magasin"
-break B}if("app.stores.fields.description.label"===z8){w=c1
-break B}if("app.stores.fields.description.hint"===z8){w=c2
-break B}if("app.stores.fields.description.helper"===z8){w="Description de votre magasin"
-break B}if("app.stores.fields.color.label"===z8){w="Couleur"
-break B}if("app.stores.fields.color.hint"===z8){w="Choisir une couleur"
-break B}if("app.stores.fields.color.helper"===z8){w="Couleur du magasin"
-break B}if("app.stores.fields.slug.label"===z8){w="Slug"
-break B}if("app.stores.fields.slug.hint"===z8){w=c3
-break B}if("app.stores.fields.slug.helper"===z8){w="Le slug est le sous-domaine du magasin"
-break B}if("app.stores.fields.slug.validation"===z8){w=y.b
-break B}if("app.stores.views.title"===z8){w=h8
-break B}if("app.stores.views.searchPlaceholder"===z8){w="Rechercher des magasins..."
-break B}if("app.stores.views.allStores"===z8){w="Tous les magasins"
-break B}if("app.stores.views.createStore"===z8){w=h9
-break B}if("app.stores.views.startSelling"===z8){w="Commencez \xe0 vendre aujourd'hui"
-break B}if("app.stores.views.noStoresYet"===z8){w="Aucun magasin pour le moment"
-break B}if("app.stores.views.noStoresFound"===z8){w="Aucun magasin trouv\xe9"
-break B}if("app.stores.views.createFirstStore"===z8){w="Cr\xe9ez votre premier magasin pour commencer"
-break B}if("app.stores.views.tryDifferentSearch"===z8){w="Essayez un autre terme de recherche"
-break B}if("app.stores.views.active"===z8){w=i1
-break B}if("app.stores.views.noDescription"===z8){w="Aucune description"
-break B}if("app.stores.views.manageStore"===z8){w="G\xe9rer le magasin"
-break B}if("app.stores.views.chooseColor"===z8){w="Choisir la couleur du magasin"
-break B}if("app.stores.views.loadSuccess"===z8){w=new A.e_W()
-break B}if("app.stores.views.loadError"===z8){w="Erreur lors du chargement des magasins"
-break B}if("app.stores.views.loadErrorTitle"===z8){w="\xc9chec du chargement des magasins"
-break B}if("app.stores.views.loadErrorMessage"===z8){w=y.j5
-break B}if("app.stores.views.retry"===z8){w=n
-break B}if("app.stores.views.support"===z8){w="Support"
-break B}if("app.stores.views.emptyStateTitle"===z8){w="Cr\xe9ez votre premier magasin"
-break B}if("app.stores.views.emptyStateMessage"===z8){w=y.j
-break B}if("app.stores.views.watchTutorial"===z8){w="Regarder la vid\xe9o tutorielle"
-break B}if("app.stores.views.defaultBannerTitle"===z8){w="Offres et r\xe9ductions compl\xe8tes"
-break B}if("app.stores.views.defaultDescription"===z8){w=y.on
-break B}if("app.stores.views.verified"===z8){w="V\xe9rifi\xe9"
-break B}if("app.stores.views.openStore"===z8){w="Ouvrir mon magasin"
-break B}if("app.stores.views.quickAccess.balance"===z8){w="Solde"
-break B}if("app.stores.views.quickAccess.scan"===z8){w="Scanner"
-break B}if("app.stores.views.quickAccess.receive"===z8){w=i2
-break B}if("app.stores.views.quickAccess.send"===z8){w=i3
-break B}if("app.stores.views.quickAccess.cards"===z8){w="Cartes"
-break B}if("app.stores.views.quickAccess.comingSoon.scan"===z8){w="Fonctionnalit\xe9 de scan bient\xf4t disponible"
-break B}if("app.stores.views.quickAccess.comingSoon.receiveMoney"===z8){w="Fonctionnalit\xe9 de r\xe9ception d'argent bient\xf4t disponible"
-break B}if("app.stores.views.quickAccess.comingSoon.sendMoney"===z8){w="Fonctionnalit\xe9 d'envoi d'argent bient\xf4t disponible"
-break B}if("app.stores.views.quickAccess.comingSoon.cards"===z8){w="Fonctionnalit\xe9 des cartes bient\xf4t disponible"
-break B}if("app.stores.views.quickAccess.comingSoon.imageGallery"===z8){w="Galerie d'images bient\xf4t disponible"
-break B}if("app.stores.views.aiTools.title"===z8){w="Outils IA"
-break B}if("app.stores.views.aiTools.editImages"===z8){w="Modifier les images"
-break B}if("app.stores.views.aiTools.generateImages"===z8){w="G\xe9n\xe9rer des images"
-break B}if("app.stores.views.aiTools.myImageGallery"===z8){w="Ma galerie d'images"
-break B}if("app.stores.views.partnerProgram.title"===z8){w=i4
-break B}if("app.stores.views.partnerProgram.description"===z8){w=y.I
-break B}if("app.stores.tracking.title"===z8){w=new A.e_X()
-break B}if("app.stores.tracking.message"===z8){w="Vos donn\xe9es seront utilis\xe9es pour mesurer l'efficacit\xe9 publicitaire."
-break B}if("app.stores.tracking.askNotToTrack"===z8){w="Demander \xe0 l'application de ne pas suivre"
-break B}if("app.stores.tracking.allow"===z8){w="Autoriser"
-break B}if("app.dashboard.welcomeUser"===z8){w="Bienvenue, "
-break B}if("app.dashboard.title"===z8){w="Tableau de bord"
-break B}if("app.dashboard.sections.overview.label"===z8){w=d
-break B}if("app.dashboard.sections.overview.statistics"===z8){w=i5
-break B}if("app.dashboard.sections.overview.quickLinks.label"===z8){w="Liens rapides"
-break B}if("app.dashboard.sections.overview.quickLinks.addProduct"===z8){w=i6
-break B}if("app.dashboard.sections.overview.quickLinks.abandonedCarts"===z8){w="Paniers abandonn\xe9s"
-break B}if("app.dashboard.sections.overview.quickLinks.changeTheme"===z8){w="Changer de th\xe8me"
-break B}if("app.dashboard.sections.overview.quickLinks.storeSettings"===z8){w=i7
-break B}if("app.dashboard.sections.overview.recentOrders.label"===z8){w="Commandes r\xe9centes"
-break B}if("app.dashboard.sections.overview.recentOrders.viewAll"===z8){w=i8
-break B}if("app.dashboard.sections.overview.recentCustomers.label"===z8){w="Clients r\xe9cents"
-break B}if("app.dashboard.sections.overview.recentCustomers.viewAll"===z8){w=i8
-break B}if("app.dashboard.sections.statistics.label"===z8){w=i5
-break B}if("app.dashboard.sections.statistics.ordersDistribution"===z8){w="Distribution des commandes"
-break B}if("app.dashboard.sections.statistics.selectState"===z8){w=y.dO
-break B}if("app.dashboard.sections.statistics.selectedState"===z8){w="\xc9tat s\xe9lectionn\xe9 : {state}"
-break B}if("app.dashboard.sections.statistics.orderCount"===z8){w="Nombre de commandes"
-break B}if("app.dashboard.sections.statistics.totalRevenue"===z8){w="Revenu total"
-break B}if("app.dashboard.sections.statistics.averageOrderValue"===z8){w="Valeur moyenne des commandes"
-break B}if("app.dashboard.sections.statistics.topProducts"===z8){w="Meilleurs produits"
-break B}if("app.dashboard.sections.statistics.customerCount"===z8){w="Nombre de clients"
-break B}if("app.dashboard.sections.statistics.metrics.label"===z8){w="Indicateurs cl\xe9s"
-break B}if("app.dashboard.sections.statistics.metrics.overview"===z8){w=d
-break B}if("app.dashboard.sections.statistics.metrics.performance"===z8){w="Performance"
-break B}if("app.dashboard.sections.statistics.metrics.today"===z8){w=r
-break B}if("app.dashboard.sections.statistics.metrics.thisWeek"===z8){w=q
-break B}if("app.dashboard.sections.statistics.metrics.thisMonth"===z8){w=p
-break B}if("app.dashboard.sections.statistics.metrics.lastMonth"===z8){w="Le mois dernier"
-break B}if("app.dashboard.sections.statistics.metrics.customRange"===z8){w="Plage personnalis\xe9e"
-break B}if("app.dashboard.sections.statistics.orders.label"===z8){w=f9
-break B}if("app.dashboard.sections.statistics.orders.pending"===z8){w=f6
-break B}if("app.dashboard.sections.statistics.orders.processing"===z8){w=i9
-break B}if("app.dashboard.sections.statistics.orders.completed"===z8){w="Termin\xe9es"
-break B}if("app.dashboard.sections.statistics.orders.cancelled"===z8){w="Annul\xe9es"
-break B}if("app.dashboard.sections.statistics.orders.byStatus"===z8){w="Commandes par statut"
-break B}if("app.dashboard.sections.statistics.orders.byTime"===z8){w="Commandes par heure"
-break B}if("app.dashboard.sections.statistics.orders.byState"===z8){w="Commandes par \xe9tat"
-break B}if("app.dashboard.sections.statistics.orders.averageProcessingTime"===z8){w="Temps de traitement moyen"
-break B}if("app.dashboard.sections.statistics.orders.conversionRate"===z8){w="Taux de conversion"
-break B}if("app.dashboard.sections.statistics.revenue.label"===z8){w="Revenu"
-break B}if("app.dashboard.sections.statistics.revenue.grossSales"===z8){w="Ventes brutes"
-break B}if("app.dashboard.sections.statistics.revenue.netSales"===z8){w="Ventes nettes"
-break B}if("app.dashboard.sections.statistics.revenue.refunds"===z8){w="Remboursements"
-break B}if("app.dashboard.sections.statistics.revenue.byProduct"===z8){w="Revenu par produit"
-break B}if("app.dashboard.sections.statistics.revenue.byCategory"===z8){w="Revenu par cat\xe9gorie"
-break B}if("app.dashboard.sections.statistics.revenue.growth"===z8){w="Croissance des revenus"
-break B}if("app.dashboard.sections.statistics.revenue.projectedRevenue"===z8){w="Revenu projet\xe9"
-break B}if("app.dashboard.sections.statistics.customers.label"===z8){w="Clients"
-break B}if("app.dashboard.sections.statistics.customers.newCustomers"===z8){w="Nouveaux clients"
-break B}if("app.dashboard.sections.statistics.customers.returningCustomers"===z8){w="Clients fid\xe8les"
-break B}if("app.dashboard.sections.statistics.customers.activeCustomers"===z8){w="Clients actifs"
-break B}if("app.dashboard.sections.statistics.customers.churnRate"===z8){w="Taux de d\xe9sabonnement"
-break B}if("app.dashboard.sections.statistics.customers.lifetimeValue"===z8){w="Valeur vie client"
-break B}if("app.dashboard.sections.statistics.customers.topSpenders"===z8){w="Clients les plus d\xe9pensiers"
-break B}if("app.dashboard.sections.statistics.customers.byState"===z8){w="Clients par \xe9tat"
-break B}if("app.dashboard.sections.statistics.customers.satisfaction"===z8){w="Satisfaction client"
-break B}if("app.dashboard.sections.statistics.products.label"===z8){w=b1
-break B}if("app.dashboard.sections.statistics.products.topSelling"===z8){w="Les plus vendus"
-break B}if("app.dashboard.sections.statistics.products.lowStock"===z8){w="Faible stock"
-break B}if("app.dashboard.sections.statistics.products.outOfStock"===z8){w="En rupture de stock"
-break B}if("app.dashboard.sections.statistics.products.performance"===z8){w="Performance des produits"
-break B}if("app.dashboard.sections.statistics.products.views"===z8){w="Vues des produits"
-break B}if("app.dashboard.sections.statistics.products.conversion"===z8){w="Conversion des produits"
-break B}if("app.dashboard.sections.statistics.products.returns"===z8){w="Retours de produits"
-break B}if("app.dashboard.sections.statistics.insights.label"===z8){w=i5
-break B}if("app.dashboard.sections.statistics.insights.trendingProducts"===z8){w="Produits tendance"
-break B}if("app.dashboard.sections.statistics.insights.peakHours"===z8){w="Heures de pointe d'achat"
-break B}if("app.dashboard.sections.statistics.insights.popularStates"===z8){w="\xc9tats populaires"
-break B}if("app.dashboard.sections.statistics.insights.recommendations"===z8){w="Recommandations"
-break B}if("app.dashboard.sections.orders.label"===z8){w=f9
-break B}if("app.dashboard.sections.orders.search"===z8){w="Rechercher des commandes"
-break B}if("app.dashboard.sections.orders.addOrder"===z8){w=j0
-break B}if("app.dashboard.sections.pos.label"===z8){w="PDV"
-break B}if("app.dashboard.sections.products.label"===z8){w=b1
-break B}if("app.dashboard.sections.products.search"===z8){w="Rechercher des produits"
-break B}if("app.dashboard.sections.products.addProduct"===z8){w=i6
-break B}if("app.dashboard.sections.products.product"===z8){w="Produit"
-break B}if("app.dashboard.sections.products.price"===z8){w=b5
-break B}if("app.dashboard.sections.products.quantity"===z8){w=b6
-break B}if("app.dashboard.sections.products.sales"===z8){w=b7
-break B}if("app.dashboard.sections.products.views"===z8){w=a5
-break B}if("app.dashboard.sections.products.images"===z8){w=b9
-break B}if("app.dashboard.sections.products.form.name.label"===z8){w=b2
-break B}if("app.dashboard.sections.products.form.name.hint"===z8){w="Entrez le nom du produit"
-break B}if("app.dashboard.sections.products.form.title.label"===z8){w=b4
-break B}if("app.dashboard.sections.products.form.title.hint"===z8){w="Le nom connu des clients, par exemple, le nom mentionn\xe9 sur l'emballage ou le nom de la voiture du fabricant."
-break B}if("app.dashboard.sections.customers.label"===z8){w="Clients"
-break B}if("app.dashboard.sections.customers.search"===z8){w="Rechercher des clients"
-break B}if("app.dashboard.sections.customers.addCustomer"===z8){w="Ajouter un client"
-break B}if("app.dashboard.sections.theme.dropComponentHere"===z8){w=j1
-break B}if("app.dashboard.sections.theme.clickAddButtonToInsertComponents"===z8){w=j2
-break B}if("app.dashboard.sections.theme.label"===z8){w="Th\xe8me"
-break B}if("app.dashboard.sections.theme.customize"===z8){w=j3
-break B}if("app.dashboard.sections.theme.install"===z8){w="Installer le th\xe8me"
-break B}if("app.dashboard.sections.theme.settings"===z8){w="Param\xe8tres du th\xe8me"
-break B}if("app.dashboard.sections.theme.editor.discardChangesConfirmation"===z8){w="Vous avez des modifications non enregistr\xe9es. \xcates-vous s\xfbr de vouloir les annuler ?"
-break B}if("app.dashboard.sections.theme.editor.addComponent"===z8){w="Ajouter un composant"
-break B}if("app.dashboard.sections.theme.editor.changesSaved"===z8){w="Modifications enregistr\xe9es avec succ\xe8s"
-break B}if("app.dashboard.sections.theme.editor.unsavedChanges"===z8){w=j4
-break B}if("app.dashboard.sections.theme.editor.componentStatus"===z8){w="Statut du composant"
-break B}if("app.dashboard.sections.theme.editor.componentEnabled"===z8){w="Le composant est visible et fonctionnel"
-break B}if("app.dashboard.sections.theme.editor.componentDisabled"===z8){w="Le composant est masqu\xe9"
-break B}if("app.dashboard.sections.theme.editor.componentOptions"===z8){w="Options du composant"
-break B}if("app.dashboard.sections.theme.editor.noOptions"===z8){w="Aucune option configurable disponible"
-break B}if("app.dashboard.sections.theme.editor.dropComponentHere"===z8){w=j1
-break B}if("app.dashboard.sections.theme.editor.clickAddButtonToInsertComponents"===z8){w=j2
-break B}if("app.dashboard.sections.theme.editor.removeComponent"===z8){w="Supprimer le composant"
-break B}if("app.dashboard.sections.theme.editor.saved"===z8){w="Configurations du th\xe8me enregistr\xe9es"
-break B}if("app.dashboard.sections.theme.editor.enableComponent"===z8){w="Activer le composant"
-break B}if("app.dashboard.sections.theme.editor.title"===z8){w="\xc9diteur de th\xe8me"
-break B}if("app.dashboard.sections.theme.editor.components"===z8){w="Composants"
-break B}if("app.dashboard.sections.theme.editor.searchPlaceholder"===z8){w="Rechercher des composants..."
-break B}if("app.dashboard.sections.theme.editor.noResults"===z8){w="Aucun composant trouv\xe9"
-break B}if("app.dashboard.sections.theme.editor.clearFilters"===z8){w="Effacer les filtres"
-break B}if("app.dashboard.sections.theme.editor.categories.layout"===z8){w=j5
-break B}if("app.dashboard.sections.theme.editor.categories.content"===z8){w="Contenu"
-break B}if("app.dashboard.sections.theme.editor.categories.media"===z8){w="M\xe9dia"
-break B}if("app.dashboard.sections.theme.editor.categories.interactive"===z8){w="Interactif"
-break B}if("app.dashboard.sections.theme.editor.categories.other"===z8){w="Autre"
-break B}if("app.dashboard.sections.theme.editor.actions.save"===z8){w="Enregistrer les modifications"
-break B}if("app.dashboard.sections.theme.editor.actions.reset"===z8){w=m
-break B}if("app.dashboard.sections.theme.editor.actions.preview"===z8){w=d
-break B}if("app.dashboard.sections.theme.editor.actions.themeOptions"===z8){w="Options du th\xe8me"
-break B}if("app.dashboard.sections.shipping.label"===z8){w=a6
-break B}if("app.dashboard.sections.shipping.shippingPrices"===z8){w="Prix d'exp\xe9dition"
-break B}if("app.dashboard.sections.shipping.note.title"===z8){w="Directives de prix"
-break B}if("app.dashboard.sections.shipping.note.subtitle"===z8){w=y.o_
-break B}if("app.dashboard.sections.shipping.toDesk"===z8){w=j6
-break B}if("app.dashboard.sections.shipping.toHome"===z8){w=j7
-break B}if("app.dashboard.sections.shipping.state"===z8){w="\xc9tat"
-break B}if("app.dashboard.sections.shipping.city"===z8){w=d5
-break B}if("app.dashboard.sections.shipping.updateSuccess"===z8){w="Prix mis \xe0 jour avec succ\xe8s"
-break B}if("app.dashboard.sections.shipping.updateError"===z8){w=y.oQ
-break B}if("app.dashboard.sections.shipping.exportTooltip"===z8){w="Exporter les donn\xe9es vers un fichier CSV"
-break B}if("app.dashboard.sections.shipping.fileSaved"===z8){w=new A.e_Y()
-break B}if("app.dashboard.sections.shipping.importTooltip"===z8){w=y.iH
-break B}if("app.dashboard.sections.shipping.importSuccess"===z8){w="Donn\xe9es import\xe9es avec succ\xe8s"
-break B}if("app.dashboard.sections.shipping.editAllPrices"===z8){w="Modifier tous les prix"
-break B}if("app.dashboard.sections.shipping.editAllPricesTitle"===z8){w="Modifier les prix pour tous les \xc9tats"
-break B}if("app.dashboard.sections.shipping.editAllPricesSubtitle"===z8){w=y.n
-break B}if("app.dashboard.sections.shipping.toDeskShort"===z8){w=j6
-break B}if("app.dashboard.sections.shipping.toHomeShort"===z8){w=j7
-break B}if("app.dashboard.sections.integrations.label"===z8){w=j8
-break B}if("app.dashboard.sections.integrations.paymentGateways"===z8){w="Passerelles de paiement"
-break B}if("app.dashboard.sections.integrations.shippingProviders"===z8){w="Fournisseurs d'exp\xe9dition"
-break B}if("app.dashboard.sections.settings.label"===z8){w=j9
-break B}if("app.dashboard.sections.settings.storeSettings"===z8){w=i7
-break B}if("app.dashboard.sections.settings.userSettings"===z8){w="Param\xe8tres utilisateur"
-break B}if("app.dashboard.sections.settings.billing"===z8){w="Facturation"
-break B}if("app.dashboard.sections.settings.plans"===z8){w="Forfaits"
-break B}if("app.dashboard.sections.settings.store.updateImages"===z8){w=k0
-break B}if("app.dashboard.sections.settings.store.changeImages"===z8){w=k1
-break B}if("app.dashboard.sections.settings.store.name"===z8){w=b2
-break B}if("app.dashboard.sections.settings.store.nameDescription"===z8){w="Nom de la boutique (utilis\xe9 pour la recherche et le logo)"
-break B}if("app.dashboard.sections.settings.store.title"===z8){w=i0
-break B}if("app.dashboard.sections.settings.store.titleDescription"===z8){w="Description de la boutique (utilis\xe9e pour la recherche et l'affichage)"
-break B}if("app.dashboard.sections.settings.store.advertisementTitle"===z8){w="Titre de l'annonce"
-break B}if("app.dashboard.sections.settings.store.advertisementTitleDescription"===z8){w="Titre affich\xe9 en haut du site"
-break B}if("app.dashboard.sections.settings.store.enable"===z8){w=k2
-break B}if("app.dashboard.sections.settings.store.enableDescription"===z8){w="Afficher ou masquer l'annonce"
-break B}if("app.dashboard.sections.settings.store.domain"===z8){w="Votre nom de domaine"
-break B}if("app.dashboard.sections.settings.store.subdomain"===z8){w=k3
-break B}if("app.dashboard.sections.settings.store.disableAbandonedOrders"===z8){w="D\xe9sactiver les commandes abandonn\xe9es"
-break B}if("app.dashboard.sections.settings.store.disableAbandonedOrdersDescription"===z8){w="Les commandes abandonn\xe9es ne seront pas enregistr\xe9es"
-break B}if("app.dashboard.sections.settings.store.primaryColor"===z8){w=k4
-break B}if("app.dashboard.sections.settings.store.secondaryColor"===z8){w=k5
-break B}if("app.dashboard.sections.settings.store.secondaryColorDescription"===z8){w="Utilis\xe9 pour les \xe9l\xe9ments secondaires et le texte important"
-break B}if("app.dashboard.sections.settings.store.primaryColorDark"===z8){w="Couleur principale (mode sombre)"
-break B}if("app.dashboard.sections.settings.store.secondaryColorDark"===z8){w="Couleur secondaire (mode sombre)"
-break B}if("app.dashboard.sections.settings.store.secondaryColorDarkDescription"===z8){w="Utilis\xe9 pour les \xe9l\xe9ments secondaires en mode sombre"
-break B}if("app.dashboard.sections.settings.store.addressesAndBranches"===z8){w=k6
-break B}if("app.dashboard.sections.settings.store.addBranch"===z8){w=k7
-break B}if("app.dashboard.sections.settings.store.cityAndStateNotSpecified"===z8){w="Ville et \xe9tat non sp\xe9cifi\xe9s"
-break B}if("app.dashboard.sections.settings.store.deleteBranch"===z8){w=k8
-break B}if("app.dashboard.sections.settings.store.confirmDeleteBranch"===z8){w=k9
-break B}if("app.dashboard.sections.settings.store.editBranch"===z8){w=l0
-break B}if("app.dashboard.sections.settings.store.contacts"===z8){w="Contacts"
-break B}if("app.dashboard.sections.settings.store.addContact"===z8){w=l1
-break B}if("app.dashboard.sections.settings.store.editContact"===z8){w=l2
-break B}if("app.dashboard.sections.settings.store.deleteContact"===z8){w=l3
-break B}if("app.dashboard.sections.settings.store.confirmDeleteContact"===z8){w=l4
-break B}if("app.dashboard.sections.settings.store.delete"===z8){w=a1
-break B}if("app.dashboard.sections.settings.store.customLabels"===z8){w="\xc9tiquettes personnalis\xe9es (commandes)"
-break B}if("app.dashboard.sections.settings.store.customOrderStatuses"===z8){w=l5
-break B}if("app.dashboard.sections.settings.store.noCustomStatusesAdded"===z8){w="Aucun statut personnalis\xe9 ajout\xe9 pour l'instant"
-break B}if("app.dashboard.sections.settings.store.importTemplate"===z8){w=l6
-break B}if("app.dashboard.sections.settings.store.categories"===z8){w=l7
-break B}if("app.dashboard.sections.settings.store.addCategory"===z8){w=l8
-break B}if("app.dashboard.sections.settings.store.storeCategory"===z8){w=l9
-break B}if("app.dashboard.sections.settings.store.editCategory"===z8){w=m0
-break B}if("app.dashboard.sections.settings.store.deleteCategory"===z8){w=m1
-break B}if("app.dashboard.sections.settings.store.confirmDeleteCategory"===z8){w=m2
-break B}if("app.dashboard.sections.settings.store.shippingAndDelivery"===z8){w=m3
-break B}if("app.dashboard.sections.settings.store.membersAndRoles"===z8){w=m4
-break B}if("app.dashboard.sections.settings.store.codeCopied"===z8){w=m5
-break B}if("app.dashboard.sections.settings.store.updateSuccess"===z8){w="Mis \xe0 jour avec succ\xe8s"
-break B}if("app.dashboard.sections.settings.store.addCustomStatus"===z8){w=m6
-break B}if("app.dashboard.sections.settings.store.statusColor"===z8){w="Couleur du statut (facultatif)"
-break B}if("app.dashboard.sections.settings.store.chooseColor"===z8){w="Choisir"
-break B}if("app.dashboard.sections.settings.store.editCustomStatus"===z8){w=m7
-break B}if("app.dashboard.sections.settings.store.deleteCustomStatus"===z8){w=m8
-break B}if("app.dashboard.sections.settings.store.cancel"===z8){w=l
-break B}if("app.dashboard.sections.expandMenu"===z8){w="D\xe9velopper le menu"
-break B}if("app.dashboard.sections.collapseMenu"===z8){w="R\xe9duire le menu"
-break B}if("app.pos.ticket.printDirectly"===z8){w="Imprimer directement"
-break B}if("app.pos.ticket.skipPrintDialog"===z8){w="Ignorer la bo\xeete d\u2019impression"
-break B}if("app.pos.ticket.label"===z8){w="Ticket"
-break B}if("app.pos.ticket.thanks"===z8){w="Merci pour votre achat"
-break B}if("app.pos.ticket.preview"===z8){w=d
-break B}if("app.pos.ticket.print"===z8){w=e7
-break B}if("app.pos.scan"===z8){w="Scanner le code-barres"
-break B}if("app.pos.noProductFound"===z8){w="Aucun produit trouv\xe9 avec ce SKU"
-break B}if("app.pos.scanError"===z8){w="Erreur de scan"
-break B}if("app.pos.refreshProducts"===z8){w="Actualiser les produits"
-break B}if("app.pos.noResults"===z8){w="Aucun r\xe9sultat trouv\xe9"
-break B}if("app.pos.barcodeOrSku"===z8){w="Code-barres / SKU"
-break B}if("app.pos.enterBarcodeOrSku"===z8){w="Scanner ou entrer un code-barres/SKU"
-break B}if("app.pos.quickAccess"===z8){w="Acc\xe8s rapide"
-break B}if("app.pos.scanToAdd"===z8){w="Scanner pour ajouter un produit"
-break B}if("app.pos.title"===z8){w="Point de vente"
-break B}if("app.pos.shortcuts.title"===z8){w="Raccourcis"
-break B}if("app.pos.shortcuts.checkout"===z8){w=m9
-break B}if("app.pos.shortcuts.scan"===z8){w="Scanner un code-barres"
-break B}if("app.pos.search.label"===z8){w="Rechercher produits"
-break B}if("app.pos.search.hint"===z8){w=b3
-break B}if("app.pos.search.helper"===z8){w="Rechercher parmi les produits"
-break B}if("app.pos.cart.title"===z8){w="Panier"
-break B}if("app.pos.cart.empty"===z8){w="Le panier est vide"
-break B}if("app.pos.cart.total"===z8){w=a7
-break B}if("app.pos.cart.checkout"===z8){w="Encaisser"
-break B}if("app.pos.cart.processing"===z8){w=n0
-break B}if("app.pos.cart.quickCheckout"===z8){w=m9
-break B}if("app.pos.cart.added"===z8){w="ajout\xe9 au panier"
-break B}if("app.pos.cart.clear"===z8){w=n1
-break B}if("app.pos.cart.clearTitle"===z8){w=n1
-break B}if("app.pos.cart.clearConfirm"===z8){w="Voulez-vous vraiment vider le panier ?"
-break B}if("app.pos.actions.addToCart"===z8){w=n2
-break B}if("app.pos.actions.removeFromCart"===z8){w="Retirer du panier"
-break B}if("app.pos.actions.increaseQuantity"===z8){w="Augmenter quantit\xe9"
-break B}if("app.pos.actions.decreaseQuantity"===z8){w="Diminuer quantit\xe9"
-break B}if("app.integrations.title"===z8){w=j8
-break B}if("app.integrations.description"===z8){w=y.ms
-break B}if("app.integrations.advertisingServices"===z8){w="Services de publicit\xe9 et de marketing"
-break B}if("app.integrations.shippingServices"===z8){w="Services de livraison"
-break B}if("app.integrations.security.title"===z8){w=n3
-break B}if("app.integrations.security.card.title"===z8){w="S\xe9curit\xe9"
-break B}if("app.integrations.security.card.description"===z8){w=y.ll
-break B}if("app.integrations.security.card.active"===z8){w=i1
-break B}if("app.integrations.security.card.enable"===z8){w=n4
-break B}if("app.integrations.security.card.disable"===z8){w="D\xe9sactiver la s\xe9curit\xe9"
-break B}if("app.integrations.security.card.settings"===z8){w=j9
-break B}if("app.integrations.security.card.setup"===z8){w="Configurer la s\xe9curit\xe9"
-break B}if("app.integrations.security.card.disconnect"===z8){w=n5
-break B}if("app.integrations.security.dialog.setupTitle"===z8){w="Configurer l'int\xe9gration de s\xe9curit\xe9"
-break B}if("app.integrations.security.dialog.setupDescription"===z8){w=y.oO
-break B}if("app.integrations.security.dialog.setup"===z8){w="Configurer"
-break B}if("app.integrations.security.dialog.setupSuccess"===z8){w=y.ej
-break B}if("app.integrations.security.dialog.enable"===z8){w=k2
-break B}if("app.integrations.security.dialog.disable"===z8){w=n6
-break B}if("app.integrations.security.dialog.enabled"===z8){w=n7
-break B}if("app.integrations.security.dialog.disabled"===z8){w=n8
-break B}if("app.integrations.security.dialog.disconnectConfirmation"===z8){w=y.mB
-break B}if("app.integrations.security.general.title"===z8){w=n3
-break B}if("app.integrations.security.general.description"===z8){w=y.b8
-break B}if("app.integrations.security.general.toggleTitle"===z8){w=n4
-break B}if("app.integrations.security.general.toggleSubtitle"===z8){w=y.d
-break B}if("app.integrations.security.general.enabled"===z8){w=n7
-break B}if("app.integrations.security.general.disabled"===z8){w=n8
-break B}if("app.integrations.security.general.error"===z8){w=y.eG
-break B}if("app.integrations.security.orders.title"===z8){w="Protection des commandes"
-break B}if("app.integrations.security.orders.subtitle"===z8){w=y.lJ
-break B}if("app.integrations.security.orders.frontendTitle"===z8){w="Activer la protection sur l'interface"
-break B}if("app.integrations.security.orders.frontendSubtitle"===z8){w=y.t
-break B}if("app.integrations.security.orders.backendTitle"===z8){w="Activer la protection c\xf4t\xe9 serveur"
-break B}if("app.integrations.security.orders.backendSubtitle"===z8){w=y.n2
-break B}if("app.integrations.security.orders.directTitle"===z8){w="Bloquer les commandes directes"
-break B}if("app.integrations.security.orders.directSubtitle"===z8){w=y.h
-break B}if("app.integrations.security.orders.adsTitle"===z8){w=y.B
-break B}if("app.integrations.security.orders.adsSubtitle"===z8){w=y.mS
-break B}if("app.integrations.security.orders.durationsTitle"===z8){w="Dur\xe9es de blocage"
-break B}if("app.integrations.security.orders.durationsSubtitle"===z8){w=y.z
-break B}if("app.integrations.security.orders.ipLabel"===z8){w="Blocage IP"
-break B}if("app.integrations.security.orders.ipHelper"===z8){w="Exemple : 24 heures"
-break B}if("app.integrations.security.orders.phoneLabel"===z8){w="Blocage num\xe9ro de t\xe9l\xe9phone"
-break B}if("app.integrations.security.orders.phoneHelper"===z8){w="Exemple : 3 jours"
-break B}if("app.integrations.security.orders.unitLabel"===z8){w="Unit\xe9"
-break B}if("app.integrations.security.orders.save"===z8){w="Enregistrer la protection des commandes"
-break B}if("app.integrations.security.orders.saving"===z8){w="Enregistrement..."
-break B}if("app.integrations.security.orders.success"===z8){w="Protection des commandes enregistr\xe9e"
-break B}if("app.integrations.security.orders.error"===z8){w=y.iJ
-break B}if("app.integrations.security.orders.validation.required"===z8){w="Veuillez saisir une dur\xe9e"
-break B}if("app.integrations.security.orders.validation.positive"===z8){w="Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"
-break B}if("app.integrations.security.units.seconds"===z8){w="Secondes"
-break B}if("app.integrations.security.units.minutes"===z8){w="Minutes"
-break B}if("app.integrations.security.units.hours"===z8){w="Heures"
-break B}if("app.integrations.security.units.days"===z8){w="Jours"
-break B}if("app.integrations.ecotrack.title"===z8){w="Ecotrack"
-break B}if("app.integrations.ecotrack.description"===z8){w=y.D
-break B}if("app.integrations.ecotrack.copyRates"===z8)break B
-if("app.integrations.ecotrack.copyRatesTitle"===z8)break B
-if("app.integrations.ecotrack.copyRatesDescription"===z8){w=o0
-break B}if("app.integrations.ecotrack.copyRatesSuccess"===z8){w=o1
-break B}if("app.integrations.ecotrack.connect"===z8){w=o2
-break B}if("app.integrations.ecotrack.disconnect"===z8){w=n5
-break B}if("app.integrations.ecotrack.disconnectConfirmation"===z8){w="Voulez-vous d\xe9connecter le service Ecotrack de votre boutique ?"
-break B}if("app.integrations.ecotrack.settings.title"===z8){w="Param\xe8tres Ecotrack"
-break B}if("app.integrations.ecotrack.settings.baseUrl"===z8){w="URL de base"
-break B}if("app.integrations.ecotrack.settings.token"===z8){w=o3
-break B}if("app.integrations.ecotrack.settings.active"===z8){w=i1
-break B}if("app.integrations.ecotrack.finance.title"===z8){w=o4
-break B}if("app.integrations.ecotrack.finance.summaryTitle"===z8){w=o4
-break B}if("app.integrations.ecotrack.finance.loading"===z8){w="Chargement des donn\xe9es financi\xe8res..."
-break B}if("app.integrations.ecotrack.finance.error"===z8){w=y.iM
-break B}if("app.integrations.ecotrack.finance.refresh"===z8){w=a2
-break B}if("app.integrations.ecotrack.finance.totalEncaissed"===z8){w="Total encaiss\xe9"
-break B}if("app.integrations.ecotrack.finance.totalNotEncaissed"===z8){w="Non encaiss\xe9"
-break B}if("app.integrations.ecotrack.finance.totalPaymentReady"===z8){w="Paiement pr\xeat"
-break B}if("app.integrations.ecotrack.finance.receivedFunds"===z8){w="Fonds re\xe7us"
-break B}if("app.integrations.ecotrack.finance.collectionRate"===z8){w="Taux de recouvrement"
-break B}if("app.integrations.ecotrack.finance.deliveryRate"===z8){w="Taux de livraison"
-break B}if("app.integrations.ecotrack.finance.returnRate"===z8){w="Taux de retour"
-break B}if("app.integrations.ecotrack.finance.todaySuccess"===z8){w="Succ\xe8s d'aujourd'hui"
-break B}if("app.integrations.ecotrack.finance.amounts"===z8){w="Montants"
-break B}if("app.integrations.ecotrack.finance.fees"===z8){w="Frais"
-break B}if("app.integrations.ecotrack.finance.net"===z8){w="Net"
-break B}if("app.integrations.ecotrack.finance.currency"===z8){w=a3
-break B}if("app.integrations.ecotrack.finance.lastUpdated"===z8){w=g8
-break B}if("app.integrations.ecotrack.finance.noData"===z8){w="Aucune donn\xe9e financi\xe8re disponible"
-break B}if("app.integrations.ecotrack.statistics.title"===z8){w=i5
-break B}if("app.integrations.ecotrack.statistics.loading"===z8){w="Chargement des statistiques..."
-break B}if("app.integrations.ecotrack.statistics.error"===z8){w="\xc9chec du chargement des statistiques"
-break B}if("app.integrations.ecotrack.statistics.refresh"===z8){w=a2
-break B}if("app.integrations.ecotrack.statistics.noData"===z8){w="Aucune statistique disponible"
-break B}if("app.integrations.ecotrack.statistics.todayActivity"===z8){w="Activit\xe9 du jour"
-break B}if("app.integrations.ecotrack.statistics.globalStats"===z8){w="Statistiques globales"
-break B}if("app.integrations.ecotrack.statistics.topWilaya"===z8){w="Meilleures wilayas"
-break B}if("app.integrations.ecotrack.statistics.expedie"===z8){w="Exp\xe9di\xe9"
-break B}if("app.integrations.ecotrack.statistics.delivered"===z8){w=f7
-break B}if("app.integrations.ecotrack.statistics.returned"===z8){w=f8
-break B}if("app.integrations.ecotrack.statistics.suspended"===z8){w="Suspendu"
-break B}if("app.integrations.ecotrack.statistics.enTraitement"===z8){w=i9
-break B}if("app.integrations.ecotrack.statistics.livred"===z8){w=f7
-break B}if("app.integrations.ecotrack.statistics.retours"===z8){w="Retours"
-break B}if("app.integrations.ecotrack.statistics.total"===z8){w=a7
-break B}if("app.integrations.ecotrack.statistics.orders"===z8){w=f9
-break B}if("app.integrations.yalidine.title"===z8){w="Yalidine Express"
-break B}if("app.integrations.yalidine.description"===z8){w=y.lP
-break B}if("app.integrations.yalidine.copyRates"===z8)break B
-if("app.integrations.yalidine.copyRatesTitle"===z8)break B
-if("app.integrations.yalidine.copyRatesDescription"===z8){w=o0
-break B}if("app.integrations.yalidine.copyRatesSuccess"===z8){w=o1
-break B}if("app.integrations.yalidine.connect"===z8){w=o2
-break B}if("app.integrations.yalidine.disconnect"===z8){w=n5
-break B}if("app.integrations.yalidine.disconnectConfirmation"===z8){w=y.gq
-break B}if("app.integrations.yalidine.forceFreeShipping"===z8){w=o5
-break B}if("app.integrations.yalidine.forceFreeShippingDescription"===z8){w=o6
-break B}if("app.integrations.yalidine.webhook"===z8){w="Webhook"
-break B}if("app.integrations.yalidine.webhookTitle"===z8){w="Param\xe8tres Webhook"
-break B}if("app.integrations.yalidine.webhookDescription"===z8){w=y.lc
-break B}if("app.integrations.yalidine.webhookUrlLabel"===z8){w="URL du Webhook"
-break B}if("app.integrations.yalidine.webhookCopy"===z8){w="Copier l'URL"
-break B}if("app.integrations.yalidine.webhookCopied"===z8){w="URL du webhook copi\xe9e"
-break B}if("app.integrations.yalidine.webhookSecretLabel"===z8){w="Cl\xe9 secr\xe8te du Webhook"
-break B}if("app.integrations.yalidine.webhookSecretDescription"===z8){w=o7
-break B}if("app.integrations.yalidine.webhookSecretCopied"===z8){w="Cl\xe9 secr\xe8te copi\xe9e"
-break B}if("app.integrations.yalidine.webhookSecretCopy"===z8){w="Copier la cl\xe9"
-break B}if("app.integrations.yalidine.webhookWarningTitle"===z8){w="Avertissement de s\xe9curit\xe9"
-break B}if("app.integrations.yalidine.webhookWarningDescription"===z8){w=y.U
-break B}if("app.integrations.yalidine.webhookAddSecret"===z8){w="Ajouter la cl\xe9 secr\xe8te"
-break B}if("app.integrations.yalidine.webhookClose"===z8){w=i
-break B}if("app.integrations.yalidine.settings.title"===z8){w=y.T
-break B}if("app.integrations.yalidine.settings.description"===z8){w=y.ma
-break B}if("app.integrations.yalidine.settings.appIdLabel"===z8){w="ID de l'application APP ID"
-break B}if("app.integrations.yalidine.settings.appIdHint"===z8){w="737001705622XXXXXXXX"
-break B}if("app.integrations.yalidine.settings.appIdHelper"===z8){w=y.k_
-break B}if("app.integrations.yalidine.settings.apiKeyLabel"===z8){w=o8
-break B}if("app.integrations.yalidine.settings.apiKeyHint"===z8){w="ETfCW1W8mtxa..."
-break B}if("app.integrations.yalidine.settings.apiKeyHelper"===z8){w=y.bH
-break B}if("app.integrations.yalidine.settings.webhookSecretLabel"===z8){w="Cl\xe9 secr\xe8te du Webhook (Optionnel)"
-break B}if("app.integrations.yalidine.settings.webhookSecretHint"===z8){w="webhook_secret_key_123..."
-break B}if("app.integrations.yalidine.settings.webhookSecretHelper"===z8){w=o7
-break B}if("app.integrations.yalidine.settings.agentLabel"===z8){w="Agent"
-break B}if("app.integrations.yalidine.settings.stateLabel"===z8){w="\xc9tat de d\xe9part"
-break B}if("app.integrations.yalidine.settings.activeTitle"===z8){w="Activer le service"
-break B}if("app.integrations.yalidine.settings.forceFreeShippingTitle"===z8){w=o5
-break B}if("app.integrations.yalidine.settings.forceFreeShippingSubtitle"===z8){w=o6
-break B}if("app.integrations.yalidine.settings.id"===z8){w="ID"
-break B}if("app.integrations.yalidine.settings.token"===z8){w=o3
-break B}if("app.integrations.yalidine.settings.agent"===z8){w="Agent"
-break B}if("app.integrations.yalidine.settings.active"===z8){w=i1
-break B}if("app.integrations.procolis.title"===z8){w="Procolis"
-break B}if("app.integrations.procolis.unknownError"===z8){w=e5
-break B}if("app.integrations.procolis.copyRatesTitle"===z8){w="Copier les tarifs depuis Procolis"
-break B}if("app.integrations.procolis.copyRatesDescription"===z8){w=y.L
-break B}if("app.integrations.procolis.copyRatesSuccess"===z8){w=y.p
-break B}if("app.integrations.procolis.copyRates"===z8)break B
-w=v
-break B}if(w==null)C:{w=n5
-if("app.integrations.procolis.description"===z8){w=y.p9
-break C}if("app.integrations.procolis.connect"===z8){w=o2
-break C}if("app.integrations.procolis.disconnect"===z8)break C
-if("app.integrations.procolis.disconnectConfirmation"===z8){w=y.gA
-break C}if("app.integrations.procolis.settings.title"===z8){w="Param\xe8tres Procolis"
-break C}if("app.integrations.procolis.settings.key"===z8){w=o8
-break C}if("app.integrations.procolis.settings.token"===z8){w=o3
-break C}if("app.integrations.procolis.settings.active"===z8){w=i1
-break C}if("app.integrations.metaPixel.title"===z8){w="Meta Pixel"
-break C}if("app.integrations.metaPixel.description"===z8){w=y.eQ
-break C}if("app.integrations.metaPixel.connect"===z8){w=o2
-break C}if("app.integrations.metaPixel.disconnect"===z8)break C
-if("app.integrations.metaPixel.disconnectConfirmation"===z8){w=y.m
-break C}if("app.integrations.metaPixel.addPixel"===z8){w=o9
-break C}if("app.integrations.metaPixel.pixelId"===z8){w=p0
-break C}if("app.integrations.metaPixel.error"===z8){w="Erreur de connexion \xe0 Meta Pixel"
-break C}if("app.integrations.metaPixel.noPixelsConfigured"===z8){w=p1
-break C}if("app.integrations.metaPixel.pixelDetails"===z8){w=new A.e_Z()
-break C}if("app.integrations.metaPixel.pixelNameHint"===z8){w=p2
-break C}if("app.integrations.metaPixel.apiKey"===z8){w="Cl\xe9 API (Optionnelle)"
-break C}if("app.integrations.metaPixel.newPixelName"===z8){w="Nouveau Pixel"
-break C}if("app.integrations.metaPixel.settings.title"===z8){w="Param\xe8tres Meta Pixel"
-break C}if("app.integrations.metaPixel.settings.active"===z8){w=i1
-break C}if("app.integrations.metaPixel.settings.activeHint"===z8){w=p3
-break C}if("app.integrations.metaPixel.success"===z8){w="Meta Pixel connect\xe9 avec succ\xe8s"
-break C}if("app.integrations.metaPixel.editPixel"===z8){w=p4
-break C}if("app.integrations.metaPixel.deletePixelConfirmation"===z8){w=new A.e0_()
-break C}if("app.integrations.metaPixel.selectPixel"===z8){w=p5
-break C}if("app.integrations.metaPixel.testCAPI"===z8){w=p6
-break C}if("app.integrations.metaPixel.catalog"===z8){w=p7
-break C}if("app.integrations.metaPixel.sendTestEvent"===z8){w=p8
-break C}if("app.integrations.metaPixel.sendTestEventDescription"===z8){w=y.X
-break C}if("app.integrations.metaPixel.testCode"===z8){w=p9
-break C}if("app.integrations.metaPixel.testEventSent"===z8){w=q0
-break C}if("app.integrations.tiktokPixel.title"===z8){w="TikTok Pixel"
-break C}if("app.integrations.tiktokPixel.description"===z8){w=y.nt
-break C}if("app.integrations.tiktokPixel.connect"===z8){w=o2
-break C}if("app.integrations.tiktokPixel.disconnect"===z8)break C
-if("app.integrations.tiktokPixel.disconnectConfirmation"===z8){w=y.mv
-break C}if("app.integrations.tiktokPixel.addPixel"===z8){w=o9
-break C}if("app.integrations.tiktokPixel.editPixel"===z8){w=p4
-break C}if("app.integrations.tiktokPixel.pixelId"===z8){w=p0
-break C}if("app.integrations.tiktokPixel.pixelNameHint"===z8){w=p2
-break C}if("app.integrations.tiktokPixel.accessToken"===z8){w="Jeton d\u2019acc\xe8s"
-break C}if("app.integrations.tiktokPixel.noPixelsConfigured"===z8){w=p1
-break C}if("app.integrations.tiktokPixel.deletePixelConfirmation"===z8){w=new A.e00()
-break C}if("app.integrations.tiktokPixel.settings.title"===z8){w="Param\xe8tres TikTok Pixel"
-break C}if("app.integrations.tiktokPixel.settings.active"===z8){w=i1
-break C}if("app.integrations.tiktokPixel.settings.activeHint"===z8){w=p3
-break C}if("app.integrations.tiktokPixel.success"===z8){w="TikTok Pixel connect\xe9 avec succ\xe8s"
-break C}if("app.integrations.tiktokPixel.error"===z8){w="Erreur de connexion \xe0 TikTok Pixel"
-break C}if("app.integrations.tiktokPixel.selectPixel"===z8){w=p5
-break C}if("app.integrations.tiktokPixel.unnamedPixel"===z8){w=q1
-break C}if("app.integrations.tiktokPixel.testEventsApi"===z8){w="Tester Events API"
-break C}if("app.integrations.tiktokPixel.catalog"===z8){w=p7
-break C}if("app.integrations.tiktokPixel.sendTestEvent"===z8){w=p8
-break C}if("app.integrations.tiktokPixel.sendTestEventDescription"===z8){w=y.lW
-break C}if("app.integrations.tiktokPixel.testCode"===z8){w=p9
-break C}if("app.integrations.tiktokPixel.testEventSent"===z8){w=q0
-break C}if("app.integrations.maystro.title"===z8){w="Maystro"
-break C}if("app.integrations.maystro.description"===z8){w="Connectez votre boutique au service de livraison rapide Maystro\nFournit les tarifs de livraison et l\u2019envoi direct des commandes"
-break C}if("app.integrations.maystro.connect"===z8){w=o2
-break C}if("app.integrations.maystro.disconnect"===z8)break C
-if("app.integrations.maystro.comingSoon"===z8){w=t
-break C}if("app.integrations.maystro.disconnectConfirmation"===z8){w="Voulez-vous d\xe9connecter le service Maystro de votre boutique ?"
-break C}if("app.integrations.noest.title"===z8){w="Noest"
-break C}if("app.integrations.noest.description"===z8){w=y.hR
-break C}if("app.integrations.noest.connect"===z8){w=o2
-break C}if("app.integrations.noest.disconnect"===z8)break C
-if("app.integrations.noest.disconnectConfirmation"===z8){w=y.f6
-break C}if("app.integrations.noest.copyRates"===z8){w=n9
-break C}if("app.integrations.noest.copyRatesTitle"===z8){w=n9
-break C}if("app.integrations.noest.copyRatesDescription"===z8){w=o0
-break C}if("app.integrations.noest.copyRatesSuccess"===z8){w=o1
-break C}if("app.integrations.noest.settings.title"===z8){w="Param\xe8tres Noest"
-break C}if("app.integrations.noest.settings.guid"===z8){w="GUID Utilisateur"
-break C}if("app.integrations.noest.settings.token"===z8){w=o3
-break C}if("app.integrations.noest.settings.active"===z8){w=i1
-break C}if("app.integrations.noest.orderType"===z8){w="Type de commande"
-break C}if("app.integrations.noest.deliveryType"===z8){w=g5
-break C}if("app.integrations.noest.customerName"===z8){w=d0
-break C}if("app.integrations.noest.phone"===z8){w=c7
-break C}if("app.integrations.noest.phone2"===z8){w="T\xe9l\xe9phone alternatif"
-break C}if("app.integrations.noest.address"===z8){w="Adresse"
-break C}if("app.integrations.noest.weight"===z8){w="Poids"
-break C}if("app.integrations.noest.total"===z8){w=a7
-break C}if("app.integrations.noest.canOpen"===z8){w="Peut ouvrir le colis"
-break C}if("app.integrations.noest.canOpenDescription"===z8){w="Autoriser le client \xe0 ouvrir le colis avant paiement"
-break C}if("app.integrations.noest.pickupFromOffice"===z8){w="Retrait au bureau"
-break C}if("app.integrations.noest.pickupFromOfficeDescription"===z8){w="Le client retirera le colis au bureau Noest"
-break C}if("app.integrations.noest.stationCode"===z8){w="Point de retrait"
-break C}if("app.integrations.noest.notes"===z8){w="Remarques"
-break C}if("app.integrations.noest.success"===z8){w=e6
-break C}if("app.integrations.noest.error"===z8){w="Erreur lors de l\u2019envoi de la commande \xe0 Noest"
-break C}if("app.integrations.noest.unknownError"===z8){w="Une erreur inconnue est survenue"
-break C}if("app.integrations.noest.state"===z8){w="Wilaya"
-break C}if("app.integrations.noest.city"===z8){w=d5
-break C}if("app.integrations.noest.selectCity"===z8){w=d6
-break C}if("app.integrations.noest.orderTypes.delivery.title"===z8){w=c8
-break C}if("app.integrations.noest.orderTypes.delivery.description"===z8){w="Effectuer une livraison"
-break C}if("app.integrations.noest.orderTypes.exchange.title"===z8){w="\xc9change"
-break C}if("app.integrations.noest.orderTypes.exchange.description"===z8){w="\xc9changer le colis avec le client final"
-break C}if("app.integrations.noest.orderTypes.pickup.title"===z8){w="Ramassage"
-break C}if("app.integrations.noest.orderTypes.pickup.description"===z8){w=y.m9
-break C}if("app.integrations.noest.deliveryTypes.home.title"===z8){w="Livraison \xe0 domicile"
-break C}if("app.integrations.noest.deliveryTypes.home.description"===z8){w="Livrer directement \xe0 l\u2019adresse du client"
-break C}if("app.integrations.noest.deliveryTypes.desk.title"===z8){w="Point relais"
-break C}if("app.integrations.noest.deliveryTypes.desk.description"===z8){w="Livrer au bureau Noest le plus proche"
-break C}if("app.integrations.chronorex.title"===z8){w="Chronorex offre des avantages exclusifs aux boutiques Feeef"
-break C}if("app.integrations.chronorex.subtitle"===z8){w="Profitez de tarifs r\xe9duits et d\u2019autres avantages avec les partenaires Feeef"
-break C}if("app.integrations.googleSheets.title"===z8){w="Google Sheets"
-break C}if("app.integrations.googleSheets.description"===z8){w=y.cK
-break C}if("app.integrations.googleSheets.connect"===z8){w=o2
-break C}if("app.integrations.googleSheets.disconnect"===z8)break C
-if("app.integrations.googleSheets.open"===z8){w="Ouvrir"
-break C}if("app.integrations.googleSheets.disconnectConfirmation"===z8){w="Voulez-vous d\xe9connecter le service Google Sheets de votre boutique ?"
-break C}if("app.integrations.googleSheets.syncHeaders"===z8){w="Synchroniser les en-t\xeates"
-break C}if("app.integrations.googleSheets.syncHeadersLoading"===z8){w="Synchronisation des en-t\xeates..."
-break C}if("app.integrations.googleSheets.syncHeadersSuccess"===z8){w="En-t\xeates synchronis\xe9s avec succ\xe8s"
-break C}if("app.integrations.googleSheets.syncHeadersError"===z8){w=y.fz
-break C}if("app.integrations.googleSheets.settings.title"===z8){w="Param\xe8tres Google Sheets"
-break C}if("app.integrations.googleSheets.settings.active"===z8){w=i1
-break C}if("app.integrations.googleAnalytics.title"===z8){w="Google Analytics"
-break C}if("app.integrations.googleAnalytics.description"===z8){w="Connectez votre boutique \xe0 Google Analytics pour suivre les visiteurs et analyser les donn\xe9es"
-break C}if("app.integrations.googleAnalytics.connect"===z8){w=o2
-break C}if("app.integrations.googleAnalytics.disconnect"===z8)break C
-if("app.integrations.googleAnalytics.disconnectConfirmation"===z8){w="Voulez-vous d\xe9connecter le service Google Analytics de votre boutique ?"
-break C}if("app.integrations.googleAnalytics.settings.title"===z8){w="Param\xe8tres Google Analytics"
-break C}if("app.integrations.googleAnalytics.settings.active"===z8){w=i1
-break C}if("app.integrations.googleAnalytics.settings.measurementId"===z8){w="ID de mesure"
-break C}if("app.integrations.ai.title"===z8){w=q2
-break C}if("app.integrations.ai.description"===z8){w=q3
-break C}if("app.integrations.ai.apiKey"===z8){w=o8
-break C}if("app.integrations.ai.apiKeyHint"===z8){w=q4
-break C}if("app.integrations.ai.textModel"===z8){w=q5
-break C}if("app.integrations.ai.imageModel"===z8){w=q6
-break C}if("app.integrations.ai.setup"===z8){w=q7
-break C}if("app.integrations.ai.test"===z8){w=q8
-break C}if("app.integrations.ai.enable"===z8){w=q9
-break C}if("app.integrations.ai.disable"===z8){w=r0
-break C}if("app.integrations.ai.disconnect"===z8)break C
-if("app.integrations.ai.disconnectConfirm"===z8){w=r1
-break C}if("app.appBarActions.notifications"===z8){w="Notifications"
-break C}if("app.appBarActions.help"===z8){w="Aide"
-break C}if("app.aiImageStudio.title"===z8){w="Studio d'images IA"
-break C}if("app.aiImageStudio.description"===z8){w="Cr\xe9ez de nouvelles images ou modifiez les existantes"
-break C}if("app.aiImageStudio.sections.prompt"===z8){w=c1
-break C}if("app.aiImageStudio.sections.model"===z8){w="Mod\xe8le IA"
-break C}if("app.aiImageStudio.sections.aspectRatio"===z8){w="Ratio d'aspect"
-break C}if("app.aiImageStudio.sections.referenceImages"===z8){w="Images de r\xe9f\xe9rence (Optionnel)"
-break C}if("app.aiImageStudio.sections.sourceImage"===z8){w="Image source (Optionnel)"
-break C}if("app.aiImageStudio.prompt.editHint"===z8){w="Entrez les modifications..."
-break C}if("app.aiImageStudio.prompt.generateHint"===z8){w="Entrez une description..."
-break C}if("app.aiImageStudio.buttons.selectImage"===z8){w="S\xe9lectionner une image"
-break C}if("app.aiImageStudio.buttons.changeImage"===z8){w="Changer l'image"
-break C}if("app.aiImageStudio.buttons.clearImage"===z8){w="Effacer l'image"
-break C}if("app.aiImageStudio.buttons.editImage"===z8){w="Modifier l'image"
-break C}if("app.aiImageStudio.buttons.undo"===z8){w=l
-break C}if("app.aiImageStudio.buttons.download"===z8){w="T\xe9l\xe9charger"
-break C}if("app.aiImageStudio.buttons.share"===z8){w="Partager"
-break C}if("app.aiImageStudio.buttons.generate"===z8){w="G\xe9n\xe9rer l'image"
-break C}if("app.aiImageStudio.buttons.applyEdits"===z8){w="Appliquer les modifications"
-break C}if("app.aiImageStudio.buttons.processing"===z8){w=n0
-break C}if("app.aiImageStudio.buttons.processingImage"===z8){w="Traitement de l'image..."
-break C}if("app.aiImageStudio.cost.willBeDeducted"===z8){w="sera d\xe9duit"
-break C}if("app.aiImageStudio.cost.credits"===z8){w="credits"
-break C}if("app.aiImageStudio.referenceImages.add"===z8){w="Ajouter"
-break C}if("app.aiImageStudio.referenceImages.addImage"===z8){w="Ajouter une image"
-break C}if("app.aiImageStudio.referenceImages.noModelsAvailable"===z8){w="Aucun mod\xe8le disponible"
-break C}if("app.aiImageStudio.referenceImages.editLabel"===z8){w=r2
-break C}if("app.aiImageStudio.referenceImages.addLabel"===z8){w="Ajouter une \xe9tiquette"
-break C}if("app.aiImageStudio.referenceImages.labelDialog.title"===z8){w="\xc9tiquette de l'image de r\xe9f\xe9rence"
-break C}if("app.aiImageStudio.referenceImages.labelDialog.description"===z8){w=y.C
-break C}if("app.aiImageStudio.referenceImages.labelDialog.hint"===z8){w="Exemple : Logo de l'entreprise"
-break C}if("app.aiImageStudio.referenceImages.labelDialog.clear"===z8){w="Effacer"
-break C}if("app.aiImageStudio.referenceImages.labelDialog.cancel"===z8){w=l
-break C}if("app.aiImageStudio.referenceImages.labelDialog.save"===z8){w=e
-break C}if("app.aiImageStudio.errors.noStore"===z8){w=y.cx
-break C}if("app.aiImageStudio.errors.noPromptOrImage"===z8){w=y.n7
-break C}if("app.aiImageStudio.errors.noImageToEdit"===z8){w="Aucune image \xe0 modifier"
-break C}if("app.aiImageStudio.errors.failedToLoadImage"===z8){w="\xc9chec du chargement de l'image"
-break C}if("app.aiImageStudio.errors.failedToDisplayImage"===z8){w="\xc9chec de l'affichage de l'image"
-break C}if("app.aiImageStudio.errors.failedToOpenEditor"===z8){w=y.lR
-break C}if("app.aiImageStudio.errors.failedToShare"===z8){w="\xc9chec du partage de l'image"
-break C}if("app.aiImageStudio.errors.generateFailed"===z8){w="\xc9chec de la g\xe9n\xe9ration de l'image"
-break C}if("app.aiImageStudio.success.imageGenerated"===z8){w="Image g\xe9n\xe9r\xe9e avec succ\xe8s"
-break C}if("app.aiImageStudio.success.imageEdited"===z8){w="Image modifi\xe9e avec succ\xe8s"
-break C}if("app.aiImageStudio.success.editsSaved"===z8){w=y.eJ
-break C}if("app.aiImageStudio.success.linkCopied"===z8){w="Lien de l'image copi\xe9"
-break C}if("app.aiImageStudio.aspectRatios.square"===z8){w="Carr\xe9"
-break C}if("app.aiImageStudio.aspectRatios.portrait"===z8){w="Portrait"
-break C}if("app.aiImageStudio.aspectRatios.story"===z8){w="Story"
-break C}if("app.aiImageStudio.aspectRatios.landscape"===z8){w="Paysage"
-break C}if("app.wallet.deposit"===z8){w="D\xe9p\xf4t"
-break C}if("app.wallet.send"===z8){w=i3
-break C}if("app.wallet.transfers"===z8){w="Transactions"
-break C}if("app.wallet.deposits"===z8){w="D\xe9p\xf4ts"
-break C}if("app.wallet.noTransfers"===z8){w="Aucune transaction pour le moment"
-break C}if("app.wallet.noTransfersSubtitle"===z8){w="Toutes vos transactions appara\xeetront ici"
-break C}if("app.wallet.noDeposits"===z8){w="Aucun d\xe9p\xf4t pour le moment"
-break C}if("app.wallet.noDepositsSubtitle"===z8){w="Tous vos d\xe9p\xf4ts appara\xeetront ici"
-break C}if("app.wallet.loading"===z8){w=r3
-break C}if("app.wallet.loadMore"===z8){w=u
-break C}if("app.wallet.errorLoadingTransfers"===z8){w=y.n9
-break C}if("app.wallet.errorLoadingDeposits"===z8){w="Erreur lors du chargement des d\xe9p\xf4ts"
-break C}if("app.wallet.transferTypes.deposit"===z8){w="D\xe9p\xf4t"
-break C}if("app.wallet.transferTypes.subscription"===z8){w=h6
-break C}if("app.wallet.transferTypes.points"===z8){w="Points"
-break C}if("app.wallet.transferTypes.storeDue"===z8){w="Paiement du magasin"
-break C}if("app.wallet.transferTypes.send"===z8){w=i3
-break C}if("app.wallet.transferTypes.receive"===z8){w=i2
-break C}if("app.wallet.transferTypes.transaction"===z8){w="Transaction"
-break C}if("app.wallet.transferTypes.aiGeneration"===z8){w="G\xe9n\xe9ration IA"
-break C}if("app.wallet.transferTypes.refund"===z8){w="Remboursement"
-break C}if("app.wallet.transferTypes.adjustment"===z8){w="Ajustement"
-break C}if("app.wallet.depositStatus.completed"===z8){w="Termin\xe9"
-break C}if("app.wallet.depositStatus.pending"===z8){w=f6
-break C}if("app.wallet.depositStatus.failed"===z8){w=f4
-break C}if("app.wallet.depositStatus.cancelled"===z8){w="Annul\xe9"
-break C}if("app.wallet.currency"===z8){w=a3
-break C}if("app.wallet.balance"===z8){w="Votre solde"
-break C}if("app.wallet.showReceiveQR"===z8){w="Afficher le code QR de r\xe9ception"
-break C}if("app.wallet.scanToSend"===z8){w="Scanner pour envoyer"
-break C}if("appBarActions.language.label"===z8){w="Langue"
-break C}if("appBarActions.language.arabic"===z8){w="\u0639\u0631\u0628\u064a"
-break C}if("appBarActions.language.english"===z8){w="Anglais"
-break C}if("appBarActions.language.french"===z8){w="Fran\xe7ais"
-break C}if("appBarActions.theme.label"===z8){w="Th\xe8me"
-break C}if("appBarActions.theme.dark"===z8){w="Sombre"
-break C}if("appBarActions.theme.system"===z8){w="Syst\xe8me"
-break C}if("appBarActions.theme.light"===z8){w="Clair"
-break C}if("appBarActions.zoom.label"===z8){w="Zoom"
-break C}if("appBarActions.zoom.increase"===z8){w="Augmenter le zoom"
-break C}if("appBarActions.zoom.decrease"===z8){w="R\xe9duire le zoom"
-break C}if("appBarActions.profile"===z8){w="Profil"
-break C}if("appBarActions.feedback"===z8){w=o
-break C}if("countries.title"===z8){w="Pays"
-break C}if("countries.selectDefaultError"===z8){w="Veuillez s\xe9lectionner un pays par d\xe9faut"
-break C}if("countries.selectAtLeastOneError"===z8){w="Veuillez s\xe9lectionner au moins un pays"
-break C}if("countries.allAddedError"===z8){w="Tous les pays sont d\xe9j\xe0 ajout\xe9s"
-break C}if("countries.selectCountries"===z8){w="S\xe9lectionner les pays"
-break C}if("countries.kDefault"===z8){w=r4
-break C}if("countries.removeConfirmation"===z8){w="Voulez-vous supprimer {countryName} ?"
-break C}if("countries.addCountries"===z8){w="Ajouter des pays"
-break C}if("createOrUpdateOrderForm.customer.summary.noInfo"===z8){w="Aucune information client"
-break C}if("createOrUpdateOrderForm.shipping.summary.noInfo"===z8){w="Aucune information d'exp\xe9dition"
-break C}if("createOrUpdateOrderForm.items.summary.noProducts"===z8){w="Aucun produit"
-break C}if("createOrUpdateOrderForm.items.summary.productCount"===z8){w="produit"
-break C}if("createOrUpdateOrderForm.items.summary.totalValue"===z8){w=a7
-break C}if("createOrUpdateOrderForm.history.summary.noHistory"===z8){w="Aucun historique"
-break C}if("createOrUpdateOrderForm.history.summary.timeAgo.days"===z8){w="jours"
-break C}if("createOrUpdateOrderForm.history.summary.timeAgo.hours"===z8){w="heures"
-break C}if("createOrUpdateOrderForm.history.summary.timeAgo.minutes"===z8){w="minutes"
-break C}if("createOrUpdateOrderForm.history.summary.timeAgo.now"===z8){w="maintenant"
-break C}if("createOrUpdateOrderForm.control.summary.note"===z8){w=g2
-break C}if("createOrUpdateOrderForm.warnings.priceChange"===z8){w="Le prix de la commande peut changer lors de la mise \xe0 jour"
-break C}if("createOrUpdateOrderForm.warnings.priceChangeNote"===z8){w="Veuillez v\xe9rifier le prix avant de mettre \xe0 jour"
-break C}if("createOrUpdateOrderForm.customerEmail.label"===z8){w=r5
-break C}if("createOrUpdateOrderForm.customerEmail.invalid"===z8){w=g1
-break C}if("createOrUpdateOrderForm.shippingNote.helper"===z8){w="Cette note sera imprim\xe9e sur la facture d'exp\xe9dition"
-break C}if("createOrUpdateOrderForm.call"===z8){w="Appeler"
-break C}if("createOrUpdateOrderForm.message"===z8){w="Message"
-break C}if("createOrUpdateOrderForm.errors.cannotCall"===z8){w="Impossible d'appeler ce num\xe9ro"
-break C}if("createOrUpdateOrderForm.errors.cannotSendSMS"===z8){w="Impossible d'envoyer un SMS \xe0 ce num\xe9ro"
-break C}if("createOrUpdateOrderForm.confirmDialog.title"===z8){w=r6
-break C}if("createOrUpdateOrderForm.confirmDialog.content"===z8){w="Les modifications que vous avez faites seront annul\xe9es."
-break C}if("createOrUpdateOrderForm.confirmDialog.cancel"===z8){w=l
-break C}if("createOrUpdateOrderForm.confirmDialog.confirm"===z8){w=a4
-break C}if("createOrUpdateOrderForm.success.orderCreated"===z8){w="Commande cr\xe9\xe9e avec succ\xe8s"
-break C}if("createOrUpdateOrderForm.success.orderUpdated"===z8){w="Commande mise \xe0 jour avec succ\xe8s"
-break C}if("createOrUpdateOrderForm.openProductPage"===z8){w="Ouvrir la page du produit"
-break C}if("filterBuilder.dialogTitle"===z8){w="Cr\xe9er un filtre avanc\xe9"
-break C}if("filterBuilder.editDialogTitle"===z8){w="Modifier le filtre"
-break C}if("filterBuilder.filterNameLabel"===z8){w="Nom du filtre"
-break C}if("filterBuilder.filterNameHint"===z8){w="ex: Commandes non pay\xe9es d'Alger"
-break C}if("filterBuilder.mainConditionLabel"===z8){w="Condition principale:"
-break C}if("filterBuilder.andLabel"===z8){w="ET"
-break C}if("filterBuilder.orLabel"===z8){w="OU"
-break C}if("filterBuilder.addConditionButton"===z8){w="Ajouter une condition"
-break C}if("filterBuilder.addGroupButton"===z8){w="Ajouter un groupe"
-break C}if("filterBuilder.deleteCondition"===z8){w="Supprimer la condition"
-break C}if("filterBuilder.deleteGroup"===z8){w="Supprimer le groupe"
-break C}if("filterBuilder.selectFieldPlaceholder"===z8){w="S\xe9lectionner le champ"
-break C}if("filterBuilder.selectOperationPlaceholder"===z8){w="S\xe9lectionner l'op\xe9ration"
-break C}if("filterBuilder.valuePlaceholder"===z8){w="Valeur"
-break C}if("filterBuilder.valuesPlaceholder"===z8){w="Valeurs (s\xe9par\xe9es par des virgules)"
-break C}if("filterBuilder.valuesHint"===z8){w="ex: valeur1, valeur2, valeur3"
-break C}if("filterBuilder.enterValueHint"===z8){w="Veuillez entrer une valeur"
-break C}if("filterBuilder.previewTitle"===z8){w="Aper\xe7u de la requ\xeate"
-break C}if("filterBuilder.saveButton"===z8){w=e
-break C}if("filterBuilder.updateButton"===z8){w=a0
-break C}if("filterBuilder.filterNameRequired"===z8){w="Le nom du filtre est requis"
-break C}if("filterBuilder.atLeastOneConditionRequired"===z8){w="Au moins une condition est requise"
-break C}if("filterBuilder.operations.equals"===z8){w="\xc9gal \xe0"
-break C}if("filterBuilder.operations.notEquals"===z8){w="Diff\xe9rent de"
-break C}if("filterBuilder.operations.contains"===z8){w="Contient"
-break C}if("filterBuilder.operations.startsWith"===z8){w="Commence par"
-break C}if("filterBuilder.operations.endsWith"===z8){w="Se termine par"
-break C}if("filterBuilder.operations.greaterThan"===z8){w="Sup\xe9rieur \xe0"
-break C}if("filterBuilder.operations.greaterOrEqual"===z8){w="Sup\xe9rieur ou \xe9gal \xe0"
-break C}if("filterBuilder.operations.lessThan"===z8){w="Inf\xe9rieur \xe0"
-break C}if("filterBuilder.operations.lessOrEqual"===z8){w="Inf\xe9rieur ou \xe9gal \xe0"
-break C}if("filterBuilder.operations.inList"===z8){w="Dans la liste"
-break C}if("filterBuilder.operations.notIn"===z8){w="Pas dans"
-break C}if("filterBuilder.operations.isNull"===z8){w="Est nul"
-break C}if("filterBuilder.operations.isNotNull"===z8){w="N'est pas nul"
-break C}if("integrations.metaPixel.selectPixel"===z8){w=r7
-break C}if("integrations.metaPixel.testCAPI"===z8){w=p6
-break C}if("integrations.metaPixel.catalog"===z8){w=p7
-break C}if("integrations.metaPixel.sendTestEvent"===z8){w=r8
-break C}if("integrations.metaPixel.sendTestEventDescription"===z8){w="Envoyer un test avec votre pixel ?"
-break C}if("integrations.metaPixel.testCode"===z8){w=p9
-break C}if("integrations.metaPixel.testEventSent"===z8){w=r9
-break C}if("integrations.metaPixel.eventDialog.title"===z8){w=s0
-break C}if("integrations.metaPixel.eventDialog.events.purchase.title"===z8){w=s1
-break C}if("integrations.metaPixel.eventDialog.events.purchase.subtitle"===z8){w=s2
-break C}if("integrations.metaPixel.eventDialog.events.lead.title"===z8){w="Lead"
-break C}if("integrations.metaPixel.eventDialog.events.lead.subtitle"===z8){w="Envoyer un lead"
-break C}if("integrations.metaPixel.eventDialog.events.viewContent.title"===z8){w=s3
-break C}if("integrations.metaPixel.eventDialog.events.viewContent.subtitle"===z8){w=s4
-break C}if("integrations.metaPixel.eventDialog.events.addToCart.title"===z8){w=n2
-break C}if("integrations.metaPixel.eventDialog.events.addToCart.subtitle"===z8){w=s5
-break C}if("integrations.metaPixel.eventDialog.events.initiateCheckout.title"===z8){w=s6
-break C}if("integrations.metaPixel.eventDialog.events.initiateCheckout.subtitle"===z8){w=s7
-break C}if("integrations.metaPixel.eventDialog.sendButton"===z8){w=i3
-break C}if("integrations.metaPixel.eventDialog.successMessage"===z8){w=s8
-break C}if("integrations.metaPixel.eventDialog.errorMessage"===z8){w=s9
-break C}if("integrations.tiktokPixel.selectPixel"===z8){w=r7
-break C}if("integrations.tiktokPixel.unnamedPixel"===z8){w=q1
-break C}if("integrations.tiktokPixel.testEventsApi"===z8){w="Tester API \xc9v\xe9nements"
-break C}if("integrations.tiktokPixel.catalog"===z8){w=p7
-break C}if("integrations.tiktokPixel.sendTestEvent"===z8){w=r8
-break C}if("integrations.tiktokPixel.sendTestEventDescription"===z8){w="Envoyer un test avec votre pixel TikTok ?"
-break C}if("integrations.tiktokPixel.testCode"===z8){w=p9
-break C}if("integrations.tiktokPixel.testEventSent"===z8){w=r9
-break C}if("integrations.tiktokPixel.eventDialog.title"===z8){w=s0
-break C}if("integrations.tiktokPixel.eventDialog.events.purchase.title"===z8){w=s1
-break C}if("integrations.tiktokPixel.eventDialog.events.purchase.subtitle"===z8){w=s2
-break C}if("integrations.tiktokPixel.eventDialog.events.placeAnOrder.title"===z8){w="Commander"
-break C}if("integrations.tiktokPixel.eventDialog.events.placeAnOrder.subtitle"===z8){w="Envoyer une commande"
-break C}if("integrations.tiktokPixel.eventDialog.events.viewContent.title"===z8){w=s3
-break C}if("integrations.tiktokPixel.eventDialog.events.viewContent.subtitle"===z8){w=s4
-break C}if("integrations.tiktokPixel.eventDialog.events.addToWishlist.title"===z8){w="Liste de souhaits"
-break C}if("integrations.tiktokPixel.eventDialog.events.addToWishlist.subtitle"===z8){w="Envoyer ajout \xe0 la liste"
-break C}if("integrations.tiktokPixel.eventDialog.events.search.title"===z8){w=t0
-break C}if("integrations.tiktokPixel.eventDialog.events.search.subtitle"===z8){w="Envoyer recherche"
-break C}if("integrations.tiktokPixel.eventDialog.events.addPaymentInfo.title"===z8){w="Paiement"
-break C}if("integrations.tiktokPixel.eventDialog.events.addPaymentInfo.subtitle"===z8){w="Envoyer infos paiement"
-break C}if("integrations.tiktokPixel.eventDialog.events.addToCart.title"===z8){w=n2
-break C}if("integrations.tiktokPixel.eventDialog.events.addToCart.subtitle"===z8){w=s5
-break C}if("integrations.tiktokPixel.eventDialog.events.initiateCheckout.title"===z8){w=s6
-break C}if("integrations.tiktokPixel.eventDialog.events.initiateCheckout.subtitle"===z8){w=s7
-break C}if("integrations.tiktokPixel.eventDialog.events.completeRegistration.title"===z8){w="Inscription"
-break C}if("integrations.tiktokPixel.eventDialog.events.completeRegistration.subtitle"===z8){w="Envoyer inscription"
-break C}if("integrations.tiktokPixel.eventDialog.sendButton"===z8){w=i3
-break C}if("integrations.tiktokPixel.eventDialog.successMessage"===z8){w=s8
-break C}if("integrations.tiktokPixel.eventDialog.errorMessage"===z8){w=s9
-break C}if("integrations.ai.title"===z8){w=q2
-break C}if("integrations.ai.description"===z8){w=q3
-break C}if("integrations.ai.apiKey"===z8){w=o8
-break C}if("integrations.ai.apiKeyHint"===z8){w=q4
-break C}if("integrations.ai.textModel"===z8){w=q5
-break C}if("integrations.ai.imageModel"===z8){w=q6
-break C}if("integrations.ai.setup"===z8){w=q7
-break C}if("integrations.ai.test"===z8){w=q8
-break C}if("integrations.ai.enable"===z8){w=q9
-break C}if("integrations.ai.disable"===z8){w=r0
-break C}if("integrations.ai.disconnect"===z8)break C
-if("integrations.ai.disconnectConfirm"===z8){w=r1
-break C}if("leaderboard.title"===z8){w="Classement"
-break C}if("leaderboard.refresh"===z8){w=t1
-break C}if("leaderboard.noData"===z8){w="Pas encore de donn\xe9es"
-break C}if("leaderboard.noDataSubtitle"===z8){w=y.b0
-break C}if("leaderboard.fullRanking"===z8){w="Classement complet"
-break C}if("leaderboard.error"===z8){w="Une erreur s'est produite"
-break C}if("leaderboard.period.today"===z8){w=r
-break C}if("leaderboard.period.week"===z8){w=q
-break C}if("leaderboard.period.month"===z8){w="Ce mois"
-break C}if("leaderboard.period.all"===z8){w="Tout le temps"
-break C}if("leaderboard.stats.success"===z8){w="R\xe9ussi"
-break C}if("leaderboard.stats.failed"===z8){w=f4
-break C}if("leaderboard.stats.inReview"===z8){w=f2
-break C}if("leaderboard.stats.inDelivery"===z8){w=f3
-break C}if("leaderboard.stats.assigned"===z8){w="Assign\xe9"
-break C}if("leaderboard.stats.successRate"===z8){w="Taux de r\xe9ussite"
-break C}if("leaderboard.rank.first"===z8){w="1\xe8re place"
-break C}if("leaderboard.rank.second"===z8){w="2\xe8me place"
-break C}if("leaderboard.rank.third"===z8){w="3\xe8me place"
-break C}if("leaderboard.motivational.champion"===z8){w="Champion! \ud83c\udfc6"
-break C}if("leaderboard.motivational.onFire"===z8){w="En feu! \ud83d\udd25"
-break C}if("leaderboard.motivational.rising"===z8){w="En progression! \ud83d\udcc8"
-break C}if("leaderboard.motivational.keepGoing"===z8){w="Continue! \ud83d\udcaa"
-break C}if("merchantStoreProductsCreateView.validation.requiredFields"===z8){w="Veuillez remplir les champs requis"
-break C}if("merchantStoreProductsCreateView.success.productCreated"===z8){w="Produit cr\xe9\xe9"
-break C}if("merchantStoreProductsCreateView.success.productUpdated"===z8){w="Produit mis \xe0 jour"
-break C}if("merchantStoreProductsCreateView.confirmDialog.title"===z8){w=r6
-break C}if("merchantStoreProductsCreateView.confirmDialog.content"===z8){w="Les modifications seront annul\xe9es."
-break C}if("merchantStoreProductsCreateView.confirmDialog.cancel"===z8){w=l
-break C}if("merchantStoreProductsCreateView.confirmDialog.confirm"===z8){w=a4
-break C}if("merchantStoreProductsCreateView.openProductPage"===z8){w="Ouvrir la page produit"
-break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.title"===z8){w=t2
-break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.content"===z8){w=y.g
-break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.cancel"===z8){w=l
-break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.delete"===z8){w=a1
-break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.title"===z8){w=t2
-break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.content"===z8){w=y.d2
-break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.cancel"===z8){w=l
-break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.delete"===z8){w=a1
-break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.title"===z8){w=t2
-break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.content"===z8){w=y.jA
-break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.cancel"===z8){w=l
-break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.delete"===z8){w=a1
-break C}if("merchantStoreProductsCreateView.addProduct"===z8){w="Ajouter produit"
-break C}if("merchantStoreProductsCreateView.aiAssistant.title"===z8){w="Assistant IA"
-break C}if("merchantStoreProductsCreateView.aiAssistant.subtitle"===z8){w=y.kB
-break C}if("merchantStoreProductsCreateView.aiAssistant.writeInstructionsFirst"===z8){w="Veuillez d'abord \xe9crire les instructions"
-break C}if("merchantStoreProductsCreateView.aiAssistant.failedToFetchUrl"===z8){w=y.da
-break C}if("merchantStoreProductsCreateView.aiAssistant.aiEditsApplied"===z8){w=y.lA
-break C}if("merchantStoreProductsCreateView.aiAssistant.generateButton"===z8){w="G\xe9n\xe9rer"
-break C}if("merchantStoreProductsCreateView.aiAssistant.inputHint"===z8){w=y.c6
-break C}if("merchantStoreProductsCreateView.aiAssistant.urlHint"===z8){w=y.Y
-break C}if("merchantStoreProductsCreateView.aiAssistant.generationFailed"===z8){w="G\xe9n\xe9ration \xe9chou\xe9e"
-break C}if("merchantStoreProductsCreateView.aiAssistant.jsonEditorHint"===z8){w=y.v
-break C}if("merchantStoreProductsCreateView.integrations.noPixelEnabled"===z8){w="Aucun pixel activ\xe9"
-break C}if("merchantStoreProductsCreateView.integrations.metaPixel.setup"===z8){w="Configurer Meta Pixel"
-break C}if("merchantStoreProductsCreateView.integrations.metaPixel.delete"===z8){w="Supprimer Meta Pixel"
-break C}if("merchantStoreProductsCreateView.integrations.tiktokPixel.setup"===z8){w="Configurer TikTok Pixel"
-break C}if("merchantStoreProductsCreateView.integrations.tiktokPixel.delete"===z8){w="Supprimer TikTok Pixel"
-break C}if("merchantStoreProductsCreateView.integrations.googleSheets.setup"===z8){w="Configurer Google Sheets"
-break C}if("merchantStoreProductsCreateView.integrations.googleSheets.delete"===z8){w="Supprimer Google Sheets"
-break C}if("merchantStoreProductsCreateView.integrations.googleSheets.sheetPrefix"===z8){w="Feuille :"
-break C}if("merchantStoreProductsCreateView.integrations.googleSheets.sheetNamePrefix"===z8){w="Nom de la feuille :"
-break C}if("merchantStoreProductsCreateView.integrations.googleSheets.notSpecified"===z8){w="Non sp\xe9cifi\xe9"
-break C}if("merchantStoreProductsCreateView.productBody.detailedInfo"===z8){w="Informations d\xe9taill\xe9es"
-break C}if("merchantStoreProductsCreateView.productBody.editContent"===z8){w="Modifier le contenu"
-break C}if("merchantStoreProductsCreateView.productBody.createWithAI"===z8){w="Cr\xe9er avec l'IA"
-break C}if("merchantStoreProductsCreateView.productBody.noContentYet"===z8){w=y.w
-break C}if("merchantStoreProductsCreateView.productBody.productContent"===z8){w="Contenu du produit"
-break C}if("merchantStoreProductsCreateView.productBody.editDetailedContent"===z8){w="Modifier le contenu d\xe9taill\xe9"
-break C}if("merchantStoreProductsCreateView.productBody.createContentWithAI"===z8){w="Cr\xe9er du contenu avec l'IA"
-break C}if("merchantStoreProductsCreateView.addons.title"===z8){w=t3
-break C}if("merchantStoreProductsCreateView.addons.subtitle"===z8){w=y.l
-break C}if("merchantStoreProductsCreateView.addons.deleteAllConfirm.title"===z8){w=t3
-break C}if("merchantStoreProductsCreateView.addons.deleteAllConfirm.content"===z8){w=y.dg
-break C}if("merchantStoreProductsCreateView.addons.addNew"===z8){w="Ajouter un nouveau"
-break C}if("merchantStoreProductsCreateView.addons.edit"===z8){w="Modifier le compl\xe9ment"
-break C}if("merchantStoreProductsCreateView.addons.image"===z8){w="Image du compl\xe9ment"
-break C}if("merchantStoreProductsCreateView.addons.titleLabel"===z8){w="Titre du compl\xe9ment"
-break C}if("merchantStoreProductsCreateView.addons.descriptionLabel"===z8){w="Description du compl\xe9ment"
-break C}if("merchantStoreProductsCreateView.addons.priceLabel"===z8){w="Prix du compl\xe9ment"
-break C}if("merchantStoreProductsCreateView.addons.stockLabel"===z8){w="Stock"
-break C}if("merchantStoreProductsCreateView.addons.minLabel"===z8){w="Minimum"
-break C}if("merchantStoreProductsCreateView.addons.maxLabel"===z8){w="Maximum"
-break C}if("merchantStoreProductsCreateView.other.youtube"===z8){w="YouTube"
-break C}if("merchantStoreProductsCreateView.other.jsonEdit"===z8){w="Modifier JSON"
-break C}if("merchantStoreProductsCreateView.other.dataCopied"===z8){w="Donn\xe9es copi\xe9es dans le presse-papiers"
-break C}if("merchantStoreProductsCreateView.other.editProductDataJson"===z8){w="Modifier les donn\xe9es du produit (JSON)"
-break C}if("merchantStoreProductsCreateView.other.save"===z8){w=e
-break C}if("merchantStoreProductsCreateView.other.copy"===z8){w="Copier"
-break C}if("ordersDistributionMap.error.loadStatesData"===z8){w=new A.e01()
-break C}if("ordersDistributionMap.noData.available"===z8){w="Aucune donn\xe9e"
-break C}if("ordersView.orderLabel"===z8){w="Nom commande"
-break C}if("ordersView.sendSms"===z8){w=t4
-break C}if("ordersView.sendSmsTitle"===z8){w=t4
-break C}if("ordersView.enterMessageText"===z8){w="\xc9crire le texte du message"
-break C}if("ordersView.messageTextTooLong"===z8){w="Texte trop long"
-break C}if("ordersView.send"===z8){w=i3
-break C}if("ordersView.callCustomer"===z8){w="Appeler client"
-break C}if("ordersView.copyPhoneNumber"===z8){w="Copier num\xe9ro"
-break C}if("ordersView.phoneNumberCopied"===z8){w="Num\xe9ro copi\xe9 avec succ\xe8s"
-break C}if("ordersView.testBroccoliList"===z8){w="Tester liste Brocolis"
-break C}if("ordersView.sendMetaPixelEvent"===z8){w="Envoyer event Meta Pixel"
-break C}if("ordersView.sendTikTokPixelEvent"===z8){w="Envoyer event TikTok Pixel"
-break C}if("ordersView.sendToYalidine"===z8){w="Envoyer vers Yalidine"
-break C}if("ordersView.sendToEcotrack"===z8){w="Envoyer vers Ecotrack"
-break C}if("ordersView.sendToProcolis"===z8){w="Envoyer vers Procolis"
-break C}if("ordersView.sendToNoest"===z8){w="Envoyer vers Noest"
-break C}if("ordersView.sendToOrderDZ"===z8){w="Envoyer vers OrderDZ"
-break C}if("ordersView.printLabelYalidine"===z8){w="Imprimer \xe9tiquette (Yalidine)"
-break C}if("ordersView.cancelYalidineLink"===z8){w="Annuler lien (Yalidine)"
-break C}if("ordersView.cancelYalidineLinkTitle"===z8){w="Annuler lien avec Yalidine"
-break C}if("ordersView.cancelSending"===z8){w="Annuler envoi"
-break C}if("ordersView.printLabelEcotrack"===z8){w="Imprimer \xe9tiquette (Ecotrack)"
-break C}if("ordersView.openEcotrack"===z8){w="Ouvrir (Ecotrack)"
-break C}if("ordersView.close"===z8){w=i
-break C}if("ordersView.cancelEcotrackLink"===z8){w="Annuler lien (Ecotrack)"
-break C}if("ordersView.cancelEcotrackLinkTitle"===z8){w="Annuler lien avec Ecotrack"
-break C}if("ordersView.cancelProcolisLink"===z8){w="Annuler lien (Procolis)"
-break C}if("ordersView.cancelProcolisLinkTitle"===z8){w="Annuler lien avec Procolis"
-break C}if("ordersView.printLabelNoest"===z8){w="Imprimer \xe9tiquette (Noest)"
-break C}if("ordersView.openNoest"===z8){w="Ouvrir (Noest)"
-break C}if("ordersView.cancelNoestLink"===z8){w="Annuler lien (Noest)"
-break C}if("ordersView.cancelNoestLinkTitle"===z8){w="Annuler lien avec Noest"
-break C}if("ordersView.edit"===z8){w=r2
-break C}if("ordersView.delete"===z8){w=a1
-break C}if("ordersView.deleteOrder"===z8){w="Supprimer commande"
-break C}if("ordersView.copyOrderNumber"===z8){w="Copier num\xe9ro commande"
-break C}if("ordersView.clear"===z8){w="Effacer"
-break C}if("ordersView.apply"===z8){w=t5
-break C}if("ordersView.cancel"===z8){w=l
-break C}if("ordersView.dateSeparators.today"===z8){w=r
-break C}if("ordersView.dateSeparators.yesterday"===z8){w="Hier"
-break C}if("ordersView.dateSeparators.thisWeek"===z8){w=q
-break C}if("ordersView.dateSeparators.lastWeek"===z8){w="Semaine derni\xe8re"
-break C}if("ordersView.dateSeparators.thisMonth"===z8){w="Ce mois"
-break C}if("ordersView.dateSeparators.lastMonth"===z8){w="Mois dernier"
-break C}if("ordersView.dateSeparators.monthsAgo"===z8){w="Il y a {months} mois"
-break C}if("ordersView.dateSeparators.yearAgo"===z8){w="Il y a 1 an"
-break C}if("ordersView.dateSeparators.yearsAgo"===z8){w="Il y a {years} ans"
-break C}if("ordersView.bulkActions.deleteOrders"===z8){w="Supprimer {count} commande(s)"
-break C}if("ordersView.bulkActions.deleteOrdersConfirm"===z8){w=y.hi
-break C}if("ordersView.bulkActions.deleteOrdersSuccess"===z8){w=y.fH
+break A}if(w==null)B:{w=i4
+if("app.orders.fields.calculatedTotal.label"===aa3){w="Total calcul\xe9"
+break B}if("app.orders.fields.calculatedTotal.hint"===aa3){w=h2
+break B}if("app.orders.fields.calculatedTotal.helper"===aa3){w="Total calcul\xe9 automatiquement"
+break B}if("app.orders.fields.total.label"===aa3){w=a8
+break B}if("app.orders.fields.total.hint"===aa3){w=h2
+break B}if("app.orders.fields.total.helper"===aa3){w="Montant total de la commande"
+break B}if("app.stores.lockIfHaveDue.title"===aa3){w="Contenu verrouill\xe9"
+break B}if("app.stores.lockIfHaveDue.message"===aa3){w=y.l9
+break B}if("app.stores.lockIfHaveDue.locked"===aa3){w="Verrouill\xe9"
+break B}if("app.stores.duePaymentBanner.title"===aa3){w="Vous avez un montant d\xfb \xe0 payer"
+break B}if("app.stores.duePaymentBanner.message"===aa3){w=y.d_
+break B}if("app.stores.duePaymentBanner.payButton"===aa3){w=h3
+break B}if("app.stores.duePaymentBanner.payButtonShort"===aa3){w=h4
+break B}if("app.stores.duePaymentBanner.contactInfo"===aa3){w=y.kj
+break B}if("app.stores.duePaymentBanner.contactWhatsApp"===aa3){w=h5
+break B}if("app.stores.duePaymentBanner.contactWhatsAppShort"===aa3){w=h6
+break B}if("app.stores.duePaymentBanner.dialog.title"===aa3){w=h3
+break B}if("app.stores.duePaymentBanner.dialog.dueAmount"===aa3){w="Montant d\xfb"
+break B}if("app.stores.duePaymentBanner.dialog.points"===aa3){w=h7
+break B}if("app.stores.duePaymentBanner.dialog.paymentAmount"===aa3){w="Montant \xe0 payer"
+break B}if("app.stores.duePaymentBanner.dialog.pointsToDeduct"===aa3){w="{points} points seront d\xe9duits"
+break B}if("app.stores.duePaymentBanner.dialog.remainingAfterPayment"===aa3){w=y.hs
+break B}if("app.stores.duePaymentBanner.dialog.quickActions.payFull"===aa3){w="Payer le montant complet"
+break B}if("app.stores.duePaymentBanner.dialog.quickActions.payHalf"===aa3){w="Payer la moiti\xe9"
+break B}if("app.stores.duePaymentBanner.dialog.quickActions.payQuarter"===aa3){w="Payer le quart"
+break B}if("app.stores.duePaymentBanner.dialog.validation.required"===aa3){w=h8
+break B}if("app.stores.duePaymentBanner.dialog.validation.invalid"===aa3){w="Veuillez saisir un montant valide"
+break B}if("app.stores.duePaymentBanner.dialog.validation.exceedsDue"===aa3){w=y.kc
+break B}if("app.stores.duePaymentBanner.dialog.validation.notMultiple"===aa3){w=y.eN
+break B}if("app.stores.duePaymentBanner.dialog.validation.minAmount"===aa3){w="Paiement minimum : {amount} DZD"
+break B}if("app.stores.duePaymentBanner.dialog.actions.cancel"===aa3){w=k
+break B}if("app.stores.duePaymentBanner.dialog.actions.pay"===aa3){w=h4
+break B}if("app.stores.duePaymentBanner.dialog.success"===aa3){w=y.kU
+break B}if("app.stores.duePaymentBanner.dialog.error"===aa3){w="Erreur de paiement : {error}"
+break B}if("app.stores.subscription.label"===aa3){w=h9
+break B}if("app.stores.subscription.subtitle"===aa3){w="Profitez des remises de d\xe9but d\u2019ann\xe9e"
+break B}if("app.stores.subscription.renew"===aa3){w="Renouveler l\u2019abonnement"
+break B}if("app.stores.subscription.countdown.label"===aa3){w="Temps restant pour l\u2019abonnement"
+break B}if("app.stores.subscription.countdown.days"===aa3){w="Jour"
+break B}if("app.stores.subscription.countdown.hours"===aa3){w="Heure"
+break B}if("app.stores.subscription.countdown.minutes"===aa3){w="Minute"
+break B}if("app.stores.subscription.countdown.seconds"===aa3){w="Seconde"
+break B}if("app.stores.subscription.countdown.quotaExceeded.title"===aa3){w=i0
+break B}if("app.stores.subscription.countdown.quotaExceeded.message"===aa3){w=y.jH
+break B}if("app.stores.subscription.countdown.consumedPoints"===aa3){w="Points utilis\xe9s"
+break B}if("app.stores.subscription.countdown.points"===aa3){w=h7
+break B}if("app.stores.subscription.countdown.exceededBy"===aa3){w=new A.e2J()
+break B}if("app.stores.subscription.countdown.remaining"===aa3){w=new A.e2K()
+break B}if("app.stores.subscription.countdown.buyPlan"===aa3){w="Acheter un forfait"
+break B}if("app.stores.subscription.countdown.chargePoints"===aa3){w="Recharger"
+break B}if("app.stores.label"===aa3){w=i1
+break B}if("app.stores.myStores"===aa3){w="Mes magasins"
+break B}if("app.stores.form.create"===aa3){w=i2
+break B}if("app.stores.form.storeNameExample"===aa3){w="ex : Mon Magasin"
+break B}if("app.stores.fields.name.label"===aa3){w=b4
+break B}if("app.stores.fields.name.hint"===aa3){w="Entrer le nom du magasin"
+break B}if("app.stores.fields.name.helper"===aa3){w="Nom de votre magasin"
+break B}if("app.stores.fields.title.label"===aa3){w=i3
+break B}if("app.stores.fields.title.hint"===aa3){w="Entrer le titre du magasin"
+break B}if("app.stores.fields.title.helper"===aa3){w="Titre de votre magasin"
+break B}if("app.stores.fields.description.label"===aa3){w=c3
+break B}if("app.stores.fields.description.hint"===aa3){w=c4
+break B}if("app.stores.fields.description.helper"===aa3){w="Description de votre magasin"
+break B}if("app.stores.fields.color.label"===aa3){w="Couleur"
+break B}if("app.stores.fields.color.hint"===aa3){w="Choisir une couleur"
+break B}if("app.stores.fields.color.helper"===aa3){w="Couleur du magasin"
+break B}if("app.stores.fields.slug.label"===aa3){w="Slug"
+break B}if("app.stores.fields.slug.hint"===aa3){w=c5
+break B}if("app.stores.fields.slug.helper"===aa3){w="Le slug est le sous-domaine du magasin"
+break B}if("app.stores.fields.slug.validation"===aa3){w=y.b
+break B}if("app.stores.views.title"===aa3){w=i1
+break B}if("app.stores.views.searchPlaceholder"===aa3){w="Rechercher des magasins..."
+break B}if("app.stores.views.allStores"===aa3){w="Tous les magasins"
+break B}if("app.stores.views.createStore"===aa3){w=i2
+break B}if("app.stores.views.startSelling"===aa3){w="Commencez \xe0 vendre aujourd'hui"
+break B}if("app.stores.views.noStoresYet"===aa3){w="Aucun magasin pour le moment"
+break B}if("app.stores.views.noStoresFound"===aa3){w="Aucun magasin trouv\xe9"
+break B}if("app.stores.views.createFirstStore"===aa3){w="Cr\xe9ez votre premier magasin pour commencer"
+break B}if("app.stores.views.tryDifferentSearch"===aa3){w="Essayez un autre terme de recherche"
+break B}if("app.stores.views.active"===aa3)break B
+if("app.stores.views.noDescription"===aa3){w="Aucune description"
+break B}if("app.stores.views.manageStore"===aa3){w="G\xe9rer le magasin"
+break B}if("app.stores.views.chooseColor"===aa3){w="Choisir la couleur du magasin"
+break B}if("app.stores.views.loadSuccess"===aa3){w=new A.e2L()
+break B}if("app.stores.views.loadError"===aa3){w="Erreur lors du chargement des magasins"
+break B}if("app.stores.views.loadErrorTitle"===aa3){w="\xc9chec du chargement des magasins"
+break B}if("app.stores.views.loadErrorMessage"===aa3){w=y.j5
+break B}if("app.stores.views.retry"===aa3){w=n
+break B}if("app.stores.views.support"===aa3){w="Support"
+break B}if("app.stores.views.emptyStateTitle"===aa3){w="Cr\xe9ez votre premier magasin"
+break B}if("app.stores.views.emptyStateMessage"===aa3){w=y.j
+break B}if("app.stores.views.watchTutorial"===aa3){w="Regarder la vid\xe9o tutorielle"
+break B}if("app.stores.views.defaultBannerTitle"===aa3){w="Offres et r\xe9ductions compl\xe8tes"
+break B}if("app.stores.views.defaultDescription"===aa3){w=y.on
+break B}if("app.stores.views.verified"===aa3){w="V\xe9rifi\xe9"
+break B}if("app.stores.views.openStore"===aa3){w="Ouvrir mon magasin"
+break B}if("app.stores.views.quickAccess.balance"===aa3){w="Solde"
+break B}if("app.stores.views.quickAccess.scan"===aa3){w="Scanner"
+break B}if("app.stores.views.quickAccess.receive"===aa3){w=i5
+break B}if("app.stores.views.quickAccess.send"===aa3){w=i6
+break B}if("app.stores.views.quickAccess.cards"===aa3){w="Cartes"
+break B}if("app.stores.views.quickAccess.comingSoon.scan"===aa3){w="Fonctionnalit\xe9 de scan bient\xf4t disponible"
+break B}if("app.stores.views.quickAccess.comingSoon.receiveMoney"===aa3){w="Fonctionnalit\xe9 de r\xe9ception d'argent bient\xf4t disponible"
+break B}if("app.stores.views.quickAccess.comingSoon.sendMoney"===aa3){w="Fonctionnalit\xe9 d'envoi d'argent bient\xf4t disponible"
+break B}if("app.stores.views.quickAccess.comingSoon.cards"===aa3){w="Fonctionnalit\xe9 des cartes bient\xf4t disponible"
+break B}if("app.stores.views.quickAccess.comingSoon.imageGallery"===aa3){w="Galerie d'images bient\xf4t disponible"
+break B}if("app.stores.views.aiTools.title"===aa3){w="Outils IA"
+break B}if("app.stores.views.aiTools.editImages"===aa3){w="Modifier les images"
+break B}if("app.stores.views.aiTools.generateImages"===aa3){w="G\xe9n\xe9rer des images"
+break B}if("app.stores.views.aiTools.myImageGallery"===aa3){w="Ma galerie d'images"
+break B}if("app.stores.views.partnerProgram.title"===aa3){w=i7
+break B}if("app.stores.views.partnerProgram.description"===aa3){w=y.I
+break B}if("app.stores.tracking.title"===aa3){w=new A.e2M()
+break B}if("app.stores.tracking.message"===aa3){w="Vos donn\xe9es seront utilis\xe9es pour mesurer l'efficacit\xe9 publicitaire."
+break B}if("app.stores.tracking.askNotToTrack"===aa3){w="Demander \xe0 l'application de ne pas suivre"
+break B}if("app.stores.tracking.allow"===aa3){w="Autoriser"
+break B}if("app.dashboard.welcomeUser"===aa3){w="Bienvenue, "
+break B}if("app.dashboard.title"===aa3){w="Tableau de bord"
+break B}if("app.dashboard.sections.overview.label"===aa3){w=a0
+break B}if("app.dashboard.sections.overview.statistics"===aa3){w=i8
+break B}if("app.dashboard.sections.overview.quickLinks.label"===aa3){w="Liens rapides"
+break B}if("app.dashboard.sections.overview.quickLinks.addProduct"===aa3){w=i9
+break B}if("app.dashboard.sections.overview.quickLinks.abandonedCarts"===aa3){w="Paniers abandonn\xe9s"
+break B}if("app.dashboard.sections.overview.quickLinks.changeTheme"===aa3){w="Changer de th\xe8me"
+break B}if("app.dashboard.sections.overview.quickLinks.storeSettings"===aa3){w=j0
+break B}if("app.dashboard.sections.overview.recentOrders.label"===aa3){w="Commandes r\xe9centes"
+break B}if("app.dashboard.sections.overview.recentOrders.viewAll"===aa3){w=j1
+break B}if("app.dashboard.sections.overview.recentCustomers.label"===aa3){w="Clients r\xe9cents"
+break B}if("app.dashboard.sections.overview.recentCustomers.viewAll"===aa3){w=j1
+break B}if("app.dashboard.sections.statistics.label"===aa3){w=i8
+break B}if("app.dashboard.sections.statistics.ordersDistribution"===aa3){w="Distribution des commandes"
+break B}if("app.dashboard.sections.statistics.selectState"===aa3){w=y.dO
+break B}if("app.dashboard.sections.statistics.selectedState"===aa3){w="\xc9tat s\xe9lectionn\xe9 : {state}"
+break B}if("app.dashboard.sections.statistics.orderCount"===aa3){w="Nombre de commandes"
+break B}if("app.dashboard.sections.statistics.totalRevenue"===aa3){w="Revenu total"
+break B}if("app.dashboard.sections.statistics.averageOrderValue"===aa3){w="Valeur moyenne des commandes"
+break B}if("app.dashboard.sections.statistics.topProducts"===aa3){w="Meilleurs produits"
+break B}if("app.dashboard.sections.statistics.customerCount"===aa3){w="Nombre de clients"
+break B}if("app.dashboard.sections.statistics.metrics.label"===aa3){w="Indicateurs cl\xe9s"
+break B}if("app.dashboard.sections.statistics.metrics.overview"===aa3){w=a0
+break B}if("app.dashboard.sections.statistics.metrics.performance"===aa3){w="Performance"
+break B}if("app.dashboard.sections.statistics.metrics.today"===aa3){w=r
+break B}if("app.dashboard.sections.statistics.metrics.thisWeek"===aa3){w=q
+break B}if("app.dashboard.sections.statistics.metrics.thisMonth"===aa3){w=p
+break B}if("app.dashboard.sections.statistics.metrics.lastMonth"===aa3){w="Le mois dernier"
+break B}if("app.dashboard.sections.statistics.metrics.customRange"===aa3){w="Plage personnalis\xe9e"
+break B}if("app.dashboard.sections.statistics.orders.label"===aa3){w=g2
+break B}if("app.dashboard.sections.statistics.orders.pending"===aa3){w=f9
+break B}if("app.dashboard.sections.statistics.orders.processing"===aa3){w=j2
+break B}if("app.dashboard.sections.statistics.orders.completed"===aa3){w="Termin\xe9es"
+break B}if("app.dashboard.sections.statistics.orders.cancelled"===aa3){w="Annul\xe9es"
+break B}if("app.dashboard.sections.statistics.orders.byStatus"===aa3){w="Commandes par statut"
+break B}if("app.dashboard.sections.statistics.orders.byTime"===aa3){w="Commandes par heure"
+break B}if("app.dashboard.sections.statistics.orders.byState"===aa3){w="Commandes par \xe9tat"
+break B}if("app.dashboard.sections.statistics.orders.averageProcessingTime"===aa3){w="Temps de traitement moyen"
+break B}if("app.dashboard.sections.statistics.orders.conversionRate"===aa3){w="Taux de conversion"
+break B}if("app.dashboard.sections.statistics.revenue.label"===aa3){w="Revenu"
+break B}if("app.dashboard.sections.statistics.revenue.grossSales"===aa3){w="Ventes brutes"
+break B}if("app.dashboard.sections.statistics.revenue.netSales"===aa3){w="Ventes nettes"
+break B}if("app.dashboard.sections.statistics.revenue.refunds"===aa3){w="Remboursements"
+break B}if("app.dashboard.sections.statistics.revenue.byProduct"===aa3){w="Revenu par produit"
+break B}if("app.dashboard.sections.statistics.revenue.byCategory"===aa3){w="Revenu par cat\xe9gorie"
+break B}if("app.dashboard.sections.statistics.revenue.growth"===aa3){w="Croissance des revenus"
+break B}if("app.dashboard.sections.statistics.revenue.projectedRevenue"===aa3){w="Revenu projet\xe9"
+break B}if("app.dashboard.sections.statistics.customers.label"===aa3){w="Clients"
+break B}if("app.dashboard.sections.statistics.customers.newCustomers"===aa3){w="Nouveaux clients"
+break B}if("app.dashboard.sections.statistics.customers.returningCustomers"===aa3){w="Clients fid\xe8les"
+break B}if("app.dashboard.sections.statistics.customers.activeCustomers"===aa3){w="Clients actifs"
+break B}if("app.dashboard.sections.statistics.customers.churnRate"===aa3){w="Taux de d\xe9sabonnement"
+break B}if("app.dashboard.sections.statistics.customers.lifetimeValue"===aa3){w="Valeur vie client"
+break B}if("app.dashboard.sections.statistics.customers.topSpenders"===aa3){w="Clients les plus d\xe9pensiers"
+break B}if("app.dashboard.sections.statistics.customers.byState"===aa3){w="Clients par \xe9tat"
+break B}if("app.dashboard.sections.statistics.customers.satisfaction"===aa3){w="Satisfaction client"
+break B}if("app.dashboard.sections.statistics.products.label"===aa3){w=b2
+break B}if("app.dashboard.sections.statistics.products.topSelling"===aa3){w="Les plus vendus"
+break B}if("app.dashboard.sections.statistics.products.lowStock"===aa3){w="Faible stock"
+break B}if("app.dashboard.sections.statistics.products.outOfStock"===aa3){w="En rupture de stock"
+break B}if("app.dashboard.sections.statistics.products.performance"===aa3){w="Performance des produits"
+break B}if("app.dashboard.sections.statistics.products.views"===aa3){w="Vues des produits"
+break B}if("app.dashboard.sections.statistics.products.conversion"===aa3){w="Conversion des produits"
+break B}if("app.dashboard.sections.statistics.products.returns"===aa3){w="Retours de produits"
+break B}if("app.dashboard.sections.statistics.insights.label"===aa3){w=i8
+break B}if("app.dashboard.sections.statistics.insights.trendingProducts"===aa3){w="Produits tendance"
+break B}if("app.dashboard.sections.statistics.insights.peakHours"===aa3){w="Heures de pointe d'achat"
+break B}if("app.dashboard.sections.statistics.insights.popularStates"===aa3){w="\xc9tats populaires"
+break B}if("app.dashboard.sections.statistics.insights.recommendations"===aa3){w="Recommandations"
+break B}if("app.dashboard.sections.orders.label"===aa3){w=g2
+break B}if("app.dashboard.sections.orders.search"===aa3){w="Rechercher des commandes"
+break B}if("app.dashboard.sections.orders.addOrder"===aa3){w=j3
+break B}if("app.dashboard.sections.pos.label"===aa3){w="PDV"
+break B}if("app.dashboard.sections.products.label"===aa3){w=b2
+break B}if("app.dashboard.sections.products.search"===aa3){w="Rechercher des produits"
+break B}if("app.dashboard.sections.products.addProduct"===aa3){w=i9
+break B}if("app.dashboard.sections.products.product"===aa3){w="Produit"
+break B}if("app.dashboard.sections.products.price"===aa3){w=b7
+break B}if("app.dashboard.sections.products.quantity"===aa3){w=b8
+break B}if("app.dashboard.sections.products.sales"===aa3){w=b9
+break B}if("app.dashboard.sections.products.views"===aa3){w=a6
+break B}if("app.dashboard.sections.products.images"===aa3){w=c1
+break B}if("app.dashboard.sections.products.form.name.label"===aa3){w=b4
+break B}if("app.dashboard.sections.products.form.name.hint"===aa3){w="Entrez le nom du produit"
+break B}if("app.dashboard.sections.products.form.title.label"===aa3){w=b6
+break B}if("app.dashboard.sections.products.form.title.hint"===aa3){w="Le nom connu des clients, par exemple, le nom mentionn\xe9 sur l'emballage ou le nom de la voiture du fabricant."
+break B}if("app.dashboard.sections.customers.label"===aa3){w="Clients"
+break B}if("app.dashboard.sections.customers.search"===aa3){w="Rechercher des clients"
+break B}if("app.dashboard.sections.customers.addCustomer"===aa3){w="Ajouter un client"
+break B}if("app.dashboard.sections.theme.dropComponentHere"===aa3){w=j4
+break B}if("app.dashboard.sections.theme.clickAddButtonToInsertComponents"===aa3){w=j5
+break B}if("app.dashboard.sections.theme.label"===aa3){w="Th\xe8me"
+break B}if("app.dashboard.sections.theme.customize"===aa3){w=j6
+break B}if("app.dashboard.sections.theme.install"===aa3){w="Installer le th\xe8me"
+break B}if("app.dashboard.sections.theme.settings"===aa3){w="Param\xe8tres du th\xe8me"
+break B}if("app.dashboard.sections.theme.editor.discardChangesConfirmation"===aa3){w="Vous avez des modifications non enregistr\xe9es. \xcates-vous s\xfbr de vouloir les annuler ?"
+break B}if("app.dashboard.sections.theme.editor.addComponent"===aa3){w="Ajouter un composant"
+break B}if("app.dashboard.sections.theme.editor.changesSaved"===aa3){w="Modifications enregistr\xe9es avec succ\xe8s"
+break B}if("app.dashboard.sections.theme.editor.unsavedChanges"===aa3){w=j7
+break B}if("app.dashboard.sections.theme.editor.componentStatus"===aa3){w="Statut du composant"
+break B}if("app.dashboard.sections.theme.editor.componentEnabled"===aa3){w="Le composant est visible et fonctionnel"
+break B}if("app.dashboard.sections.theme.editor.componentDisabled"===aa3){w="Le composant est masqu\xe9"
+break B}if("app.dashboard.sections.theme.editor.componentOptions"===aa3){w="Options du composant"
+break B}if("app.dashboard.sections.theme.editor.noOptions"===aa3){w="Aucune option configurable disponible"
+break B}if("app.dashboard.sections.theme.editor.dropComponentHere"===aa3){w=j4
+break B}if("app.dashboard.sections.theme.editor.clickAddButtonToInsertComponents"===aa3){w=j5
+break B}if("app.dashboard.sections.theme.editor.removeComponent"===aa3){w="Supprimer le composant"
+break B}if("app.dashboard.sections.theme.editor.saved"===aa3){w="Configurations du th\xe8me enregistr\xe9es"
+break B}if("app.dashboard.sections.theme.editor.enableComponent"===aa3){w="Activer le composant"
+break B}if("app.dashboard.sections.theme.editor.title"===aa3){w="\xc9diteur de th\xe8me"
+break B}if("app.dashboard.sections.theme.editor.components"===aa3){w="Composants"
+break B}if("app.dashboard.sections.theme.editor.searchPlaceholder"===aa3){w="Rechercher des composants..."
+break B}if("app.dashboard.sections.theme.editor.noResults"===aa3){w="Aucun composant trouv\xe9"
+break B}if("app.dashboard.sections.theme.editor.clearFilters"===aa3){w="Effacer les filtres"
+break B}if("app.dashboard.sections.theme.editor.categories.layout"===aa3){w=j8
+break B}if("app.dashboard.sections.theme.editor.categories.content"===aa3){w="Contenu"
+break B}if("app.dashboard.sections.theme.editor.categories.media"===aa3){w="M\xe9dia"
+break B}if("app.dashboard.sections.theme.editor.categories.interactive"===aa3){w="Interactif"
+break B}if("app.dashboard.sections.theme.editor.categories.other"===aa3){w="Autre"
+break B}if("app.dashboard.sections.theme.editor.actions.save"===aa3){w="Enregistrer les modifications"
+break B}if("app.dashboard.sections.theme.editor.actions.reset"===aa3){w=l
+break B}if("app.dashboard.sections.theme.editor.actions.preview"===aa3){w=a0
+break B}if("app.dashboard.sections.theme.editor.actions.themeOptions"===aa3){w="Options du th\xe8me"
+break B}if("app.dashboard.sections.shipping.label"===aa3){w=a7
+break B}if("app.dashboard.sections.shipping.shippingPrices"===aa3){w="Prix d'exp\xe9dition"
+break B}if("app.dashboard.sections.shipping.note.title"===aa3){w="Directives de prix"
+break B}if("app.dashboard.sections.shipping.note.subtitle"===aa3){w=y.o_
+break B}if("app.dashboard.sections.shipping.toDesk"===aa3){w=j9
+break B}if("app.dashboard.sections.shipping.toHome"===aa3){w=k0
+break B}if("app.dashboard.sections.shipping.state"===aa3){w="\xc9tat"
+break B}if("app.dashboard.sections.shipping.city"===aa3){w=d7
+break B}if("app.dashboard.sections.shipping.updateSuccess"===aa3){w="Prix mis \xe0 jour avec succ\xe8s"
+break B}if("app.dashboard.sections.shipping.updateError"===aa3){w=y.oQ
+break B}if("app.dashboard.sections.shipping.exportTooltip"===aa3){w="Exporter les donn\xe9es vers un fichier CSV"
+break B}if("app.dashboard.sections.shipping.fileSaved"===aa3){w=new A.e2N()
+break B}if("app.dashboard.sections.shipping.importTooltip"===aa3){w=y.iH
+break B}if("app.dashboard.sections.shipping.importSuccess"===aa3){w="Donn\xe9es import\xe9es avec succ\xe8s"
+break B}if("app.dashboard.sections.shipping.editAllPrices"===aa3){w="Modifier tous les prix"
+break B}if("app.dashboard.sections.shipping.editAllPricesTitle"===aa3){w="Modifier les prix pour tous les \xc9tats"
+break B}if("app.dashboard.sections.shipping.editAllPricesSubtitle"===aa3){w=y.n
+break B}if("app.dashboard.sections.shipping.toDeskShort"===aa3){w=j9
+break B}if("app.dashboard.sections.shipping.toHomeShort"===aa3){w=k0
+break B}if("app.dashboard.sections.integrations.label"===aa3){w=k1
+break B}if("app.dashboard.sections.integrations.paymentGateways"===aa3){w="Passerelles de paiement"
+break B}if("app.dashboard.sections.integrations.shippingProviders"===aa3){w="Fournisseurs d'exp\xe9dition"
+break B}if("app.dashboard.sections.settings.label"===aa3){w=k2
+break B}if("app.dashboard.sections.settings.storeSettings"===aa3){w=j0
+break B}if("app.dashboard.sections.settings.userSettings"===aa3){w="Param\xe8tres utilisateur"
+break B}if("app.dashboard.sections.settings.billing"===aa3){w="Facturation"
+break B}if("app.dashboard.sections.settings.plans"===aa3){w="Forfaits"
+break B}if("app.dashboard.sections.settings.store.updateImages"===aa3){w=k3
+break B}if("app.dashboard.sections.settings.store.changeImages"===aa3){w=k4
+break B}if("app.dashboard.sections.settings.store.name"===aa3){w=b4
+break B}if("app.dashboard.sections.settings.store.nameDescription"===aa3){w="Nom de la boutique (utilis\xe9 pour la recherche et le logo)"
+break B}if("app.dashboard.sections.settings.store.title"===aa3){w=i3
+break B}if("app.dashboard.sections.settings.store.titleDescription"===aa3){w="Description de la boutique (utilis\xe9e pour la recherche et l'affichage)"
+break B}if("app.dashboard.sections.settings.store.advertisementTitle"===aa3){w="Titre de l'annonce"
+break B}if("app.dashboard.sections.settings.store.advertisementTitleDescription"===aa3){w="Titre affich\xe9 en haut du site"
+break B}if("app.dashboard.sections.settings.store.enable"===aa3){w=k5
+break B}if("app.dashboard.sections.settings.store.enableDescription"===aa3){w="Afficher ou masquer l'annonce"
+break B}if("app.dashboard.sections.settings.store.domain"===aa3){w="Votre nom de domaine"
+break B}if("app.dashboard.sections.settings.store.subdomain"===aa3){w=k6
+break B}if("app.dashboard.sections.settings.store.disableAbandonedOrders"===aa3){w="D\xe9sactiver les commandes abandonn\xe9es"
+break B}if("app.dashboard.sections.settings.store.disableAbandonedOrdersDescription"===aa3){w="Les commandes abandonn\xe9es ne seront pas enregistr\xe9es"
+break B}if("app.dashboard.sections.settings.store.primaryColor"===aa3){w=k7
+break B}if("app.dashboard.sections.settings.store.secondaryColor"===aa3){w=k8
+break B}if("app.dashboard.sections.settings.store.secondaryColorDescription"===aa3){w="Utilis\xe9 pour les \xe9l\xe9ments secondaires et le texte important"
+break B}if("app.dashboard.sections.settings.store.primaryColorDark"===aa3){w="Couleur principale (mode sombre)"
+break B}if("app.dashboard.sections.settings.store.secondaryColorDark"===aa3){w="Couleur secondaire (mode sombre)"
+break B}if("app.dashboard.sections.settings.store.secondaryColorDarkDescription"===aa3){w="Utilis\xe9 pour les \xe9l\xe9ments secondaires en mode sombre"
+break B}if("app.dashboard.sections.settings.store.addressesAndBranches"===aa3){w=k9
+break B}if("app.dashboard.sections.settings.store.addBranch"===aa3){w=l0
+break B}if("app.dashboard.sections.settings.store.cityAndStateNotSpecified"===aa3){w="Ville et \xe9tat non sp\xe9cifi\xe9s"
+break B}if("app.dashboard.sections.settings.store.deleteBranch"===aa3){w=l1
+break B}if("app.dashboard.sections.settings.store.confirmDeleteBranch"===aa3){w=l2
+break B}if("app.dashboard.sections.settings.store.editBranch"===aa3){w=l3
+break B}if("app.dashboard.sections.settings.store.contacts"===aa3){w="Contacts"
+break B}if("app.dashboard.sections.settings.store.addContact"===aa3){w=l4
+break B}if("app.dashboard.sections.settings.store.editContact"===aa3){w=l5
+break B}if("app.dashboard.sections.settings.store.deleteContact"===aa3){w=l6
+break B}if("app.dashboard.sections.settings.store.confirmDeleteContact"===aa3){w=l7
+break B}if("app.dashboard.sections.settings.store.delete"===aa3){w=a2
+break B}if("app.dashboard.sections.settings.store.customLabels"===aa3){w="\xc9tiquettes personnalis\xe9es (commandes)"
+break B}if("app.dashboard.sections.settings.store.customOrderStatuses"===aa3){w=l8
+break B}if("app.dashboard.sections.settings.store.noCustomStatusesAdded"===aa3){w="Aucun statut personnalis\xe9 ajout\xe9 pour l'instant"
+break B}if("app.dashboard.sections.settings.store.importTemplate"===aa3){w=l9
+break B}if("app.dashboard.sections.settings.store.categories"===aa3){w=m0
+break B}if("app.dashboard.sections.settings.store.addCategory"===aa3){w=m1
+break B}if("app.dashboard.sections.settings.store.storeCategory"===aa3){w=m2
+break B}if("app.dashboard.sections.settings.store.editCategory"===aa3){w=m3
+break B}if("app.dashboard.sections.settings.store.deleteCategory"===aa3){w=m4
+break B}if("app.dashboard.sections.settings.store.confirmDeleteCategory"===aa3){w=m5
+break B}if("app.dashboard.sections.settings.store.shippingAndDelivery"===aa3){w=m6
+break B}if("app.dashboard.sections.settings.store.membersAndRoles"===aa3){w=m7
+break B}if("app.dashboard.sections.settings.store.codeCopied"===aa3){w=m8
+break B}if("app.dashboard.sections.settings.store.updateSuccess"===aa3){w="Mis \xe0 jour avec succ\xe8s"
+break B}if("app.dashboard.sections.settings.store.addCustomStatus"===aa3){w=m9
+break B}if("app.dashboard.sections.settings.store.statusColor"===aa3){w="Couleur du statut (facultatif)"
+break B}if("app.dashboard.sections.settings.store.chooseColor"===aa3){w="Choisir"
+break B}if("app.dashboard.sections.settings.store.editCustomStatus"===aa3){w=n0
+break B}if("app.dashboard.sections.settings.store.deleteCustomStatus"===aa3){w=n1
+break B}if("app.dashboard.sections.settings.store.cancel"===aa3){w=k
+break B}if("app.dashboard.sections.expandMenu"===aa3){w="D\xe9velopper le menu"
+break B}if("app.dashboard.sections.collapseMenu"===aa3){w="R\xe9duire le menu"
+break B}if("app.pos.ticket.printDirectly"===aa3){w="Imprimer directement"
+break B}if("app.pos.ticket.skipPrintDialog"===aa3){w="Ignorer la bo\xeete d\u2019impression"
+break B}if("app.pos.ticket.label"===aa3){w="Ticket"
+break B}if("app.pos.ticket.thanks"===aa3){w="Merci pour votre achat"
+break B}if("app.pos.ticket.preview"===aa3){w=a0
+break B}if("app.pos.ticket.print"===aa3){w=e9
+break B}if("app.pos.scan"===aa3){w="Scanner le code-barres"
+break B}if("app.pos.noProductFound"===aa3){w="Aucun produit trouv\xe9 avec ce SKU"
+break B}if("app.pos.scanError"===aa3){w="Erreur de scan"
+break B}if("app.pos.refreshProducts"===aa3){w="Actualiser les produits"
+break B}if("app.pos.noResults"===aa3){w=m
+break B}if("app.pos.barcodeOrSku"===aa3){w="Code-barres / SKU"
+break B}if("app.pos.enterBarcodeOrSku"===aa3){w="Scanner ou entrer un code-barres/SKU"
+break B}if("app.pos.quickAccess"===aa3){w="Acc\xe8s rapide"
+break B}if("app.pos.scanToAdd"===aa3){w="Scanner pour ajouter un produit"
+break B}if("app.pos.title"===aa3){w="Point de vente"
+break B}if("app.pos.shortcuts.title"===aa3){w="Raccourcis"
+break B}if("app.pos.shortcuts.checkout"===aa3){w=n2
+break B}if("app.pos.shortcuts.scan"===aa3){w="Scanner un code-barres"
+break B}if("app.pos.search.label"===aa3){w="Rechercher produits"
+break B}if("app.pos.search.hint"===aa3){w=b5
+break B}if("app.pos.search.helper"===aa3){w="Rechercher parmi les produits"
+break B}if("app.pos.cart.title"===aa3){w="Panier"
+break B}if("app.pos.cart.empty"===aa3){w="Le panier est vide"
+break B}if("app.pos.cart.total"===aa3){w=a8
+break B}if("app.pos.cart.checkout"===aa3){w="Encaisser"
+break B}if("app.pos.cart.processing"===aa3){w=n3
+break B}if("app.pos.cart.quickCheckout"===aa3){w=n2
+break B}if("app.pos.cart.added"===aa3){w="ajout\xe9 au panier"
+break B}if("app.pos.cart.clear"===aa3){w=n4
+break B}if("app.pos.cart.clearTitle"===aa3){w=n4
+break B}if("app.pos.cart.clearConfirm"===aa3){w="Voulez-vous vraiment vider le panier ?"
+break B}if("app.pos.actions.addToCart"===aa3){w=n5
+break B}if("app.pos.actions.removeFromCart"===aa3){w="Retirer du panier"
+break B}if("app.pos.actions.increaseQuantity"===aa3){w="Augmenter quantit\xe9"
+break B}if("app.pos.actions.decreaseQuantity"===aa3){w="Diminuer quantit\xe9"
+break B}if("app.integrations.title"===aa3){w=k1
+break B}if("app.integrations.description"===aa3){w=y.ms
+break B}if("app.integrations.advertisingServices"===aa3){w="Services de publicit\xe9 et de marketing"
+break B}if("app.integrations.shippingServices"===aa3){w="Services de livraison"
+break B}if("app.integrations.security.title"===aa3){w=n6
+break B}if("app.integrations.security.card.title"===aa3){w="S\xe9curit\xe9"
+break B}if("app.integrations.security.card.description"===aa3){w=y.ll
+break B}if("app.integrations.security.card.active"===aa3)break B
+if("app.integrations.security.card.enable"===aa3){w=n7
+break B}if("app.integrations.security.card.disable"===aa3){w="D\xe9sactiver la s\xe9curit\xe9"
+break B}if("app.integrations.security.card.settings"===aa3){w=k2
+break B}if("app.integrations.security.card.setup"===aa3){w="Configurer la s\xe9curit\xe9"
+break B}if("app.integrations.security.card.disconnect"===aa3){w=n8
+break B}if("app.integrations.security.dialog.setupTitle"===aa3){w="Configurer l'int\xe9gration de s\xe9curit\xe9"
+break B}if("app.integrations.security.dialog.setupDescription"===aa3){w=y.oO
+break B}if("app.integrations.security.dialog.setup"===aa3){w="Configurer"
+break B}if("app.integrations.security.dialog.setupSuccess"===aa3){w=y.ej
+break B}if("app.integrations.security.dialog.enable"===aa3){w=k5
+break B}if("app.integrations.security.dialog.disable"===aa3){w=n9
+break B}if("app.integrations.security.dialog.enabled"===aa3){w=o0
+break B}if("app.integrations.security.dialog.disabled"===aa3){w=o1
+break B}if("app.integrations.security.dialog.disconnectConfirmation"===aa3){w=y.mB
+break B}if("app.integrations.security.general.title"===aa3){w=n6
+break B}if("app.integrations.security.general.description"===aa3){w=y.b8
+break B}if("app.integrations.security.general.toggleTitle"===aa3){w=n7
+break B}if("app.integrations.security.general.toggleSubtitle"===aa3){w=y.d
+break B}if("app.integrations.security.general.enabled"===aa3){w=o0
+break B}if("app.integrations.security.general.disabled"===aa3){w=o1
+break B}if("app.integrations.security.general.error"===aa3){w=y.eG
+break B}if("app.integrations.security.orders.title"===aa3){w="Protection des commandes"
+break B}if("app.integrations.security.orders.subtitle"===aa3){w=y.lJ
+break B}if("app.integrations.security.orders.frontendTitle"===aa3){w="Activer la protection sur l'interface"
+break B}if("app.integrations.security.orders.frontendSubtitle"===aa3){w=y.t
+break B}if("app.integrations.security.orders.backendTitle"===aa3){w="Activer la protection c\xf4t\xe9 serveur"
+break B}if("app.integrations.security.orders.backendSubtitle"===aa3){w=y.n2
+break B}if("app.integrations.security.orders.directTitle"===aa3){w="Bloquer les commandes directes"
+break B}if("app.integrations.security.orders.directSubtitle"===aa3){w=y.h
+break B}if("app.integrations.security.orders.adsTitle"===aa3){w=y.B
+break B}if("app.integrations.security.orders.adsSubtitle"===aa3){w=y.mS
+break B}if("app.integrations.security.orders.durationsTitle"===aa3){w="Dur\xe9es de blocage"
+break B}if("app.integrations.security.orders.durationsSubtitle"===aa3){w=y.z
+break B}if("app.integrations.security.orders.ipLabel"===aa3){w="Blocage IP"
+break B}if("app.integrations.security.orders.ipHelper"===aa3){w="Exemple : 24 heures"
+break B}if("app.integrations.security.orders.phoneLabel"===aa3){w="Blocage num\xe9ro de t\xe9l\xe9phone"
+break B}if("app.integrations.security.orders.phoneHelper"===aa3){w="Exemple : 3 jours"
+break B}if("app.integrations.security.orders.unitLabel"===aa3){w="Unit\xe9"
+break B}if("app.integrations.security.orders.save"===aa3){w="Enregistrer la protection des commandes"
+break B}if("app.integrations.security.orders.saving"===aa3){w="Enregistrement..."
+break B}if("app.integrations.security.orders.success"===aa3){w="Protection des commandes enregistr\xe9e"
+break B}if("app.integrations.security.orders.error"===aa3){w=y.iJ
+break B}if("app.integrations.security.orders.validation.required"===aa3){w="Veuillez saisir une dur\xe9e"
+break B}if("app.integrations.security.orders.validation.positive"===aa3){w="Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"
+break B}if("app.integrations.security.units.seconds"===aa3){w="Secondes"
+break B}if("app.integrations.security.units.minutes"===aa3){w="Minutes"
+break B}if("app.integrations.security.units.hours"===aa3){w="Heures"
+break B}if("app.integrations.security.units.days"===aa3){w="Jours"
+break B}if("app.integrations.ecotrack.title"===aa3){w="Ecotrack"
+break B}if("app.integrations.ecotrack.description"===aa3){w=y.D
+break B}if("app.integrations.ecotrack.copyRates"===aa3){w=o2
+break B}if("app.integrations.ecotrack.copyRatesTitle"===aa3){w=o2
+break B}if("app.integrations.ecotrack.copyRatesDescription"===aa3){w=o3
+break B}if("app.integrations.ecotrack.copyRatesSuccess"===aa3){w=o4
+break B}if("app.integrations.ecotrack.connect"===aa3){w=o5
+break B}if("app.integrations.ecotrack.disconnect"===aa3){w=n8
+break B}if("app.integrations.ecotrack.disconnectConfirmation"===aa3){w="Voulez-vous d\xe9connecter le service Ecotrack de votre boutique ?"
+break B}if("app.integrations.ecotrack.settings.title"===aa3){w="Param\xe8tres Ecotrack"
+break B}if("app.integrations.ecotrack.settings.baseUrl"===aa3){w="URL de base"
+break B}if("app.integrations.ecotrack.settings.token"===aa3){w=o6
+break B}if("app.integrations.ecotrack.settings.active"===aa3)break B
+if("app.integrations.ecotrack.finance.title"===aa3){w=o7
+break B}if("app.integrations.ecotrack.finance.summaryTitle"===aa3){w=o7
+break B}if("app.integrations.ecotrack.finance.loading"===aa3){w="Chargement des donn\xe9es financi\xe8res..."
+break B}if("app.integrations.ecotrack.finance.error"===aa3){w=y.iM
+break B}if("app.integrations.ecotrack.finance.refresh"===aa3){w=a3
+break B}if("app.integrations.ecotrack.finance.totalEncaissed"===aa3){w="Total encaiss\xe9"
+break B}if("app.integrations.ecotrack.finance.totalNotEncaissed"===aa3){w="Non encaiss\xe9"
+break B}if("app.integrations.ecotrack.finance.totalPaymentReady"===aa3){w="Paiement pr\xeat"
+break B}if("app.integrations.ecotrack.finance.receivedFunds"===aa3){w="Fonds re\xe7us"
+break B}if("app.integrations.ecotrack.finance.collectionRate"===aa3){w="Taux de recouvrement"
+break B}if("app.integrations.ecotrack.finance.deliveryRate"===aa3){w="Taux de livraison"
+break B}if("app.integrations.ecotrack.finance.returnRate"===aa3){w="Taux de retour"
+break B}if("app.integrations.ecotrack.finance.todaySuccess"===aa3){w="Succ\xe8s d'aujourd'hui"
+break B}if("app.integrations.ecotrack.finance.amounts"===aa3){w="Montants"
+break B}if("app.integrations.ecotrack.finance.fees"===aa3){w="Frais"
+break B}if("app.integrations.ecotrack.finance.net"===aa3){w="Net"
+break B}if("app.integrations.ecotrack.finance.currency"===aa3){w=a4
+break B}if("app.integrations.ecotrack.finance.lastUpdated"===aa3){w=h1
+break B}if("app.integrations.ecotrack.finance.noData"===aa3){w="Aucune donn\xe9e financi\xe8re disponible"
+break B}if("app.integrations.ecotrack.statistics.title"===aa3){w=i8
+break B}if("app.integrations.ecotrack.statistics.loading"===aa3){w="Chargement des statistiques..."
+break B}if("app.integrations.ecotrack.statistics.error"===aa3){w="\xc9chec du chargement des statistiques"
+break B}if("app.integrations.ecotrack.statistics.refresh"===aa3){w=a3
+break B}if("app.integrations.ecotrack.statistics.noData"===aa3){w="Aucune statistique disponible"
+break B}if("app.integrations.ecotrack.statistics.todayActivity"===aa3){w="Activit\xe9 du jour"
+break B}if("app.integrations.ecotrack.statistics.globalStats"===aa3){w="Statistiques globales"
+break B}if("app.integrations.ecotrack.statistics.topWilaya"===aa3){w="Meilleures wilayas"
+break B}if("app.integrations.ecotrack.statistics.expedie"===aa3){w="Exp\xe9di\xe9"
+break B}if("app.integrations.ecotrack.statistics.delivered"===aa3){w=g0
+break B}if("app.integrations.ecotrack.statistics.returned"===aa3){w=g1
+break B}if("app.integrations.ecotrack.statistics.suspended"===aa3){w="Suspendu"
+break B}if("app.integrations.ecotrack.statistics.enTraitement"===aa3){w=j2
+break B}if("app.integrations.ecotrack.statistics.livred"===aa3){w=g0
+break B}if("app.integrations.ecotrack.statistics.retours"===aa3){w="Retours"
+break B}if("app.integrations.ecotrack.statistics.total"===aa3){w=a8
+break B}if("app.integrations.ecotrack.statistics.orders"===aa3){w=g2
+break B}if("app.integrations.yalidine.title"===aa3){w="Yalidine Express"
+break B}if("app.integrations.yalidine.description"===aa3){w=y.lP
+break B}if("app.integrations.yalidine.copyRates"===aa3){w=o2
+break B}if("app.integrations.yalidine.copyRatesTitle"===aa3){w=o2
+break B}if("app.integrations.yalidine.copyRatesDescription"===aa3){w=o3
+break B}if("app.integrations.yalidine.copyRatesSuccess"===aa3){w=o4
+break B}if("app.integrations.yalidine.connect"===aa3){w=o5
+break B}if("app.integrations.yalidine.disconnect"===aa3){w=n8
+break B}if("app.integrations.yalidine.disconnectConfirmation"===aa3){w=y.gq
+break B}if("app.integrations.yalidine.forceFreeShipping"===aa3){w=o8
+break B}if("app.integrations.yalidine.forceFreeShippingDescription"===aa3){w=o9
+break B}if("app.integrations.yalidine.webhook"===aa3){w="Webhook"
+break B}if("app.integrations.yalidine.webhookTitle"===aa3){w="Param\xe8tres Webhook"
+break B}if("app.integrations.yalidine.webhookDescription"===aa3){w=y.lc
+break B}if("app.integrations.yalidine.webhookUrlLabel"===aa3){w="URL du Webhook"
+break B}if("app.integrations.yalidine.webhookCopy"===aa3){w="Copier l'URL"
+break B}if("app.integrations.yalidine.webhookCopied"===aa3){w="URL du webhook copi\xe9e"
+break B}if("app.integrations.yalidine.webhookSecretLabel"===aa3){w="Cl\xe9 secr\xe8te du Webhook"
+break B}if("app.integrations.yalidine.webhookSecretDescription"===aa3){w=p0
+break B}if("app.integrations.yalidine.webhookSecretCopied"===aa3){w="Cl\xe9 secr\xe8te copi\xe9e"
+break B}if("app.integrations.yalidine.webhookSecretCopy"===aa3){w="Copier la cl\xe9"
+break B}if("app.integrations.yalidine.webhookWarningTitle"===aa3){w="Avertissement de s\xe9curit\xe9"
+break B}if("app.integrations.yalidine.webhookWarningDescription"===aa3){w=y.U
+break B}if("app.integrations.yalidine.webhookAddSecret"===aa3){w="Ajouter la cl\xe9 secr\xe8te"
+break B}if("app.integrations.yalidine.webhookClose"===aa3){w=h
+break B}if("app.integrations.yalidine.settings.title"===aa3){w=y.g6
+break B}if("app.integrations.yalidine.settings.description"===aa3){w=y.ma
+break B}if("app.integrations.yalidine.settings.appIdLabel"===aa3){w="ID de l'application APP ID"
+break B}if("app.integrations.yalidine.settings.appIdHint"===aa3){w="737001705622XXXXXXXX"
+break B}if("app.integrations.yalidine.settings.appIdHelper"===aa3){w=y.k_
+break B}if("app.integrations.yalidine.settings.apiKeyLabel"===aa3){w=p1
+break B}if("app.integrations.yalidine.settings.apiKeyHint"===aa3){w="ETfCW1W8mtxa..."
+break B}if("app.integrations.yalidine.settings.apiKeyHelper"===aa3){w=y.bH
+break B}if("app.integrations.yalidine.settings.webhookSecretLabel"===aa3){w="Cl\xe9 secr\xe8te du Webhook (Optionnel)"
+break B}if("app.integrations.yalidine.settings.webhookSecretHint"===aa3){w="webhook_secret_key_123..."
+break B}if("app.integrations.yalidine.settings.webhookSecretHelper"===aa3){w=p0
+break B}if("app.integrations.yalidine.settings.agentLabel"===aa3){w="Agent"
+break B}if("app.integrations.yalidine.settings.stateLabel"===aa3){w="\xc9tat de d\xe9part"
+break B}if("app.integrations.yalidine.settings.activeTitle"===aa3){w="Activer le service"
+break B}if("app.integrations.yalidine.settings.forceFreeShippingTitle"===aa3){w=o8
+break B}if("app.integrations.yalidine.settings.forceFreeShippingSubtitle"===aa3){w=o9
+break B}if("app.integrations.yalidine.settings.id"===aa3){w="ID"
+break B}if("app.integrations.yalidine.settings.token"===aa3){w=o6
+break B}if("app.integrations.yalidine.settings.agent"===aa3){w="Agent"
+break B}if("app.integrations.yalidine.settings.active"===aa3)break B
+if("app.integrations.procolis.title"===aa3){w="Procolis"
+break B}if("app.integrations.procolis.unknownError"===aa3){w=e7
+break B}if("app.integrations.procolis.copyRatesTitle"===aa3){w="Copier les tarifs depuis Procolis"
+break B}if("app.integrations.procolis.copyRatesDescription"===aa3){w=y.L
+break B}if("app.integrations.procolis.copyRatesSuccess"===aa3){w=y.jn
+break B}w=v
+break B}if(w==null)C:{w=n8
+if("app.integrations.procolis.copyRates"===aa3){w=o2
+break C}if("app.integrations.procolis.description"===aa3){w=y.p9
+break C}if("app.integrations.procolis.connect"===aa3){w=o5
+break C}if("app.integrations.procolis.disconnect"===aa3)break C
+if("app.integrations.procolis.disconnectConfirmation"===aa3){w=y.gA
+break C}if("app.integrations.procolis.settings.title"===aa3){w="Param\xe8tres Procolis"
+break C}if("app.integrations.procolis.settings.key"===aa3){w=p1
+break C}if("app.integrations.procolis.settings.token"===aa3){w=o6
+break C}if("app.integrations.procolis.settings.active"===aa3){w=i4
+break C}if("app.integrations.metaPixel.title"===aa3){w="Meta Pixel"
+break C}if("app.integrations.metaPixel.description"===aa3){w=y.eQ
+break C}if("app.integrations.metaPixel.connect"===aa3){w=o5
+break C}if("app.integrations.metaPixel.disconnect"===aa3)break C
+if("app.integrations.metaPixel.disconnectConfirmation"===aa3){w=y.m
+break C}if("app.integrations.metaPixel.addPixel"===aa3){w=p2
+break C}if("app.integrations.metaPixel.pixelId"===aa3){w=p3
+break C}if("app.integrations.metaPixel.error"===aa3){w="Erreur de connexion \xe0 Meta Pixel"
+break C}if("app.integrations.metaPixel.noPixelsConfigured"===aa3){w=p4
+break C}if("app.integrations.metaPixel.pixelDetails"===aa3){w=new A.e2O()
+break C}if("app.integrations.metaPixel.pixelNameHint"===aa3){w=p5
+break C}if("app.integrations.metaPixel.apiKey"===aa3){w="Cl\xe9 API (Optionnelle)"
+break C}if("app.integrations.metaPixel.newPixelName"===aa3){w="Nouveau Pixel"
+break C}if("app.integrations.metaPixel.settings.title"===aa3){w="Param\xe8tres Meta Pixel"
+break C}if("app.integrations.metaPixel.settings.active"===aa3){w=i4
+break C}if("app.integrations.metaPixel.settings.activeHint"===aa3){w=p6
+break C}if("app.integrations.metaPixel.success"===aa3){w="Meta Pixel connect\xe9 avec succ\xe8s"
+break C}if("app.integrations.metaPixel.editPixel"===aa3){w=p7
+break C}if("app.integrations.metaPixel.deletePixelConfirmation"===aa3){w=new A.e2P()
+break C}if("app.integrations.metaPixel.selectPixel"===aa3){w=p8
+break C}if("app.integrations.metaPixel.testCAPI"===aa3){w=p9
+break C}if("app.integrations.metaPixel.catalog"===aa3){w=q0
+break C}if("app.integrations.metaPixel.sendTestEvent"===aa3){w=q1
+break C}if("app.integrations.metaPixel.sendTestEventDescription"===aa3){w=y.X
+break C}if("app.integrations.metaPixel.testCode"===aa3){w=q2
+break C}if("app.integrations.metaPixel.testEventSent"===aa3){w=q3
+break C}if("app.integrations.tiktokPixel.title"===aa3){w="TikTok Pixel"
+break C}if("app.integrations.tiktokPixel.description"===aa3){w=y.nt
+break C}if("app.integrations.tiktokPixel.connect"===aa3){w=o5
+break C}if("app.integrations.tiktokPixel.disconnect"===aa3)break C
+if("app.integrations.tiktokPixel.disconnectConfirmation"===aa3){w=y.mv
+break C}if("app.integrations.tiktokPixel.addPixel"===aa3){w=p2
+break C}if("app.integrations.tiktokPixel.editPixel"===aa3){w=p7
+break C}if("app.integrations.tiktokPixel.pixelId"===aa3){w=p3
+break C}if("app.integrations.tiktokPixel.pixelNameHint"===aa3){w=p5
+break C}if("app.integrations.tiktokPixel.accessToken"===aa3){w="Jeton d\u2019acc\xe8s"
+break C}if("app.integrations.tiktokPixel.noPixelsConfigured"===aa3){w=p4
+break C}if("app.integrations.tiktokPixel.deletePixelConfirmation"===aa3){w=new A.e2Q()
+break C}if("app.integrations.tiktokPixel.settings.title"===aa3){w="Param\xe8tres TikTok Pixel"
+break C}if("app.integrations.tiktokPixel.settings.active"===aa3){w=i4
+break C}if("app.integrations.tiktokPixel.settings.activeHint"===aa3){w=p6
+break C}if("app.integrations.tiktokPixel.success"===aa3){w="TikTok Pixel connect\xe9 avec succ\xe8s"
+break C}if("app.integrations.tiktokPixel.error"===aa3){w="Erreur de connexion \xe0 TikTok Pixel"
+break C}if("app.integrations.tiktokPixel.selectPixel"===aa3){w=p8
+break C}if("app.integrations.tiktokPixel.unnamedPixel"===aa3){w=q4
+break C}if("app.integrations.tiktokPixel.testEventsApi"===aa3){w="Tester Events API"
+break C}if("app.integrations.tiktokPixel.catalog"===aa3){w=q0
+break C}if("app.integrations.tiktokPixel.sendTestEvent"===aa3){w=q1
+break C}if("app.integrations.tiktokPixel.sendTestEventDescription"===aa3){w=y.lW
+break C}if("app.integrations.tiktokPixel.testCode"===aa3){w=q2
+break C}if("app.integrations.tiktokPixel.testEventSent"===aa3){w=q3
+break C}if("app.integrations.maystro.title"===aa3){w="Maystro"
+break C}if("app.integrations.maystro.description"===aa3){w="Connectez votre boutique au service de livraison rapide Maystro\nFournit les tarifs de livraison et l\u2019envoi direct des commandes"
+break C}if("app.integrations.maystro.connect"===aa3){w=o5
+break C}if("app.integrations.maystro.disconnect"===aa3)break C
+if("app.integrations.maystro.comingSoon"===aa3){w=t
+break C}if("app.integrations.maystro.disconnectConfirmation"===aa3){w="Voulez-vous d\xe9connecter le service Maystro de votre boutique ?"
+break C}if("app.integrations.noest.title"===aa3){w="Noest"
+break C}if("app.integrations.noest.description"===aa3){w=y.hR
+break C}if("app.integrations.noest.connect"===aa3){w=o5
+break C}if("app.integrations.noest.disconnect"===aa3)break C
+if("app.integrations.noest.disconnectConfirmation"===aa3){w=y.f6
+break C}if("app.integrations.noest.copyRates"===aa3){w=o2
+break C}if("app.integrations.noest.copyRatesTitle"===aa3){w=o2
+break C}if("app.integrations.noest.copyRatesDescription"===aa3){w=o3
+break C}if("app.integrations.noest.copyRatesSuccess"===aa3){w=o4
+break C}if("app.integrations.noest.settings.title"===aa3){w="Param\xe8tres Noest"
+break C}if("app.integrations.noest.settings.guid"===aa3){w="GUID Utilisateur"
+break C}if("app.integrations.noest.settings.token"===aa3){w=o6
+break C}if("app.integrations.noest.settings.active"===aa3){w=i4
+break C}if("app.integrations.noest.orderType"===aa3){w="Type de commande"
+break C}if("app.integrations.noest.deliveryType"===aa3){w=g8
+break C}if("app.integrations.noest.customerName"===aa3){w=d2
+break C}if("app.integrations.noest.phone"===aa3){w=c9
+break C}if("app.integrations.noest.phone2"===aa3){w="T\xe9l\xe9phone alternatif"
+break C}if("app.integrations.noest.address"===aa3){w="Adresse"
+break C}if("app.integrations.noest.weight"===aa3){w="Poids"
+break C}if("app.integrations.noest.total"===aa3){w=a8
+break C}if("app.integrations.noest.canOpen"===aa3){w="Peut ouvrir le colis"
+break C}if("app.integrations.noest.canOpenDescription"===aa3){w="Autoriser le client \xe0 ouvrir le colis avant paiement"
+break C}if("app.integrations.noest.pickupFromOffice"===aa3){w="Retrait au bureau"
+break C}if("app.integrations.noest.pickupFromOfficeDescription"===aa3){w="Le client retirera le colis au bureau Noest"
+break C}if("app.integrations.noest.stationCode"===aa3){w="Point de retrait"
+break C}if("app.integrations.noest.notes"===aa3){w="Remarques"
+break C}if("app.integrations.noest.success"===aa3){w=e8
+break C}if("app.integrations.noest.error"===aa3){w="Erreur lors de l\u2019envoi de la commande \xe0 Noest"
+break C}if("app.integrations.noest.unknownError"===aa3){w="Une erreur inconnue est survenue"
+break C}if("app.integrations.noest.state"===aa3){w="Wilaya"
+break C}if("app.integrations.noest.city"===aa3){w=d7
+break C}if("app.integrations.noest.selectCity"===aa3){w=d8
+break C}if("app.integrations.noest.orderTypes.delivery.title"===aa3){w=d0
+break C}if("app.integrations.noest.orderTypes.delivery.description"===aa3){w="Effectuer une livraison"
+break C}if("app.integrations.noest.orderTypes.exchange.title"===aa3){w="\xc9change"
+break C}if("app.integrations.noest.orderTypes.exchange.description"===aa3){w="\xc9changer le colis avec le client final"
+break C}if("app.integrations.noest.orderTypes.pickup.title"===aa3){w="Ramassage"
+break C}if("app.integrations.noest.orderTypes.pickup.description"===aa3){w=y.m9
+break C}if("app.integrations.noest.deliveryTypes.home.title"===aa3){w="Livraison \xe0 domicile"
+break C}if("app.integrations.noest.deliveryTypes.home.description"===aa3){w="Livrer directement \xe0 l\u2019adresse du client"
+break C}if("app.integrations.noest.deliveryTypes.desk.title"===aa3){w="Point relais"
+break C}if("app.integrations.noest.deliveryTypes.desk.description"===aa3){w="Livrer au bureau Noest le plus proche"
+break C}if("app.integrations.chronorex.title"===aa3){w="Chronorex offre des avantages exclusifs aux boutiques Feeef"
+break C}if("app.integrations.chronorex.subtitle"===aa3){w="Profitez de tarifs r\xe9duits et d\u2019autres avantages avec les partenaires Feeef"
+break C}if("app.integrations.googleSheets.title"===aa3){w="Google Sheets"
+break C}if("app.integrations.googleSheets.description"===aa3){w=y.cK
+break C}if("app.integrations.googleSheets.connect"===aa3){w=o5
+break C}if("app.integrations.googleSheets.disconnect"===aa3)break C
+if("app.integrations.googleSheets.open"===aa3){w="Ouvrir"
+break C}if("app.integrations.googleSheets.disconnectConfirmation"===aa3){w="Voulez-vous d\xe9connecter le service Google Sheets de votre boutique ?"
+break C}if("app.integrations.googleSheets.syncHeaders"===aa3){w="Synchroniser les en-t\xeates"
+break C}if("app.integrations.googleSheets.syncHeadersLoading"===aa3){w="Synchronisation des en-t\xeates..."
+break C}if("app.integrations.googleSheets.syncHeadersSuccess"===aa3){w="En-t\xeates synchronis\xe9s avec succ\xe8s"
+break C}if("app.integrations.googleSheets.syncHeadersError"===aa3){w=y.fz
+break C}if("app.integrations.googleSheets.settings.title"===aa3){w="Param\xe8tres Google Sheets"
+break C}if("app.integrations.googleSheets.settings.active"===aa3){w=i4
+break C}if("app.integrations.googleAnalytics.title"===aa3){w="Google Analytics"
+break C}if("app.integrations.googleAnalytics.description"===aa3){w="Connectez votre boutique \xe0 Google Analytics pour suivre les visiteurs et analyser les donn\xe9es"
+break C}if("app.integrations.googleAnalytics.connect"===aa3){w=o5
+break C}if("app.integrations.googleAnalytics.disconnect"===aa3)break C
+if("app.integrations.googleAnalytics.disconnectConfirmation"===aa3){w="Voulez-vous d\xe9connecter le service Google Analytics de votre boutique ?"
+break C}if("app.integrations.googleAnalytics.settings.title"===aa3){w="Param\xe8tres Google Analytics"
+break C}if("app.integrations.googleAnalytics.settings.active"===aa3){w=i4
+break C}if("app.integrations.googleAnalytics.settings.measurementId"===aa3){w="ID de mesure"
+break C}if("app.integrations.ai.title"===aa3){w=q5
+break C}if("app.integrations.ai.description"===aa3){w=q6
+break C}if("app.integrations.ai.apiKey"===aa3){w=p1
+break C}if("app.integrations.ai.apiKeyHint"===aa3){w=q7
+break C}if("app.integrations.ai.textModel"===aa3){w=q8
+break C}if("app.integrations.ai.imageModel"===aa3){w=q9
+break C}if("app.integrations.ai.setup"===aa3){w=r0
+break C}if("app.integrations.ai.test"===aa3){w=r1
+break C}if("app.integrations.ai.enable"===aa3){w=r2
+break C}if("app.integrations.ai.disable"===aa3){w=r3
+break C}if("app.integrations.ai.disconnect"===aa3)break C
+if("app.integrations.ai.disconnectConfirm"===aa3){w=r4
+break C}if("app.appBarActions.notifications"===aa3){w="Notifications"
+break C}if("app.appBarActions.help"===aa3){w="Aide"
+break C}if("app.aiImageStudio.title"===aa3){w="Studio d'images IA"
+break C}if("app.aiImageStudio.description"===aa3){w="Cr\xe9ez de nouvelles images ou modifiez les existantes"
+break C}if("app.aiImageStudio.sections.prompt"===aa3){w=c3
+break C}if("app.aiImageStudio.sections.model"===aa3){w="Mod\xe8le IA"
+break C}if("app.aiImageStudio.sections.aspectRatio"===aa3){w="Ratio d'aspect"
+break C}if("app.aiImageStudio.sections.referenceImages"===aa3){w="Images de r\xe9f\xe9rence (Optionnel)"
+break C}if("app.aiImageStudio.sections.sourceImage"===aa3){w="Image source (Optionnel)"
+break C}if("app.aiImageStudio.prompt.editHint"===aa3){w="Entrez les modifications..."
+break C}if("app.aiImageStudio.prompt.generateHint"===aa3){w="Entrez une description..."
+break C}if("app.aiImageStudio.buttons.selectImage"===aa3){w="S\xe9lectionner une image"
+break C}if("app.aiImageStudio.buttons.changeImage"===aa3){w="Changer l'image"
+break C}if("app.aiImageStudio.buttons.clearImage"===aa3){w="Effacer l'image"
+break C}if("app.aiImageStudio.buttons.editImage"===aa3){w="Modifier l'image"
+break C}if("app.aiImageStudio.buttons.undo"===aa3){w=k
+break C}if("app.aiImageStudio.buttons.download"===aa3){w="T\xe9l\xe9charger"
+break C}if("app.aiImageStudio.buttons.share"===aa3){w="Partager"
+break C}if("app.aiImageStudio.buttons.generate"===aa3){w="G\xe9n\xe9rer l'image"
+break C}if("app.aiImageStudio.buttons.applyEdits"===aa3){w="Appliquer les modifications"
+break C}if("app.aiImageStudio.buttons.processing"===aa3){w=n3
+break C}if("app.aiImageStudio.buttons.processingImage"===aa3){w="Traitement de l'image..."
+break C}if("app.aiImageStudio.cost.willBeDeducted"===aa3){w="sera d\xe9duit"
+break C}if("app.aiImageStudio.cost.credits"===aa3){w="credits"
+break C}if("app.aiImageStudio.referenceImages.add"===aa3){w="Ajouter"
+break C}if("app.aiImageStudio.referenceImages.addImage"===aa3){w="Ajouter une image"
+break C}if("app.aiImageStudio.referenceImages.noModelsAvailable"===aa3){w="Aucun mod\xe8le disponible"
+break C}if("app.aiImageStudio.referenceImages.editLabel"===aa3){w=r5
+break C}if("app.aiImageStudio.referenceImages.addLabel"===aa3){w="Ajouter une \xe9tiquette"
+break C}if("app.aiImageStudio.referenceImages.labelDialog.title"===aa3){w="\xc9tiquette de l'image de r\xe9f\xe9rence"
+break C}if("app.aiImageStudio.referenceImages.labelDialog.description"===aa3){w=y.C
+break C}if("app.aiImageStudio.referenceImages.labelDialog.hint"===aa3){w="Exemple : Logo de l'entreprise"
+break C}if("app.aiImageStudio.referenceImages.labelDialog.clear"===aa3){w="Effacer"
+break C}if("app.aiImageStudio.referenceImages.labelDialog.cancel"===aa3){w=k
+break C}if("app.aiImageStudio.referenceImages.labelDialog.save"===aa3){w=d
+break C}if("app.aiImageStudio.errors.noStore"===aa3){w=y.cx
+break C}if("app.aiImageStudio.errors.noPromptOrImage"===aa3){w=y.n7
+break C}if("app.aiImageStudio.errors.noImageToEdit"===aa3){w="Aucune image \xe0 modifier"
+break C}if("app.aiImageStudio.errors.failedToLoadImage"===aa3){w="\xc9chec du chargement de l'image"
+break C}if("app.aiImageStudio.errors.failedToDisplayImage"===aa3){w="\xc9chec de l'affichage de l'image"
+break C}if("app.aiImageStudio.errors.failedToOpenEditor"===aa3){w=y.lR
+break C}if("app.aiImageStudio.errors.failedToShare"===aa3){w="\xc9chec du partage de l'image"
+break C}if("app.aiImageStudio.errors.generateFailed"===aa3){w="\xc9chec de la g\xe9n\xe9ration de l'image"
+break C}if("app.aiImageStudio.success.imageGenerated"===aa3){w="Image g\xe9n\xe9r\xe9e avec succ\xe8s"
+break C}if("app.aiImageStudio.success.imageEdited"===aa3){w="Image modifi\xe9e avec succ\xe8s"
+break C}if("app.aiImageStudio.success.editsSaved"===aa3){w=y.eJ
+break C}if("app.aiImageStudio.success.linkCopied"===aa3){w="Lien de l'image copi\xe9"
+break C}if("app.aiImageStudio.aspectRatios.square"===aa3){w="Carr\xe9"
+break C}if("app.aiImageStudio.aspectRatios.portrait"===aa3){w="Portrait"
+break C}if("app.aiImageStudio.aspectRatios.story"===aa3){w="Story"
+break C}if("app.aiImageStudio.aspectRatios.landscape"===aa3){w="Paysage"
+break C}if("app.wallet.deposit"===aa3){w="D\xe9p\xf4t"
+break C}if("app.wallet.send"===aa3){w=i6
+break C}if("app.wallet.transfers"===aa3){w="Transactions"
+break C}if("app.wallet.deposits"===aa3){w="D\xe9p\xf4ts"
+break C}if("app.wallet.noTransfers"===aa3){w="Aucune transaction pour le moment"
+break C}if("app.wallet.noTransfersSubtitle"===aa3){w="Toutes vos transactions appara\xeetront ici"
+break C}if("app.wallet.noDeposits"===aa3){w="Aucun d\xe9p\xf4t pour le moment"
+break C}if("app.wallet.noDepositsSubtitle"===aa3){w="Tous vos d\xe9p\xf4ts appara\xeetront ici"
+break C}if("app.wallet.loading"===aa3){w=r6
+break C}if("app.wallet.loadMore"===aa3){w=u
+break C}if("app.wallet.errorLoadingTransfers"===aa3){w=y.n9
+break C}if("app.wallet.errorLoadingDeposits"===aa3){w="Erreur lors du chargement des d\xe9p\xf4ts"
+break C}if("app.wallet.transferTypes.deposit"===aa3){w="D\xe9p\xf4t"
+break C}if("app.wallet.transferTypes.subscription"===aa3){w=h9
+break C}if("app.wallet.transferTypes.points"===aa3){w="Points"
+break C}if("app.wallet.transferTypes.storeDue"===aa3){w="Paiement du magasin"
+break C}if("app.wallet.transferTypes.send"===aa3){w=i6
+break C}if("app.wallet.transferTypes.receive"===aa3){w=i5
+break C}if("app.wallet.transferTypes.transaction"===aa3){w="Transaction"
+break C}if("app.wallet.transferTypes.aiGeneration"===aa3){w="G\xe9n\xe9ration IA"
+break C}if("app.wallet.transferTypes.refund"===aa3){w="Remboursement"
+break C}if("app.wallet.transferTypes.adjustment"===aa3){w="Ajustement"
+break C}if("app.wallet.depositStatus.completed"===aa3){w=f6
+break C}if("app.wallet.depositStatus.pending"===aa3){w=f9
+break C}if("app.wallet.depositStatus.failed"===aa3){w=f7
+break C}if("app.wallet.depositStatus.cancelled"===aa3){w="Annul\xe9"
+break C}if("app.wallet.currency"===aa3){w=a4
+break C}if("app.wallet.balance"===aa3){w="Votre solde"
+break C}if("app.wallet.showReceiveQR"===aa3){w="Afficher le code QR de r\xe9ception"
+break C}if("app.wallet.scanToSend"===aa3){w="Scanner pour envoyer"
+break C}if("appBarActions.language.label"===aa3){w="Langue"
+break C}if("appBarActions.language.arabic"===aa3){w="\u0639\u0631\u0628\u064a"
+break C}if("appBarActions.language.english"===aa3){w="Anglais"
+break C}if("appBarActions.language.french"===aa3){w="Fran\xe7ais"
+break C}if("appBarActions.theme.label"===aa3){w="Th\xe8me"
+break C}if("appBarActions.theme.dark"===aa3){w="Sombre"
+break C}if("appBarActions.theme.system"===aa3){w="Syst\xe8me"
+break C}if("appBarActions.theme.light"===aa3){w="Clair"
+break C}if("appBarActions.zoom.label"===aa3){w="Zoom"
+break C}if("appBarActions.zoom.increase"===aa3){w="Augmenter le zoom"
+break C}if("appBarActions.zoom.decrease"===aa3){w="R\xe9duire le zoom"
+break C}if("appBarActions.profile"===aa3){w="Profil"
+break C}if("appBarActions.feedback"===aa3){w=o
+break C}if("countries.title"===aa3){w=r7
+break C}if("countries.selectDefaultError"===aa3){w=r8
+break C}if("countries.selectAtLeastOneError"===aa3){w="Veuillez s\xe9lectionner au moins un pays"
+break C}if("countries.allAddedError"===aa3){w="Tous les pays sont d\xe9j\xe0 ajout\xe9s"
+break C}if("countries.selectCountries"===aa3){w="S\xe9lectionner les pays"
+break C}if("countries.kDefault"===aa3){w=r9
+break C}if("countries.removeConfirmation"===aa3){w="Voulez-vous supprimer {countryName} ?"
+break C}if("countries.addCountries"===aa3){w="Ajouter des pays"
+break C}if("createOrUpdateOrderForm.customer.summary.noInfo"===aa3){w="Aucune information client"
+break C}if("createOrUpdateOrderForm.shipping.summary.noInfo"===aa3){w="Aucune information d'exp\xe9dition"
+break C}if("createOrUpdateOrderForm.items.summary.noProducts"===aa3){w="Aucun produit"
+break C}if("createOrUpdateOrderForm.items.summary.productCount"===aa3){w="produit"
+break C}if("createOrUpdateOrderForm.items.summary.totalValue"===aa3){w=a8
+break C}if("createOrUpdateOrderForm.history.summary.noHistory"===aa3){w="Aucun historique"
+break C}if("createOrUpdateOrderForm.history.summary.timeAgo.days"===aa3){w="jours"
+break C}if("createOrUpdateOrderForm.history.summary.timeAgo.hours"===aa3){w="heures"
+break C}if("createOrUpdateOrderForm.history.summary.timeAgo.minutes"===aa3){w="minutes"
+break C}if("createOrUpdateOrderForm.history.summary.timeAgo.now"===aa3){w="maintenant"
+break C}if("createOrUpdateOrderForm.control.summary.note"===aa3){w=g5
+break C}if("createOrUpdateOrderForm.warnings.priceChange"===aa3){w="Le prix de la commande peut changer lors de la mise \xe0 jour"
+break C}if("createOrUpdateOrderForm.warnings.priceChangeNote"===aa3){w="Veuillez v\xe9rifier le prix avant de mettre \xe0 jour"
+break C}if("createOrUpdateOrderForm.customerEmail.label"===aa3){w=s0
+break C}if("createOrUpdateOrderForm.customerEmail.invalid"===aa3){w=g4
+break C}if("createOrUpdateOrderForm.shippingNote.helper"===aa3){w="Cette note sera imprim\xe9e sur la facture d'exp\xe9dition"
+break C}if("createOrUpdateOrderForm.call"===aa3){w="Appeler"
+break C}if("createOrUpdateOrderForm.message"===aa3){w="Message"
+break C}if("createOrUpdateOrderForm.errors.cannotCall"===aa3){w="Impossible d'appeler ce num\xe9ro"
+break C}if("createOrUpdateOrderForm.errors.cannotSendSMS"===aa3){w="Impossible d'envoyer un SMS \xe0 ce num\xe9ro"
+break C}if("createOrUpdateOrderForm.confirmDialog.title"===aa3){w=s1
+break C}if("createOrUpdateOrderForm.confirmDialog.content"===aa3){w="Les modifications que vous avez faites seront annul\xe9es."
+break C}if("createOrUpdateOrderForm.confirmDialog.cancel"===aa3){w=k
+break C}if("createOrUpdateOrderForm.confirmDialog.confirm"===aa3){w=a5
+break C}if("createOrUpdateOrderForm.success.orderCreated"===aa3){w="Commande cr\xe9\xe9e avec succ\xe8s"
+break C}if("createOrUpdateOrderForm.success.orderUpdated"===aa3){w="Commande mise \xe0 jour avec succ\xe8s"
+break C}if("createOrUpdateOrderForm.openProductPage"===aa3){w="Ouvrir la page du produit"
+break C}if("filterBuilder.dialogTitle"===aa3){w="Cr\xe9er un filtre avanc\xe9"
+break C}if("filterBuilder.editDialogTitle"===aa3){w="Modifier le filtre"
+break C}if("filterBuilder.filterNameLabel"===aa3){w="Nom du filtre"
+break C}if("filterBuilder.filterNameHint"===aa3){w="ex: Commandes non pay\xe9es d'Alger"
+break C}if("filterBuilder.mainConditionLabel"===aa3){w="Condition principale:"
+break C}if("filterBuilder.andLabel"===aa3){w="ET"
+break C}if("filterBuilder.orLabel"===aa3){w="OU"
+break C}if("filterBuilder.addConditionButton"===aa3){w="Ajouter une condition"
+break C}if("filterBuilder.addGroupButton"===aa3){w="Ajouter un groupe"
+break C}if("filterBuilder.deleteCondition"===aa3){w="Supprimer la condition"
+break C}if("filterBuilder.deleteGroup"===aa3){w="Supprimer le groupe"
+break C}if("filterBuilder.selectFieldPlaceholder"===aa3){w="S\xe9lectionner le champ"
+break C}if("filterBuilder.selectOperationPlaceholder"===aa3){w="S\xe9lectionner l'op\xe9ration"
+break C}if("filterBuilder.valuePlaceholder"===aa3){w="Valeur"
+break C}if("filterBuilder.valuesPlaceholder"===aa3){w="Valeurs (s\xe9par\xe9es par des virgules)"
+break C}if("filterBuilder.valuesHint"===aa3){w="ex: valeur1, valeur2, valeur3"
+break C}if("filterBuilder.enterValueHint"===aa3){w="Veuillez entrer une valeur"
+break C}if("filterBuilder.previewTitle"===aa3){w="Aper\xe7u de la requ\xeate"
+break C}if("filterBuilder.saveButton"===aa3){w=d
+break C}if("filterBuilder.updateButton"===aa3){w=a1
+break C}if("filterBuilder.filterNameRequired"===aa3){w="Le nom du filtre est requis"
+break C}if("filterBuilder.atLeastOneConditionRequired"===aa3){w="Au moins une condition est requise"
+break C}if("filterBuilder.operations.equals"===aa3){w="\xc9gal \xe0"
+break C}if("filterBuilder.operations.notEquals"===aa3){w="Diff\xe9rent de"
+break C}if("filterBuilder.operations.contains"===aa3){w="Contient"
+break C}if("filterBuilder.operations.startsWith"===aa3){w="Commence par"
+break C}if("filterBuilder.operations.endsWith"===aa3){w="Se termine par"
+break C}if("filterBuilder.operations.greaterThan"===aa3){w="Sup\xe9rieur \xe0"
+break C}if("filterBuilder.operations.greaterOrEqual"===aa3){w="Sup\xe9rieur ou \xe9gal \xe0"
+break C}if("filterBuilder.operations.lessThan"===aa3){w="Inf\xe9rieur \xe0"
+break C}if("filterBuilder.operations.lessOrEqual"===aa3){w="Inf\xe9rieur ou \xe9gal \xe0"
+break C}if("filterBuilder.operations.inList"===aa3){w="Dans la liste"
+break C}if("filterBuilder.operations.notIn"===aa3){w="Pas dans"
+break C}if("filterBuilder.operations.isNull"===aa3){w="Est nul"
+break C}if("filterBuilder.operations.isNotNull"===aa3){w="N'est pas nul"
+break C}if("integrations.metaPixel.selectPixel"===aa3){w=s2
+break C}if("integrations.metaPixel.testCAPI"===aa3){w=p9
+break C}if("integrations.metaPixel.catalog"===aa3){w=q0
+break C}if("integrations.metaPixel.sendTestEvent"===aa3){w=s3
+break C}if("integrations.metaPixel.sendTestEventDescription"===aa3){w="Envoyer un test avec votre pixel ?"
+break C}if("integrations.metaPixel.testCode"===aa3){w=q2
+break C}if("integrations.metaPixel.testEventSent"===aa3){w=s4
+break C}if("integrations.metaPixel.eventDialog.title"===aa3){w=s5
+break C}if("integrations.metaPixel.eventDialog.events.purchase.title"===aa3){w=s6
+break C}if("integrations.metaPixel.eventDialog.events.purchase.subtitle"===aa3){w=s7
+break C}if("integrations.metaPixel.eventDialog.events.lead.title"===aa3){w="Lead"
+break C}if("integrations.metaPixel.eventDialog.events.lead.subtitle"===aa3){w="Envoyer un lead"
+break C}if("integrations.metaPixel.eventDialog.events.viewContent.title"===aa3){w=s8
+break C}if("integrations.metaPixel.eventDialog.events.viewContent.subtitle"===aa3){w=s9
+break C}if("integrations.metaPixel.eventDialog.events.addToCart.title"===aa3){w=n5
+break C}if("integrations.metaPixel.eventDialog.events.addToCart.subtitle"===aa3){w=t0
+break C}if("integrations.metaPixel.eventDialog.events.initiateCheckout.title"===aa3){w=t1
+break C}if("integrations.metaPixel.eventDialog.events.initiateCheckout.subtitle"===aa3){w=t2
+break C}if("integrations.metaPixel.eventDialog.sendButton"===aa3){w=i6
+break C}if("integrations.metaPixel.eventDialog.successMessage"===aa3){w=t3
+break C}if("integrations.metaPixel.eventDialog.errorMessage"===aa3){w=t4
+break C}if("integrations.tiktokPixel.selectPixel"===aa3){w=s2
+break C}if("integrations.tiktokPixel.unnamedPixel"===aa3){w=q4
+break C}if("integrations.tiktokPixel.testEventsApi"===aa3){w="Tester API \xc9v\xe9nements"
+break C}if("integrations.tiktokPixel.catalog"===aa3){w=q0
+break C}if("integrations.tiktokPixel.sendTestEvent"===aa3){w=s3
+break C}if("integrations.tiktokPixel.sendTestEventDescription"===aa3){w="Envoyer un test avec votre pixel TikTok ?"
+break C}if("integrations.tiktokPixel.testCode"===aa3){w=q2
+break C}if("integrations.tiktokPixel.testEventSent"===aa3){w=s4
+break C}if("integrations.tiktokPixel.eventDialog.title"===aa3){w=s5
+break C}if("integrations.tiktokPixel.eventDialog.events.purchase.title"===aa3){w=s6
+break C}if("integrations.tiktokPixel.eventDialog.events.purchase.subtitle"===aa3){w=s7
+break C}if("integrations.tiktokPixel.eventDialog.events.placeAnOrder.title"===aa3){w="Commander"
+break C}if("integrations.tiktokPixel.eventDialog.events.placeAnOrder.subtitle"===aa3){w="Envoyer une commande"
+break C}if("integrations.tiktokPixel.eventDialog.events.viewContent.title"===aa3){w=s8
+break C}if("integrations.tiktokPixel.eventDialog.events.viewContent.subtitle"===aa3){w=s9
+break C}if("integrations.tiktokPixel.eventDialog.events.addToWishlist.title"===aa3){w="Liste de souhaits"
+break C}if("integrations.tiktokPixel.eventDialog.events.addToWishlist.subtitle"===aa3){w="Envoyer ajout \xe0 la liste"
+break C}if("integrations.tiktokPixel.eventDialog.events.search.title"===aa3){w=t5
+break C}if("integrations.tiktokPixel.eventDialog.events.search.subtitle"===aa3){w="Envoyer recherche"
+break C}if("integrations.tiktokPixel.eventDialog.events.addPaymentInfo.title"===aa3){w="Paiement"
+break C}if("integrations.tiktokPixel.eventDialog.events.addPaymentInfo.subtitle"===aa3){w="Envoyer infos paiement"
+break C}if("integrations.tiktokPixel.eventDialog.events.addToCart.title"===aa3){w=n5
+break C}if("integrations.tiktokPixel.eventDialog.events.addToCart.subtitle"===aa3){w=t0
+break C}if("integrations.tiktokPixel.eventDialog.events.initiateCheckout.title"===aa3){w=t1
+break C}if("integrations.tiktokPixel.eventDialog.events.initiateCheckout.subtitle"===aa3){w=t2
+break C}if("integrations.tiktokPixel.eventDialog.events.completeRegistration.title"===aa3){w="Inscription"
+break C}if("integrations.tiktokPixel.eventDialog.events.completeRegistration.subtitle"===aa3){w="Envoyer inscription"
+break C}if("integrations.tiktokPixel.eventDialog.sendButton"===aa3){w=i6
+break C}if("integrations.tiktokPixel.eventDialog.successMessage"===aa3){w=t3
+break C}if("integrations.tiktokPixel.eventDialog.errorMessage"===aa3){w=t4
+break C}if("integrations.ai.title"===aa3){w=q5
+break C}if("integrations.ai.description"===aa3){w=q6
+break C}if("integrations.ai.apiKey"===aa3){w=p1
+break C}if("integrations.ai.apiKeyHint"===aa3){w=q7
+break C}if("integrations.ai.textModel"===aa3){w=q8
+break C}if("integrations.ai.imageModel"===aa3){w=q9
+break C}if("integrations.ai.setup"===aa3){w=r0
+break C}if("integrations.ai.test"===aa3){w=r1
+break C}if("integrations.ai.enable"===aa3){w=r2
+break C}if("integrations.ai.disable"===aa3){w=r3
+break C}if("integrations.ai.disconnect"===aa3)break C
+if("integrations.ai.disconnectConfirm"===aa3){w=r4
+break C}if("leaderboard.title"===aa3){w="Classement"
+break C}if("leaderboard.refresh"===aa3){w=t6
+break C}if("leaderboard.noData"===aa3){w="Pas encore de donn\xe9es"
+break C}if("leaderboard.noDataSubtitle"===aa3){w=y.b0
+break C}if("leaderboard.fullRanking"===aa3){w="Classement complet"
+break C}if("leaderboard.error"===aa3){w="Une erreur s'est produite"
+break C}if("leaderboard.period.today"===aa3){w=r
+break C}if("leaderboard.period.week"===aa3){w=q
+break C}if("leaderboard.period.month"===aa3){w="Ce mois"
+break C}if("leaderboard.period.all"===aa3){w="Tout le temps"
+break C}if("leaderboard.stats.success"===aa3){w="R\xe9ussi"
+break C}if("leaderboard.stats.failed"===aa3){w=f7
+break C}if("leaderboard.stats.inReview"===aa3){w=f4
+break C}if("leaderboard.stats.inDelivery"===aa3){w=f5
+break C}if("leaderboard.stats.assigned"===aa3){w="Assign\xe9"
+break C}if("leaderboard.stats.successRate"===aa3){w="Taux de r\xe9ussite"
+break C}if("leaderboard.rank.first"===aa3){w="1\xe8re place"
+break C}if("leaderboard.rank.second"===aa3){w="2\xe8me place"
+break C}if("leaderboard.rank.third"===aa3){w="3\xe8me place"
+break C}if("leaderboard.motivational.champion"===aa3){w="Champion! \ud83c\udfc6"
+break C}if("leaderboard.motivational.onFire"===aa3){w="En feu! \ud83d\udd25"
+break C}if("leaderboard.motivational.rising"===aa3){w="En progression! \ud83d\udcc8"
+break C}if("leaderboard.motivational.keepGoing"===aa3){w="Continue! \ud83d\udcaa"
+break C}if("merchantStoreProductsCreateView.validation.requiredFields"===aa3){w="Veuillez remplir les champs requis"
+break C}if("merchantStoreProductsCreateView.success.productCreated"===aa3){w="Produit cr\xe9\xe9"
+break C}if("merchantStoreProductsCreateView.success.productUpdated"===aa3){w="Produit mis \xe0 jour"
+break C}if("merchantStoreProductsCreateView.confirmDialog.title"===aa3){w=s1
+break C}if("merchantStoreProductsCreateView.confirmDialog.content"===aa3){w="Les modifications seront annul\xe9es."
+break C}if("merchantStoreProductsCreateView.confirmDialog.cancel"===aa3){w=k
+break C}if("merchantStoreProductsCreateView.confirmDialog.confirm"===aa3){w=a5
+break C}if("merchantStoreProductsCreateView.openProductPage"===aa3){w="Ouvrir la page produit"
+break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.title"===aa3){w=t7
+break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.content"===aa3){w=y.g
+break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.cancel"===aa3){w=k
+break C}if("merchantStoreProductsCreateView.deleteConfirm.metaPixel.delete"===aa3){w=a2
+break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.title"===aa3){w=t7
+break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.content"===aa3){w=y.d2
+break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.cancel"===aa3){w=k
+break C}if("merchantStoreProductsCreateView.deleteConfirm.tiktokPixel.delete"===aa3){w=a2
+break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.title"===aa3){w=t7
+break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.content"===aa3){w=y.jA
+break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.cancel"===aa3){w=k
+break C}if("merchantStoreProductsCreateView.deleteConfirm.googleSheets.delete"===aa3){w=a2
+break C}if("merchantStoreProductsCreateView.addProduct"===aa3){w="Ajouter produit"
+break C}if("merchantStoreProductsCreateView.aiAssistant.title"===aa3){w="Assistant IA"
+break C}if("merchantStoreProductsCreateView.aiAssistant.subtitle"===aa3){w=y.kB
+break C}if("merchantStoreProductsCreateView.aiAssistant.writeInstructionsFirst"===aa3){w="Veuillez d'abord \xe9crire les instructions"
+break C}if("merchantStoreProductsCreateView.aiAssistant.failedToFetchUrl"===aa3){w=y.da
+break C}if("merchantStoreProductsCreateView.aiAssistant.aiEditsApplied"===aa3){w=y.lA
+break C}if("merchantStoreProductsCreateView.aiAssistant.generateButton"===aa3){w="G\xe9n\xe9rer"
+break C}if("merchantStoreProductsCreateView.aiAssistant.inputHint"===aa3){w=y.c6
+break C}if("merchantStoreProductsCreateView.aiAssistant.urlHint"===aa3){w=y.Y
+break C}if("merchantStoreProductsCreateView.aiAssistant.generationFailed"===aa3){w="G\xe9n\xe9ration \xe9chou\xe9e"
+break C}if("merchantStoreProductsCreateView.aiAssistant.jsonEditorHint"===aa3){w=y.v
+break C}if("merchantStoreProductsCreateView.integrations.noPixelEnabled"===aa3){w="Aucun pixel activ\xe9"
+break C}if("merchantStoreProductsCreateView.integrations.metaPixel.setup"===aa3){w="Configurer Meta Pixel"
+break C}if("merchantStoreProductsCreateView.integrations.metaPixel.delete"===aa3){w="Supprimer Meta Pixel"
+break C}if("merchantStoreProductsCreateView.integrations.tiktokPixel.setup"===aa3){w="Configurer TikTok Pixel"
+break C}if("merchantStoreProductsCreateView.integrations.tiktokPixel.delete"===aa3){w="Supprimer TikTok Pixel"
+break C}if("merchantStoreProductsCreateView.integrations.googleSheets.setup"===aa3){w="Configurer Google Sheets"
+break C}if("merchantStoreProductsCreateView.integrations.googleSheets.delete"===aa3){w="Supprimer Google Sheets"
+break C}if("merchantStoreProductsCreateView.integrations.googleSheets.sheetPrefix"===aa3){w="Feuille :"
+break C}if("merchantStoreProductsCreateView.integrations.googleSheets.sheetNamePrefix"===aa3){w="Nom de la feuille :"
+break C}if("merchantStoreProductsCreateView.integrations.googleSheets.notSpecified"===aa3){w="Non sp\xe9cifi\xe9"
+break C}if("merchantStoreProductsCreateView.productBody.detailedInfo"===aa3){w="Informations d\xe9taill\xe9es"
+break C}if("merchantStoreProductsCreateView.productBody.editContent"===aa3){w="Modifier le contenu"
+break C}if("merchantStoreProductsCreateView.productBody.createWithAI"===aa3){w="Cr\xe9er avec l'IA"
+break C}if("merchantStoreProductsCreateView.productBody.noContentYet"===aa3){w=y.w
+break C}if("merchantStoreProductsCreateView.productBody.productContent"===aa3){w="Contenu du produit"
+break C}if("merchantStoreProductsCreateView.productBody.editDetailedContent"===aa3){w="Modifier le contenu d\xe9taill\xe9"
+break C}if("merchantStoreProductsCreateView.productBody.createContentWithAI"===aa3){w="Cr\xe9er du contenu avec l'IA"
+break C}if("merchantStoreProductsCreateView.addons.title"===aa3){w=t8
+break C}if("merchantStoreProductsCreateView.addons.subtitle"===aa3){w=y.l
+break C}if("merchantStoreProductsCreateView.addons.deleteAllConfirm.title"===aa3){w=t8
+break C}if("merchantStoreProductsCreateView.addons.deleteAllConfirm.content"===aa3){w=y.dg
+break C}if("merchantStoreProductsCreateView.addons.addNew"===aa3){w="Ajouter un nouveau"
+break C}if("merchantStoreProductsCreateView.addons.edit"===aa3){w="Modifier le compl\xe9ment"
+break C}if("merchantStoreProductsCreateView.addons.image"===aa3){w="Image du compl\xe9ment"
+break C}if("merchantStoreProductsCreateView.addons.titleLabel"===aa3){w="Titre du compl\xe9ment"
+break C}if("merchantStoreProductsCreateView.addons.descriptionLabel"===aa3){w="Description du compl\xe9ment"
+break C}if("merchantStoreProductsCreateView.addons.priceLabel"===aa3){w="Prix du compl\xe9ment"
+break C}if("merchantStoreProductsCreateView.addons.stockLabel"===aa3){w="Stock"
+break C}if("merchantStoreProductsCreateView.addons.minLabel"===aa3){w="Minimum"
+break C}if("merchantStoreProductsCreateView.addons.maxLabel"===aa3){w="Maximum"
+break C}if("merchantStoreProductsCreateView.other.youtube"===aa3){w="YouTube"
+break C}if("merchantStoreProductsCreateView.other.jsonEdit"===aa3){w="Modifier JSON"
+break C}if("merchantStoreProductsCreateView.other.dataCopied"===aa3){w="Donn\xe9es copi\xe9es dans le presse-papiers"
+break C}if("merchantStoreProductsCreateView.other.editProductDataJson"===aa3){w="Modifier les donn\xe9es du produit (JSON)"
+break C}if("merchantStoreProductsCreateView.other.save"===aa3){w=d
+break C}if("merchantStoreProductsCreateView.other.copy"===aa3){w="Copier"
+break C}if("ordersDistributionMap.error.loadStatesData"===aa3){w=new A.e2R()
+break C}if("ordersDistributionMap.noData.available"===aa3){w="Aucune donn\xe9e"
+break C}if("ordersView.orderLabel"===aa3){w="Nom commande"
+break C}if("ordersView.sendSms"===aa3){w=t9
+break C}if("ordersView.sendSmsTitle"===aa3){w=t9
+break C}if("ordersView.enterMessageText"===aa3){w="\xc9crire le texte du message"
+break C}if("ordersView.messageTextTooLong"===aa3){w="Texte trop long"
+break C}if("ordersView.send"===aa3){w=i6
+break C}if("ordersView.callCustomer"===aa3){w="Appeler client"
+break C}if("ordersView.copyPhoneNumber"===aa3){w="Copier num\xe9ro"
+break C}if("ordersView.phoneNumberCopied"===aa3){w="Num\xe9ro copi\xe9 avec succ\xe8s"
+break C}if("ordersView.testBroccoliList"===aa3){w="Tester liste Brocolis"
+break C}if("ordersView.sendMetaPixelEvent"===aa3){w="Envoyer event Meta Pixel"
+break C}if("ordersView.sendTikTokPixelEvent"===aa3){w="Envoyer event TikTok Pixel"
+break C}if("ordersView.sendToYalidine"===aa3){w="Envoyer vers Yalidine"
+break C}if("ordersView.sendToEcotrack"===aa3){w="Envoyer vers Ecotrack"
+break C}if("ordersView.sendToProcolis"===aa3){w="Envoyer vers Procolis"
+break C}if("ordersView.sendToNoest"===aa3){w="Envoyer vers Noest"
+break C}if("ordersView.sendToOrderDZ"===aa3){w="Envoyer vers OrderDZ"
+break C}if("ordersView.printLabelYalidine"===aa3){w="Imprimer \xe9tiquette (Yalidine)"
+break C}if("ordersView.cancelYalidineLink"===aa3){w="Annuler lien (Yalidine)"
+break C}if("ordersView.cancelYalidineLinkTitle"===aa3){w="Annuler lien avec Yalidine"
+break C}if("ordersView.cancelSending"===aa3){w="Annuler envoi"
+break C}if("ordersView.printLabelEcotrack"===aa3){w="Imprimer \xe9tiquette (Ecotrack)"
+break C}if("ordersView.openEcotrack"===aa3){w="Ouvrir (Ecotrack)"
+break C}if("ordersView.close"===aa3){w=h
+break C}if("ordersView.cancelEcotrackLink"===aa3){w="Annuler lien (Ecotrack)"
+break C}if("ordersView.cancelEcotrackLinkTitle"===aa3){w="Annuler lien avec Ecotrack"
+break C}if("ordersView.cancelProcolisLink"===aa3){w="Annuler lien (Procolis)"
+break C}if("ordersView.cancelProcolisLinkTitle"===aa3){w="Annuler lien avec Procolis"
+break C}if("ordersView.printLabelNoest"===aa3){w="Imprimer \xe9tiquette (Noest)"
+break C}if("ordersView.openNoest"===aa3){w="Ouvrir (Noest)"
+break C}if("ordersView.cancelNoestLink"===aa3){w="Annuler lien (Noest)"
+break C}if("ordersView.cancelNoestLinkTitle"===aa3){w="Annuler lien avec Noest"
+break C}if("ordersView.edit"===aa3){w=r5
+break C}if("ordersView.delete"===aa3){w=a2
+break C}if("ordersView.deleteOrder"===aa3){w="Supprimer commande"
+break C}if("ordersView.copyOrderNumber"===aa3){w="Copier num\xe9ro commande"
+break C}if("ordersView.clear"===aa3){w="Effacer"
+break C}if("ordersView.apply"===aa3){w=u0
+break C}if("ordersView.cancel"===aa3){w=k
+break C}if("ordersView.dateSeparators.today"===aa3){w=r
+break C}if("ordersView.dateSeparators.yesterday"===aa3){w="Hier"
+break C}if("ordersView.dateSeparators.thisWeek"===aa3){w=q
+break C}if("ordersView.dateSeparators.lastWeek"===aa3){w="Semaine derni\xe8re"
+break C}if("ordersView.dateSeparators.thisMonth"===aa3){w="Ce mois"
+break C}if("ordersView.dateSeparators.lastMonth"===aa3){w="Mois dernier"
+break C}if("ordersView.dateSeparators.monthsAgo"===aa3){w="Il y a {months} mois"
+break C}if("ordersView.dateSeparators.yearAgo"===aa3){w="Il y a 1 an"
+break C}if("ordersView.dateSeparators.yearsAgo"===aa3){w="Il y a {years} ans"
+break C}if("ordersView.bulkActions.deleteOrders"===aa3){w="Supprimer {count} commande(s)"
+break C}if("ordersView.bulkActions.deleteOrdersConfirm"===aa3){w=y.hi
 break C}w=v
-break C}if(w==null)D:{w=l
-if("ordersView.bulkActions.assignOrders"===z8){w="Assigner {count} commande(s) \xe0 un membre"
-break D}if("ordersView.bulkActions.assignOrder"===z8){w="Assigner la commande \xe0 un membre"
-break D}if("ordersView.bulkActions.selectMember"===z8){w=y.ea
-break D}if("ordersView.bulkActions.selectMemberSingle"===z8){w=y.c2
-break D}if("ordersView.bulkActions.selectMemberPlaceholder"===z8){w="S\xe9lectionner un membre"
-break D}if("ordersView.bulkActions.assignSuccess"===z8){w=y.iX
-break D}if("ordersView.bulkActions.assignSuccessSingle"===z8){w="Commande assign\xe9e avec succ\xe8s"
-break D}if("ordersView.bulkActions.assignError"===z8){w=y.P
-break D}if("ordersView.bulkActions.assignErrorSingle"===z8){w=y.ox
-break D}if("ordersView.bulkActions.noMembers"===z8){w="Aucun membre dans ce magasin"
-break D}if("ordersView.pixelEvents.sendEvents"===z8){w=y.j4
-break D}if("ordersView.pixelEvents.sendEventsConfirm"===z8){w=y.i7
-break D}if("ordersView.pixelEvents.sendEventsInfo"===z8){w=y.nW
-break D}if("ordersView.pixelEvents.sendingEvents"===z8){w="Envoi des \xe9v\xe9nements {eventName}..."
-break D}if("ordersView.pixelEvents.sendEventsSuccess"===z8){w=y.hu
-break D}if("ordersView.pixelEvents.sendEventsPartial"===z8){w=y.oa
-break D}if("ordersView.pixelEvents.sendEventsError"===z8){w=y.F
-break D}if("ordersView.pixelEvents.sendEventsButton"===z8){w="Envoyer les \xe9v\xe9nements"
-break D}if("ordersView.pixelEvents.metaPixel.purchase"===z8){w=s1
-break D}if("ordersView.pixelEvents.metaPixel.lead"===z8){w="Piste"
-break D}if("ordersView.pixelEvents.metaPixel.viewContent"===z8){w=t6
-break D}if("ordersView.pixelEvents.metaPixel.addToCart"===z8){w=n2
-break D}if("ordersView.pixelEvents.metaPixel.initiateCheckout"===z8){w=t7
-break D}if("ordersView.pixelEvents.tiktokPixel.purchase"===z8){w=s1
-break D}if("ordersView.pixelEvents.tiktokPixel.placeAnOrder"===z8){w="Passer une commande"
-break D}if("ordersView.pixelEvents.tiktokPixel.viewContent"===z8){w=t6
-break D}if("ordersView.pixelEvents.tiktokPixel.addToWishlist"===z8){w="Ajouter \xe0 la liste de souhaits"
-break D}if("ordersView.pixelEvents.tiktokPixel.search"===z8){w=t0
-break D}if("ordersView.pixelEvents.tiktokPixel.addPaymentInfo"===z8){w="Ajouter les informations de paiement"
-break D}if("ordersView.pixelEvents.tiktokPixel.addToCart"===z8){w=n2
-break D}if("ordersView.pixelEvents.tiktokPixel.initiateCheckout"===z8){w=t7
-break D}if("ordersView.pixelEvents.tiktokPixel.completeRegistration"===z8){w="Terminer l'inscription"
-break D}if("ordersView.deliveryServices.sendToZimouExpress"===z8){w="Envoyer vers Zimou Express"
-break D}if("ordersView.deliveryServices.sending"===z8){w="Envoi en cours..."
-break D}if("ordersView.deliveryServices.sendSuccess"===z8){w="Commande envoy\xe9e avec succ\xe8s"
-break D}if("ordersView.deliveryServices.sendError"===z8){w=s9
-break D}if("ordersView.deliveryServices.sendToEcomanager"===z8){w="Envoyer vers Ecomanager"
-break D}if("ordersView.deliveryServices.openEcomanager"===z8){w="Ouvrir Ecomanager"
-break D}if("ordersView.deliveryServices.cancelEcomanagerLink"===z8){w=t8
-break D}if("ordersView.deliveryServices.cancelEcomanagerLinkTitle"===z8){w=t8
-break D}if("ordersView.deliveryServices.cancelEcomanagerConfirm"===z8){w=y.bP
-break D}if("ordersView.deliveryServices.cancelEcomanagerSuccess"===z8){w="Lien Ecomanager annul\xe9 avec succ\xe8s"
-break D}if("ordersView.deliveryServices.cancelEcomanagerError"===z8){w=y.gU
-break D}if("ordersView.deliveryServices.cancelLinkConfirm"===z8){w=y.d1
-break D}if("ordersView.deliveryServices.cancelLinkSuccess"===z8){w="Lien annul\xe9 avec succ\xe8s"
-break D}if("ordersView.deliveryServices.cancelLink"===z8){w="Annuler le lien"
-break D}if("ordersView.deliveryServices.cancelSending"===z8){w="Annuler l'envoi"
-break D}if("ordersView.deliveryServices.ecotrackNotAvailable"===z8){w="Le service Ecotrack n'est pas disponible"
-break D}if("ordersView.deliveryServices.cancelEcotrackConfirm"===z8){w=y.E
-break D}if("ordersView.deliveryServices.cancelNoestConfirm"===z8){w=y.O
-break D}if("ordersView.deliveryServices.cancelNoestSuccess"===z8){w="Lien Noest annul\xe9 avec succ\xe8s"
-break D}if("ordersView.returnRisk.returnRisk"===z8){w="Risque retour"
-break D}if("ordersView.returnRisk.title"===z8){w="Risque de retour ({count} num\xe9ro(s))"
-break D}if("ordersView.returnRisk.noPhonesAvailable"===z8){w=y.Z
-break D}if("ordersView.returnRisk.checking"===z8){w="V\xe9rification du risque de retour..."
-break D}if("ordersView.returnRisk.pleaseWait"===z8){w="Veuillez patienter pendant que nous collectons les donn\xe9es"
-break D}if("ordersView.returnRisk.error"===z8){w=y.hw
-break D}if("ordersView.returnRisk.noData"===z8){w="Aucune donn\xe9e disponible"
-break D}if("ordersView.returnRisk.noDataFound"===z8){w=y.Q
-break D}if("ordersView.returnRisk.checkedPhones"===z8){w=y.iv
-break D}if("ordersView.returnRisk.foundData"===z8){w="Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"
-break D}if("ordersView.returnRisk.high"===z8){w="Risque \xe9lev\xe9"
-break D}if("ordersView.returnRisk.medium"===z8){w="Risque moyen"
-break D}if("ordersView.returnRisk.low"===z8){w="Risque faible"
-break D}if("ordersView.returnRisk.delivered"===z8){w=f7
-break D}if("ordersView.returnRisk.failed"===z8){w="\xc9chec de la livraison"
-break D}if("ordersView.returnRisk.totalOrders"===z8){w="Total des commandes"
-break D}if("ordersView.returnRisk.riskPercentage"===z8){w="Pourcentage de risque"
-break D}if("ordersView.returnRisk.veryHigh"===z8){w="Risque de retour tr\xe8s \xe9lev\xe9, {failed} sur {total} commandes ont \xe9t\xe9 retourn\xe9es"
-break D}if("ordersView.filters.date"===z8){w="Filtre de date"
-break D}if("ordersView.filters.tags"===z8){w="Filtre d'\xe9tiquettes"
-break D}if("ordersView.filters.member"===z8){w="Filtre confirm\xe9 par"
-break D}if("ordersView.filters.product"===z8){w="Filtre de produit"
-break D}if("ordersView.filters.state"===z8){w="Filtre d'\xe9tat"
-break D}if("ordersView.filters.status"===z8){w="Filtre de statut de commande"
-break D}if("ordersView.filters.customStatus"===z8){w="Filtre de statut personnalis\xe9"
-break D}if("ordersView.filters.deliveryService"===z8){w="Filtre de service de livraison"
-break D}if("ordersView.filters.deliveryStatus"===z8){w="Filtre de statut de livraison"
-break D}if("ordersView.filters.paymentStatus"===z8){w="Filtre de statut de paiement"
-break D}if("ordersView.filters.removeFilter"===z8){w="Supprimer le filtre"
-break D}if("ordersView.filters.customDate"===z8){w="Date personnalis\xe9e"
-break D}if("ordersView.filters.sinceToday"===z8){w="Depuis aujourd'hui"
-break D}if("ordersView.filters.sinceYesterday"===z8){w="Depuis hier"
-break D}if("ordersView.filters.last2Hours"===z8){w="Derni\xe8res 2 heures"
-break D}if("ordersView.filters.last24Hours"===z8){w="Derni\xe8res 24 heures"
-break D}if("ordersView.filters.lastWeek"===z8){w="Derni\xe8re semaine"
-break D}if("ordersView.filters.last30Days"===z8){w="30 derniers jours"
-break D}if("ordersView.filters.sinceDate"===z8){w="Depuis {date}"
-break D}if("ordersView.filters.beforeDate"===z8){w="Avant {date}"
-break D}if("ordersView.ui.addOrder"===z8){w=j0
-break D}if("ordersView.ui.printLabels"===z8){w="Imprimer les \xe9tiquettes"
-break D}if("ordersView.ui.sendToDelivery"===z8){w="Envoyer \xe0 la livraison"
-break D}if("ordersView.ui.sendPixelEvents"===z8){w="Envoyer des \xe9v\xe9nements Meta Pixel"
-break D}if("ordersView.ui.sendTikTokPixelEvents"===z8){w="Envoyer des \xe9v\xe9nements TikTok Pixel"
-break D}if("ordersView.ui.changeStatus"===z8){w=e9
-break D}if("ordersView.ui.deleteSelected"===z8){w=f0
-break D}if("ordersView.ui.cancelSelection"===z8){w="Annuler la s\xe9lection"
-break D}if("ordersView.ui.selected"===z8){w="{count} s\xe9lectionn\xe9(s)"
-break D}if("ordersView.ui.syncOrders"===z8){w="Synchroniser les commandes"
-break D}if("ordersView.ui.syncSuccess"===z8){w=y.H
-break D}if("ordersView.ui.syncError"===z8){w=y.di
-break D}if("ordersView.ui.orderNumberCopied"===z8){w="Num\xe9ro de commande copi\xe9"
-break D}if("ordersView.ui.deleteOrderSuccess"===z8){w="Commande supprim\xe9e avec succ\xe8s"
-break D}if("ordersView.ui.changeStatusSuccess"===z8){w=y.jN
-break D}if("ordersView.ui.swipeActions.call"===z8){w="Appeler"
-break D}if("ordersView.ui.swipeActions.sms"===z8){w="SMS"
-break D}if("ordersView.ui.swipeActions.assign"===z8){w="Assigner"
-break D}if("ordersView.ui.searchHint"===z8){w="Exemple : num\xe9ro de t\xe9l\xe9phone.."
-break D}if("ordersView.ui.messageHint"===z8){w="Entrez le texte du message"
-break D}if("ordersView.ui.cancel"===z8)break D
-if("ordersView.ui.noName"===z8){w="Sans nom"
-break D}if("ordersView.customTags.title"===z8){w="\xc9tiquettes personnalis\xe9es"
-break D}if("ordersView.customTags.addTag"===z8){w="\xc9tiqueter"
-break D}if("ordersView.customTags.addNewTag"===z8){w="Ajouter une nouvelle \xe9tiquette"
-break D}if("ordersView.customTags.addDate"===z8){w="Date d'ajout"
-break D}if("ordersView.customTags.note"===z8){w=g2
-break D}if("ordersView.customTags.addedBy"===z8){w="Ajout\xe9 par"
-break D}if("ordersView.customTags.unknown"===z8){w="Inconnu"
-break D}if("ordersView.customTags.tagSuccess"===z8){w="Commande \xe9tiquet\xe9e avec succ\xe8s"
-break D}if("ordersView.customTags.deleteTagSuccess"===z8){w="\xc9tiquette supprim\xe9e avec succ\xe8s"
-break D}if("ordersView.orderStatus.paymentReceived"===z8){w="Paiement re\xe7u"
-break D}if("ordersView.orderStatus.delivering"===z8){w="En cours de livraison"
-break D}if("ordersView.table.noOrdersLinkedToEcotrackForPrinting"===z8){w=y.M
-break D}if("ordersView.table.couldNotLaunchPhoneCall"===z8){w=y.i6
-break D}if("ordersView.table.rowChangesSavedSuccessfully"===z8){w=y.mY
-break D}if("ordersView.table.failedToSaveChanges"===z8){w=y.nY
-break D}if("ordersView.table.deleteOrderConfirm"===z8){w=y.eu
-break D}if("ordersView.table.failedToDeleteOrder"===z8){w="\xc9chec de la suppression de la commande : {error}"
-break D}if("ordersView.table.actionsColumnAlwaysPinned"===z8){w=y.dC
-break D}if("ordersView.table.columnUnpinned"===z8){w='Colonne "{columnName}" d\xe9s\xe9pingl\xe9e'
-break D}if("ordersView.table.columnPinned"===z8){w='Colonne "{columnName}" \xe9pingl\xe9e'
-break D}if("ordersView.table.sortedBy"===z8){w='Tri\xe9 par "{columnName}" ({direction})'
-break D}if("ordersView.table.admin"===z8){w="[ADMIN]"
-break D}if("ordersView.table.sticky"===z8){w="Collant"
-break D}if("ordersView.table.scrollOffXEvenWhenFrozen"===z8){w="D\xe9filement offX m\xeame lorsqu'il est gel\xe9"
-break D}if("ordersView.filterBuilder.fields.status"===z8){w=c0
-break D}if("ordersView.filterBuilder.fields.deliveryStatus"===z8){w=c9
-break D}if("ordersView.filterBuilder.fields.paymentStatus"===z8){w="Statut de paiement"
-break D}if("ordersView.filterBuilder.fields.customStatus"===z8){w="Statut personnalis\xe9"
-break D}if("ordersView.filterBuilder.fields.customerName"===z8){w=d0
-break D}if("ordersView.filterBuilder.fields.customerPhone"===z8){w="T\xe9l\xe9phone du client"
-break D}if("ordersView.filterBuilder.fields.customerEmail"===z8){w=r5
-break D}if("ordersView.filterBuilder.fields.shippingState"===z8){w="Wilaya"
-break D}if("ordersView.filterBuilder.fields.shippingCity"===z8){w=d5
-break D}if("ordersView.filterBuilder.fields.source"===z8){w="Source"
-break D}if("ordersView.filterBuilder.fields.total"===z8){w=a7
-break D}if("ordersView.filterBuilder.fields.createdAt"===z8){w="Date de cr\xe9ation"
-break D}if("ordersView.filterBuilder.fields.updatedAt"===z8){w="Date de mise \xe0 jour"
-break D}if("ordersView.filterBuilder.statusOptions.draft"===z8){w=f1
-break D}if("ordersView.filterBuilder.statusOptions.pending"===z8){w=f6
-break D}if("ordersView.filterBuilder.statusOptions.accepted"===z8){w="Accept\xe9"
-break D}if("ordersView.filterBuilder.statusOptions.rejected"===z8){w="Rejet\xe9"
-break D}if("ordersView.filterBuilder.statusOptions.cancelled"===z8){w="Annul\xe9"
-break D}if("ordersView.filterBuilder.statusOptions.returned"===z8){w=f8
-break D}if("ordersView.filterBuilder.deliveryStatusOptions.pending"===z8){w=f6
-break D}if("ordersView.filterBuilder.deliveryStatusOptions.shipped"===z8){w="Exp\xe9di\xe9"
-break D}if("ordersView.filterBuilder.deliveryStatusOptions.delivered"===z8){w=f7
-break D}if("ordersView.filterBuilder.deliveryStatusOptions.returned"===z8){w=f8
-break D}if("ordersView.filterBuilder.paymentStatusOptions.unpaid"===z8){w=f5
-break D}if("ordersView.filterBuilder.paymentStatusOptions.paid"===z8){w="Pay\xe9"
-break D}if("ordersView.filterBuilder.paymentStatusOptions.refunded"===z8){w="Rembours\xe9"
-break D}if("ordersView.filterBuilder.sourceOptions.meta"===z8){w="Meta"
-break D}if("ordersView.filterBuilder.sourceOptions.instagram"===z8){w="Instagram"
-break D}if("ordersView.filterBuilder.sourceOptions.youtube"===z8){w="YouTube"
-break D}if("ordersView.filterBuilder.sourceOptions.google"===z8){w="Google"
-break D}if("ordersView.filterBuilder.sourceOptions.tiktok"===z8){w="TikTok"
-break D}if("ordersView.filterBuilder.sourceOptions.direct"===z8){w="Direct"
-break D}if("partnersProgram.title"===z8){w=i4
-break D}if("partnersProgram.whatsapp"===z8){w=h3
-break D}if("partnersProgram.error"===z8){w=new A.e03()
-break D}if("partnersProgram.actions.deposit.title"===z8){w="D\xe9poser un solde"
-break D}if("partnersProgram.actions.deposit.description"===z8){w=y.y
-break D}if("partnersProgram.actions.deposit.button"===z8){w="D\xe9poser maintenant"
-break D}if("partnersProgram.actions.buySubscription.title"===z8){w=t9
-break D}if("partnersProgram.actions.buySubscription.description"===z8){w=y.k1
-break D}if("partnersProgram.actions.buySubscription.button"===z8){w=t9
-break D}if("partnersProgram.actions.buySubscription.dialogTitle"===z8){w=y.jF
-break D}if("partnersProgram.actions.chargePoints.title"===z8){w=u0
-break D}if("partnersProgram.actions.chargePoints.description"===z8){w=y.W
-break D}if("partnersProgram.actions.chargePoints.button"===z8){w=u0
-break D}if("partnersProgram.actions.chargePoints.dialogTitle"===z8){w=y.it
-break D}if("partnersProgram.actions.sendMoney.title"===z8){w="Envoyer de l'argent"
-break D}if("partnersProgram.actions.sendMoney.description"===z8){w=y.S
-break D}if("partnersProgram.actions.sendMoney.button"===z8){w="Envoyer maintenant"
-break D}if("partnersProgram.actions.payDue.title"===z8){w="Payer les dettes"
-break D}if("partnersProgram.actions.payDue.description"===z8){w=y.pd
-break D}if("partnersProgram.actions.payDue.button"===z8){w="Payer maintenant"
-break D}if("partnersProgram.storeSearch.hint"===z8){w="Rechercher un magasin par nom ou slug"
-break D}if("partnersProgram.pendingBanner.message"===z8){w=y.aL
-break D}if("partnersProgram.pendingBanner.whatsappButton"===z8){w=h2
-break D}if("partnersProgram.legal.title"===z8){w="Informations l\xe9gales"
-break D}if("partnersProgram.legal.description"===z8){w=y.jW
-break D}if("partnersProgram.legal.contactSupport"===z8){w="Contacter le support"
-break D}if("paymentMethodDialog.validation.requiredAmount"===z8){w=h5
-break D}if("paymentMethodDialog.validation.invalidNumber"===z8){w="Veuillez entrer un nombre valide"
-break D}if("paymentMethodDialog.validation.minDepositCCP"===z8){w=u1
-break D}if("paymentMethodDialog.validation.maxDepositCCP"===z8){w=u2
-break D}if("paymentMethodDialog.validation.minDepositChargily"===z8){w=u1
-break D}if("paymentMethodDialog.validation.maxDepositChargily"===z8){w=u2
-break D}if("paymentMethodDialog.validation.minDepositPayPal"===z8){w="D\xe9p\xf4t min. 1 USD"
-break D}if("paymentMethodDialog.validation.maxDepositPayPal"===z8){w="D\xe9p\xf4t max. 1000 USD"
-break D}if("paymentMethodDialog.validation.invalidAmount"===z8){w="Montant invalide"
-break D}if("paymentMethodDialog.currency.dzd"===z8){w=a3
-break D}if("paymentMethodDialog.currency.usd"===z8){w="USD"
-break D}if("paymentMethodDialog.amountLimits.ccpChargily"===z8){w="Entre 500 et 100000 DZD"
-break D}if("paymentMethodDialog.amountLimits.paypal"===z8){w="Entre 1 et 1000 USD"
-break D}if("paymentMethodDialog.amountLimits.other"===z8){w="Selon accord"
-break D}if("paymentMethodDialog.paymentMethods.ccp.title"===z8){w="CCP/CIB"
-break D}if("paymentMethodDialog.paymentMethods.ccp.subtitle"===z8){w="Compte courant ou carte bancaire"
-break D}if("paymentMethodDialog.paymentMethods.chargily.title"===z8){w="Chargily Pay"
-break D}if("paymentMethodDialog.paymentMethods.chargily.subtitle"===z8){w="Paiement s\xe9curis\xe9 EDAHABIA ou CIB"
-break D}if("paymentMethodDialog.paymentMethods.paypal.title"===z8){w="PayPal"
-break D}if("paymentMethodDialog.paymentMethods.paypal.subtitle"===z8){w="Paiement via PayPal (USD)"
-break D}if("paymentMethodDialog.paymentMethods.other.title"===z8){w="Autres m\xe9thodes"
-break D}if("paymentMethodDialog.paymentMethods.other.subtitle"===z8){w="Binance et autres"
-break D}if("paymentMethodDialog.steps.selectMethodAndAmount"===z8){w="Choisir m\xe9thode & montant"
-break D}if("paymentMethodDialog.steps.paymentMethod"===z8){w="M\xe9thode"
-break D}if("paymentMethodDialog.steps.amount"===z8){w="Montant"
-break D}if("paymentMethodDialog.steps.amountLabel"===z8){w=new A.e04()
-break D}if("paymentMethodDialog.steps.cancel"===z8)break D
-if("paymentMethodDialog.steps.resume"===z8){w="Continuer"
-break D}if("paymentMethodDialog.steps.confirmation"===z8){w="Confirmation du paiement"
-break D}if("paymentMethodDialog.steps.paymentMethodLabel"===z8){w="M\xe9thode :"
-break D}if("paymentMethodDialog.steps.amountLabelShort"===z8){w="Montant :"
-break D}if("paymentMethodDialog.steps.instructions"===z8){w="\xc9tapes :"
-break D}if("paymentMethodDialog.steps.back"===z8){w=o
-break D}if("paymentMethodDialog.steps.processing"===z8){w="En cours..."
-break D}if("paymentMethodDialog.steps.payNow"===z8){w=h1
-break D}if("paymentMethodDialog.steps.payWithChargily"===z8){w="Payer avec Chargily"
-break D}if("paymentMethodDialog.steps.payWithPayPal"===z8){w="Payer avec PayPal"
-break D}if("paymentMethodDialog.steps.contactUs"===z8){w="Nous contacter"
-break D}if("paymentMethodDialog.instructions.ccp.0"===z8){w="La page de paiement s\u2019ouvrira"
-break D}if("paymentMethodDialog.instructions.ccp.1"===z8){w=u3
-break D}if("paymentMethodDialog.instructions.ccp.2"===z8){w=u4
-break D}if("paymentMethodDialog.instructions.ccp.3"===z8){w=u5
-break D}if("paymentMethodDialog.instructions.ccp.4"===z8){w=u6
-break D}if("paymentMethodDialog.instructions.chargily.0"===z8){w="La page Chargily s\u2019ouvrira"
-break D}if("paymentMethodDialog.instructions.chargily.1"===z8){w="Choisissez EDAHABIA ou CIB"
-break D}if("paymentMethodDialog.instructions.chargily.2"===z8){w=u3
-break D}if("paymentMethodDialog.instructions.chargily.3"===z8){w=u4
-break D}if("paymentMethodDialog.instructions.chargily.4"===z8){w=u5
-break D}if("paymentMethodDialog.instructions.chargily.5"===z8){w=u6
-break D}if("paymentMethodDialog.instructions.paypal.0"===z8){w="La page PayPal s\u2019ouvrira"
-break D}if("paymentMethodDialog.instructions.paypal.1"===z8){w="Connectez-vous \xe0 votre compte"
-break D}if("paymentMethodDialog.instructions.paypal.2"===z8){w="V\xe9rifiez et confirmez la transaction"
-break D}if("paymentMethodDialog.instructions.paypal.3"===z8){w="Vous recevrez une confirmation PayPal"
-break D}if("paymentMethodDialog.instructions.paypal.4"===z8){w="Le montant sera ajout\xe9 \xe0 votre portefeuille apr\xe8s validation"
-break D}if("paymentMethodDialog.instructions.other.0"===z8){w="Une conversation Telegram avec le support s\u2019ouvrira"
-break D}if("paymentMethodDialog.instructions.other.1"===z8){w="Envoyez les infos demand\xe9es"
-break D}if("paymentMethodDialog.instructions.other.2"===z8){w="Nous confirmerons la m\xe9thode adapt\xe9e"
-break D}if("paymentMethodDialog.instructions.other.3"===z8){w="Suivez les instructions donn\xe9es"
-break D}if("paymentMethodDialog.instructions.other.4"===z8){w="Vous recevrez confirmation une fois termin\xe9"
-break D}if("paymentMethodDialog.errors.setupPayment"===z8){w="Erreur lors de la configuration du paiement. R\xe9essayez."
-break D}if("paymentMethodDialog.errors.createInvoice"===z8){w="\xc9chec de cr\xe9ation de facture"
-break D}if("paymentMethodDialog.errors.chargilyRequest"===z8){w="\xc9chec de demande Chargily Pay"
-break D}if("paymentMethodDialog.errors.paypalRequest"===z8){w="\xc9chec de demande PayPal"
-break D}if("paymentMethodDialog.errors.chargilySetup"===z8){w="Erreur configuration Chargily Pay. R\xe9essayez."
-break D}if("paymentMethodDialog.errors.paypalSetup"===z8){w="Erreur configuration PayPal. R\xe9essayez."
-break D}if("paymentMethodDialog.errors.createRequest"===z8){w="Erreur lors de la demande. R\xe9essayez."
-break D}if("paymentMethodDialog.success.depositCreated"===z8){w="Demande de d\xe9p\xf4t cr\xe9\xe9e. N\xb0: {{depositId}}"
-break D}if("paymentMethodDialog.success.confirmationNote"===z8){w="Vous recevrez une confirmation \xe0 la fin."
-break D}if("paymentMethodDialog.items.name"===z8){w="Recharge portefeuille Feeef"
-break D}if("paymentMethodDialog.items.price"===z8){w=b5
-break D}if("paymentMethodDialog.items.quantity"===z8){w="Qt\xe9"
-break D}if("settingsView.title"===z8){w=i7
-break D}if("settingsView.images.updateImages"===z8){w=k0
-break D}if("settingsView.images.storeIcon.title"===z8){w="Ic\xf4ne de la boutique"
-break D}if("settingsView.images.storeIcon.description"===z8){w=y.mc
-break D}if("settingsView.images.storeLogo.title"===z8){w="Logo de la boutique"
-break D}if("settingsView.images.storeLogo.description"===z8){w=y.V
-break D}if("settingsView.images.changeImages"===z8){w=k1
-break D}if("settingsView.general.title"===z8){w="Informations g\xe9n\xe9rales"
-break D}if("settingsView.general.name"===z8){w=b2
-break D}if("settingsView.general.nameLabel"===z8){w=b2
-break D}if("settingsView.general.nameDescription"===z8){w=y.lb
-break D}if("settingsView.general.description"===z8){w=y.f
-break D}if("settingsView.general.descriptionLabel"===z8){w=c1
-break D}if("settingsView.general.tagline"===z8){w=y.bM
-break D}if("settingsView.general.titleLabel"===z8){w=i0
-break D}if("settingsView.general.urlLabel"===z8){w="URL"
-break D}if("settingsView.general.activate"===z8){w=k2
-break D}if("settingsView.general.activateDescription"===z8){w="Afficher ou masquer le slogan"
-break D}if("settingsView.general.noName"===z8){w="Nom non ajout\xe9"
-break D}if("settingsView.general.noTitle"===z8){w="Sans titre"
-break D}if("settingsView.general.noDescription"===z8){w="Sans description"
-break D}if("settingsView.general.locationAndAddress"===z8){w="Emplacement et adresse"
-break D}if("settingsView.general.showQRCode"===z8){w="Afficher le code QR"
-break D}if("settingsView.domain.title"===z8){w="Domaine de votre site"
-break D}if("settingsView.domain.namePlaceholder"===z8){w="Nom de domaine"
-break D}if("settingsView.domain.verified"===z8){w="V\xe9rifi\xe9"
-break D}if("settingsView.domain.deleteDomain"===z8){w="Supprimer le domaine"
-break D}if("settingsView.domain.confirmDeleteDomain"===z8){w=y.kG
-break D}if("settingsView.domain.linkOpenError"===z8){w="Erreur lors de l'ouverture du lien"
-break D}if("settingsView.subdomain.title"===z8){w=u7
-break D}if("settingsView.subdomain.label"===z8){w=k3
-break D}if("settingsView.subdomain.placeholder"===z8){w=u7
-break D}if("settingsView.orders.disableAbandonedCarts"===z8){w="D\xe9sactiver les paniers abandonn\xe9s"
-break D}if("settingsView.orders.disableAbandonedCartsDescription"===z8){w=y.iR
-break D}if("settingsView.colors.title"===z8){w=u8
-break D}if("settingsView.colors.primary"===z8){w=k4
-break D}if("settingsView.colors.primaryDescription"===z8){w=y.pm
-break D}if("settingsView.colors.secondary"===z8){w=k5
-break D}if("settingsView.colors.secondaryDescription"===z8){w=y.iK
-break D}if("settingsView.colors.darkMode"===z8){w="Couleurs du mode sombre"
-break D}if("settingsView.colors.darkModeDescription"===z8){w=y.fC
-break D}if("settingsView.colors.primaryDark"===z8){w="Couleur principale du mode sombre"
-break D}if("settingsView.colors.primaryDarkDescription"===z8){w=y.i5
-break D}if("settingsView.colors.secondaryDark"===z8){w="Couleur secondaire du mode sombre"
-break D}if("settingsView.colors.secondaryDarkDescription"===z8){w=y.b2
-break D}if("settingsView.branches.title"===z8){w=k6
-break D}if("settingsView.branches.addBranch"===z8){w=k7
-break D}if("settingsView.branches.cityStateNotSpecified"===z8){w="Ville et r\xe9gion non sp\xe9cifi\xe9es"
-break D}if("settingsView.branches.deleteBranch"===z8){w=k8
-break D}if("settingsView.branches.confirmDeleteBranch"===z8){w=k9
-break D}if("settingsView.branches.editBranch"===z8){w=l0
-break D}if("settingsView.contacts.title"===z8){w="Moyens de contact"
-break D}if("settingsView.contacts.addContact"===z8){w=l1
-break D}if("settingsView.contacts.editContact"===z8){w=l2
-break D}if("settingsView.contacts.deleteContact"===z8){w=l3
-break D}if("settingsView.contacts.confirmDeleteContact"===z8){w=l4
-break D}if("settingsView.customLabels.title"===z8){w=y.fK
-break D}if("settingsView.customOrderStatuses.title"===z8){w=l5
-break D}if("settingsView.customOrderStatuses.noCustomStatusesAdded"===z8){w=y.N
-break D}if("settingsView.customOrderStatuses.importTemplate"===z8){w=l6
-break D}if("settingsView.categories.title"===z8){w=l7
-break D}if("settingsView.categories.addCategory"===z8){w=l8
-break D}if("settingsView.categories.storeCategory"===z8){w=l9
-break D}if("settingsView.categories.editCategory"===z8){w=m0
-break D}if("settingsView.categories.deleteCategory"===z8){w=m1
-break D}if("settingsView.categories.confirmDeleteCategory"===z8){w=m2
-break D}if("settingsView.shipping.title"===z8){w=m3
-break D}if("settingsView.currencies.title"===z8){w="Devises"
-break D}if("settingsView.currencies.selectCurrencies"===z8){w="S\xe9lectionnez les devises"
-break D}if("settingsView.currencies.selectCurrenciesDescription"===z8){w=y.J
-break D}if("settingsView.currencies.availableCurrencies"===z8){w="Devises disponibles"
-break D}if("settingsView.currencies.selectAtLeastOneCurrency"===z8){w=y.ld
-break D}if("settingsView.currencies.selectDefaultCurrency"===z8){w=y.k0
-break D}if("settingsView.currencies.selected"===z8){w="S\xe9lectionn\xe9es"
-break D}if("settingsView.currencies.default_"===z8){w=r4
-break D}if("settingsView.currencies.setAsDefault"===z8){w="D\xe9finir par d\xe9faut"
-break D}if("settingsView.currencies.noCurrencies"===z8){w="Aucune devise disponible"
-break D}if("settingsView.members.title"===z8){w=m4
-break D}if("settingsView.messages.codeCopied"===z8){w=m5
-break D}if("settingsView.messages.sessionDeleted"===z8){w="Session supprim\xe9e avec succ\xe8s"
-break D}if("settingsView.messages.updated"===z8){w="Mise \xe0 jour r\xe9ussie"
-break D}if("settingsView.messages.changePassword"===z8){w=b0
-break D}if("settingsView.messages.changePasswordDescription"===z8){w="Vous pouvez modifier votre mot de passe"
-break D}if("settingsView.customStatus.addCustomStatus"===z8){w=m6
-break D}if("settingsView.customStatus.statusColor"===z8){w="Couleur du statut (optionnel)"
-break D}if("settingsView.customStatus.choose"===z8){w="Choisir"
-break D}if("settingsView.customStatus.editCustomStatus"===z8){w=m7
-break D}if("settingsView.customStatus.deleteCustomStatus"===z8){w=m8
-break D}if("settingsView.customStatus.cancel"===z8)break D
-if("settingsView.customStatus.delete"===z8){w=a1
-break D}if("settingsView.security.securityAndData"===z8){w=a8
-break D}if("settingsView.security.securityDescription"===z8){w=y.jG
-break D}if("settingsView.security.verifiedAccount"===z8){w="Compte v\xe9rifi\xe9"
-break D}if("settingsView.sections.additionalSettings"===z8){w="Param\xe8tres suppl\xe9mentaires"
-break D}if("settingsView.sections.designAndColors"===z8){w="Design et couleurs"
-break D}if("settingsView.sections.business"===z8){w=u9
-break D}if("settingsView.sections.ordersSection"===z8){w=f9
-break D}if("settingsView.sections.products"===z8){w=b1
-break D}if("settingsView.sections.team"===z8){w="\xc9quipe"
-break D}if("settingsView.sections.development"===z8){w="D\xe9veloppement"
-break D}if("settingsView.sections.dangerZone"===z8){w="Zone dangereuse"
-break D}if("settingsView.sectionSubtitles.manageStoreImages"===z8){w=y.K
-break D}if("settingsView.sectionSubtitles.manageSubdomain"===z8){w="G\xe9rer le sous-domaine de la boutique"
-break D}if("settingsView.sectionSubtitles.customizeStoreColors"===z8){w=y.l5
-break D}if("settingsView.sectionSubtitles.manageBranches"===z8){w="G\xe9rer les succursales et adresses"
-break D}if("settingsView.sectionSubtitles.manageContacts"===z8){w="G\xe9rer les moyens de contact"
-break D}if("settingsView.sectionSubtitles.manageShipping"===z8){w="G\xe9rer les m\xe9thodes d'exp\xe9dition"
-break D}if("settingsView.sectionSubtitles.manageCountries"===z8){w="G\xe9rer les pays o\xf9 la boutique op\xe8re"
-break D}if("settingsView.sectionSubtitles.manageCustomLabels"===z8){w=y.fS
-break D}if("settingsView.sectionSubtitles.manageCustomStatuses"===z8){w=y.hM
-break D}if("settingsView.sectionSubtitles.manageCategories"===z8){w="G\xe9rer les cat\xe9gories de la boutique"
-break D}if("settingsView.sectionSubtitles.manageTeamMembers"===z8){w="G\xe9rer les membres de l'\xe9quipe"
-break D}if("settingsView.sectionSubtitles.apiKeysAccess"===z8){w=y.je
-break D}if("settingsView.sectionSubtitles.deleteStorePermanently"===z8){w="Supprimer d\xe9finitivement la boutique"
-break D}if("settingsView.titles.countries"===z8){w="Pays"
-break D}if("settingsView.titles.apiKeys"===z8){w="Cl\xe9s API"
-break D}if("settingsView.titles.deleteStore"===z8){w="Supprimer la boutique"
-break D}if("shippingPrices.addNewSubtitle"===z8){w="Ajouter un nouveau prix d'exp\xe9dition"
-break D}if("shippingPrices.refresh"===z8){w=t1
-break D}if("shippingPrices.statusLabel"===z8){w=c0
-break D}if("shippingPrices.statusWithDefault"===z8){w=new A.e05()
-break D}if("shippingPrices.statusOnly"===z8){w=new A.e06()
-break D}if("shippingPrices.selected"===z8){w=e8
-break D}if("shippingPrices.select"===z8){w=v0
-break D}if("shippingPrices.edit"===z8){w=r2
-break D}if("shippingPrices.delete"===z8){w=a1
-break D}if("shippingPrices.legacySectionTitle"===z8){w="M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"
-break D}if("shippingPrices.legacySectionSubtitle"===z8){w="M\xe9thodes d'exp\xe9dition traditionnelles"
-break D}if("shippingPrices.emptyTitle"===z8){w=y.x
-break D}if("shippingPrices.emptySubtitle"===z8){w=y._
-break D}if("shippingPrices.errorTitle"===z8){w=y.oy
-break D}if("shippingPrices.retry"===z8){w=n
-break D}if("shippingPrices.legacyEmptyTitle"===z8){w=y.c
-break D}if("shippingPrices.legacyEmptySubtitle"===z8){w=y.gp
-break D}if("shippingPrices.selectSuccess"===z8){w=new A.e07()
-break D}if("shippingPrices.deselectSuccess"===z8){w=new A.e08()
-break D}if("shippingPrices.updateError"===z8){w=new A.e09()
-break D}if("shippingPrices.delivery"===z8){w=c8
-break D}if("shippingPrices.status.draft"===z8){w=f1
-break D}if("shippingPrices.status.published"===z8){w="Publi\xe9"
-break D}if("state.states.0"===z8){w="Adrar"
-break D}if("state.states.1"===z8){w="Chlef"
-break D}if("state.states.2"===z8){w=v1
-break D}if("state.states.3"===z8){w="Oum el bouaghi"
-break D}if("state.states.4"===z8){w="Batna"
-break D}if("state.states.5"===z8){w="Bejaia"
-break D}if("state.states.6"===z8){w="Biskra"
-break D}if("state.states.7"===z8){w="Bechar"
-break D}if("state.states.8"===z8){w="Blida"
-break D}if("state.states.9"===z8){w="Bouira"
-break D}if("state.states.10"===z8){w=v2
-break D}if("state.states.11"===z8){w="Tebessa"
-break D}if("state.states.12"===z8){w="Tlemcen"
-break D}if("state.states.13"===z8){w="Tiaret"
-break D}if("state.states.14"===z8){w="Tizi ouzou"
-break D}if("state.states.15"===z8){w="Alger"
-break D}if("state.states.16"===z8){w="Djelfa"
-break D}if("state.states.17"===z8){w="Jijel"
-break D}if("state.states.18"===z8){w="Setif"
-break D}if("state.states.19"===z8){w="Saida"
-break D}if("state.states.20"===z8){w="Skikda"
-break D}if("state.states.21"===z8){w="Sidi bel abbes"
-break D}if("state.states.22"===z8){w="Annaba"
-break D}if("state.states.23"===z8){w="Guelma"
-break D}if("state.states.24"===z8){w=v3
-break D}if("state.states.25"===z8){w="Medea"
-break D}if("state.states.26"===z8){w=v4
-break D}if("state.states.27"===z8){w="Msila"
-break D}if("state.states.28"===z8){w="Mascara"
-break D}if("state.states.29"===z8){w="Ouargla"
-break D}if("state.states.30"===z8){w="Oran"
-break D}if("state.states.31"===z8){w="El bayadh"
-break D}if("state.states.32"===z8){w="Illizi"
-break D}if("state.states.33"===z8){w="Bordj bou arreridj"
-break D}if("state.states.34"===z8){w=v5
-break D}if("state.states.35"===z8){w="El tarf"
-break D}if("state.states.36"===z8){w="Tindouf"
-break D}if("state.states.37"===z8){w=v6
-break D}if("state.states.38"===z8){w="El oued"
-break D}if("state.states.39"===z8){w=v7
-break D}if("state.states.40"===z8){w="Souk ahras"
-break D}if("state.states.41"===z8){w="Tipaza"
-break D}if("state.states.42"===z8){w="Mila"
-break D}if("state.states.43"===z8){w="Ain defla"
-break D}if("state.states.44"===z8){w="Naama"
-break D}if("state.states.45"===z8){w="Ain temouchent"
-break D}if("state.states.46"===z8){w=v8
-break D}if("state.states.47"===z8){w=v9
-break D}if("state.states.48"===z8){w=w0
-break D}if("state.states.49"===z8){w="Bordj badji mokhtar"
-break D}if("state.states.50"===z8){w="Ouled djellal"
-break D}if("state.states.51"===z8){w="Beni abbes"
-break D}if("state.states.52"===z8){w="In salah"
-break D}if("state.states.53"===z8){w="In guezzam"
-break D}if("state.states.54"===z8){w=w1
-break D}if("state.states.55"===z8){w="Djanet"
-break D}if("state.states.56"===z8){w="El meghaier"
-break D}if("state.states.57"===z8){w="El menia"
-break D}if("state.cities.0.0"===z8){w="Adrar"
-break D}if("state.cities.0.1"===z8){w="Akabli"
-break D}if("state.cities.0.2"===z8){w="Aoulef"
-break D}if("state.cities.0.3"===z8){w="Bouda"
-break D}if("state.cities.0.4"===z8){w="Fenoughil"
-break D}if("state.cities.0.5"===z8){w="In Zghmir"
-break D}if("state.cities.0.6"===z8){w="Ouled Ahmed Timmi"
-break D}if("state.cities.0.7"===z8){w="Reggane"
-break D}if("state.cities.0.8"===z8){w="Sali"
-break D}if("state.cities.0.9"===z8){w="Sebaa"
-break D}if("state.cities.0.10"===z8){w="Tamantit"
-break D}if("state.cities.0.11"===z8){w="Tamest"
-break D}if("state.cities.0.12"===z8){w="Timekten"
-break D}if("state.cities.0.13"===z8){w="Tit"
-break D}if("state.cities.0.14"===z8){w="Tsabit"
-break D}if("state.cities.0.15"===z8){w="Zaouiet Kounta"
-break D}if("state.cities.1.0"===z8){w="Abou El Hassan"
-break D}if("state.cities.1.1"===z8){w="Ain Merane"
-break D}if("state.cities.1.2"===z8){w="Benairia"
-break D}if("state.cities.1.3"===z8){w="Beni Bouattab"
-break D}if("state.cities.1.4"===z8){w="Beni Haoua"
-break D}if("state.cities.1.5"===z8){w="Beni Rached"
-break D}if("state.cities.1.6"===z8){w="Boukadir"
-break D}if("state.cities.1.7"===z8){w="Bouzeghaia"
-break D}if("state.cities.1.8"===z8){w="Breira"
-break D}if("state.cities.1.9"===z8){w="Chettia"
-break D}if("state.cities.1.10"===z8){w="Chlef"
-break D}if("state.cities.1.11"===z8){w="Dahra"
-break D}if("state.cities.1.12"===z8){w="El Hadjadj"
-break D}if("state.cities.1.13"===z8){w="El Karimia"
-break D}if("state.cities.1.14"===z8){w=w2
-break D}if("state.cities.1.15"===z8){w="Harchoun"
-break D}if("state.cities.1.16"===z8){w="Herenfa"
-break D}if("state.cities.1.17"===z8){w="Labiod Medjadja"
-break D}if("state.cities.1.18"===z8){w="Moussadek"
-break D}if("state.cities.1.19"===z8){w="Oued Fodda"
-break D}if("state.cities.1.20"===z8){w="Oued Goussine"
-break D}if("state.cities.1.21"===z8){w="Oued Sly"
-break D}if("state.cities.1.22"===z8){w="Ouled Abbes"
-break D}if("state.cities.1.23"===z8){w="Ouled Ben Abdelkader"
-break D}if("state.cities.1.24"===z8){w="Ouled Fares"
-break D}if("state.cities.1.25"===z8){w="Oum Drou"
-break D}if("state.cities.1.26"===z8){w="Sendjas"
-break D}if("state.cities.1.27"===z8){w=w3
-break D}if("state.cities.1.28"===z8){w="Sidi Akkacha"
-break D}if("state.cities.1.29"===z8){w="Sobha"
-break D}if("state.cities.1.30"===z8){w="Tadjena"
-break D}if("state.cities.1.31"===z8){w="Talassa"
-break D}if("state.cities.1.32"===z8){w="Taougrite"
-break D}if("state.cities.1.33"===z8){w="Tenes"
+break C}if(w==null)D:{w=k
+if("ordersView.bulkActions.deleteOrdersSuccess"===aa3){w=y.fH
+break D}if("ordersView.bulkActions.assignOrders"===aa3){w="Assigner {count} commande(s) \xe0 un membre"
+break D}if("ordersView.bulkActions.assignOrder"===aa3){w="Assigner la commande \xe0 un membre"
+break D}if("ordersView.bulkActions.selectMember"===aa3){w=y.ea
+break D}if("ordersView.bulkActions.selectMemberSingle"===aa3){w=y.c2
+break D}if("ordersView.bulkActions.selectMemberPlaceholder"===aa3){w="S\xe9lectionner un membre"
+break D}if("ordersView.bulkActions.assignSuccess"===aa3){w=y.iX
+break D}if("ordersView.bulkActions.assignSuccessSingle"===aa3){w="Commande assign\xe9e avec succ\xe8s"
+break D}if("ordersView.bulkActions.assignError"===aa3){w=y.P
+break D}if("ordersView.bulkActions.assignErrorSingle"===aa3){w=y.ox
+break D}if("ordersView.bulkActions.noMembers"===aa3){w="Aucun membre dans ce magasin"
+break D}if("ordersView.pixelEvents.sendEvents"===aa3){w=y.j4
+break D}if("ordersView.pixelEvents.sendEventsConfirm"===aa3){w=y.i8
+break D}if("ordersView.pixelEvents.sendEventsInfo"===aa3){w=y.nW
+break D}if("ordersView.pixelEvents.sendingEvents"===aa3){w="Envoi des \xe9v\xe9nements {eventName}..."
+break D}if("ordersView.pixelEvents.sendEventsSuccess"===aa3){w=y.hu
+break D}if("ordersView.pixelEvents.sendEventsPartial"===aa3){w=y.oa
+break D}if("ordersView.pixelEvents.sendEventsError"===aa3){w=y.F
+break D}if("ordersView.pixelEvents.sendEventsButton"===aa3){w="Envoyer les \xe9v\xe9nements"
+break D}if("ordersView.pixelEvents.metaPixel.purchase"===aa3){w=s6
+break D}if("ordersView.pixelEvents.metaPixel.lead"===aa3){w="Piste"
+break D}if("ordersView.pixelEvents.metaPixel.viewContent"===aa3){w=u1
+break D}if("ordersView.pixelEvents.metaPixel.addToCart"===aa3){w=n5
+break D}if("ordersView.pixelEvents.metaPixel.initiateCheckout"===aa3){w=u2
+break D}if("ordersView.pixelEvents.tiktokPixel.purchase"===aa3){w=s6
+break D}if("ordersView.pixelEvents.tiktokPixel.placeAnOrder"===aa3){w="Passer une commande"
+break D}if("ordersView.pixelEvents.tiktokPixel.viewContent"===aa3){w=u1
+break D}if("ordersView.pixelEvents.tiktokPixel.addToWishlist"===aa3){w="Ajouter \xe0 la liste de souhaits"
+break D}if("ordersView.pixelEvents.tiktokPixel.search"===aa3){w=t5
+break D}if("ordersView.pixelEvents.tiktokPixel.addPaymentInfo"===aa3){w="Ajouter les informations de paiement"
+break D}if("ordersView.pixelEvents.tiktokPixel.addToCart"===aa3){w=n5
+break D}if("ordersView.pixelEvents.tiktokPixel.initiateCheckout"===aa3){w=u2
+break D}if("ordersView.pixelEvents.tiktokPixel.completeRegistration"===aa3){w="Terminer l'inscription"
+break D}if("ordersView.deliveryServices.sendToZimouExpress"===aa3){w="Envoyer vers Zimou Express"
+break D}if("ordersView.deliveryServices.sending"===aa3){w="Envoi en cours..."
+break D}if("ordersView.deliveryServices.sendSuccess"===aa3){w="Commande envoy\xe9e avec succ\xe8s"
+break D}if("ordersView.deliveryServices.sendError"===aa3){w=t4
+break D}if("ordersView.deliveryServices.sendToEcomanager"===aa3){w="Envoyer vers Ecomanager"
+break D}if("ordersView.deliveryServices.openEcomanager"===aa3){w="Ouvrir Ecomanager"
+break D}if("ordersView.deliveryServices.cancelEcomanagerLink"===aa3){w=u3
+break D}if("ordersView.deliveryServices.cancelEcomanagerLinkTitle"===aa3){w=u3
+break D}if("ordersView.deliveryServices.cancelEcomanagerConfirm"===aa3){w=y.bP
+break D}if("ordersView.deliveryServices.cancelEcomanagerSuccess"===aa3){w="Lien Ecomanager annul\xe9 avec succ\xe8s"
+break D}if("ordersView.deliveryServices.cancelEcomanagerError"===aa3){w=y.gU
+break D}if("ordersView.deliveryServices.cancelLinkConfirm"===aa3){w=y.d1
+break D}if("ordersView.deliveryServices.cancelLinkSuccess"===aa3){w="Lien annul\xe9 avec succ\xe8s"
+break D}if("ordersView.deliveryServices.cancelLink"===aa3){w="Annuler le lien"
+break D}if("ordersView.deliveryServices.cancelSending"===aa3){w="Annuler l'envoi"
+break D}if("ordersView.deliveryServices.ecotrackNotAvailable"===aa3){w="Le service Ecotrack n'est pas disponible"
+break D}if("ordersView.deliveryServices.cancelEcotrackConfirm"===aa3){w=y.E
+break D}if("ordersView.deliveryServices.cancelNoestConfirm"===aa3){w=y.O
+break D}if("ordersView.deliveryServices.cancelNoestSuccess"===aa3){w="Lien Noest annul\xe9 avec succ\xe8s"
+break D}if("ordersView.returnRisk.returnRisk"===aa3){w="Risque retour"
+break D}if("ordersView.returnRisk.title"===aa3){w="Risque de retour ({count} num\xe9ro(s))"
+break D}if("ordersView.returnRisk.noPhonesAvailable"===aa3){w=y.Z
+break D}if("ordersView.returnRisk.checking"===aa3){w="V\xe9rification du risque de retour..."
+break D}if("ordersView.returnRisk.pleaseWait"===aa3){w="Veuillez patienter pendant que nous collectons les donn\xe9es"
+break D}if("ordersView.returnRisk.error"===aa3){w=y.hw
+break D}if("ordersView.returnRisk.noData"===aa3){w="Aucune donn\xe9e disponible"
+break D}if("ordersView.returnRisk.noDataFound"===aa3){w=y.Q
+break D}if("ordersView.returnRisk.checkedPhones"===aa3){w=y.iv
+break D}if("ordersView.returnRisk.foundData"===aa3){w="Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"
+break D}if("ordersView.returnRisk.high"===aa3){w="Risque \xe9lev\xe9"
+break D}if("ordersView.returnRisk.medium"===aa3){w="Risque moyen"
+break D}if("ordersView.returnRisk.low"===aa3){w="Risque faible"
+break D}if("ordersView.returnRisk.delivered"===aa3){w=g0
+break D}if("ordersView.returnRisk.failed"===aa3){w="\xc9chec de la livraison"
+break D}if("ordersView.returnRisk.totalOrders"===aa3){w="Total des commandes"
+break D}if("ordersView.returnRisk.riskPercentage"===aa3){w="Pourcentage de risque"
+break D}if("ordersView.returnRisk.veryHigh"===aa3){w="Risque de retour tr\xe8s \xe9lev\xe9, {failed} sur {total} commandes ont \xe9t\xe9 retourn\xe9es"
+break D}if("ordersView.filters.date"===aa3){w="Filtre de date"
+break D}if("ordersView.filters.tags"===aa3){w="Filtre d'\xe9tiquettes"
+break D}if("ordersView.filters.member"===aa3){w="Filtre confirm\xe9 par"
+break D}if("ordersView.filters.product"===aa3){w="Filtre de produit"
+break D}if("ordersView.filters.state"===aa3){w="Filtre d'\xe9tat"
+break D}if("ordersView.filters.status"===aa3){w="Filtre de statut de commande"
+break D}if("ordersView.filters.customStatus"===aa3){w="Filtre de statut personnalis\xe9"
+break D}if("ordersView.filters.deliveryService"===aa3){w="Filtre de service de livraison"
+break D}if("ordersView.filters.deliveryStatus"===aa3){w="Filtre de statut de livraison"
+break D}if("ordersView.filters.paymentStatus"===aa3){w="Filtre de statut de paiement"
+break D}if("ordersView.filters.removeFilter"===aa3){w="Supprimer le filtre"
+break D}if("ordersView.filters.customDate"===aa3){w="Date personnalis\xe9e"
+break D}if("ordersView.filters.sinceToday"===aa3){w="Depuis aujourd'hui"
+break D}if("ordersView.filters.sinceYesterday"===aa3){w="Depuis hier"
+break D}if("ordersView.filters.last2Hours"===aa3){w="Derni\xe8res 2 heures"
+break D}if("ordersView.filters.last24Hours"===aa3){w="Derni\xe8res 24 heures"
+break D}if("ordersView.filters.lastWeek"===aa3){w="Derni\xe8re semaine"
+break D}if("ordersView.filters.last30Days"===aa3){w="30 derniers jours"
+break D}if("ordersView.filters.sinceDate"===aa3){w="Depuis {date}"
+break D}if("ordersView.filters.beforeDate"===aa3){w="Avant {date}"
+break D}if("ordersView.ui.addOrder"===aa3){w=j3
+break D}if("ordersView.ui.printLabels"===aa3){w="Imprimer les \xe9tiquettes"
+break D}if("ordersView.ui.sendToDelivery"===aa3){w="Envoyer \xe0 la livraison"
+break D}if("ordersView.ui.sendPixelEvents"===aa3){w="Envoyer des \xe9v\xe9nements Meta Pixel"
+break D}if("ordersView.ui.sendTikTokPixelEvents"===aa3){w="Envoyer des \xe9v\xe9nements TikTok Pixel"
+break D}if("ordersView.ui.changeStatus"===aa3){w=f1
+break D}if("ordersView.ui.deleteSelected"===aa3){w=f2
+break D}if("ordersView.ui.cancelSelection"===aa3){w="Annuler la s\xe9lection"
+break D}if("ordersView.ui.selected"===aa3){w="{count} s\xe9lectionn\xe9(s)"
+break D}if("ordersView.ui.syncOrders"===aa3){w="Synchroniser les commandes"
+break D}if("ordersView.ui.syncSuccess"===aa3){w=y.H
+break D}if("ordersView.ui.syncError"===aa3){w=y.di
+break D}if("ordersView.ui.orderNumberCopied"===aa3){w="Num\xe9ro de commande copi\xe9"
+break D}if("ordersView.ui.deleteOrderSuccess"===aa3){w="Commande supprim\xe9e avec succ\xe8s"
+break D}if("ordersView.ui.changeStatusSuccess"===aa3){w=y.jN
+break D}if("ordersView.ui.swipeActions.call"===aa3){w="Appeler"
+break D}if("ordersView.ui.swipeActions.sms"===aa3){w="SMS"
+break D}if("ordersView.ui.swipeActions.assign"===aa3){w="Assigner"
+break D}if("ordersView.ui.searchHint"===aa3){w="Exemple : num\xe9ro de t\xe9l\xe9phone.."
+break D}if("ordersView.ui.messageHint"===aa3){w="Entrez le texte du message"
+break D}if("ordersView.ui.cancel"===aa3)break D
+if("ordersView.ui.noName"===aa3){w="Sans nom"
+break D}if("ordersView.customTags.title"===aa3){w="\xc9tiquettes personnalis\xe9es"
+break D}if("ordersView.customTags.addTag"===aa3){w="\xc9tiqueter"
+break D}if("ordersView.customTags.addNewTag"===aa3){w="Ajouter une nouvelle \xe9tiquette"
+break D}if("ordersView.customTags.addDate"===aa3){w="Date d'ajout"
+break D}if("ordersView.customTags.note"===aa3){w=g5
+break D}if("ordersView.customTags.addedBy"===aa3){w="Ajout\xe9 par"
+break D}if("ordersView.customTags.unknown"===aa3){w="Inconnu"
+break D}if("ordersView.customTags.tagSuccess"===aa3){w="Commande \xe9tiquet\xe9e avec succ\xe8s"
+break D}if("ordersView.customTags.deleteTagSuccess"===aa3){w="\xc9tiquette supprim\xe9e avec succ\xe8s"
+break D}if("ordersView.orderStatus.paymentReceived"===aa3){w="Paiement re\xe7u"
+break D}if("ordersView.orderStatus.delivering"===aa3){w="En cours de livraison"
+break D}if("ordersView.table.noOrdersLinkedToEcotrackForPrinting"===aa3){w=y.M
+break D}if("ordersView.table.couldNotLaunchPhoneCall"===aa3){w=y.i7
+break D}if("ordersView.table.rowChangesSavedSuccessfully"===aa3){w=y.mY
+break D}if("ordersView.table.failedToSaveChanges"===aa3){w=y.nY
+break D}if("ordersView.table.deleteOrderConfirm"===aa3){w=y.eu
+break D}if("ordersView.table.failedToDeleteOrder"===aa3){w="\xc9chec de la suppression de la commande : {error}"
+break D}if("ordersView.table.actionsColumnAlwaysPinned"===aa3){w=y.dC
+break D}if("ordersView.table.columnUnpinned"===aa3){w='Colonne "{columnName}" d\xe9s\xe9pingl\xe9e'
+break D}if("ordersView.table.columnPinned"===aa3){w='Colonne "{columnName}" \xe9pingl\xe9e'
+break D}if("ordersView.table.sortedBy"===aa3){w='Tri\xe9 par "{columnName}" ({direction})'
+break D}if("ordersView.table.admin"===aa3){w="[ADMIN]"
+break D}if("ordersView.table.sticky"===aa3){w="Collant"
+break D}if("ordersView.table.scrollOffXEvenWhenFrozen"===aa3){w="D\xe9filement offX m\xeame lorsqu'il est gel\xe9"
+break D}if("ordersView.filterBuilder.fields.status"===aa3){w=c2
+break D}if("ordersView.filterBuilder.fields.deliveryStatus"===aa3){w=d1
+break D}if("ordersView.filterBuilder.fields.paymentStatus"===aa3){w="Statut de paiement"
+break D}if("ordersView.filterBuilder.fields.customStatus"===aa3){w="Statut personnalis\xe9"
+break D}if("ordersView.filterBuilder.fields.customerName"===aa3){w=d2
+break D}if("ordersView.filterBuilder.fields.customerPhone"===aa3){w="T\xe9l\xe9phone du client"
+break D}if("ordersView.filterBuilder.fields.customerEmail"===aa3){w=s0
+break D}if("ordersView.filterBuilder.fields.shippingState"===aa3){w="Wilaya"
+break D}if("ordersView.filterBuilder.fields.shippingCity"===aa3){w=d7
+break D}if("ordersView.filterBuilder.fields.source"===aa3){w="Source"
+break D}if("ordersView.filterBuilder.fields.total"===aa3){w=a8
+break D}if("ordersView.filterBuilder.fields.createdAt"===aa3){w="Date de cr\xe9ation"
+break D}if("ordersView.filterBuilder.fields.updatedAt"===aa3){w="Date de mise \xe0 jour"
+break D}if("ordersView.filterBuilder.statusOptions.draft"===aa3){w=f3
+break D}if("ordersView.filterBuilder.statusOptions.pending"===aa3){w=f9
+break D}if("ordersView.filterBuilder.statusOptions.accepted"===aa3){w="Accept\xe9"
+break D}if("ordersView.filterBuilder.statusOptions.rejected"===aa3){w="Rejet\xe9"
+break D}if("ordersView.filterBuilder.statusOptions.cancelled"===aa3){w="Annul\xe9"
+break D}if("ordersView.filterBuilder.statusOptions.returned"===aa3){w=g1
+break D}if("ordersView.filterBuilder.deliveryStatusOptions.pending"===aa3){w=f9
+break D}if("ordersView.filterBuilder.deliveryStatusOptions.shipped"===aa3){w="Exp\xe9di\xe9"
+break D}if("ordersView.filterBuilder.deliveryStatusOptions.delivered"===aa3){w=g0
+break D}if("ordersView.filterBuilder.deliveryStatusOptions.returned"===aa3){w=g1
+break D}if("ordersView.filterBuilder.paymentStatusOptions.unpaid"===aa3){w=f8
+break D}if("ordersView.filterBuilder.paymentStatusOptions.paid"===aa3){w="Pay\xe9"
+break D}if("ordersView.filterBuilder.paymentStatusOptions.refunded"===aa3){w="Rembours\xe9"
+break D}if("ordersView.filterBuilder.sourceOptions.meta"===aa3){w="Meta"
+break D}if("ordersView.filterBuilder.sourceOptions.instagram"===aa3){w="Instagram"
+break D}if("ordersView.filterBuilder.sourceOptions.youtube"===aa3){w="YouTube"
+break D}if("ordersView.filterBuilder.sourceOptions.google"===aa3){w="Google"
+break D}if("ordersView.filterBuilder.sourceOptions.tiktok"===aa3){w="TikTok"
+break D}if("ordersView.filterBuilder.sourceOptions.direct"===aa3){w="Direct"
+break D}if("partnersProgram.title"===aa3){w=i7
+break D}if("partnersProgram.whatsapp"===aa3){w=h6
+break D}if("partnersProgram.error"===aa3){w=new A.e2T()
+break D}if("partnersProgram.actions.deposit.title"===aa3){w="D\xe9poser un solde"
+break D}if("partnersProgram.actions.deposit.description"===aa3){w=y.y
+break D}if("partnersProgram.actions.deposit.button"===aa3){w="D\xe9poser maintenant"
+break D}if("partnersProgram.actions.buySubscription.title"===aa3){w=u4
+break D}if("partnersProgram.actions.buySubscription.description"===aa3){w=y.k1
+break D}if("partnersProgram.actions.buySubscription.button"===aa3){w=u4
+break D}if("partnersProgram.actions.buySubscription.dialogTitle"===aa3){w=y.jF
+break D}if("partnersProgram.actions.chargePoints.title"===aa3){w=u5
+break D}if("partnersProgram.actions.chargePoints.description"===aa3){w=y.W
+break D}if("partnersProgram.actions.chargePoints.button"===aa3){w=u5
+break D}if("partnersProgram.actions.chargePoints.dialogTitle"===aa3){w=y.it
+break D}if("partnersProgram.actions.sendMoney.title"===aa3){w="Envoyer de l'argent"
+break D}if("partnersProgram.actions.sendMoney.description"===aa3){w=y.hM
+break D}if("partnersProgram.actions.sendMoney.button"===aa3){w="Envoyer maintenant"
+break D}if("partnersProgram.actions.payDue.title"===aa3){w="Payer les dettes"
+break D}if("partnersProgram.actions.payDue.description"===aa3){w=y.pd
+break D}if("partnersProgram.actions.payDue.button"===aa3){w="Payer maintenant"
+break D}if("partnersProgram.storeSearch.hint"===aa3){w="Rechercher un magasin par nom ou slug"
+break D}if("partnersProgram.pendingBanner.message"===aa3){w=y.aL
+break D}if("partnersProgram.pendingBanner.whatsappButton"===aa3){w=h5
+break D}if("partnersProgram.legal.title"===aa3){w="Informations l\xe9gales"
+break D}if("partnersProgram.legal.description"===aa3){w=y.jW
+break D}if("partnersProgram.legal.contactSupport"===aa3){w="Contacter le support"
+break D}if("paymentMethodDialog.validation.requiredAmount"===aa3){w=h8
+break D}if("paymentMethodDialog.validation.invalidNumber"===aa3){w="Veuillez entrer un nombre valide"
+break D}if("paymentMethodDialog.validation.minDepositCCP"===aa3){w=u6
+break D}if("paymentMethodDialog.validation.maxDepositCCP"===aa3){w=u7
+break D}if("paymentMethodDialog.validation.minDepositChargily"===aa3){w=u6
+break D}if("paymentMethodDialog.validation.maxDepositChargily"===aa3){w=u7
+break D}if("paymentMethodDialog.validation.minDepositPayPal"===aa3){w="D\xe9p\xf4t min. 1 USD"
+break D}if("paymentMethodDialog.validation.maxDepositPayPal"===aa3){w="D\xe9p\xf4t max. 1000 USD"
+break D}if("paymentMethodDialog.validation.invalidAmount"===aa3){w="Montant invalide"
+break D}if("paymentMethodDialog.currency.dzd"===aa3){w=a4
+break D}if("paymentMethodDialog.currency.usd"===aa3){w="USD"
+break D}if("paymentMethodDialog.amountLimits.ccpChargily"===aa3){w="Entre 500 et 100000 DZD"
+break D}if("paymentMethodDialog.amountLimits.paypal"===aa3){w="Entre 1 et 1000 USD"
+break D}if("paymentMethodDialog.amountLimits.other"===aa3){w="Selon accord"
+break D}if("paymentMethodDialog.paymentMethods.ccp.title"===aa3){w="CCP/CIB"
+break D}if("paymentMethodDialog.paymentMethods.ccp.subtitle"===aa3){w="Compte courant ou carte bancaire"
+break D}if("paymentMethodDialog.paymentMethods.chargily.title"===aa3){w="Chargily Pay"
+break D}if("paymentMethodDialog.paymentMethods.chargily.subtitle"===aa3){w="Paiement s\xe9curis\xe9 EDAHABIA ou CIB"
+break D}if("paymentMethodDialog.paymentMethods.paypal.title"===aa3){w="PayPal"
+break D}if("paymentMethodDialog.paymentMethods.paypal.subtitle"===aa3){w="Paiement via PayPal (USD)"
+break D}if("paymentMethodDialog.paymentMethods.other.title"===aa3){w="Autres m\xe9thodes"
+break D}if("paymentMethodDialog.paymentMethods.other.subtitle"===aa3){w="Binance et autres"
+break D}if("paymentMethodDialog.steps.selectMethodAndAmount"===aa3){w="Choisir m\xe9thode & montant"
+break D}if("paymentMethodDialog.steps.paymentMethod"===aa3){w="M\xe9thode"
+break D}if("paymentMethodDialog.steps.amount"===aa3){w="Montant"
+break D}if("paymentMethodDialog.steps.amountLabel"===aa3){w=new A.e2U()
+break D}if("paymentMethodDialog.steps.cancel"===aa3)break D
+if("paymentMethodDialog.steps.resume"===aa3){w="Continuer"
+break D}if("paymentMethodDialog.steps.confirmation"===aa3){w="Confirmation du paiement"
+break D}if("paymentMethodDialog.steps.paymentMethodLabel"===aa3){w="M\xe9thode :"
+break D}if("paymentMethodDialog.steps.amountLabelShort"===aa3){w="Montant :"
+break D}if("paymentMethodDialog.steps.instructions"===aa3){w="\xc9tapes :"
+break D}if("paymentMethodDialog.steps.back"===aa3){w=o
+break D}if("paymentMethodDialog.steps.processing"===aa3){w="En cours..."
+break D}if("paymentMethodDialog.steps.payNow"===aa3){w=h4
+break D}if("paymentMethodDialog.steps.payWithChargily"===aa3){w="Payer avec Chargily"
+break D}if("paymentMethodDialog.steps.payWithPayPal"===aa3){w="Payer avec PayPal"
+break D}if("paymentMethodDialog.steps.contactUs"===aa3){w="Nous contacter"
+break D}if("paymentMethodDialog.instructions.ccp.0"===aa3){w="La page de paiement s\u2019ouvrira"
+break D}if("paymentMethodDialog.instructions.ccp.1"===aa3){w=u8
+break D}if("paymentMethodDialog.instructions.ccp.2"===aa3){w=u9
+break D}if("paymentMethodDialog.instructions.ccp.3"===aa3){w=v0
+break D}if("paymentMethodDialog.instructions.ccp.4"===aa3){w=v1
+break D}if("paymentMethodDialog.instructions.chargily.0"===aa3){w="La page Chargily s\u2019ouvrira"
+break D}if("paymentMethodDialog.instructions.chargily.1"===aa3){w="Choisissez EDAHABIA ou CIB"
+break D}if("paymentMethodDialog.instructions.chargily.2"===aa3){w=u8
+break D}if("paymentMethodDialog.instructions.chargily.3"===aa3){w=u9
+break D}if("paymentMethodDialog.instructions.chargily.4"===aa3){w=v0
+break D}if("paymentMethodDialog.instructions.chargily.5"===aa3){w=v1
+break D}if("paymentMethodDialog.instructions.paypal.0"===aa3){w="La page PayPal s\u2019ouvrira"
+break D}if("paymentMethodDialog.instructions.paypal.1"===aa3){w="Connectez-vous \xe0 votre compte"
+break D}if("paymentMethodDialog.instructions.paypal.2"===aa3){w="V\xe9rifiez et confirmez la transaction"
+break D}if("paymentMethodDialog.instructions.paypal.3"===aa3){w="Vous recevrez une confirmation PayPal"
+break D}if("paymentMethodDialog.instructions.paypal.4"===aa3){w="Le montant sera ajout\xe9 \xe0 votre portefeuille apr\xe8s validation"
+break D}if("paymentMethodDialog.instructions.other.0"===aa3){w="Une conversation Telegram avec le support s\u2019ouvrira"
+break D}if("paymentMethodDialog.instructions.other.1"===aa3){w="Envoyez les infos demand\xe9es"
+break D}if("paymentMethodDialog.instructions.other.2"===aa3){w="Nous confirmerons la m\xe9thode adapt\xe9e"
+break D}if("paymentMethodDialog.instructions.other.3"===aa3){w="Suivez les instructions donn\xe9es"
+break D}if("paymentMethodDialog.instructions.other.4"===aa3){w="Vous recevrez confirmation une fois termin\xe9"
+break D}if("paymentMethodDialog.errors.setupPayment"===aa3){w="Erreur lors de la configuration du paiement. R\xe9essayez."
+break D}if("paymentMethodDialog.errors.createInvoice"===aa3){w="\xc9chec de cr\xe9ation de facture"
+break D}if("paymentMethodDialog.errors.chargilyRequest"===aa3){w="\xc9chec de demande Chargily Pay"
+break D}if("paymentMethodDialog.errors.paypalRequest"===aa3){w="\xc9chec de demande PayPal"
+break D}if("paymentMethodDialog.errors.chargilySetup"===aa3){w="Erreur configuration Chargily Pay. R\xe9essayez."
+break D}if("paymentMethodDialog.errors.paypalSetup"===aa3){w="Erreur configuration PayPal. R\xe9essayez."
+break D}if("paymentMethodDialog.errors.createRequest"===aa3){w="Erreur lors de la demande. R\xe9essayez."
+break D}if("paymentMethodDialog.success.depositCreated"===aa3){w="Demande de d\xe9p\xf4t cr\xe9\xe9e. N\xb0: {{depositId}}"
+break D}if("paymentMethodDialog.success.confirmationNote"===aa3){w="Vous recevrez une confirmation \xe0 la fin."
+break D}if("paymentMethodDialog.items.name"===aa3){w="Recharge portefeuille Feeef"
+break D}if("paymentMethodDialog.items.price"===aa3){w=b7
+break D}if("paymentMethodDialog.items.quantity"===aa3){w="Qt\xe9"
+break D}if("settingsView.title"===aa3){w=j0
+break D}if("settingsView.images.updateImages"===aa3){w=k3
+break D}if("settingsView.images.storeIcon.title"===aa3){w="Ic\xf4ne de la boutique"
+break D}if("settingsView.images.storeIcon.description"===aa3){w=y.mc
+break D}if("settingsView.images.storeLogo.title"===aa3){w="Logo de la boutique"
+break D}if("settingsView.images.storeLogo.description"===aa3){w=y.V
+break D}if("settingsView.images.changeImages"===aa3){w=k4
+break D}if("settingsView.general.title"===aa3){w="Informations g\xe9n\xe9rales"
+break D}if("settingsView.general.name"===aa3){w=b4
+break D}if("settingsView.general.nameLabel"===aa3){w=b4
+break D}if("settingsView.general.nameDescription"===aa3){w=y.lb
+break D}if("settingsView.general.description"===aa3){w=y.f
+break D}if("settingsView.general.descriptionLabel"===aa3){w=c3
+break D}if("settingsView.general.tagline"===aa3){w=y.bM
+break D}if("settingsView.general.titleLabel"===aa3){w=i3
+break D}if("settingsView.general.urlLabel"===aa3){w="URL"
+break D}if("settingsView.general.activate"===aa3){w=k5
+break D}if("settingsView.general.activateDescription"===aa3){w="Afficher ou masquer le slogan"
+break D}if("settingsView.general.noName"===aa3){w="Nom non ajout\xe9"
+break D}if("settingsView.general.noTitle"===aa3){w="Sans titre"
+break D}if("settingsView.general.noDescription"===aa3){w="Sans description"
+break D}if("settingsView.general.locationAndAddress"===aa3){w="Emplacement et adresse"
+break D}if("settingsView.general.showQRCode"===aa3){w="Afficher le code QR"
+break D}if("settingsView.general.defaultCountry"===aa3){w="Alg\xe9rie"
+break D}if("settingsView.domain.title"===aa3){w="Domaine de votre site"
+break D}if("settingsView.domain.namePlaceholder"===aa3){w="Nom de domaine"
+break D}if("settingsView.domain.verified"===aa3){w="V\xe9rifi\xe9"
+break D}if("settingsView.domain.deleteDomain"===aa3){w="Supprimer le domaine"
+break D}if("settingsView.domain.confirmDeleteDomain"===aa3){w=y.kG
+break D}if("settingsView.domain.linkOpenError"===aa3){w="Erreur lors de l'ouverture du lien"
+break D}if("settingsView.subdomain.title"===aa3){w=v2
+break D}if("settingsView.subdomain.label"===aa3){w=k6
+break D}if("settingsView.subdomain.placeholder"===aa3){w=v2
+break D}if("settingsView.orders.disableAbandonedCarts"===aa3){w="D\xe9sactiver les paniers abandonn\xe9s"
+break D}if("settingsView.orders.disableAbandonedCartsDescription"===aa3){w=y.iR
+break D}if("settingsView.colors.title"===aa3){w=v3
+break D}if("settingsView.colors.primary"===aa3){w=k7
+break D}if("settingsView.colors.primaryDescription"===aa3){w=y.pm
+break D}if("settingsView.colors.secondary"===aa3){w=k8
+break D}if("settingsView.colors.secondaryDescription"===aa3){w=y.iK
+break D}if("settingsView.colors.darkMode"===aa3){w="Couleurs du mode sombre"
+break D}if("settingsView.colors.darkModeDescription"===aa3){w=y.fC
+break D}if("settingsView.colors.primaryDark"===aa3){w="Couleur principale du mode sombre"
+break D}if("settingsView.colors.primaryDarkDescription"===aa3){w=y.i5
+break D}if("settingsView.colors.secondaryDark"===aa3){w="Couleur secondaire du mode sombre"
+break D}if("settingsView.colors.secondaryDarkDescription"===aa3){w=y.b2
+break D}if("settingsView.branches.title"===aa3){w=k9
+break D}if("settingsView.branches.addBranch"===aa3){w=l0
+break D}if("settingsView.branches.cityStateNotSpecified"===aa3){w="Ville et r\xe9gion non sp\xe9cifi\xe9es"
+break D}if("settingsView.branches.deleteBranch"===aa3){w=l1
+break D}if("settingsView.branches.confirmDeleteBranch"===aa3){w=l2
+break D}if("settingsView.branches.editBranch"===aa3){w=l3
+break D}if("settingsView.contacts.title"===aa3){w="Moyens de contact"
+break D}if("settingsView.contacts.addContact"===aa3){w=l4
+break D}if("settingsView.contacts.editContact"===aa3){w=l5
+break D}if("settingsView.contacts.deleteContact"===aa3){w=l6
+break D}if("settingsView.contacts.confirmDeleteContact"===aa3){w=l7
+break D}if("settingsView.customLabels.title"===aa3){w=y.fK
+break D}if("settingsView.customOrderStatuses.title"===aa3){w=l8
+break D}if("settingsView.customOrderStatuses.noCustomStatusesAdded"===aa3){w=y.ho
+break D}if("settingsView.customOrderStatuses.importTemplate"===aa3){w=l9
+break D}if("settingsView.categories.title"===aa3){w=m0
+break D}if("settingsView.categories.addCategory"===aa3){w=m1
+break D}if("settingsView.categories.storeCategory"===aa3){w=m2
+break D}if("settingsView.categories.editCategory"===aa3){w=m3
+break D}if("settingsView.categories.deleteCategory"===aa3){w=m4
+break D}if("settingsView.categories.confirmDeleteCategory"===aa3){w=m5
+break D}if("settingsView.shipping.title"===aa3){w=m6
+break D}if("settingsView.currencies.title"===aa3){w="Devises"
+break D}if("settingsView.currencies.selectCurrencies"===aa3){w="S\xe9lectionnez les devises"
+break D}if("settingsView.currencies.selectCurrenciesDescription"===aa3){w=y.J
+break D}if("settingsView.currencies.availableCurrencies"===aa3){w="Devises disponibles"
+break D}if("settingsView.currencies.selectAtLeastOneCurrency"===aa3){w=y.ld
+break D}if("settingsView.currencies.selectDefaultCurrency"===aa3){w=y.k0
+break D}if("settingsView.currencies.selected"===aa3){w="S\xe9lectionn\xe9es"
+break D}if("settingsView.currencies.default_"===aa3){w=r9
+break D}if("settingsView.currencies.setAsDefault"===aa3){w=v4
+break D}if("settingsView.currencies.noCurrencies"===aa3){w="Aucune devise disponible"
+break D}if("settingsView.currencies.addCurrency"===aa3){w="Ajouter une devise"
+break D}if("settingsView.currencies.allAdded"===aa3){w="Toutes les devises ont \xe9t\xe9 ajout\xe9es"
+break D}if("settingsView.countries.title"===aa3){w=r7
+break D}if("settingsView.countries.selectDefault"===aa3){w=r8
+break D}if("settingsView.countries.noCountries"===aa3){w="Aucun pays ajout\xe9"
+break D}if("settingsView.countries.addCountry"===aa3){w="Ajouter un pays"
+break D}if("settingsView.countries.setAsDefault"===aa3){w=v4
+break D}if("settingsView.countries.allAdded"===aa3){w="Tous les pays ont \xe9t\xe9 ajout\xe9s"
+break D}if("settingsView.members.title"===aa3){w=m7
+break D}if("settingsView.messages.codeCopied"===aa3){w=m8
+break D}if("settingsView.messages.sessionDeleted"===aa3){w="Session supprim\xe9e avec succ\xe8s"
+break D}if("settingsView.messages.updated"===aa3){w="Mise \xe0 jour r\xe9ussie"
+break D}if("settingsView.messages.changePassword"===aa3){w=b1
+break D}if("settingsView.messages.changePasswordDescription"===aa3){w="Vous pouvez modifier votre mot de passe"
+break D}if("settingsView.customStatus.addCustomStatus"===aa3){w=m9
+break D}if("settingsView.customStatus.statusColor"===aa3){w="Couleur du statut (optionnel)"
+break D}if("settingsView.customStatus.choose"===aa3){w="Choisir"
+break D}if("settingsView.customStatus.editCustomStatus"===aa3){w=n0
+break D}if("settingsView.customStatus.deleteCustomStatus"===aa3){w=n1
+break D}if("settingsView.customStatus.cancel"===aa3)break D
+if("settingsView.customStatus.delete"===aa3){w=a2
+break D}if("settingsView.security.securityAndData"===aa3){w=a9
+break D}if("settingsView.security.securityDescription"===aa3){w=y.jG
+break D}if("settingsView.security.verifiedAccount"===aa3){w="Compte v\xe9rifi\xe9"
+break D}if("settingsView.sections.additionalSettings"===aa3){w="Param\xe8tres suppl\xe9mentaires"
+break D}if("settingsView.sections.designAndColors"===aa3){w="Design et couleurs"
+break D}if("settingsView.sections.business"===aa3){w=v5
+break D}if("settingsView.sections.ordersSection"===aa3){w=g2
+break D}if("settingsView.sections.products"===aa3){w=b2
+break D}if("settingsView.sections.team"===aa3){w="\xc9quipe"
+break D}if("settingsView.sections.development"===aa3){w="D\xe9veloppement"
+break D}if("settingsView.sections.dangerZone"===aa3){w="Zone dangereuse"
+break D}if("settingsView.sectionSubtitles.manageStoreImages"===aa3){w=y.mh
+break D}if("settingsView.sectionSubtitles.manageSubdomain"===aa3){w="G\xe9rer le sous-domaine de la boutique"
+break D}if("settingsView.sectionSubtitles.customizeStoreColors"===aa3){w=y.l5
+break D}if("settingsView.sectionSubtitles.manageBranches"===aa3){w="G\xe9rer les succursales et adresses"
+break D}if("settingsView.sectionSubtitles.manageContacts"===aa3){w="G\xe9rer les moyens de contact"
+break D}if("settingsView.sectionSubtitles.manageShipping"===aa3){w="G\xe9rer les m\xe9thodes d'exp\xe9dition"
+break D}if("settingsView.sectionSubtitles.manageCountries"===aa3){w="G\xe9rer les pays o\xf9 la boutique op\xe8re"
+break D}if("settingsView.sectionSubtitles.manageCustomLabels"===aa3){w=y.fS
+break D}if("settingsView.sectionSubtitles.manageCustomStatuses"===aa3){w=y.i6
+break D}if("settingsView.sectionSubtitles.manageCategories"===aa3){w="G\xe9rer les cat\xe9gories de la boutique"
+break D}if("settingsView.sectionSubtitles.manageTeamMembers"===aa3){w="G\xe9rer les membres de l'\xe9quipe"
+break D}if("settingsView.sectionSubtitles.apiKeysAccess"===aa3){w=y.je
+break D}if("settingsView.sectionSubtitles.deleteStorePermanently"===aa3){w="Supprimer d\xe9finitivement la boutique"
+break D}if("settingsView.titles.countries"===aa3){w=r7
+break D}if("settingsView.titles.apiKeys"===aa3){w="Cl\xe9s API"
+break D}if("settingsView.titles.deleteStore"===aa3){w="Supprimer la boutique"
+break D}if("settingsView.titles.languages"===aa3){w="Langues"
+break D}if("settingsView.languages.title"===aa3){w="Langues"
+break D}if("settingsView.languages.subtitle"===aa3){w=y.N
+break D}if("settingsView.languages.selectDefault"===aa3){w=y.fN
+break D}if("settingsView.languages.noLanguages"===aa3){w="Aucune langue ajout\xe9e"
+break D}if("settingsView.languages.addLanguage"===aa3){w="Ajouter une langue"
+break D}if("settingsView.languages.setAsDefault"===aa3){w=v4
+break D}if("settingsView.onboarding.title"===aa3){w="Terminer la configuration de la boutique"
+break D}if("settingsView.onboarding.subtitle"===aa3){w="Configurons votre boutique correctement"
+break D}if("settingsView.onboarding.stepBranding.title"===aa3){w="Personnalisez votre boutique"
+break D}if("settingsView.onboarding.stepBranding.description"===aa3){w=y.K
+break D}if("settingsView.onboarding.stepLanguage.title"===aa3){w="S\xe9lectionner la langue"
+break D}if("settingsView.onboarding.stepLanguage.description"===aa3){w=y.e
+break D}if("settingsView.onboarding.stepCountry.title"===aa3){w="S\xe9lectionner le pays"
+break D}if("settingsView.onboarding.stepCountry.description"===aa3){w=y.o
+break D}if("settingsView.onboarding.stepCurrency.title"===aa3){w="S\xe9lectionner la devise"
+break D}if("settingsView.onboarding.stepCurrency.description"===aa3){w=y.T
+break D}if("settingsView.onboarding.next"===aa3){w="Suivant"
+break D}if("settingsView.onboarding.skip"===aa3){w="Passer"
+break D}if("settingsView.onboarding.done"===aa3){w=f6
+break D}if("settingsView.onboarding.complete"===aa3){w="Terminer la configuration"
+break D}if("settingsView.onboarding.completion.title"===aa3){w=y.ic
+break D}if("settingsView.onboarding.completion.subtitle"===aa3){w=y.nG
+break D}if("settingsView.onboarding.completion.openStore"===aa3){w="Ouvrir votre boutique"
+break D}if("settingsView.onboarding.completion.quickActions"===aa3){w="Actions rapides"
+break D}if("settingsView.onboarding.completion.createProduct"===aa3){w=b3
+break D}if("settingsView.onboarding.completion.createProductDesc"===aa3){w=y.S
+break D}if("settingsView.onboarding.completion.previewStore"===aa3){w="Aper\xe7u de la boutique"
+break D}if("settingsView.onboarding.completion.previewStoreDesc"===aa3){w=y.et
+break D}if("settingsView.onboarding.completion.addPixels"===aa3){w="Ajouter des pixels"
+break D}if("settingsView.onboarding.completion.addPixelsDesc"===aa3){w=y.g_
+break D}if("settingsView.onboarding.completion.getStarted"===aa3){w="Commencer"
+break D}if("settingsView.onboarding.restartOnboarding"===aa3){w=y.p
+break D}if("settingsView.onboarding.restartOnboardingDescription"===aa3){w=y.db
+break D}if("shippingPrices.addNewSubtitle"===aa3){w="Ajouter un nouveau prix d'exp\xe9dition"
+break D}if("shippingPrices.refresh"===aa3){w=t6
+break D}if("shippingPrices.statusLabel"===aa3){w=c2
+break D}if("shippingPrices.statusWithDefault"===aa3){w=new A.e2V()
+break D}if("shippingPrices.statusOnly"===aa3){w=new A.e2W()
+break D}if("shippingPrices.selected"===aa3){w=f0
+break D}if("shippingPrices.select"===aa3){w=v6
+break D}if("shippingPrices.edit"===aa3){w=r5
+break D}if("shippingPrices.delete"===aa3){w=a2
+break D}if("shippingPrices.legacySectionTitle"===aa3){w="M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"
+break D}if("shippingPrices.legacySectionSubtitle"===aa3){w="M\xe9thodes d'exp\xe9dition traditionnelles"
+break D}if("shippingPrices.emptyTitle"===aa3){w=y.x
+break D}if("shippingPrices.emptySubtitle"===aa3){w=y._
+break D}if("shippingPrices.errorTitle"===aa3){w=y.oy
+break D}if("shippingPrices.retry"===aa3){w=n
+break D}if("shippingPrices.legacyEmptyTitle"===aa3){w=y.c
+break D}if("shippingPrices.legacyEmptySubtitle"===aa3){w=y.gp
+break D}if("shippingPrices.selectSuccess"===aa3){w=new A.e2X()
+break D}if("shippingPrices.deselectSuccess"===aa3){w=new A.e2Y()
+break D}if("shippingPrices.updateError"===aa3){w=new A.e2Z()
+break D}if("shippingPrices.delivery"===aa3){w=d0
+break D}if("shippingPrices.status.draft"===aa3){w=f3
+break D}if("shippingPrices.status.published"===aa3){w="Publi\xe9"
+break D}if("state.states.0"===aa3){w="Adrar"
+break D}if("state.states.1"===aa3){w="Chlef"
+break D}if("state.states.2"===aa3){w=v7
+break D}if("state.states.3"===aa3){w="Oum el bouaghi"
+break D}if("state.states.4"===aa3){w="Batna"
+break D}if("state.states.5"===aa3){w="Bejaia"
+break D}if("state.states.6"===aa3){w="Biskra"
+break D}if("state.states.7"===aa3){w="Bechar"
+break D}if("state.states.8"===aa3){w="Blida"
+break D}if("state.states.9"===aa3){w="Bouira"
+break D}if("state.states.10"===aa3){w=v8
+break D}if("state.states.11"===aa3){w="Tebessa"
+break D}if("state.states.12"===aa3){w="Tlemcen"
+break D}if("state.states.13"===aa3){w="Tiaret"
+break D}if("state.states.14"===aa3){w="Tizi ouzou"
+break D}if("state.states.15"===aa3){w="Alger"
+break D}if("state.states.16"===aa3){w="Djelfa"
+break D}if("state.states.17"===aa3){w="Jijel"
+break D}if("state.states.18"===aa3){w="Setif"
+break D}if("state.states.19"===aa3){w="Saida"
+break D}if("state.states.20"===aa3){w="Skikda"
+break D}if("state.states.21"===aa3){w="Sidi bel abbes"
+break D}if("state.states.22"===aa3){w="Annaba"
+break D}if("state.states.23"===aa3){w="Guelma"
+break D}if("state.states.24"===aa3){w=v9
+break D}if("state.states.25"===aa3){w="Medea"
+break D}if("state.states.26"===aa3){w=w0
+break D}if("state.states.27"===aa3){w="Msila"
+break D}if("state.states.28"===aa3){w="Mascara"
+break D}if("state.states.29"===aa3){w="Ouargla"
+break D}if("state.states.30"===aa3){w="Oran"
+break D}if("state.states.31"===aa3){w="El bayadh"
+break D}if("state.states.32"===aa3){w="Illizi"
+break D}if("state.states.33"===aa3){w="Bordj bou arreridj"
+break D}if("state.states.34"===aa3){w=w1
+break D}if("state.states.35"===aa3){w="El tarf"
+break D}if("state.states.36"===aa3){w="Tindouf"
+break D}if("state.states.37"===aa3){w=w2
+break D}if("state.states.38"===aa3){w="El oued"
+break D}if("state.states.39"===aa3){w=w3
+break D}if("state.states.40"===aa3){w="Souk ahras"
+break D}if("state.states.41"===aa3){w="Tipaza"
+break D}if("state.states.42"===aa3){w="Mila"
+break D}if("state.states.43"===aa3){w="Ain defla"
+break D}if("state.states.44"===aa3){w="Naama"
+break D}if("state.states.45"===aa3){w="Ain temouchent"
+break D}if("state.states.46"===aa3){w=w4
+break D}if("state.states.47"===aa3){w=w5
+break D}if("state.states.48"===aa3){w=w6
+break D}if("state.states.49"===aa3){w="Bordj badji mokhtar"
+break D}if("state.states.50"===aa3){w="Ouled djellal"
+break D}if("state.states.51"===aa3){w="Beni abbes"
+break D}if("state.states.52"===aa3){w="In salah"
+break D}if("state.states.53"===aa3){w="In guezzam"
+break D}if("state.states.54"===aa3){w=w7
+break D}if("state.states.55"===aa3){w="Djanet"
+break D}if("state.states.56"===aa3){w="El meghaier"
+break D}if("state.states.57"===aa3){w="El menia"
+break D}if("state.cities.0.0"===aa3){w="Adrar"
+break D}if("state.cities.0.1"===aa3){w="Akabli"
+break D}if("state.cities.0.2"===aa3){w="Aoulef"
+break D}if("state.cities.0.3"===aa3){w="Bouda"
+break D}if("state.cities.0.4"===aa3){w="Fenoughil"
+break D}if("state.cities.0.5"===aa3){w="In Zghmir"
 break D}w=v
-break D}if(w==null)E:{w="Larbaa"
-if("state.cities.1.34"===z8){w="Zeboudja"
-break E}if("state.cities.2.0"===z8){w="Aflou"
-break E}if("state.cities.2.1"===z8){w="Ain Mahdi"
-break E}if("state.cities.2.2"===z8){w="Ain Sidi Ali"
-break E}if("state.cities.2.3"===z8){w="Beidha"
-break E}if("state.cities.2.4"===z8){w="Benacer Benchohra"
-break E}if("state.cities.2.5"===z8){w="Brida"
-break E}if("state.cities.2.6"===z8){w="El Assafia"
-break E}if("state.cities.2.7"===z8){w="El Ghicha"
-break E}if("state.cities.2.8"===z8){w="El Haouaita"
-break E}if("state.cities.2.9"===z8){w="Gueltat Sidi Saad"
-break E}if("state.cities.2.10"===z8){w="Hadj Mechri"
-break E}if("state.cities.2.11"===z8){w="Hassi Delaa"
-break E}if("state.cities.2.12"===z8){w="Hassi R'mel"
-break E}if("state.cities.2.13"===z8){w="Kheneg"
-break E}if("state.cities.2.14"===z8){w="Ksar El Hirane"
-break E}if("state.cities.2.15"===z8){w=v1
-break E}if("state.cities.2.16"===z8){w="Oued M'zi"
-break E}if("state.cities.2.17"===z8){w="Oued Morra"
-break E}if("state.cities.2.18"===z8){w="Sebgag"
-break E}if("state.cities.2.19"===z8){w="Sidi Bouzid"
-break E}if("state.cities.2.20"===z8){w="Sidi Makhlouf"
-break E}if("state.cities.2.21"===z8){w="Tadjemout"
-break E}if("state.cities.2.22"===z8){w="Tadjrouna"
-break E}if("state.cities.2.23"===z8){w="Taouiala"
-break E}if("state.cities.3.0"===z8){w="Ain Babouche"
-break E}if("state.cities.3.1"===z8){w=w4
-break E}if("state.cities.3.2"===z8){w="Ain Diss"
-break E}if("state.cities.3.3"===z8){w="Ain Fekroune"
-break E}if("state.cities.3.4"===z8){w="Ain Kercha"
-break E}if("state.cities.3.5"===z8){w="Ain M'lila"
-break E}if("state.cities.3.6"===z8){w="Ain Zitoun"
-break E}if("state.cities.3.7"===z8){w="Behir Chergui"
-break E}if("state.cities.3.8"===z8){w="Berriche"
-break E}if("state.cities.3.9"===z8){w="Bir Chouhada"
-break E}if("state.cities.3.10"===z8){w="Dhala"
-break E}if("state.cities.3.11"===z8){w="El Amiria"
-break E}if("state.cities.3.12"===z8){w="El Belala"
-break E}if("state.cities.3.13"===z8){w="El Djazia"
-break E}if("state.cities.3.14"===z8){w="El Fedjoudj Boughrara Sa"
-break E}if("state.cities.3.15"===z8){w="El Harmilia"
-break E}if("state.cities.3.16"===z8){w="Fkirina"
-break E}if("state.cities.3.17"===z8){w="Hanchir Toumghani"
-break E}if("state.cities.3.18"===z8){w="Ksar Sbahi"
-break E}if("state.cities.3.19"===z8){w="Meskiana"
-break E}if("state.cities.3.20"===z8){w="Oued Nini"
-break E}if("state.cities.3.21"===z8){w="Ouled Gacem"
-break E}if("state.cities.3.22"===z8){w="Ouled Hamla"
-break E}if("state.cities.3.23"===z8){w="Ouled Zouai"
-break E}if("state.cities.3.24"===z8){w="Oum El Bouaghi"
-break E}if("state.cities.3.25"===z8){w="Rahia"
-break E}if("state.cities.3.26"===z8){w="Sigus"
-break E}if("state.cities.3.27"===z8){w="Souk Naamane"
-break E}if("state.cities.3.28"===z8){w="Zorg"
-break E}if("state.cities.4.0"===z8){w="Ain Djasser"
-break E}if("state.cities.4.1"===z8){w="Ain Touta"
-break E}if("state.cities.4.2"===z8){w="Ain Yagout"
-break E}if("state.cities.4.3"===z8){w="Arris"
-break E}if("state.cities.4.4"===z8){w="Azil Abedelkader"
-break E}if("state.cities.4.5"===z8){w="Barika"
-break E}if("state.cities.4.6"===z8){w="Batna"
-break E}if("state.cities.4.7"===z8){w="Beni Foudhala El Hakania"
-break E}if("state.cities.4.8"===z8){w="Bitam"
-break E}if("state.cities.4.9"===z8){w="Boulhilat"
-break E}if("state.cities.4.10"===z8){w="Boumagueur"
-break E}if("state.cities.4.11"===z8){w="Boumia"
-break E}if("state.cities.4.12"===z8){w="Bouzina"
-break E}if("state.cities.4.13"===z8){w="Chemora"
-break E}if("state.cities.4.14"===z8){w="Chir"
-break E}if("state.cities.4.15"===z8){w="Djerma"
-break E}if("state.cities.4.16"===z8){w="Djezzar"
-break E}if("state.cities.4.17"===z8){w=w5
-break E}if("state.cities.4.18"===z8){w="El Madher"
-break E}if("state.cities.4.19"===z8){w="Fesdis"
-break E}if("state.cities.4.20"===z8){w="Foum Toub"
-break E}if("state.cities.4.21"===z8){w="Ghassira"
-break E}if("state.cities.4.22"===z8){w="Gosbat"
-break E}if("state.cities.4.23"===z8){w="Guigba"
-break E}if("state.cities.4.24"===z8){w="Hidoussa"
-break E}if("state.cities.4.25"===z8){w="Ichmoul"
-break E}if("state.cities.4.26"===z8){w="Inoughissen"
-break E}if("state.cities.4.27"===z8){w="Kimmel"
-break E}if("state.cities.4.28"===z8){w="Ksar Bellezma"
-break E}if("state.cities.4.29"===z8)break E
-if("state.cities.4.30"===z8){w="Lazrou"
-break E}if("state.cities.4.31"===z8){w="Lemsane"
-break E}if("state.cities.4.32"===z8){w="M Doukal"
-break E}if("state.cities.4.33"===z8){w="Maafa"
-break E}if("state.cities.4.34"===z8){w="Menaa"
-break E}if("state.cities.4.35"===z8){w="Merouana"
-break E}if("state.cities.4.36"===z8){w="N Gaous"
-break E}if("state.cities.4.37"===z8){w="Oued Chaaba"
-break E}if("state.cities.4.38"===z8){w="Oued El Ma"
-break E}if("state.cities.4.39"===z8){w="Oued Taga"
-break E}if("state.cities.4.40"===z8){w="Ouled Ammar"
-break E}if("state.cities.4.41"===z8){w="Ouled Aouf"
-break E}if("state.cities.4.42"===z8){w="Ouled Fadel"
-break E}if("state.cities.4.43"===z8){w="Ouled Sellem"
-break E}if("state.cities.4.44"===z8){w="Ouled Si Slimane"
-break E}if("state.cities.4.45"===z8){w="Ouyoun El Assafir"
-break E}if("state.cities.4.46"===z8){w="Rahbat"
-break E}if("state.cities.4.47"===z8){w="Ras El Aioun"
-break E}if("state.cities.4.48"===z8){w="Sefiane"
-break E}if("state.cities.4.49"===z8){w="Seggana"
-break E}if("state.cities.4.50"===z8){w="Seriana"
-break E}if("state.cities.4.51"===z8){w="T Kout"
-break E}if("state.cities.4.52"===z8){w="Talkhamt"
-break E}if("state.cities.4.53"===z8){w="Taxlent"
-break E}if("state.cities.4.54"===z8){w="Tazoult"
-break E}if("state.cities.4.55"===z8){w="Teniet El Abed"
-break E}if("state.cities.4.56"===z8){w="Tighanimine"
-break E}if("state.cities.4.57"===z8){w="Tigharghar"
-break E}if("state.cities.4.58"===z8){w="Tilatou"
-break E}if("state.cities.4.59"===z8){w="Timgad"
-break E}if("state.cities.4.60"===z8){w="Zanet El Beida"
-break E}if("state.cities.5.0"===z8){w="Adekar"
-break E}if("state.cities.5.1"===z8){w="Ait R'zine"
-break E}if("state.cities.5.2"===z8){w="Ait Smail"
-break E}if("state.cities.5.3"===z8){w="Akbou"
-break E}if("state.cities.5.4"===z8){w="Akfadou"
-break E}if("state.cities.5.5"===z8){w="Amalou"
-break E}if("state.cities.5.6"===z8){w="Amizour"
-break E}if("state.cities.5.7"===z8){w="Aokas"
-break E}if("state.cities.5.8"===z8){w="Barbacha"
-break E}if("state.cities.5.9"===z8){w="Bejaia"
-break E}if("state.cities.5.10"===z8){w="Beni Dejllil"
-break E}if("state.cities.5.11"===z8){w="Beni K'sila"
-break E}if("state.cities.5.12"===z8){w="Beni Mallikeche"
-break E}if("state.cities.5.13"===z8){w="Benimaouche"
-break E}if("state.cities.5.14"===z8){w="Boudjellil"
-break E}if("state.cities.5.15"===z8){w="Bouhamza"
-break E}if("state.cities.5.16"===z8){w="Boukhelifa"
-break E}if("state.cities.5.17"===z8){w="Chellata"
-break E}if("state.cities.5.18"===z8){w="Chemini"
-break E}if("state.cities.5.19"===z8){w="Darghina"
-break E}if("state.cities.5.20"===z8){w="Dra El Caid"
-break E}if("state.cities.5.21"===z8){w="El Kseur"
-break E}if("state.cities.5.22"===z8){w="Fenaia Il Maten"
-break E}if("state.cities.5.23"===z8){w="Feraoun"
-break E}if("state.cities.5.24"===z8){w="Ighil Ali"
-break E}if("state.cities.5.25"===z8){w="Ighram"
-break E}if("state.cities.5.26"===z8){w="Kendira"
-break E}if("state.cities.5.27"===z8){w="Kherrata"
-break E}if("state.cities.5.28"===z8){w="Leflaye"
-break E}if("state.cities.5.29"===z8){w="M'cisna"
-break E}if("state.cities.5.30"===z8){w="Melbou"
-break E}if("state.cities.5.31"===z8){w="Oued Ghir"
-break E}if("state.cities.5.32"===z8){w="Ouzellaguene"
-break E}if("state.cities.5.33"===z8){w="Seddouk"
-break E}if("state.cities.5.34"===z8){w="Sidi Aich"
-break E}if("state.cities.5.35"===z8){w="Sidi Ayad"
-break E}if("state.cities.5.36"===z8){w="Smaoun"
-break E}if("state.cities.5.37"===z8){w="Souk El Tenine"
-break E}if("state.cities.5.38"===z8){w="Souk Oufella"
-break E}if("state.cities.5.39"===z8){w="Tala Hamza"
-break E}if("state.cities.5.40"===z8){w="Tamokra"
-break E}if("state.cities.5.41"===z8){w="Tamridjet"
-break E}if("state.cities.5.42"===z8){w="Taourit Ighil"
-break E}if("state.cities.5.43"===z8){w="Taskriout"
-break E}if("state.cities.5.44"===z8){w="Tazmalt"
-break E}if("state.cities.5.45"===z8){w="Tibane"
-break E}if("state.cities.5.46"===z8){w="Tichy"
-break E}if("state.cities.5.47"===z8){w="Tifra"
-break E}if("state.cities.5.48"===z8){w=w6
-break E}if("state.cities.5.49"===z8){w="Tinebdar"
-break E}if("state.cities.5.50"===z8){w="Tizi N'berber"
-break E}if("state.cities.5.51"===z8){w="Toudja"
-break E}if("state.cities.6.0"===z8){w="Ain Naga"
-break E}if("state.cities.6.1"===z8){w="Ain Zaatout"
-break E}if("state.cities.6.2"===z8){w="Biskra"
-break E}if("state.cities.6.3"===z8){w="Bordj Ben Azzouz"
-break E}if("state.cities.6.4"===z8){w="Bouchagroun"
-break E}if("state.cities.6.5"===z8){w="Branis"
-break E}if("state.cities.6.6"===z8){w="Chetma"
-break E}if("state.cities.6.7"===z8){w="Djemorah"
-break E}if("state.cities.6.8"===z8){w="El Feidh"
-break E}if("state.cities.6.9"===z8){w="El Ghrous"
-break E}if("state.cities.6.10"===z8){w="El Hadjab"
-break E}if("state.cities.6.11"===z8){w="El Haouch"
-break E}if("state.cities.6.12"===z8){w="El Kantara"
-break E}if("state.cities.6.13"===z8){w="El Outaya"
-break E}if("state.cities.6.14"===z8){w="Foughala"
-break E}if("state.cities.6.15"===z8){w="Khenguet Sidi Nadji"
-break E}if("state.cities.6.16"===z8){w="Lichana"
-break E}if("state.cities.6.17"===z8){w="Lioua"
-break E}if("state.cities.6.18"===z8){w="M'chouneche"
-break E}if("state.cities.6.19"===z8){w="M'lili"
-break E}if("state.cities.6.20"===z8){w="Mekhadma"
-break E}if("state.cities.6.21"===z8){w="Meziraa"
-break E}if("state.cities.6.22"===z8){w="Oumache"
-break E}if("state.cities.6.23"===z8){w="Ourlal"
-break E}if("state.cities.6.24"===z8){w="Sidi Okba"
-break E}if("state.cities.6.25"===z8){w="Tolga"
-break E}if("state.cities.6.26"===z8){w="Zeribet El Oued"
-break E}if("state.cities.7.0"===z8){w="Abadla"
-break E}if("state.cities.7.1"===z8){w="Bechar"
-break E}if("state.cities.7.2"===z8){w="Beni Ounif"
-break E}if("state.cities.7.3"===z8){w="Boukais"
-break E}if("state.cities.7.4"===z8){w="Erg Ferradj"
-break E}if("state.cities.7.5"===z8){w="Kenadsa"
-break E}if("state.cities.7.6"===z8){w="Lahmar"
-break E}if("state.cities.7.7"===z8){w="Mechraa H.boumediene"
-break E}if("state.cities.7.8"===z8){w="Meridja"
-break E}if("state.cities.7.9"===z8){w="Mogheul"
-break E}if("state.cities.7.10"===z8){w="Taghit"
-break E}if("state.cities.8.0"===z8){w="Ain Romana"
-break E}if("state.cities.8.1"===z8){w="Beni Mered"
-break E}if("state.cities.8.2"===z8){w="Beni Tamou"
-break E}if("state.cities.8.3"===z8){w="Benkhelil"
-break E}if("state.cities.8.4"===z8){w="Blida"
-break E}if("state.cities.8.5"===z8){w="Bouarfa"
-break E}if("state.cities.8.6"===z8){w="Boufarik"
-break E}if("state.cities.8.7"===z8){w="Bougara"
-break E}if("state.cities.8.8"===z8){w="Bouinan"
-break E}if("state.cities.8.9"===z8){w="Chebli"
-break E}if("state.cities.8.10"===z8){w="Chiffa"
-break E}if("state.cities.8.11"===z8){w="Chrea"
-break E}if("state.cities.8.12"===z8){w="Djebabra"
-break E}if("state.cities.8.13"===z8){w="El Affroun"
-break E}if("state.cities.8.14"===z8){w="Guerrouaou"
-break E}if("state.cities.8.15"===z8){w="Hammam Melouane"
-break E}if("state.cities.8.16"===z8)break E
-if("state.cities.8.17"===z8){w="Meftah"
-break E}if("state.cities.8.18"===z8){w="Mouzaia"
-break E}if("state.cities.8.19"===z8){w="Oued Djer"
-break E}if("state.cities.8.20"===z8){w="Oued El Alleug"
-break E}if("state.cities.8.21"===z8){w="Ouled Slama"
-break E}if("state.cities.8.22"===z8){w="Ouled Yaich"
-break E}if("state.cities.8.23"===z8){w="Souhane"
-break E}if("state.cities.8.24"===z8){w="Souma"
-break E}if("state.cities.9.0"===z8){w="Aghbalou"
-break E}if("state.cities.9.1"===z8){w="Ahl El Ksar"
-break E}if("state.cities.9.2"===z8){w="Ain Bessem"
-break E}if("state.cities.9.3"===z8){w=w7
-break E}if("state.cities.9.4"===z8){w="Ain Laloui"
-break E}if("state.cities.9.5"===z8){w=w8
-break E}if("state.cities.9.6"===z8){w="Ait Laaziz"
-break E}if("state.cities.9.7"===z8){w="Aomar"
-break E}if("state.cities.9.8"===z8){w="Bechloul"
-break E}if("state.cities.9.9"===z8){w="Bir Ghbalou"
-break E}if("state.cities.9.10"===z8){w="Bordj Okhriss"
-break E}if("state.cities.9.11"===z8){w="Bouderbala"
-break E}if("state.cities.9.12"===z8){w="Bouira"
-break E}if("state.cities.9.13"===z8){w="Boukram"
-break E}if("state.cities.9.14"===z8){w="Chorfa"
-break E}if("state.cities.9.15"===z8){w="Dechmia"
-break E}if("state.cities.9.16"===z8){w="Dirah"
-break E}if("state.cities.9.17"===z8){w="Djebahia"
-break E}if("state.cities.9.18"===z8){w="El Adjiba"
-break E}if("state.cities.9.19"===z8){w="El Asnam"
-break E}if("state.cities.9.20"===z8){w="El Hachimia"
-break E}if("state.cities.9.21"===z8){w="El Hakimia"
-break E}if("state.cities.9.22"===z8){w="El Khabouzia"
-break E}if("state.cities.9.23"===z8){w="El Mokrani"
-break E}if("state.cities.9.24"===z8){w="Guerrouma"
-break E}if("state.cities.9.25"===z8){w="Hadjera Zerga"
-break E}if("state.cities.9.26"===z8){w="Haizer"
-break E}if("state.cities.9.27"===z8){w="Hanif"
-break E}if("state.cities.9.28"===z8){w="Kadiria"
-break E}if("state.cities.9.29"===z8){w="Lakhdaria"
-break E}if("state.cities.9.30"===z8){w="M Chedallah"
-break E}if("state.cities.9.31"===z8){w="Maala"
-break E}if("state.cities.9.32"===z8){w="Mamora"
-break E}if("state.cities.9.33"===z8){w="Mezdour"
-break E}if("state.cities.9.34"===z8){w="Oued El Berdi"
-break E}if("state.cities.9.35"===z8){w="Ouled Rached"
-break E}if("state.cities.9.36"===z8){w="Raouraoua"
-break E}if("state.cities.9.37"===z8){w="Ridane"
-break E}if("state.cities.9.38"===z8){w="Saharidj"
-break E}if("state.cities.9.39"===z8){w="Souk El Khemis"
-break E}if("state.cities.9.40"===z8){w="Sour El Ghozlane"
-break E}if("state.cities.9.41"===z8){w=w9
-break E}if("state.cities.9.42"===z8){w="Taguedite"
-break E}if("state.cities.9.43"===z8){w="Taourirt"
-break E}if("state.cities.9.44"===z8){w="Z'barbar"
-break E}if("state.cities.10.0"===z8){w="Abalessa"
-break E}if("state.cities.10.1"===z8){w="Ain Amguel"
-break E}if("state.cities.10.2"===z8){w="Idles"
-break E}if("state.cities.10.3"===z8){w=v2
-break E}if("state.cities.10.4"===z8){w="Tazrouk"
-break E}if("state.cities.11.0"===z8){w="Ain Zerga"
-break E}if("state.cities.11.1"===z8){w="Bedjene"
-break E}if("state.cities.11.2"===z8){w="Bekkaria"
-break E}if("state.cities.11.3"===z8){w="Bir Dheheb"
-break E}if("state.cities.11.4"===z8){w="Bir El Ater"
-break E}if("state.cities.11.5"===z8){w="Bir Mokkadem"
-break E}if("state.cities.11.6"===z8){w="Boukhadra"
-break E}if("state.cities.11.7"===z8){w="Boulhaf Dyr"
-break E}if("state.cities.11.8"===z8){w="Cheria"
-break E}if("state.cities.11.9"===z8){w="El Aouinet"
-break E}if("state.cities.11.10"===z8){w="El Houidjbet"
-break E}if("state.cities.11.11"===z8){w="El Kouif"
-break E}if("state.cities.11.12"===z8){w="El Malabiod"
-break E}if("state.cities.11.13"===z8){w="El Meridj"
-break E}if("state.cities.11.14"===z8){w="El Mezeraa"
-break E}if("state.cities.11.15"===z8){w="El Ogla"
-break E}if("state.cities.11.16"===z8){w="El Ogla El Malha"
-break E}if("state.cities.11.17"===z8){w="Ferkane"
-break E}if("state.cities.11.18"===z8){w="Guorriguer"
-break E}if("state.cities.11.19"===z8){w="Hammamet"
-break E}if("state.cities.11.20"===z8){w="Morssot"
-break E}if("state.cities.11.21"===z8){w="Negrine"
-break E}if("state.cities.11.22"===z8){w="Ouenza"
-break E}if("state.cities.11.23"===z8){w="Oum Ali"
-break E}if("state.cities.11.24"===z8){w="Saf Saf El Ouesra"
-break E}if("state.cities.11.25"===z8){w="Stah Guentis"
-break E}if("state.cities.11.26"===z8){w="Tebessa"
-break E}if("state.cities.11.27"===z8){w="Telidjen"
-break E}if("state.cities.12.0"===z8){w="Ain Fettah"
-break E}if("state.cities.12.1"===z8){w="Ain Fezza"
-break E}if("state.cities.12.2"===z8){w="Ain Ghoraba"
-break E}if("state.cities.12.3"===z8){w="Ain Kebira"
-break E}if("state.cities.12.4"===z8){w="Ain Nehala"
-break E}if("state.cities.12.5"===z8){w="Ain Tallout"
-break E}if("state.cities.12.6"===z8){w="Ain Youcef"
-break E}if("state.cities.12.7"===z8){w="Amieur"
-break E}if("state.cities.12.8"===z8){w="Azails"
-break E}if("state.cities.12.9"===z8){w="Bab El Assa"
-break E}if("state.cities.12.10"===z8){w="Beni Bahdel"
-break E}if("state.cities.12.11"===z8){w="Beni Boussaid"
-break E}if("state.cities.12.12"===z8){w="Beni Khaled"
-break E}if("state.cities.12.13"===z8){w="Beni Mester"
-break E}if("state.cities.12.14"===z8){w="Beni Ouarsous"
-break E}if("state.cities.12.15"===z8){w="Beni Smiel"
-break E}if("state.cities.12.16"===z8){w="Beni Snous"
-break E}if("state.cities.12.17"===z8){w="Bensekrane"
-break E}if("state.cities.12.18"===z8){w="Bouhlou"
-break E}if("state.cities.12.19"===z8){w="Bouihi"
-break E}if("state.cities.12.20"===z8){w="Chetouane"
-break E}if("state.cities.12.21"===z8){w="Dar Yaghmouracene"
-break E}if("state.cities.12.22"===z8){w="Djebala"
-break E}if("state.cities.12.23"===z8){w="El Aricha"
-break E}if("state.cities.12.24"===z8){w="El Fehoul"
-break E}if("state.cities.12.25"===z8){w="El Gor"
-break E}if("state.cities.12.26"===z8){w="Fellaoucene"
-break E}if("state.cities.12.27"===z8){w="Ghazaouet"
-break E}if("state.cities.12.28"===z8){w="Hammam Boughrara"
-break E}if("state.cities.12.29"===z8){w="Hennaya"
-break E}if("state.cities.12.30"===z8){w="Honaine"
-break E}if("state.cities.12.31"===z8){w="Maghnia"
-break E}if("state.cities.12.32"===z8){w=x0
-break E}if("state.cities.12.33"===z8){w="Marsa Ben M'hidi"
-break E}if("state.cities.12.34"===z8){w="Msirda Fouaga"
-break E}if("state.cities.12.35"===z8){w="Nedroma"
-break E}if("state.cities.12.36"===z8){w="Oued Chouly"
-break E}if("state.cities.12.37"===z8){w="Ouled Mimoun"
-break E}if("state.cities.12.38"===z8){w="Ouled Riyah"
-break E}if("state.cities.12.39"===z8){w="Remchi"
-break E}if("state.cities.12.40"===z8){w="Sabra"
-break E}if("state.cities.12.41"===z8){w="Sebbaa Chioukh"
-break E}if("state.cities.12.42"===z8){w="Sebdou"
-break E}if("state.cities.12.43"===z8){w="Sidi Abdelli"
-break E}if("state.cities.12.44"===z8){w="Sidi Djilali"
-break E}if("state.cities.12.45"===z8){w="Sidi Medjahed"
-break E}if("state.cities.12.46"===z8){w="Souahlia"
-break E}if("state.cities.12.47"===z8){w="Souani"
-break E}if("state.cities.12.48"===z8){w="Souk Tleta"
-break E}if("state.cities.12.49"===z8){w="Terny Beni Hediel"
-break E}if("state.cities.12.50"===z8){w="Tianet"
-break E}if("state.cities.12.51"===z8){w="Tlemcen"
-break E}if("state.cities.12.52"===z8){w="Zenata"
-break E}if("state.cities.13.0"===z8){w="Ain Bouchekif"
-break E}if("state.cities.13.1"===z8){w="Ain Deheb"
-break E}if("state.cities.13.2"===z8){w="Ain El Hadid"
-break E}if("state.cities.13.3"===z8){w="Ain Kermes"
-break E}if("state.cities.13.4"===z8){w="Ain Zarit"
-break E}if("state.cities.13.5"===z8){w="Bougara"
-break E}if("state.cities.13.6"===z8){w="Chehaima"
-break E}if("state.cities.13.7"===z8){w="Dahmouni"
-break E}if("state.cities.13.8"===z8){w="Djebilet Rosfa"
-break E}if("state.cities.13.9"===z8){w="Djillali Ben Amar"
-break E}if("state.cities.13.10"===z8){w="Faidja"
-break E}if("state.cities.13.11"===z8){w="Frenda"
-break E}if("state.cities.13.12"===z8){w="Guertoufa"
-break E}if("state.cities.13.13"===z8){w="Hamadia"
-break E}if("state.cities.13.14"===z8){w="Ksar Chellala"
-break E}if("state.cities.13.15"===z8){w="Madna"
-break E}if("state.cities.13.16"===z8){w="Mahdia"
-break E}if("state.cities.13.17"===z8){w="Mechraa Safa"
-break E}if("state.cities.13.18"===z8){w="Medrissa"
-break E}if("state.cities.13.19"===z8){w="Medroussa"
-break E}if("state.cities.13.20"===z8){w="Meghila"
-break E}if("state.cities.13.21"===z8){w="Mellakou"
-break E}if("state.cities.13.22"===z8){w="Nadorah"
-break E}if("state.cities.13.23"===z8){w="Naima"
-break E}if("state.cities.13.24"===z8){w="Oued Lilli"
-break E}if("state.cities.13.25"===z8){w="Rahouia"
-break E}if("state.cities.13.26"===z8){w="Rechaiga"
-break E}if("state.cities.13.27"===z8){w="Sebaine"
-break E}if("state.cities.13.28"===z8){w="Sebt"
-break E}if("state.cities.13.29"===z8){w="Serghine"
-break E}if("state.cities.13.30"===z8){w="Si Abdelghani"
-break E}if("state.cities.13.31"===z8){w=w3
-break E}if("state.cities.13.32"===z8){w="Sidi Ali Mellal"
-break E}if("state.cities.13.33"===z8){w="Sidi Bakhti"
-break E}if("state.cities.13.34"===z8){w="Sidi Hosni"
-break E}if("state.cities.13.35"===z8){w="Sougueur"
-break E}if("state.cities.13.36"===z8){w="Tagdemt"
-break E}if("state.cities.13.37"===z8){w="Takhemaret"
-break E}if("state.cities.13.38"===z8){w="Tiaret"
-break E}if("state.cities.13.39"===z8){w="Tidda"
-break E}if("state.cities.13.40"===z8){w="Tousnina"
-break E}if("state.cities.13.41"===z8){w="Zmalet El Emir Abdelkade"
-break E}if("state.cities.14.0"===z8){w="Abi Youcef"
-break E}if("state.cities.14.1"===z8){w="Aghribs"
-break E}if("state.cities.14.2"===z8){w="Agouni Gueghrane"
-break E}if("state.cities.14.3"===z8){w="Ain El Hammam"
-break E}if("state.cities.14.4"===z8){w="Ain Zaouia"
-break E}if("state.cities.14.5"===z8){w="Ait Aggouacha"
-break E}if("state.cities.14.6"===z8){w="Ait Bouaddou"
-break E}if("state.cities.14.7"===z8){w="Ait Boumehdi"
-break E}if("state.cities.14.8"===z8){w="Ait Chafaa"
-break E}if("state.cities.14.9"===z8){w="Ait Khellili"
-break E}if("state.cities.14.10"===z8){w="Ait Mahmoud"
-break E}if("state.cities.14.11"===z8){w="Ait Oumalou"
-break E}if("state.cities.14.12"===z8){w="Ait Toudert"
-break E}if("state.cities.14.13"===z8){w="Ait Yahia"
-break E}if("state.cities.14.14"===z8){w="Ait Yahia Moussa"
-break E}if("state.cities.14.15"===z8){w="Akbil"
-break E}if("state.cities.14.16"===z8){w="Akerrou"
-break E}if("state.cities.14.17"===z8){w="Assi Youcef"
-break E}if("state.cities.14.18"===z8){w="Azazga"
-break E}if("state.cities.14.19"===z8){w="Azeffoun"
-break E}if("state.cities.14.20"===z8){w="Beni Aissi"
-break E}if("state.cities.14.21"===z8){w="Beni Douala"
-break E}if("state.cities.14.22"===z8){w="Beni Yenni"
-break E}if("state.cities.14.23"===z8){w="Beni Zikki"
-break E}if("state.cities.14.24"===z8){w="Beni Zmenzer"
-break E}if("state.cities.14.25"===z8){w="Boghni"
-break E}if("state.cities.14.26"===z8){w="Boudjima"
-break E}if("state.cities.14.27"===z8){w="Bounouh"
-break E}if("state.cities.14.28"===z8){w="Bouzeguene"
-break E}if("state.cities.14.29"===z8){w="Djebel Aissa Mimoun"
-break E}if("state.cities.14.30"===z8){w="Draa Ben Khedda"
-break E}if("state.cities.14.31"===z8){w="Draa El Mizan"
-break E}if("state.cities.14.32"===z8){w="Freha"
-break E}if("state.cities.14.33"===z8){w="Frikat"
-break E}if("state.cities.14.34"===z8){w="Iboudrarene"
-break E}if("state.cities.14.35"===z8){w="Idjeur"
-break E}if("state.cities.14.36"===z8){w="Iferhounene"
-break E}if("state.cities.14.37"===z8){w="Ifigha"
-break E}if("state.cities.14.38"===z8){w="Iflissen"
-break E}if("state.cities.14.39"===z8){w="Illilten"
-break E}if("state.cities.14.40"===z8){w="Illoula Oumalou"
-break E}if("state.cities.14.41"===z8){w="Imsouhal"
-break E}if("state.cities.14.42"===z8){w="Irdjen"
-break E}if("state.cities.14.43"===z8){w="Larba Nath Irathen"
-break E}if("state.cities.14.44"===z8){w="Larbaa Nath Irathen"
-break E}if("state.cities.14.45"===z8){w="M'kira"
-break E}if("state.cities.14.46"===z8){w="Maatkas"
-break E}if("state.cities.14.47"===z8){w="Makouda"
-break E}if("state.cities.14.48"===z8){w="Mechtras"
-break E}if("state.cities.14.49"===z8){w="Mekla"
-break E}if("state.cities.14.50"===z8){w="Mizrana"
-break E}if("state.cities.14.51"===z8){w="Ouacif"
-break E}if("state.cities.14.52"===z8){w="Ouadhias"
-break E}if("state.cities.14.53"===z8){w="Ouaguenoune"
-break E}if("state.cities.14.54"===z8){w=x1
-break E}if("state.cities.14.55"===z8){w="Souamaa"
-break E}if("state.cities.14.56"===z8){w="Souk El Thenine"
-break E}if("state.cities.14.57"===z8){w="Tadmait"
-break E}if("state.cities.14.58"===z8){w="Tigzirt"
-break E}if("state.cities.14.59"===z8){w="Timizart"
-break E}if("state.cities.14.60"===z8){w="Tirmitine"
-break E}if("state.cities.14.61"===z8){w="Tizi Ghenif"
-break E}if("state.cities.14.62"===z8){w="Tizi N'tleta"
-break E}if("state.cities.14.63"===z8){w="Tizi Ouzou"
-break E}if("state.cities.14.64"===z8){w="Tizi Rached"
-break E}if("state.cities.14.65"===z8){w="Yakourene"
-break E}if("state.cities.14.66"===z8){w="Yatafene"
-break E}if("state.cities.14.67"===z8){w="Zekri"
-break E}if("state.cities.15.0"===z8){w=x2
-break E}if("state.cities.15.1"===z8){w="Ain Taya"
-break E}if("state.cities.15.2"===z8){w="Alger Centre"
-break E}if("state.cities.15.3"===z8){w="Bab El Oued"
-break E}if("state.cities.15.4"===z8){w="Bab Ezzouar"
-break E}if("state.cities.15.5"===z8){w="Baba Hesen"
-break E}if("state.cities.15.6"===z8){w="Bachedjerah"
-break E}if("state.cities.15.7"===z8){w="Bains Romains"
-break E}if("state.cities.15.8"===z8){w="Baraki"
-break E}if("state.cities.15.9"===z8){w="Ben Aknoun"
-break E}if("state.cities.15.10"===z8){w="Beni Messous"
-break E}if("state.cities.15.11"===z8){w="Bir Mourad Rais"
-break E}if("state.cities.15.12"===z8){w="Bir Touta"
-break E}if("state.cities.15.13"===z8){w="Birkhadem"
-break E}if("state.cities.15.14"===z8){w="Bologhine Ibnou Ziri"
-break E}if("state.cities.15.15"===z8){w="Bordj El Bahri"
-break E}if("state.cities.15.16"===z8){w="Bordj El Kiffan"
-break E}if("state.cities.15.17"===z8){w="Bourouba"
-break E}if("state.cities.15.18"===z8){w="Bouzareah"
-break E}if("state.cities.15.19"===z8){w="Casbah"
-break E}if("state.cities.15.20"===z8){w="Cheraga"
-break E}if("state.cities.15.21"===z8){w="Dar El Beida"
-break E}if("state.cities.15.22"===z8){w="Dely Ibrahim"
-break E}if("state.cities.15.23"===z8){w="Djasr Kasentina"
-break E}if("state.cities.15.24"===z8){w="Douira"
-break E}if("state.cities.15.25"===z8){w="Draria"
-break E}if("state.cities.15.26"===z8){w="El Achour"
-break E}if("state.cities.15.27"===z8){w="El Biar"
-break E}if("state.cities.15.28"===z8){w="El Harrach"
-break E}if("state.cities.15.29"===z8){w="El Madania"
-break E}if("state.cities.15.30"===z8){w="El Magharia"
-break E}if("state.cities.15.31"===z8){w="El Merssa"
-break E}if("state.cities.15.32"===z8){w="El Mouradia"
-break E}if("state.cities.15.33"===z8){w="Herraoua"
-break E}if("state.cities.15.34"===z8){w="Hussein Dey"
-break E}if("state.cities.15.35"===z8){w="Hydra"
-break E}if("state.cities.15.36"===z8){w="Kheraisia"
-break E}if("state.cities.15.37"===z8){w="Kouba"
-break E}if("state.cities.15.38"===z8){w="Les Eucalyptus"
-break E}if("state.cities.15.39"===z8){w="Maalma"
-break E}if("state.cities.15.40"===z8){w="Mohamed Belouzdad"
+break D}if(w==null)E:{w="Sidi Abderrahmane"
+if("state.cities.0.6"===aa3){w="Ouled Ahmed Timmi"
+break E}if("state.cities.0.7"===aa3){w="Reggane"
+break E}if("state.cities.0.8"===aa3){w="Sali"
+break E}if("state.cities.0.9"===aa3){w="Sebaa"
+break E}if("state.cities.0.10"===aa3){w="Tamantit"
+break E}if("state.cities.0.11"===aa3){w="Tamest"
+break E}if("state.cities.0.12"===aa3){w="Timekten"
+break E}if("state.cities.0.13"===aa3){w="Tit"
+break E}if("state.cities.0.14"===aa3){w="Tsabit"
+break E}if("state.cities.0.15"===aa3){w="Zaouiet Kounta"
+break E}if("state.cities.1.0"===aa3){w="Abou El Hassan"
+break E}if("state.cities.1.1"===aa3){w="Ain Merane"
+break E}if("state.cities.1.2"===aa3){w="Benairia"
+break E}if("state.cities.1.3"===aa3){w="Beni Bouattab"
+break E}if("state.cities.1.4"===aa3){w="Beni Haoua"
+break E}if("state.cities.1.5"===aa3){w="Beni Rached"
+break E}if("state.cities.1.6"===aa3){w="Boukadir"
+break E}if("state.cities.1.7"===aa3){w="Bouzeghaia"
+break E}if("state.cities.1.8"===aa3){w="Breira"
+break E}if("state.cities.1.9"===aa3){w="Chettia"
+break E}if("state.cities.1.10"===aa3){w="Chlef"
+break E}if("state.cities.1.11"===aa3){w="Dahra"
+break E}if("state.cities.1.12"===aa3){w="El Hadjadj"
+break E}if("state.cities.1.13"===aa3){w="El Karimia"
+break E}if("state.cities.1.14"===aa3){w=w8
+break E}if("state.cities.1.15"===aa3){w="Harchoun"
+break E}if("state.cities.1.16"===aa3){w="Herenfa"
+break E}if("state.cities.1.17"===aa3){w="Labiod Medjadja"
+break E}if("state.cities.1.18"===aa3){w="Moussadek"
+break E}if("state.cities.1.19"===aa3){w="Oued Fodda"
+break E}if("state.cities.1.20"===aa3){w="Oued Goussine"
+break E}if("state.cities.1.21"===aa3){w="Oued Sly"
+break E}if("state.cities.1.22"===aa3){w="Ouled Abbes"
+break E}if("state.cities.1.23"===aa3){w="Ouled Ben Abdelkader"
+break E}if("state.cities.1.24"===aa3){w="Ouled Fares"
+break E}if("state.cities.1.25"===aa3){w="Oum Drou"
+break E}if("state.cities.1.26"===aa3){w="Sendjas"
+break E}if("state.cities.1.27"===aa3)break E
+if("state.cities.1.28"===aa3){w="Sidi Akkacha"
+break E}if("state.cities.1.29"===aa3){w="Sobha"
+break E}if("state.cities.1.30"===aa3){w="Tadjena"
+break E}if("state.cities.1.31"===aa3){w="Talassa"
+break E}if("state.cities.1.32"===aa3){w="Taougrite"
+break E}if("state.cities.1.33"===aa3){w="Tenes"
+break E}if("state.cities.1.34"===aa3){w="Zeboudja"
+break E}if("state.cities.2.0"===aa3){w="Aflou"
+break E}if("state.cities.2.1"===aa3){w="Ain Mahdi"
+break E}if("state.cities.2.2"===aa3){w="Ain Sidi Ali"
+break E}if("state.cities.2.3"===aa3){w="Beidha"
+break E}if("state.cities.2.4"===aa3){w="Benacer Benchohra"
+break E}if("state.cities.2.5"===aa3){w="Brida"
+break E}if("state.cities.2.6"===aa3){w="El Assafia"
+break E}if("state.cities.2.7"===aa3){w="El Ghicha"
+break E}if("state.cities.2.8"===aa3){w="El Haouaita"
+break E}if("state.cities.2.9"===aa3){w="Gueltat Sidi Saad"
+break E}if("state.cities.2.10"===aa3){w="Hadj Mechri"
+break E}if("state.cities.2.11"===aa3){w="Hassi Delaa"
+break E}if("state.cities.2.12"===aa3){w="Hassi R'mel"
+break E}if("state.cities.2.13"===aa3){w="Kheneg"
+break E}if("state.cities.2.14"===aa3){w="Ksar El Hirane"
+break E}if("state.cities.2.15"===aa3){w=v7
+break E}if("state.cities.2.16"===aa3){w="Oued M'zi"
+break E}if("state.cities.2.17"===aa3){w="Oued Morra"
+break E}if("state.cities.2.18"===aa3){w="Sebgag"
+break E}if("state.cities.2.19"===aa3){w="Sidi Bouzid"
+break E}if("state.cities.2.20"===aa3){w="Sidi Makhlouf"
+break E}if("state.cities.2.21"===aa3){w="Tadjemout"
+break E}if("state.cities.2.22"===aa3){w="Tadjrouna"
+break E}if("state.cities.2.23"===aa3){w="Taouiala"
+break E}if("state.cities.3.0"===aa3){w="Ain Babouche"
+break E}if("state.cities.3.1"===aa3){w=w9
+break E}if("state.cities.3.2"===aa3){w="Ain Diss"
+break E}if("state.cities.3.3"===aa3){w="Ain Fekroune"
+break E}if("state.cities.3.4"===aa3){w="Ain Kercha"
+break E}if("state.cities.3.5"===aa3){w="Ain M'lila"
+break E}if("state.cities.3.6"===aa3){w="Ain Zitoun"
+break E}if("state.cities.3.7"===aa3){w="Behir Chergui"
+break E}if("state.cities.3.8"===aa3){w="Berriche"
+break E}if("state.cities.3.9"===aa3){w="Bir Chouhada"
+break E}if("state.cities.3.10"===aa3){w="Dhala"
+break E}if("state.cities.3.11"===aa3){w="El Amiria"
+break E}if("state.cities.3.12"===aa3){w="El Belala"
+break E}if("state.cities.3.13"===aa3){w="El Djazia"
+break E}if("state.cities.3.14"===aa3){w="El Fedjoudj Boughrara Sa"
+break E}if("state.cities.3.15"===aa3){w="El Harmilia"
+break E}if("state.cities.3.16"===aa3){w="Fkirina"
+break E}if("state.cities.3.17"===aa3){w="Hanchir Toumghani"
+break E}if("state.cities.3.18"===aa3){w="Ksar Sbahi"
+break E}if("state.cities.3.19"===aa3){w="Meskiana"
+break E}if("state.cities.3.20"===aa3){w="Oued Nini"
+break E}if("state.cities.3.21"===aa3){w="Ouled Gacem"
+break E}if("state.cities.3.22"===aa3){w="Ouled Hamla"
+break E}if("state.cities.3.23"===aa3){w="Ouled Zouai"
+break E}if("state.cities.3.24"===aa3){w="Oum El Bouaghi"
+break E}if("state.cities.3.25"===aa3){w="Rahia"
+break E}if("state.cities.3.26"===aa3){w="Sigus"
+break E}if("state.cities.3.27"===aa3){w="Souk Naamane"
+break E}if("state.cities.3.28"===aa3){w="Zorg"
+break E}if("state.cities.4.0"===aa3){w="Ain Djasser"
+break E}if("state.cities.4.1"===aa3){w="Ain Touta"
+break E}if("state.cities.4.2"===aa3){w="Ain Yagout"
+break E}if("state.cities.4.3"===aa3){w="Arris"
+break E}if("state.cities.4.4"===aa3){w="Azil Abedelkader"
+break E}if("state.cities.4.5"===aa3){w="Barika"
+break E}if("state.cities.4.6"===aa3){w="Batna"
+break E}if("state.cities.4.7"===aa3){w="Beni Foudhala El Hakania"
+break E}if("state.cities.4.8"===aa3){w="Bitam"
+break E}if("state.cities.4.9"===aa3){w="Boulhilat"
+break E}if("state.cities.4.10"===aa3){w="Boumagueur"
+break E}if("state.cities.4.11"===aa3){w="Boumia"
+break E}if("state.cities.4.12"===aa3){w="Bouzina"
+break E}if("state.cities.4.13"===aa3){w="Chemora"
+break E}if("state.cities.4.14"===aa3){w="Chir"
+break E}if("state.cities.4.15"===aa3){w="Djerma"
+break E}if("state.cities.4.16"===aa3){w="Djezzar"
+break E}if("state.cities.4.17"===aa3){w=x0
+break E}if("state.cities.4.18"===aa3){w="El Madher"
+break E}if("state.cities.4.19"===aa3){w="Fesdis"
+break E}if("state.cities.4.20"===aa3){w="Foum Toub"
+break E}if("state.cities.4.21"===aa3){w="Ghassira"
+break E}if("state.cities.4.22"===aa3){w="Gosbat"
+break E}if("state.cities.4.23"===aa3){w="Guigba"
+break E}if("state.cities.4.24"===aa3){w="Hidoussa"
+break E}if("state.cities.4.25"===aa3){w="Ichmoul"
+break E}if("state.cities.4.26"===aa3){w="Inoughissen"
+break E}if("state.cities.4.27"===aa3){w="Kimmel"
+break E}if("state.cities.4.28"===aa3){w="Ksar Bellezma"
+break E}if("state.cities.4.29"===aa3){w=x1
+break E}if("state.cities.4.30"===aa3){w="Lazrou"
+break E}if("state.cities.4.31"===aa3){w="Lemsane"
+break E}if("state.cities.4.32"===aa3){w="M Doukal"
+break E}if("state.cities.4.33"===aa3){w="Maafa"
+break E}if("state.cities.4.34"===aa3){w="Menaa"
+break E}if("state.cities.4.35"===aa3){w="Merouana"
+break E}if("state.cities.4.36"===aa3){w="N Gaous"
+break E}if("state.cities.4.37"===aa3){w="Oued Chaaba"
+break E}if("state.cities.4.38"===aa3){w="Oued El Ma"
+break E}if("state.cities.4.39"===aa3){w="Oued Taga"
+break E}if("state.cities.4.40"===aa3){w="Ouled Ammar"
+break E}if("state.cities.4.41"===aa3){w="Ouled Aouf"
+break E}if("state.cities.4.42"===aa3){w="Ouled Fadel"
+break E}if("state.cities.4.43"===aa3){w="Ouled Sellem"
+break E}if("state.cities.4.44"===aa3){w="Ouled Si Slimane"
+break E}if("state.cities.4.45"===aa3){w="Ouyoun El Assafir"
+break E}if("state.cities.4.46"===aa3){w="Rahbat"
+break E}if("state.cities.4.47"===aa3){w="Ras El Aioun"
+break E}if("state.cities.4.48"===aa3){w="Sefiane"
+break E}if("state.cities.4.49"===aa3){w="Seggana"
+break E}if("state.cities.4.50"===aa3){w="Seriana"
+break E}if("state.cities.4.51"===aa3){w="T Kout"
+break E}if("state.cities.4.52"===aa3){w="Talkhamt"
+break E}if("state.cities.4.53"===aa3){w="Taxlent"
+break E}if("state.cities.4.54"===aa3){w="Tazoult"
+break E}if("state.cities.4.55"===aa3){w="Teniet El Abed"
+break E}if("state.cities.4.56"===aa3){w="Tighanimine"
+break E}if("state.cities.4.57"===aa3){w="Tigharghar"
+break E}if("state.cities.4.58"===aa3){w="Tilatou"
+break E}if("state.cities.4.59"===aa3){w="Timgad"
+break E}if("state.cities.4.60"===aa3){w="Zanet El Beida"
+break E}if("state.cities.5.0"===aa3){w="Adekar"
+break E}if("state.cities.5.1"===aa3){w="Ait R'zine"
+break E}if("state.cities.5.2"===aa3){w="Ait Smail"
+break E}if("state.cities.5.3"===aa3){w="Akbou"
+break E}if("state.cities.5.4"===aa3){w="Akfadou"
+break E}if("state.cities.5.5"===aa3){w="Amalou"
+break E}if("state.cities.5.6"===aa3){w="Amizour"
+break E}if("state.cities.5.7"===aa3){w="Aokas"
+break E}if("state.cities.5.8"===aa3){w="Barbacha"
+break E}if("state.cities.5.9"===aa3){w="Bejaia"
+break E}if("state.cities.5.10"===aa3){w="Beni Dejllil"
+break E}if("state.cities.5.11"===aa3){w="Beni K'sila"
+break E}if("state.cities.5.12"===aa3){w="Beni Mallikeche"
+break E}if("state.cities.5.13"===aa3){w="Benimaouche"
+break E}if("state.cities.5.14"===aa3){w="Boudjellil"
+break E}if("state.cities.5.15"===aa3){w="Bouhamza"
+break E}if("state.cities.5.16"===aa3){w="Boukhelifa"
+break E}if("state.cities.5.17"===aa3){w="Chellata"
+break E}if("state.cities.5.18"===aa3){w="Chemini"
+break E}if("state.cities.5.19"===aa3){w="Darghina"
+break E}if("state.cities.5.20"===aa3){w="Dra El Caid"
+break E}if("state.cities.5.21"===aa3){w="El Kseur"
+break E}if("state.cities.5.22"===aa3){w="Fenaia Il Maten"
+break E}if("state.cities.5.23"===aa3){w="Feraoun"
+break E}if("state.cities.5.24"===aa3){w="Ighil Ali"
+break E}if("state.cities.5.25"===aa3){w="Ighram"
+break E}if("state.cities.5.26"===aa3){w="Kendira"
+break E}if("state.cities.5.27"===aa3){w="Kherrata"
+break E}if("state.cities.5.28"===aa3){w="Leflaye"
+break E}if("state.cities.5.29"===aa3){w="M'cisna"
+break E}if("state.cities.5.30"===aa3){w="Melbou"
+break E}if("state.cities.5.31"===aa3){w="Oued Ghir"
+break E}if("state.cities.5.32"===aa3){w="Ouzellaguene"
+break E}if("state.cities.5.33"===aa3){w="Seddouk"
+break E}if("state.cities.5.34"===aa3){w="Sidi Aich"
+break E}if("state.cities.5.35"===aa3){w="Sidi Ayad"
+break E}if("state.cities.5.36"===aa3){w="Smaoun"
+break E}if("state.cities.5.37"===aa3){w="Souk El Tenine"
+break E}if("state.cities.5.38"===aa3){w="Souk Oufella"
+break E}if("state.cities.5.39"===aa3){w="Tala Hamza"
+break E}if("state.cities.5.40"===aa3){w="Tamokra"
+break E}if("state.cities.5.41"===aa3){w="Tamridjet"
+break E}if("state.cities.5.42"===aa3){w="Taourit Ighil"
+break E}if("state.cities.5.43"===aa3){w="Taskriout"
+break E}if("state.cities.5.44"===aa3){w="Tazmalt"
+break E}if("state.cities.5.45"===aa3){w="Tibane"
+break E}if("state.cities.5.46"===aa3){w="Tichy"
+break E}if("state.cities.5.47"===aa3){w="Tifra"
+break E}if("state.cities.5.48"===aa3){w=x2
+break E}if("state.cities.5.49"===aa3){w="Tinebdar"
+break E}if("state.cities.5.50"===aa3){w="Tizi N'berber"
+break E}if("state.cities.5.51"===aa3){w="Toudja"
+break E}if("state.cities.6.0"===aa3){w="Ain Naga"
+break E}if("state.cities.6.1"===aa3){w="Ain Zaatout"
+break E}if("state.cities.6.2"===aa3){w="Biskra"
+break E}if("state.cities.6.3"===aa3){w="Bordj Ben Azzouz"
+break E}if("state.cities.6.4"===aa3){w="Bouchagroun"
+break E}if("state.cities.6.5"===aa3){w="Branis"
+break E}if("state.cities.6.6"===aa3){w="Chetma"
+break E}if("state.cities.6.7"===aa3){w="Djemorah"
+break E}if("state.cities.6.8"===aa3){w="El Feidh"
+break E}if("state.cities.6.9"===aa3){w="El Ghrous"
+break E}if("state.cities.6.10"===aa3){w="El Hadjab"
+break E}if("state.cities.6.11"===aa3){w="El Haouch"
+break E}if("state.cities.6.12"===aa3){w="El Kantara"
+break E}if("state.cities.6.13"===aa3){w="El Outaya"
+break E}if("state.cities.6.14"===aa3){w="Foughala"
+break E}if("state.cities.6.15"===aa3){w="Khenguet Sidi Nadji"
+break E}if("state.cities.6.16"===aa3){w="Lichana"
+break E}if("state.cities.6.17"===aa3){w="Lioua"
+break E}if("state.cities.6.18"===aa3){w="M'chouneche"
+break E}if("state.cities.6.19"===aa3){w="M'lili"
+break E}if("state.cities.6.20"===aa3){w="Mekhadma"
+break E}if("state.cities.6.21"===aa3){w="Meziraa"
+break E}if("state.cities.6.22"===aa3){w="Oumache"
+break E}if("state.cities.6.23"===aa3){w="Ourlal"
+break E}if("state.cities.6.24"===aa3){w="Sidi Okba"
+break E}if("state.cities.6.25"===aa3){w="Tolga"
+break E}if("state.cities.6.26"===aa3){w="Zeribet El Oued"
+break E}if("state.cities.7.0"===aa3){w="Abadla"
+break E}if("state.cities.7.1"===aa3){w="Bechar"
+break E}if("state.cities.7.2"===aa3){w="Beni Ounif"
+break E}if("state.cities.7.3"===aa3){w="Boukais"
+break E}if("state.cities.7.4"===aa3){w="Erg Ferradj"
+break E}if("state.cities.7.5"===aa3){w="Kenadsa"
+break E}if("state.cities.7.6"===aa3){w="Lahmar"
+break E}if("state.cities.7.7"===aa3){w="Mechraa H.boumediene"
+break E}if("state.cities.7.8"===aa3){w="Meridja"
+break E}if("state.cities.7.9"===aa3){w="Mogheul"
+break E}if("state.cities.7.10"===aa3){w="Taghit"
+break E}if("state.cities.8.0"===aa3){w="Ain Romana"
+break E}if("state.cities.8.1"===aa3){w="Beni Mered"
+break E}if("state.cities.8.2"===aa3){w="Beni Tamou"
+break E}if("state.cities.8.3"===aa3){w="Benkhelil"
+break E}if("state.cities.8.4"===aa3){w="Blida"
+break E}if("state.cities.8.5"===aa3){w="Bouarfa"
+break E}if("state.cities.8.6"===aa3){w="Boufarik"
+break E}if("state.cities.8.7"===aa3){w="Bougara"
+break E}if("state.cities.8.8"===aa3){w="Bouinan"
+break E}if("state.cities.8.9"===aa3){w="Chebli"
+break E}if("state.cities.8.10"===aa3){w="Chiffa"
+break E}if("state.cities.8.11"===aa3){w="Chrea"
+break E}if("state.cities.8.12"===aa3){w="Djebabra"
+break E}if("state.cities.8.13"===aa3){w="El Affroun"
+break E}if("state.cities.8.14"===aa3){w="Guerrouaou"
+break E}if("state.cities.8.15"===aa3){w="Hammam Melouane"
+break E}if("state.cities.8.16"===aa3){w=x1
+break E}if("state.cities.8.17"===aa3){w="Meftah"
+break E}if("state.cities.8.18"===aa3){w="Mouzaia"
+break E}if("state.cities.8.19"===aa3){w="Oued Djer"
+break E}if("state.cities.8.20"===aa3){w="Oued El Alleug"
+break E}if("state.cities.8.21"===aa3){w="Ouled Slama"
+break E}if("state.cities.8.22"===aa3){w="Ouled Yaich"
+break E}if("state.cities.8.23"===aa3){w="Souhane"
+break E}if("state.cities.8.24"===aa3){w="Souma"
+break E}if("state.cities.9.0"===aa3){w="Aghbalou"
+break E}if("state.cities.9.1"===aa3){w="Ahl El Ksar"
+break E}if("state.cities.9.2"===aa3){w="Ain Bessem"
+break E}if("state.cities.9.3"===aa3){w=x3
+break E}if("state.cities.9.4"===aa3){w="Ain Laloui"
+break E}if("state.cities.9.5"===aa3){w=x4
+break E}if("state.cities.9.6"===aa3){w="Ait Laaziz"
+break E}if("state.cities.9.7"===aa3){w="Aomar"
+break E}if("state.cities.9.8"===aa3){w="Bechloul"
+break E}if("state.cities.9.9"===aa3){w="Bir Ghbalou"
+break E}if("state.cities.9.10"===aa3){w="Bordj Okhriss"
+break E}if("state.cities.9.11"===aa3){w="Bouderbala"
+break E}if("state.cities.9.12"===aa3){w="Bouira"
+break E}if("state.cities.9.13"===aa3){w="Boukram"
+break E}if("state.cities.9.14"===aa3){w="Chorfa"
+break E}if("state.cities.9.15"===aa3){w="Dechmia"
+break E}if("state.cities.9.16"===aa3){w="Dirah"
+break E}if("state.cities.9.17"===aa3){w="Djebahia"
+break E}if("state.cities.9.18"===aa3){w="El Adjiba"
+break E}if("state.cities.9.19"===aa3){w="El Asnam"
+break E}if("state.cities.9.20"===aa3){w="El Hachimia"
+break E}if("state.cities.9.21"===aa3){w="El Hakimia"
+break E}if("state.cities.9.22"===aa3){w="El Khabouzia"
+break E}if("state.cities.9.23"===aa3){w="El Mokrani"
+break E}if("state.cities.9.24"===aa3){w="Guerrouma"
+break E}if("state.cities.9.25"===aa3){w="Hadjera Zerga"
+break E}if("state.cities.9.26"===aa3){w="Haizer"
+break E}if("state.cities.9.27"===aa3){w="Hanif"
+break E}if("state.cities.9.28"===aa3){w="Kadiria"
+break E}if("state.cities.9.29"===aa3){w="Lakhdaria"
+break E}if("state.cities.9.30"===aa3){w="M Chedallah"
+break E}if("state.cities.9.31"===aa3){w="Maala"
+break E}if("state.cities.9.32"===aa3){w="Mamora"
+break E}if("state.cities.9.33"===aa3){w="Mezdour"
+break E}if("state.cities.9.34"===aa3){w="Oued El Berdi"
+break E}if("state.cities.9.35"===aa3){w="Ouled Rached"
+break E}if("state.cities.9.36"===aa3){w="Raouraoua"
+break E}if("state.cities.9.37"===aa3){w="Ridane"
+break E}if("state.cities.9.38"===aa3){w="Saharidj"
+break E}if("state.cities.9.39"===aa3){w="Souk El Khemis"
+break E}if("state.cities.9.40"===aa3){w="Sour El Ghozlane"
+break E}if("state.cities.9.41"===aa3){w=x5
+break E}if("state.cities.9.42"===aa3){w="Taguedite"
+break E}if("state.cities.9.43"===aa3){w="Taourirt"
+break E}if("state.cities.9.44"===aa3){w="Z'barbar"
+break E}if("state.cities.10.0"===aa3){w="Abalessa"
+break E}if("state.cities.10.1"===aa3){w="Ain Amguel"
+break E}if("state.cities.10.2"===aa3){w="Idles"
+break E}if("state.cities.10.3"===aa3){w=v8
+break E}if("state.cities.10.4"===aa3){w="Tazrouk"
+break E}if("state.cities.11.0"===aa3){w="Ain Zerga"
+break E}if("state.cities.11.1"===aa3){w="Bedjene"
+break E}if("state.cities.11.2"===aa3){w="Bekkaria"
+break E}if("state.cities.11.3"===aa3){w="Bir Dheheb"
+break E}if("state.cities.11.4"===aa3){w="Bir El Ater"
+break E}if("state.cities.11.5"===aa3){w="Bir Mokkadem"
+break E}if("state.cities.11.6"===aa3){w="Boukhadra"
+break E}if("state.cities.11.7"===aa3){w="Boulhaf Dyr"
+break E}if("state.cities.11.8"===aa3){w="Cheria"
+break E}if("state.cities.11.9"===aa3){w="El Aouinet"
+break E}if("state.cities.11.10"===aa3){w="El Houidjbet"
+break E}if("state.cities.11.11"===aa3){w="El Kouif"
+break E}if("state.cities.11.12"===aa3){w="El Malabiod"
+break E}if("state.cities.11.13"===aa3){w="El Meridj"
+break E}if("state.cities.11.14"===aa3){w="El Mezeraa"
+break E}if("state.cities.11.15"===aa3){w="El Ogla"
+break E}if("state.cities.11.16"===aa3){w="El Ogla El Malha"
+break E}if("state.cities.11.17"===aa3){w="Ferkane"
+break E}if("state.cities.11.18"===aa3){w="Guorriguer"
+break E}if("state.cities.11.19"===aa3){w="Hammamet"
+break E}if("state.cities.11.20"===aa3){w="Morssot"
+break E}if("state.cities.11.21"===aa3){w="Negrine"
+break E}if("state.cities.11.22"===aa3){w="Ouenza"
+break E}if("state.cities.11.23"===aa3){w="Oum Ali"
+break E}if("state.cities.11.24"===aa3){w="Saf Saf El Ouesra"
+break E}if("state.cities.11.25"===aa3){w="Stah Guentis"
+break E}if("state.cities.11.26"===aa3){w="Tebessa"
+break E}if("state.cities.11.27"===aa3){w="Telidjen"
+break E}if("state.cities.12.0"===aa3){w="Ain Fettah"
+break E}if("state.cities.12.1"===aa3){w="Ain Fezza"
+break E}if("state.cities.12.2"===aa3){w="Ain Ghoraba"
+break E}if("state.cities.12.3"===aa3){w="Ain Kebira"
+break E}if("state.cities.12.4"===aa3){w="Ain Nehala"
+break E}if("state.cities.12.5"===aa3){w="Ain Tallout"
+break E}if("state.cities.12.6"===aa3){w="Ain Youcef"
+break E}if("state.cities.12.7"===aa3){w="Amieur"
+break E}if("state.cities.12.8"===aa3){w="Azails"
+break E}if("state.cities.12.9"===aa3){w="Bab El Assa"
+break E}if("state.cities.12.10"===aa3){w="Beni Bahdel"
+break E}if("state.cities.12.11"===aa3){w="Beni Boussaid"
+break E}if("state.cities.12.12"===aa3){w="Beni Khaled"
+break E}if("state.cities.12.13"===aa3){w="Beni Mester"
+break E}if("state.cities.12.14"===aa3){w="Beni Ouarsous"
+break E}if("state.cities.12.15"===aa3){w="Beni Smiel"
+break E}if("state.cities.12.16"===aa3){w="Beni Snous"
+break E}if("state.cities.12.17"===aa3){w="Bensekrane"
+break E}if("state.cities.12.18"===aa3){w="Bouhlou"
+break E}if("state.cities.12.19"===aa3){w="Bouihi"
+break E}if("state.cities.12.20"===aa3){w="Chetouane"
+break E}if("state.cities.12.21"===aa3){w="Dar Yaghmouracene"
+break E}if("state.cities.12.22"===aa3){w="Djebala"
+break E}if("state.cities.12.23"===aa3){w="El Aricha"
+break E}if("state.cities.12.24"===aa3){w="El Fehoul"
+break E}if("state.cities.12.25"===aa3){w="El Gor"
+break E}if("state.cities.12.26"===aa3){w="Fellaoucene"
+break E}if("state.cities.12.27"===aa3){w="Ghazaouet"
+break E}if("state.cities.12.28"===aa3){w="Hammam Boughrara"
+break E}if("state.cities.12.29"===aa3){w="Hennaya"
+break E}if("state.cities.12.30"===aa3){w="Honaine"
+break E}if("state.cities.12.31"===aa3){w="Maghnia"
+break E}if("state.cities.12.32"===aa3){w=x6
+break E}if("state.cities.12.33"===aa3){w="Marsa Ben M'hidi"
+break E}if("state.cities.12.34"===aa3){w="Msirda Fouaga"
+break E}if("state.cities.12.35"===aa3){w="Nedroma"
+break E}if("state.cities.12.36"===aa3){w="Oued Chouly"
+break E}if("state.cities.12.37"===aa3){w="Ouled Mimoun"
+break E}if("state.cities.12.38"===aa3){w="Ouled Riyah"
+break E}if("state.cities.12.39"===aa3){w="Remchi"
+break E}if("state.cities.12.40"===aa3){w="Sabra"
+break E}if("state.cities.12.41"===aa3){w="Sebbaa Chioukh"
+break E}if("state.cities.12.42"===aa3){w="Sebdou"
+break E}if("state.cities.12.43"===aa3){w="Sidi Abdelli"
+break E}if("state.cities.12.44"===aa3){w="Sidi Djilali"
+break E}if("state.cities.12.45"===aa3){w="Sidi Medjahed"
+break E}if("state.cities.12.46"===aa3){w="Souahlia"
+break E}if("state.cities.12.47"===aa3){w="Souani"
+break E}if("state.cities.12.48"===aa3){w="Souk Tleta"
+break E}if("state.cities.12.49"===aa3){w="Terny Beni Hediel"
+break E}if("state.cities.12.50"===aa3){w="Tianet"
+break E}if("state.cities.12.51"===aa3){w="Tlemcen"
+break E}if("state.cities.12.52"===aa3){w="Zenata"
+break E}if("state.cities.13.0"===aa3){w="Ain Bouchekif"
+break E}if("state.cities.13.1"===aa3){w="Ain Deheb"
+break E}if("state.cities.13.2"===aa3){w="Ain El Hadid"
+break E}if("state.cities.13.3"===aa3){w="Ain Kermes"
+break E}if("state.cities.13.4"===aa3){w="Ain Zarit"
+break E}if("state.cities.13.5"===aa3){w="Bougara"
+break E}if("state.cities.13.6"===aa3){w="Chehaima"
+break E}if("state.cities.13.7"===aa3){w="Dahmouni"
+break E}if("state.cities.13.8"===aa3){w="Djebilet Rosfa"
+break E}if("state.cities.13.9"===aa3){w="Djillali Ben Amar"
+break E}if("state.cities.13.10"===aa3){w="Faidja"
+break E}if("state.cities.13.11"===aa3){w="Frenda"
+break E}if("state.cities.13.12"===aa3){w="Guertoufa"
+break E}if("state.cities.13.13"===aa3){w="Hamadia"
+break E}if("state.cities.13.14"===aa3){w="Ksar Chellala"
+break E}if("state.cities.13.15"===aa3){w="Madna"
+break E}if("state.cities.13.16"===aa3){w="Mahdia"
+break E}if("state.cities.13.17"===aa3){w="Mechraa Safa"
+break E}if("state.cities.13.18"===aa3){w="Medrissa"
+break E}if("state.cities.13.19"===aa3){w="Medroussa"
+break E}if("state.cities.13.20"===aa3){w="Meghila"
+break E}if("state.cities.13.21"===aa3){w="Mellakou"
+break E}if("state.cities.13.22"===aa3){w="Nadorah"
+break E}if("state.cities.13.23"===aa3){w="Naima"
+break E}if("state.cities.13.24"===aa3){w="Oued Lilli"
+break E}if("state.cities.13.25"===aa3){w="Rahouia"
+break E}if("state.cities.13.26"===aa3){w="Rechaiga"
+break E}if("state.cities.13.27"===aa3){w="Sebaine"
+break E}if("state.cities.13.28"===aa3){w="Sebt"
+break E}if("state.cities.13.29"===aa3){w="Serghine"
+break E}if("state.cities.13.30"===aa3){w="Si Abdelghani"
+break E}if("state.cities.13.31"===aa3)break E
+if("state.cities.13.32"===aa3){w="Sidi Ali Mellal"
+break E}if("state.cities.13.33"===aa3){w="Sidi Bakhti"
+break E}if("state.cities.13.34"===aa3){w="Sidi Hosni"
+break E}if("state.cities.13.35"===aa3){w="Sougueur"
+break E}if("state.cities.13.36"===aa3){w="Tagdemt"
+break E}if("state.cities.13.37"===aa3){w="Takhemaret"
+break E}if("state.cities.13.38"===aa3){w="Tiaret"
+break E}if("state.cities.13.39"===aa3){w="Tidda"
+break E}if("state.cities.13.40"===aa3){w="Tousnina"
+break E}if("state.cities.13.41"===aa3){w="Zmalet El Emir Abdelkade"
+break E}if("state.cities.14.0"===aa3){w="Abi Youcef"
+break E}if("state.cities.14.1"===aa3){w="Aghribs"
+break E}if("state.cities.14.2"===aa3){w="Agouni Gueghrane"
+break E}if("state.cities.14.3"===aa3){w="Ain El Hammam"
+break E}if("state.cities.14.4"===aa3){w="Ain Zaouia"
+break E}if("state.cities.14.5"===aa3){w="Ait Aggouacha"
+break E}if("state.cities.14.6"===aa3){w="Ait Bouaddou"
+break E}if("state.cities.14.7"===aa3){w="Ait Boumehdi"
+break E}if("state.cities.14.8"===aa3){w="Ait Chafaa"
+break E}if("state.cities.14.9"===aa3){w="Ait Khellili"
+break E}if("state.cities.14.10"===aa3){w="Ait Mahmoud"
+break E}if("state.cities.14.11"===aa3){w="Ait Oumalou"
+break E}if("state.cities.14.12"===aa3){w="Ait Toudert"
+break E}if("state.cities.14.13"===aa3){w="Ait Yahia"
+break E}if("state.cities.14.14"===aa3){w="Ait Yahia Moussa"
+break E}if("state.cities.14.15"===aa3){w="Akbil"
+break E}if("state.cities.14.16"===aa3){w="Akerrou"
+break E}if("state.cities.14.17"===aa3){w="Assi Youcef"
+break E}if("state.cities.14.18"===aa3){w="Azazga"
+break E}if("state.cities.14.19"===aa3){w="Azeffoun"
+break E}if("state.cities.14.20"===aa3){w="Beni Aissi"
+break E}if("state.cities.14.21"===aa3){w="Beni Douala"
+break E}if("state.cities.14.22"===aa3){w="Beni Yenni"
+break E}if("state.cities.14.23"===aa3){w="Beni Zikki"
+break E}if("state.cities.14.24"===aa3){w="Beni Zmenzer"
+break E}if("state.cities.14.25"===aa3){w="Boghni"
+break E}if("state.cities.14.26"===aa3){w="Boudjima"
+break E}if("state.cities.14.27"===aa3){w="Bounouh"
+break E}if("state.cities.14.28"===aa3){w="Bouzeguene"
+break E}if("state.cities.14.29"===aa3){w="Djebel Aissa Mimoun"
+break E}if("state.cities.14.30"===aa3){w="Draa Ben Khedda"
+break E}if("state.cities.14.31"===aa3){w="Draa El Mizan"
+break E}if("state.cities.14.32"===aa3){w="Freha"
+break E}if("state.cities.14.33"===aa3){w="Frikat"
+break E}if("state.cities.14.34"===aa3){w="Iboudrarene"
+break E}if("state.cities.14.35"===aa3){w="Idjeur"
+break E}if("state.cities.14.36"===aa3){w="Iferhounene"
+break E}if("state.cities.14.37"===aa3){w="Ifigha"
+break E}if("state.cities.14.38"===aa3){w="Iflissen"
+break E}if("state.cities.14.39"===aa3){w="Illilten"
+break E}if("state.cities.14.40"===aa3){w="Illoula Oumalou"
+break E}if("state.cities.14.41"===aa3){w="Imsouhal"
+break E}if("state.cities.14.42"===aa3){w="Irdjen"
+break E}if("state.cities.14.43"===aa3){w="Larba Nath Irathen"
+break E}if("state.cities.14.44"===aa3){w="Larbaa Nath Irathen"
+break E}if("state.cities.14.45"===aa3){w="M'kira"
+break E}if("state.cities.14.46"===aa3){w="Maatkas"
+break E}if("state.cities.14.47"===aa3){w="Makouda"
+break E}if("state.cities.14.48"===aa3){w="Mechtras"
+break E}if("state.cities.14.49"===aa3){w="Mekla"
+break E}if("state.cities.14.50"===aa3){w="Mizrana"
+break E}if("state.cities.14.51"===aa3){w="Ouacif"
+break E}if("state.cities.14.52"===aa3){w="Ouadhias"
+break E}if("state.cities.14.53"===aa3){w="Ouaguenoune"
+break E}if("state.cities.14.54"===aa3){w=x7
+break E}if("state.cities.14.55"===aa3){w="Souamaa"
+break E}if("state.cities.14.56"===aa3){w="Souk El Thenine"
+break E}if("state.cities.14.57"===aa3){w="Tadmait"
+break E}if("state.cities.14.58"===aa3){w="Tigzirt"
+break E}if("state.cities.14.59"===aa3){w="Timizart"
+break E}if("state.cities.14.60"===aa3){w="Tirmitine"
+break E}if("state.cities.14.61"===aa3){w="Tizi Ghenif"
+break E}if("state.cities.14.62"===aa3){w="Tizi N'tleta"
+break E}if("state.cities.14.63"===aa3){w="Tizi Ouzou"
+break E}if("state.cities.14.64"===aa3){w="Tizi Rached"
 break E}w=v
-break E}if(w==null)F:{w="Mohammadia"
-if("state.cities.15.41"===z8)break F
-if("state.cities.15.42"===z8){w="Oued Koriche"
-break F}if("state.cities.15.43"===z8){w="Oued Smar"
-break F}if("state.cities.15.44"===z8){w="Ouled Chebel"
-break F}if("state.cities.15.45"===z8){w="Ouled Fayet"
-break F}if("state.cities.15.46"===z8){w="Rahmania"
-break F}if("state.cities.15.47"===z8){w="Rais Hamidou"
-break F}if("state.cities.15.48"===z8){w="Reghaia"
-break F}if("state.cities.15.49"===z8){w="Rouiba"
-break F}if("state.cities.15.50"===z8){w="Sehaoula"
-break F}if("state.cities.15.51"===z8){w="Setaouali"
-break F}if("state.cities.15.52"===z8){w=x3
-break F}if("state.cities.15.53"===z8){w="Sidi Moussa"
-break F}if("state.cities.15.54"===z8){w="Souidania"
-break F}if("state.cities.15.55"===z8){w="Tessala El Merdja"
-break F}if("state.cities.15.56"===z8){w="Zeralda"
-break F}if("state.cities.16.0"===z8){w="Ain Chouhada"
-break F}if("state.cities.16.1"===z8){w="Ain El Ibel"
-break F}if("state.cities.16.2"===z8){w="Ain Fekka"
-break F}if("state.cities.16.3"===z8){w="Ain Maabed"
-break F}if("state.cities.16.4"===z8){w="Ain Oussera"
-break F}if("state.cities.16.5"===z8){w="Amourah"
-break F}if("state.cities.16.6"===z8){w="Benhar"
-break F}if("state.cities.16.7"===z8){w="Benyagoub"
-break F}if("state.cities.16.8"===z8){w="Birine"
-break F}if("state.cities.16.9"===z8){w="Bouira Lahdab"
-break F}if("state.cities.16.10"===z8){w="Charef"
-break F}if("state.cities.16.11"===z8){w="Dar Chioukh"
-break F}if("state.cities.16.12"===z8){w="Deldoul"
-break F}if("state.cities.16.13"===z8){w="Djelfa"
-break F}if("state.cities.16.14"===z8){w="Douis"
-break F}if("state.cities.16.15"===z8){w="El Guedid"
-break F}if("state.cities.16.16"===z8){w="El Idrissia"
-break F}if("state.cities.16.17"===z8){w="El Khemis"
-break F}if("state.cities.16.18"===z8){w="Faidh El Botma"
-break F}if("state.cities.16.19"===z8){w="Guernini"
-break F}if("state.cities.16.20"===z8){w="Guettara"
-break F}if("state.cities.16.21"===z8){w="Had Sahary"
-break F}if("state.cities.16.22"===z8){w="Hassi Bahbah"
-break F}if("state.cities.16.23"===z8){w="Hassi El Euch"
-break F}if("state.cities.16.24"===z8){w="Hassi Fedoul"
-break F}if("state.cities.16.25"===z8){w="M Liliha"
-break F}if("state.cities.16.26"===z8){w="Messaad"
-break F}if("state.cities.16.27"===z8){w="Moudjebara"
-break F}if("state.cities.16.28"===z8){w="Oum Laadham"
-break F}if("state.cities.16.29"===z8){w="Sed Rahal"
-break F}if("state.cities.16.30"===z8){w="Selmana"
-break F}if("state.cities.16.31"===z8){w="Sidi Baizid"
-break F}if("state.cities.16.32"===z8){w="Sidi Ladjel"
-break F}if("state.cities.16.33"===z8){w="Tadmit"
-break F}if("state.cities.16.34"===z8){w="Zaafrane"
-break F}if("state.cities.16.35"===z8){w="Zaccar"
-break F}if("state.cities.17.0"===z8){w="Bordj Tahar"
-break F}if("state.cities.17.1"===z8){w="Boudria Beniyadjis"
-break F}if("state.cities.17.2"===z8){w="Bouraoui Belhadef"
-break F}if("state.cities.17.3"===z8){w="Boussif Ouled Askeur"
-break F}if("state.cities.17.4"===z8){w="Chahna"
-break F}if("state.cities.17.5"===z8){w="Chekfa"
-break F}if("state.cities.17.6"===z8){w="Djemaa Beni Habibi"
-break F}if("state.cities.17.7"===z8){w="Djimla"
-break F}if("state.cities.17.8"===z8){w="El Ancer"
-break F}if("state.cities.17.9"===z8){w="El Aouana"
-break F}if("state.cities.17.10"===z8){w="El Kennar Nouchfi"
-break F}if("state.cities.17.11"===z8){w="El Milia"
-break F}if("state.cities.17.12"===z8){w=x4
-break F}if("state.cities.17.13"===z8){w="Erraguene"
-break F}if("state.cities.17.14"===z8){w="Ghebala"
-break F}if("state.cities.17.15"===z8){w="Jijel"
-break F}if("state.cities.17.16"===z8){w="Khiri Oued Adjoul"
-break F}if("state.cities.17.17"===z8){w="Kouas"
-break F}if("state.cities.17.18"===z8){w="Oudjana"
-break F}if("state.cities.17.19"===z8){w="Ouled Rabah"
-break F}if("state.cities.17.20"===z8){w="Ouled Yahia Khadrouch"
-break F}if("state.cities.17.21"===z8){w="Selma Benziada"
-break F}if("state.cities.17.22"===z8){w="Settara"
-break F}if("state.cities.17.23"===z8){w="Sidi Abdelaziz"
-break F}if("state.cities.17.24"===z8){w="Sidi Marouf"
-break F}if("state.cities.17.25"===z8){w="Taher"
-break F}if("state.cities.17.26"===z8){w="Texena"
-break F}if("state.cities.17.27"===z8){w="Ziama Mansouria"
-break F}if("state.cities.18.0"===z8){w="Ain Abessa"
-break F}if("state.cities.18.1"===z8){w="Ain Arnat"
-break F}if("state.cities.18.2"===z8){w="Ain Azel"
-break F}if("state.cities.18.3"===z8){w="Ain El Kebira"
-break F}if("state.cities.18.4"===z8){w="Ain Lahdjar"
-break F}if("state.cities.18.5"===z8){w="Ain Legradj"
-break F}if("state.cities.18.6"===z8){w="Ain Oulmane"
-break F}if("state.cities.18.7"===z8){w="Ain Roua"
-break F}if("state.cities.18.8"===z8){w="Ain Sebt"
-break F}if("state.cities.18.9"===z8){w="Ait Naoual Mezada"
-break F}if("state.cities.18.10"===z8){w="Ait Tizi"
-break F}if("state.cities.18.11"===z8){w="Amoucha"
-break F}if("state.cities.18.12"===z8){w="Babor"
-break F}if("state.cities.18.13"===z8){w="Bazer Sakra"
-break F}if("state.cities.18.14"===z8){w="Beidha Bordj"
-break F}if("state.cities.18.15"===z8){w="Bellaa"
-break F}if("state.cities.18.16"===z8){w="Beni Aziz"
-break F}if("state.cities.18.17"===z8){w="Beni Chebana"
-break F}if("state.cities.18.18"===z8){w="Beni Fouda"
-break F}if("state.cities.18.19"===z8){w="Beni Mouhli"
-break F}if("state.cities.18.20"===z8){w="Beni Ouartilane"
-break F}if("state.cities.18.21"===z8){w="Beni Oussine"
-break F}if("state.cities.18.22"===z8){w="Bir El Arch"
-break F}if("state.cities.18.23"===z8){w="Bir Haddada"
-break F}if("state.cities.18.24"===z8){w="Bouandas"
-break F}if("state.cities.18.25"===z8){w="Bougaa"
-break F}if("state.cities.18.26"===z8){w="Bousselam"
-break F}if("state.cities.18.27"===z8){w="Boutaleb"
-break F}if("state.cities.18.28"===z8){w="Dehamcha"
-break F}if("state.cities.18.29"===z8){w="Djemila"
-break F}if("state.cities.18.30"===z8){w="Draa Kebila"
-break F}if("state.cities.18.31"===z8){w="El Eulma"
-break F}if("state.cities.18.32"===z8){w=x5
-break F}if("state.cities.18.33"===z8){w="El Ouricia"
-break F}if("state.cities.18.34"===z8){w="Guellal"
-break F}if("state.cities.18.35"===z8){w="Guelta Zerka"
-break F}if("state.cities.18.36"===z8){w="Guenzet"
-break F}if("state.cities.18.37"===z8){w="Guidjel"
-break F}if("state.cities.18.38"===z8){w="Hamam Soukhna"
-break F}if("state.cities.18.39"===z8){w="Hamma"
-break F}if("state.cities.18.40"===z8){w="Hammam Guergour"
-break F}if("state.cities.18.41"===z8){w="Harbil"
-break F}if("state.cities.18.42"===z8){w="Ksar El Abtal"
-break F}if("state.cities.18.43"===z8){w="Maaouia"
-break F}if("state.cities.18.44"===z8){w="Maouaklane"
-break F}if("state.cities.18.45"===z8){w="Mezloug"
-break F}if("state.cities.18.46"===z8){w="Oued El Barad"
-break F}if("state.cities.18.47"===z8){w="Ouled Addouane"
-break F}if("state.cities.18.48"===z8){w="Ouled Sabor"
-break F}if("state.cities.18.49"===z8){w="Ouled Si Ahmed"
-break F}if("state.cities.18.50"===z8){w="Ouled Tebben"
-break F}if("state.cities.18.51"===z8){w="Rosfa"
-break F}if("state.cities.18.52"===z8){w="Salah Bey"
-break F}if("state.cities.18.53"===z8){w="Serdj El Ghoul"
-break F}if("state.cities.18.54"===z8){w="Setif"
-break F}if("state.cities.18.55"===z8){w="Tachouda"
-break F}if("state.cities.18.56"===z8){w="Tala Ifacene"
-break F}if("state.cities.18.57"===z8){w="Taya"
-break F}if("state.cities.18.58"===z8){w="Tella"
-break F}if("state.cities.18.59"===z8){w="Tizi N'bechar"
-break F}if("state.cities.19.0"===z8){w=w7
-break F}if("state.cities.19.1"===z8){w="Ain Sekhouna"
-break F}if("state.cities.19.2"===z8){w=x6
-break F}if("state.cities.19.3"===z8){w="Doui Thabet"
-break F}if("state.cities.19.4"===z8){w="El Hassasna"
-break F}if("state.cities.19.5"===z8){w="Hounet"
-break F}if("state.cities.19.6"===z8){w="Maamora"
-break F}if("state.cities.19.7"===z8){w="Moulay Larbi"
-break F}if("state.cities.19.8"===z8){w=x7
-break F}if("state.cities.19.9"===z8){w="Ouled Khaled"
-break F}if("state.cities.19.10"===z8){w="Saida"
-break F}if("state.cities.19.11"===z8){w="Sidi Ahmed"
-break F}if("state.cities.19.12"===z8){w=x8
-break F}if("state.cities.19.13"===z8){w="Sidi Boubekeur"
-break F}if("state.cities.19.14"===z8){w="Tircine"
-break F}if("state.cities.19.15"===z8){w="Youb"
-break F}if("state.cities.20.0"===z8){w="Ain Bouziane"
-break F}if("state.cities.20.1"===z8){w="Ain Charchar"
-break F}if("state.cities.20.2"===z8){w="Ain Kechera"
-break F}if("state.cities.20.3"===z8){w="Ain Zouit"
-break F}if("state.cities.20.4"===z8){w="Azzaba"
-break F}if("state.cities.20.5"===z8){w="Bekkouche Lakhdar"
-break F}if("state.cities.20.6"===z8){w="Ben Azzouz"
-break F}if("state.cities.20.7"===z8){w="Beni Bechir"
-break F}if("state.cities.20.8"===z8){w="Beni Oulbane"
-break F}if("state.cities.20.9"===z8){w="Beni Zid"
-break F}if("state.cities.20.10"===z8){w="Bin El Ouiden"
-break F}if("state.cities.20.11"===z8){w="Bouchetata"
-break F}if("state.cities.20.12"===z8){w="Cheraia"
-break F}if("state.cities.20.13"===z8){w="Collo"
-break F}if("state.cities.20.14"===z8){w="Djendel Saadi Mohamed"
-break F}if("state.cities.20.15"===z8){w="El Arrouch"
-break F}if("state.cities.20.16"===z8){w="El Ghedir"
-break F}if("state.cities.20.17"===z8){w="El Hadaiek"
-break F}if("state.cities.20.18"===z8){w=w2
-break F}if("state.cities.20.19"===z8){w="Emjez Edchich"
-break F}if("state.cities.20.20"===z8){w="Es Sebt"
-break F}if("state.cities.20.21"===z8){w="Filfila"
-break F}if("state.cities.20.22"===z8){w="Hamadi Krouma"
-break F}if("state.cities.20.23"===z8){w="Kanoua"
-break F}if("state.cities.20.24"===z8){w="Kerkera"
-break F}if("state.cities.20.25"===z8){w="Khenag Mayoum"
-break F}if("state.cities.20.26"===z8){w="Oued Zhour"
-break F}if("state.cities.20.27"===z8){w="Ouldja Boulbalout"
-break F}if("state.cities.20.28"===z8){w="Ouled Attia"
-break F}if("state.cities.20.29"===z8){w="Ouled Habbeba"
-break F}if("state.cities.20.30"===z8){w="Oum Toub"
-break F}if("state.cities.20.31"===z8){w="Ramdane Djamel"
-break F}if("state.cities.20.32"===z8){w="Salah Bouchaour"
-break F}if("state.cities.20.33"===z8){w="Sidi Mezghiche"
-break F}if("state.cities.20.34"===z8){w="Skikda"
-break F}if("state.cities.20.35"===z8){w="Tamalous"
-break F}if("state.cities.20.36"===z8){w="Zerdezas"
-break F}if("state.cities.20.37"===z8){w="Zitouna"
-break F}if("state.cities.21.0"===z8){w="Ain Adden"
-break F}if("state.cities.21.1"===z8){w="Ain El Berd"
-break F}if("state.cities.21.2"===z8){w="Ain Kada"
-break F}if("state.cities.21.3"===z8){w="Ain Thrid"
-break F}if("state.cities.21.4"===z8){w="Ain Tindamine"
-break F}if("state.cities.21.5"===z8){w="Amarnas"
-break F}if("state.cities.21.6"===z8){w="Badredine El Mokrani"
-break F}if("state.cities.21.7"===z8){w="Belarbi"
-break F}if("state.cities.21.8"===z8){w=x9
-break F}if("state.cities.21.9"===z8){w="Benachiba Chelia"
-break F}if("state.cities.21.10"===z8){w="Bir El Hammam"
-break F}if("state.cities.21.11"===z8){w="Boudjebaa El Bordj"
-break F}if("state.cities.21.12"===z8){w="Boukhanafis"
-break F}if("state.cities.21.13"===z8){w="Chetouane Belaila"
-break F}if("state.cities.21.14"===z8){w="Dhaya"
-break F}if("state.cities.21.15"===z8){w="El Hacaiba"
-break F}if("state.cities.21.16"===z8){w="Hassi Dahou"
-break F}if("state.cities.21.17"===z8){w="Hassi Zahana"
-break F}if("state.cities.21.18"===z8){w="Lamtar"
-break F}if("state.cities.21.19"===z8){w="M'cid"
-break F}if("state.cities.21.20"===z8){w="Makedra"
-break F}if("state.cities.21.21"===z8){w="Marhoum"
-break F}if("state.cities.21.22"===z8){w="Merine"
-break F}if("state.cities.21.23"===z8){w="Mezaourou"
-break F}if("state.cities.21.24"===z8){w="Mostefa Ben Brahim"
-break F}if("state.cities.21.25"===z8){w="Moulay Slissen"
-break F}if("state.cities.21.26"===z8){w="Oued Sebaa"
-break F}if("state.cities.21.27"===z8){w="Oued Sefioun"
-break F}if("state.cities.21.28"===z8){w="Oued Taourira"
-break F}if("state.cities.21.29"===z8){w="Ras El Ma"
-break F}if("state.cities.21.30"===z8){w="Redjem Demouche"
-break F}if("state.cities.21.31"===z8){w="Sehala Thaoura"
-break F}if("state.cities.21.32"===z8){w="Sfissef"
-break F}if("state.cities.21.33"===z8){w="Sidi Ali Benyoub"
-break F}if("state.cities.21.34"===z8){w="Sidi Ali Boussidi"
-break F}if("state.cities.21.35"===z8){w="Sidi Bel Abbes"
-break F}if("state.cities.21.36"===z8){w="Sidi Brahim"
-break F}if("state.cities.21.37"===z8){w="Sidi Chaib"
-break F}if("state.cities.21.38"===z8){w="Sidi Dahou Zairs"
-break F}if("state.cities.21.39"===z8){w="Sidi Hamadouche"
-break F}if("state.cities.21.40"===z8){w=y0
-break F}if("state.cities.21.41"===z8){w="Sidi Lahcene"
-break F}if("state.cities.21.42"===z8){w="Sidi Yacoub"
-break F}if("state.cities.21.43"===z8){w="Tabia"
-break F}if("state.cities.21.44"===z8){w="Tafissour"
-break F}if("state.cities.21.45"===z8){w="Taoudmout"
-break F}if("state.cities.21.46"===z8){w="Teghalimet"
-break F}if("state.cities.21.47"===z8){w="Telagh"
-break F}if("state.cities.21.48"===z8){w="Tenira"
-break F}if("state.cities.21.49"===z8){w="Tessala"
-break F}if("state.cities.21.50"===z8){w="Tilmouni"
-break F}if("state.cities.21.51"===z8){w="Zerouala"
-break F}if("state.cities.22.0"===z8){w="Ain Berda"
-break F}if("state.cities.22.1"===z8){w="Annaba"
-break F}if("state.cities.22.2"===z8){w="Berrahel"
-break F}if("state.cities.22.3"===z8){w="Chetaibi"
-break F}if("state.cities.22.4"===z8){w="Cheurfa"
-break F}if("state.cities.22.5"===z8){w="El Bouni"
-break F}if("state.cities.22.6"===z8){w="El Hadjar"
-break F}if("state.cities.22.7"===z8){w="Eulma"
-break F}if("state.cities.22.8"===z8){w="Oued El Aneb"
-break F}if("state.cities.22.9"===z8){w="Seraidi"
-break F}if("state.cities.22.10"===z8){w=x8
-break F}if("state.cities.22.11"===z8){w="Treat"
-break F}if("state.cities.23.0"===z8){w="Ain Ben Beida"
-break F}if("state.cities.23.1"===z8){w="Ain Hessania"
-break F}if("state.cities.23.2"===z8){w="Ain Larbi"
-break F}if("state.cities.23.3"===z8){w="Ain Makhlouf"
-break F}if("state.cities.23.4"===z8){w="Ain Reggada"
-break F}if("state.cities.23.5"===z8){w="Belkheir"
-break F}if("state.cities.23.6"===z8){w="Ben Djarah"
-break F}if("state.cities.23.7"===z8){w="Beni Mezline"
-break F}if("state.cities.23.8"===z8){w="Bordj Sabat"
-break F}if("state.cities.23.9"===z8){w="Bou Hachana"
-break F}if("state.cities.23.10"===z8){w="Bou Hamdane"
-break F}if("state.cities.23.11"===z8){w="Bouati Mahmoud"
-break F}if("state.cities.23.12"===z8){w="Bouchegouf"
-break F}if("state.cities.23.13"===z8){w="Bouhamra Ahmed"
-break F}if("state.cities.23.14"===z8){w="Dahouara"
-break F}if("state.cities.23.15"===z8){w="Djeballah Khemissi"
-break F}if("state.cities.23.16"===z8){w="El Fedjoudj"
-break F}if("state.cities.23.17"===z8){w="Guelaat Bou Sbaa"
-break F}if("state.cities.23.18"===z8){w="Guelma"
-break F}if("state.cities.23.19"===z8){w="Hamam Debagh"
-break F}if("state.cities.23.20"===z8){w="Hammam N'bail"
-break F}if("state.cities.23.21"===z8){w="Heliopolis"
-break F}if("state.cities.23.22"===z8){w="Khezara"
-break F}if("state.cities.23.23"===z8){w="Medjez Amar"
-break F}if("state.cities.23.24"===z8){w="Medjez Sfa"
-break F}if("state.cities.23.25"===z8){w="Nechmaya"
-break F}if("state.cities.23.26"===z8){w="Oued Cheham"
-break F}if("state.cities.23.27"===z8){w="Oued Fragha"
-break F}if("state.cities.23.28"===z8){w="Oued Zenati"
-break F}if("state.cities.23.29"===z8){w="Ras El Agba"
-break F}if("state.cities.23.30"===z8){w="Roknia"
-break F}if("state.cities.23.31"===z8){w="Sellaoua Announa"
-break F}if("state.cities.23.32"===z8){w="Sidi Sandel"
-break F}if("state.cities.23.33"===z8){w="Tamlouka"
-break F}if("state.cities.24.0"===z8){w="Ain Abid"
-break F}if("state.cities.24.1"===z8){w="Ain Smara"
-break F}if("state.cities.24.2"===z8){w=x9
-break F}if("state.cities.24.3"===z8){w="Beni Hamidene"
-break F}if("state.cities.24.4"===z8){w=v3
-break F}if("state.cities.24.5"===z8){w="Didouche Mourad"
-break F}if("state.cities.24.6"===z8){w="El Khroub"
-break F}if("state.cities.24.7"===z8){w="Hamma Bouziane"
-break F}if("state.cities.24.8"===z8){w="Ibn Ziad"
-break F}if("state.cities.24.9"===z8){w="Messaoud Boujeriou"
-break F}if("state.cities.24.10"===z8){w="Ouled Rahmouni"
-break F}if("state.cities.24.11"===z8){w="Zighoud Youcef"
-break F}if("state.cities.25.0"===z8){w="Ain Boucif"
-break F}if("state.cities.25.1"===z8){w="Ain Ouksir"
-break F}if("state.cities.25.2"===z8){w="Aissaouia"
-break F}if("state.cities.25.3"===z8){w="Aziz"
-break F}if("state.cities.25.4"===z8){w="Baata"
-break F}if("state.cities.25.5"===z8){w="Ben Chicao"
-break F}if("state.cities.25.6"===z8){w="Beni Slimane"
-break F}if("state.cities.25.7"===z8){w="Berrouaghia"
-break F}if("state.cities.25.8"===z8){w="Bir Ben Laabed"
-break F}if("state.cities.25.9"===z8){w="Boghar"
-break F}if("state.cities.25.10"===z8){w="Bouaiche"
-break F}if("state.cities.25.11"===z8){w="Bouaichoune"
-break F}if("state.cities.25.12"===z8){w="Bouchrahil"
-break F}if("state.cities.25.13"===z8){w="Boughzoul"
-break F}if("state.cities.25.14"===z8){w="Bouskene"
-break F}if("state.cities.25.15"===z8){w="Chabounia"
-break F}if("state.cities.25.16"===z8){w="Chelalet El Adhaoura"
-break F}if("state.cities.25.17"===z8){w="Cheniguel"
-break F}if("state.cities.25.18"===z8){w="Damiat"
-break F}if("state.cities.25.19"===z8){w="Derrag"
-break F}if("state.cities.25.20"===z8){w="Deux Bassins"
-break F}if("state.cities.25.21"===z8){w="Djouab"
-break F}if("state.cities.25.22"===z8){w="Draa Essamar"
-break F}if("state.cities.25.23"===z8){w="El Azizia"
-break F}if("state.cities.25.24"===z8){w="El Guelbelkebir"
-break F}if("state.cities.25.25"===z8){w="El Hamdania"
-break F}if("state.cities.25.26"===z8){w="El Omaria"
-break F}if("state.cities.25.27"===z8){w="El Ouinet"
-break F}if("state.cities.25.28"===z8){w="Hannacha"
-break F}if("state.cities.25.29"===z8){w="Kef Lakhdar"
-break F}if("state.cities.25.30"===z8){w="Khams Djouamaa"
-break F}if("state.cities.25.31"===z8){w="Ksar El Boukhari"
-break F}if("state.cities.25.32"===z8){w="Maghraoua"
-break F}if("state.cities.25.33"===z8){w="Medea"
-break F}if("state.cities.25.34"===z8){w="Medjebar"
-break F}if("state.cities.25.35"===z8){w="Meftaha"
-break F}if("state.cities.25.36"===z8){w="Mezerana"
-break F}if("state.cities.25.37"===z8){w="Mihoub"
-break F}if("state.cities.25.38"===z8){w="Ouamri"
-break F}if("state.cities.25.39"===z8){w="Oued Harbil"
-break F}if("state.cities.25.40"===z8){w="Ouled Antar"
-break F}if("state.cities.25.41"===z8){w="Ouled Bouachra"
-break F}if("state.cities.25.42"===z8){w=x7
-break F}if("state.cities.25.43"===z8){w="Ouled Deid"
-break F}if("state.cities.25.44"===z8){w="Ouled Hellal"
-break F}if("state.cities.25.45"===z8){w="Ouled Maaref"
-break F}if("state.cities.25.46"===z8){w="Oum El Djellil"
-break F}if("state.cities.25.47"===z8){w="Ouzera"
-break F}if("state.cities.25.48"===z8){w="Rebaia"
-break F}if("state.cities.25.49"===z8){w="Saneg"
-break F}if("state.cities.25.50"===z8){w="Sedraya"
-break F}if("state.cities.25.51"===z8){w="Seghouane"
-break F}if("state.cities.25.52"===z8){w="Si Mahdjoub"
-break F}if("state.cities.25.53"===z8){w="Sidi Demed"
-break F}if("state.cities.25.54"===z8){w=x1
-break F}if("state.cities.25.55"===z8){w="Sidi Rabie"
-break F}if("state.cities.25.56"===z8){w="Sidi Zahar"
-break F}if("state.cities.25.57"===z8){w="Sidi Ziane"
-break F}if("state.cities.25.58"===z8){w="Souagui"
-break F}if("state.cities.25.59"===z8){w="Tablat"
-break F}if("state.cities.25.60"===z8){w="Tafraout"
-break F}if("state.cities.25.61"===z8){w="Tamesguida"
-break F}if("state.cities.25.62"===z8){w="Tletat Ed Douair"
-break F}if("state.cities.25.63"===z8){w="Zoubiria"
-break F}if("state.cities.26.0"===z8){w="Achaacha"
-break F}if("state.cities.26.1"===z8){w="Ain Boudinar"
-break F}if("state.cities.26.2"===z8){w="Ain Nouissy"
-break F}if("state.cities.26.3"===z8){w="Ain Sidi Cherif"
-break F}if("state.cities.26.4"===z8){w="Ain Tedles"
-break F}if("state.cities.26.5"===z8){w="Benabdelmalek Ramdane"
-break F}if("state.cities.26.6"===z8){w="Bouguirat"
-break F}if("state.cities.26.7"===z8){w="Fornaka"
-break F}if("state.cities.26.8"===z8){w="Hadjadj"
-break F}if("state.cities.26.9"===z8){w="Hassi Mameche"
-break F}if("state.cities.26.10"===z8){w="Hassiane"
-break F}if("state.cities.26.11"===z8){w="Khadra"
-break F}if("state.cities.26.12"===z8){w="Kheir Eddine"
-break F}if("state.cities.26.13"===z8){w=x0
-break F}if("state.cities.26.14"===z8){w="Mazagran"
-break F}if("state.cities.26.15"===z8){w="Mesra"
-break F}if("state.cities.26.16"===z8){w=v4
-break F}if("state.cities.26.17"===z8){w="Nekmaria"
-break F}if("state.cities.26.18"===z8){w="Oued El Kheir"
-break F}if("state.cities.26.19"===z8){w="Ouled Boughalem"
-break F}if("state.cities.26.20"===z8){w="Ouled Maalah"
-break F}if("state.cities.26.21"===z8){w="Safsaf"
-break F}if("state.cities.26.22"===z8){w="Sayada"
-break F}if("state.cities.26.23"===z8){w="Sidi Ali"
-break F}if("state.cities.26.24"===z8){w="Sidi Belaattar"
-break F}if("state.cities.26.25"===z8){w=y1
-break F}if("state.cities.26.26"===z8){w="Sirat"
-break F}if("state.cities.26.27"===z8){w="Souaflia"
-break F}if("state.cities.26.28"===z8){w="Sour"
-break F}if("state.cities.26.29"===z8){w="Stidia"
-break F}if("state.cities.26.30"===z8){w="Tazgait"
-break F}if("state.cities.26.31"===z8){w="Touahria"
-break F}if("state.cities.27.0"===z8){w="Ain El Hadjel"
-break F}if("state.cities.27.1"===z8){w="Ain El Melh"
-break F}if("state.cities.27.2"===z8){w=y2
-break F}if("state.cities.27.3"===z8){w="Ain Khadra"
-break F}if("state.cities.27.4"===z8){w="Ain Rich"
-break F}if("state.cities.27.5"===z8){w="Belaiba"
-break F}if("state.cities.27.6"===z8){w="Ben Srour"
-break F}if("state.cities.27.7"===z8){w="Beni Ilmane"
-break F}if("state.cities.27.8"===z8){w="Benzouh"
-break F}if("state.cities.27.9"===z8){w="Berhoum"
-break F}if("state.cities.27.10"===z8){w="Bir Foda"
-break F}if("state.cities.27.11"===z8){w="Bou Saada"
-break F}if("state.cities.27.12"===z8){w="Bouti Sayeh"
-break F}if("state.cities.27.13"===z8){w="Chellal"
-break F}if("state.cities.27.14"===z8){w="Dehahna"
-break F}if("state.cities.27.15"===z8){w="Djebel Messaad"
-break F}if("state.cities.27.16"===z8){w="El Hamel"
-break F}if("state.cities.27.17"===z8){w="El Houamed"
-break F}if("state.cities.27.18"===z8){w="Hammam Dalaa"
-break F}if("state.cities.27.19"===z8){w="Khettouti Sed El Jir"
-break F}if("state.cities.27.20"===z8){w="Khoubana"
-break F}if("state.cities.27.21"===z8){w="M'cif"
-break F}if("state.cities.27.22"===z8){w="M'sila"
-break F}if("state.cities.27.23"===z8){w="M'tarfa"
-break F}if("state.cities.27.24"===z8){w="Maadid"
-break F}if("state.cities.27.25"===z8){w="Maarif"
-break F}if("state.cities.27.26"===z8){w="Magra"
-break F}if("state.cities.27.27"===z8){w="Medjedel"
-break F}if("state.cities.27.28"===z8){w="Menaa"
-break F}if("state.cities.27.29"===z8){w="Mohamed Boudiaf"
-break F}if("state.cities.27.30"===z8){w="Ouanougha"
-break F}if("state.cities.27.31"===z8){w="Ouled Addi Guebala"
-break F}if("state.cities.27.32"===z8){w="Ouled Derradj"
-break F}if("state.cities.27.33"===z8){w="Ouled Madhi"
-break F}if("state.cities.27.34"===z8){w="Ouled Mansour"
-break F}if("state.cities.27.35"===z8){w=y3
-break F}if("state.cities.27.36"===z8){w="Ouled Slimane"
-break F}if("state.cities.27.37"===z8){w="Oulteme"
-break F}if("state.cities.27.38"===z8){w="Sidi Aissa"
-break F}if("state.cities.27.39"===z8){w=y4
-break F}if("state.cities.27.40"===z8){w="Sidi Hadjeres"
-break F}if("state.cities.27.41"===z8){w=x3
-break F}if("state.cities.27.42"===z8){w="Slim"
-break F}if("state.cities.27.43"===z8){w="Souamaa"
-break F}if("state.cities.27.44"===z8){w="Tamsa"
-break F}if("state.cities.27.45"===z8){w="Tarmount"
-break F}if("state.cities.27.46"===z8){w="Zarzour"
-break F}if("state.cities.28.0"===z8){w=y2
-break F}if("state.cities.28.1"===z8){w="Ain Fekan"
-break F}if("state.cities.28.2"===z8){w="Ain Ferah"
-break F}if("state.cities.28.3"===z8){w="Ain Frass"
-break F}if("state.cities.28.4"===z8){w="Alaimia"
-break F}if("state.cities.28.5"===z8){w="Aouf"
-break F}if("state.cities.28.6"===z8){w="Benian"
-break F}if("state.cities.28.7"===z8){w="Bou Henni"
-break F}if("state.cities.28.8"===z8){w="Bouhanifia"
-break F}if("state.cities.28.9"===z8){w="Chorfa"
-break F}if("state.cities.28.10"===z8){w="El Bordj"
-break F}if("state.cities.28.11"===z8){w="El Gaada"
-break F}if("state.cities.28.12"===z8){w="El Ghomri"
-break F}if("state.cities.28.13"===z8){w="El Gueitena"
-break F}if("state.cities.28.14"===z8){w="El Hachem"
-break F}if("state.cities.28.15"===z8){w="El Keurt"
-break F}if("state.cities.28.16"===z8){w="El Mamounia"
-break F}if("state.cities.28.17"===z8){w="El Menaouer"
-break F}if("state.cities.28.18"===z8){w="Ferraguig"
-break F}if("state.cities.28.19"===z8){w="Froha"
-break F}if("state.cities.28.20"===z8){w="Gharrous"
-break F}if("state.cities.28.21"===z8){w="Ghriss"
-break F}if("state.cities.28.22"===z8){w="Guerdjoum"
-break F}if("state.cities.28.23"===z8){w="Hacine"
-break F}if("state.cities.28.24"===z8){w="Khalouia"
-break F}if("state.cities.28.25"===z8){w="Makhda"
-break F}if("state.cities.28.26"===z8){w="Maoussa"
-break F}if("state.cities.28.27"===z8){w="Mascara"
-break F}if("state.cities.28.28"===z8){w="Matemore"
-break F}if("state.cities.28.29"===z8){w="Mocta Douz"
-break F}if("state.cities.28.30"===z8)break F
-if("state.cities.28.31"===z8){w="Nesmot"
-break F}if("state.cities.28.32"===z8){w="Oggaz"
-break F}if("state.cities.28.33"===z8){w="Oued El Abtal"
-break F}if("state.cities.28.34"===z8){w="Oued Taria"
-break F}if("state.cities.28.35"===z8){w="Ras El Ain Amirouche"
-break F}if("state.cities.28.36"===z8){w="Sedjerara"
-break F}if("state.cities.28.37"===z8){w="Sehailia"
-break F}if("state.cities.28.38"===z8){w="Sidi Abdeldjebar"
-break F}if("state.cities.28.39"===z8){w="Sidi Abdelmoumene"
-break F}if("state.cities.28.40"===z8){w="Sidi Boussaid"
-break F}if("state.cities.28.41"===z8){w="Sidi Kada"
-break F}if("state.cities.28.42"===z8){w="Sig"
-break F}if("state.cities.28.43"===z8){w="Tighennif"
-break F}if("state.cities.28.44"===z8){w="Tizi"
-break F}if("state.cities.28.45"===z8){w="Zahana"
-break F}if("state.cities.28.46"===z8){w="Zelamta"
-break F}if("state.cities.29.0"===z8){w=w4
-break F}if("state.cities.29.1"===z8){w="El Borma"
-break F}if("state.cities.29.2"===z8){w="Hassi Ben Abdellah"
-break F}if("state.cities.29.3"===z8){w="Hassi Messaoud"
-break F}if("state.cities.29.4"===z8){w="N'goussa"
-break F}if("state.cities.29.5"===z8){w="Ouargla"
-break F}if("state.cities.29.6"===z8){w="Rouissat"
-break F}if("state.cities.29.7"===z8){w="Sidi Khouiled"
-break F}if("state.cities.30.0"===z8){w="Ain Biya"
-break F}if("state.cities.30.1"===z8){w=y5
-break F}if("state.cities.30.2"===z8){w=w8
-break F}if("state.cities.30.3"===z8){w="Arzew"
-break F}if("state.cities.30.4"===z8){w="Ben Freha"
-break F}if("state.cities.30.5"===z8){w="Bethioua"
-break F}if("state.cities.30.6"===z8){w="Bir El Djir"
-break F}if("state.cities.30.7"===z8){w="Boufatis"
-break F}if("state.cities.30.8"===z8){w="Bousfer"
-break F}if("state.cities.30.9"===z8){w="Boutlelis"
+break E}if(w==null)F:{w="Sidi M'hamed"
+if("state.cities.14.65"===aa3){w="Yakourene"
+break F}if("state.cities.14.66"===aa3){w="Yatafene"
+break F}if("state.cities.14.67"===aa3){w="Zekri"
+break F}if("state.cities.15.0"===aa3){w=x8
+break F}if("state.cities.15.1"===aa3){w="Ain Taya"
+break F}if("state.cities.15.2"===aa3){w="Alger Centre"
+break F}if("state.cities.15.3"===aa3){w="Bab El Oued"
+break F}if("state.cities.15.4"===aa3){w="Bab Ezzouar"
+break F}if("state.cities.15.5"===aa3){w="Baba Hesen"
+break F}if("state.cities.15.6"===aa3){w="Bachedjerah"
+break F}if("state.cities.15.7"===aa3){w="Bains Romains"
+break F}if("state.cities.15.8"===aa3){w="Baraki"
+break F}if("state.cities.15.9"===aa3){w="Ben Aknoun"
+break F}if("state.cities.15.10"===aa3){w="Beni Messous"
+break F}if("state.cities.15.11"===aa3){w="Bir Mourad Rais"
+break F}if("state.cities.15.12"===aa3){w="Bir Touta"
+break F}if("state.cities.15.13"===aa3){w="Birkhadem"
+break F}if("state.cities.15.14"===aa3){w="Bologhine Ibnou Ziri"
+break F}if("state.cities.15.15"===aa3){w="Bordj El Bahri"
+break F}if("state.cities.15.16"===aa3){w="Bordj El Kiffan"
+break F}if("state.cities.15.17"===aa3){w="Bourouba"
+break F}if("state.cities.15.18"===aa3){w="Bouzareah"
+break F}if("state.cities.15.19"===aa3){w="Casbah"
+break F}if("state.cities.15.20"===aa3){w="Cheraga"
+break F}if("state.cities.15.21"===aa3){w="Dar El Beida"
+break F}if("state.cities.15.22"===aa3){w="Dely Ibrahim"
+break F}if("state.cities.15.23"===aa3){w="Djasr Kasentina"
+break F}if("state.cities.15.24"===aa3){w="Douira"
+break F}if("state.cities.15.25"===aa3){w="Draria"
+break F}if("state.cities.15.26"===aa3){w="El Achour"
+break F}if("state.cities.15.27"===aa3){w="El Biar"
+break F}if("state.cities.15.28"===aa3){w="El Harrach"
+break F}if("state.cities.15.29"===aa3){w="El Madania"
+break F}if("state.cities.15.30"===aa3){w="El Magharia"
+break F}if("state.cities.15.31"===aa3){w="El Merssa"
+break F}if("state.cities.15.32"===aa3){w="El Mouradia"
+break F}if("state.cities.15.33"===aa3){w="Herraoua"
+break F}if("state.cities.15.34"===aa3){w="Hussein Dey"
+break F}if("state.cities.15.35"===aa3){w="Hydra"
+break F}if("state.cities.15.36"===aa3){w="Kheraisia"
+break F}if("state.cities.15.37"===aa3){w="Kouba"
+break F}if("state.cities.15.38"===aa3){w="Les Eucalyptus"
+break F}if("state.cities.15.39"===aa3){w="Maalma"
+break F}if("state.cities.15.40"===aa3){w="Mohamed Belouzdad"
+break F}if("state.cities.15.41"===aa3){w=x9
+break F}if("state.cities.15.42"===aa3){w="Oued Koriche"
+break F}if("state.cities.15.43"===aa3){w="Oued Smar"
+break F}if("state.cities.15.44"===aa3){w="Ouled Chebel"
+break F}if("state.cities.15.45"===aa3){w="Ouled Fayet"
+break F}if("state.cities.15.46"===aa3){w="Rahmania"
+break F}if("state.cities.15.47"===aa3){w="Rais Hamidou"
+break F}if("state.cities.15.48"===aa3){w="Reghaia"
+break F}if("state.cities.15.49"===aa3){w="Rouiba"
+break F}if("state.cities.15.50"===aa3){w="Sehaoula"
+break F}if("state.cities.15.51"===aa3){w="Setaouali"
+break F}if("state.cities.15.52"===aa3)break F
+if("state.cities.15.53"===aa3){w="Sidi Moussa"
+break F}if("state.cities.15.54"===aa3){w="Souidania"
+break F}if("state.cities.15.55"===aa3){w="Tessala El Merdja"
+break F}if("state.cities.15.56"===aa3){w="Zeralda"
+break F}if("state.cities.16.0"===aa3){w="Ain Chouhada"
+break F}if("state.cities.16.1"===aa3){w="Ain El Ibel"
+break F}if("state.cities.16.2"===aa3){w="Ain Fekka"
+break F}if("state.cities.16.3"===aa3){w="Ain Maabed"
+break F}if("state.cities.16.4"===aa3){w="Ain Oussera"
+break F}if("state.cities.16.5"===aa3){w="Amourah"
+break F}if("state.cities.16.6"===aa3){w="Benhar"
+break F}if("state.cities.16.7"===aa3){w="Benyagoub"
+break F}if("state.cities.16.8"===aa3){w="Birine"
+break F}if("state.cities.16.9"===aa3){w="Bouira Lahdab"
+break F}if("state.cities.16.10"===aa3){w="Charef"
+break F}if("state.cities.16.11"===aa3){w="Dar Chioukh"
+break F}if("state.cities.16.12"===aa3){w="Deldoul"
+break F}if("state.cities.16.13"===aa3){w="Djelfa"
+break F}if("state.cities.16.14"===aa3){w="Douis"
+break F}if("state.cities.16.15"===aa3){w="El Guedid"
+break F}if("state.cities.16.16"===aa3){w="El Idrissia"
+break F}if("state.cities.16.17"===aa3){w="El Khemis"
+break F}if("state.cities.16.18"===aa3){w="Faidh El Botma"
+break F}if("state.cities.16.19"===aa3){w="Guernini"
+break F}if("state.cities.16.20"===aa3){w="Guettara"
+break F}if("state.cities.16.21"===aa3){w="Had Sahary"
+break F}if("state.cities.16.22"===aa3){w="Hassi Bahbah"
+break F}if("state.cities.16.23"===aa3){w="Hassi El Euch"
+break F}if("state.cities.16.24"===aa3){w="Hassi Fedoul"
+break F}if("state.cities.16.25"===aa3){w="M Liliha"
+break F}if("state.cities.16.26"===aa3){w="Messaad"
+break F}if("state.cities.16.27"===aa3){w="Moudjebara"
+break F}if("state.cities.16.28"===aa3){w="Oum Laadham"
+break F}if("state.cities.16.29"===aa3){w="Sed Rahal"
+break F}if("state.cities.16.30"===aa3){w="Selmana"
+break F}if("state.cities.16.31"===aa3){w="Sidi Baizid"
+break F}if("state.cities.16.32"===aa3){w="Sidi Ladjel"
+break F}if("state.cities.16.33"===aa3){w="Tadmit"
+break F}if("state.cities.16.34"===aa3){w="Zaafrane"
+break F}if("state.cities.16.35"===aa3){w="Zaccar"
+break F}if("state.cities.17.0"===aa3){w="Bordj Tahar"
+break F}if("state.cities.17.1"===aa3){w="Boudria Beniyadjis"
+break F}if("state.cities.17.2"===aa3){w="Bouraoui Belhadef"
+break F}if("state.cities.17.3"===aa3){w="Boussif Ouled Askeur"
+break F}if("state.cities.17.4"===aa3){w="Chahna"
+break F}if("state.cities.17.5"===aa3){w="Chekfa"
+break F}if("state.cities.17.6"===aa3){w="Djemaa Beni Habibi"
+break F}if("state.cities.17.7"===aa3){w="Djimla"
+break F}if("state.cities.17.8"===aa3){w="El Ancer"
+break F}if("state.cities.17.9"===aa3){w="El Aouana"
+break F}if("state.cities.17.10"===aa3){w="El Kennar Nouchfi"
+break F}if("state.cities.17.11"===aa3){w="El Milia"
+break F}if("state.cities.17.12"===aa3){w=y0
+break F}if("state.cities.17.13"===aa3){w="Erraguene"
+break F}if("state.cities.17.14"===aa3){w="Ghebala"
+break F}if("state.cities.17.15"===aa3){w="Jijel"
+break F}if("state.cities.17.16"===aa3){w="Khiri Oued Adjoul"
+break F}if("state.cities.17.17"===aa3){w="Kouas"
+break F}if("state.cities.17.18"===aa3){w="Oudjana"
+break F}if("state.cities.17.19"===aa3){w="Ouled Rabah"
+break F}if("state.cities.17.20"===aa3){w="Ouled Yahia Khadrouch"
+break F}if("state.cities.17.21"===aa3){w="Selma Benziada"
+break F}if("state.cities.17.22"===aa3){w="Settara"
+break F}if("state.cities.17.23"===aa3){w="Sidi Abdelaziz"
+break F}if("state.cities.17.24"===aa3){w="Sidi Marouf"
+break F}if("state.cities.17.25"===aa3){w="Taher"
+break F}if("state.cities.17.26"===aa3){w="Texena"
+break F}if("state.cities.17.27"===aa3){w="Ziama Mansouria"
+break F}if("state.cities.18.0"===aa3){w="Ain Abessa"
+break F}if("state.cities.18.1"===aa3){w="Ain Arnat"
+break F}if("state.cities.18.2"===aa3){w="Ain Azel"
+break F}if("state.cities.18.3"===aa3){w="Ain El Kebira"
+break F}if("state.cities.18.4"===aa3){w="Ain Lahdjar"
+break F}if("state.cities.18.5"===aa3){w="Ain Legradj"
+break F}if("state.cities.18.6"===aa3){w="Ain Oulmane"
+break F}if("state.cities.18.7"===aa3){w="Ain Roua"
+break F}if("state.cities.18.8"===aa3){w="Ain Sebt"
+break F}if("state.cities.18.9"===aa3){w="Ait Naoual Mezada"
+break F}if("state.cities.18.10"===aa3){w="Ait Tizi"
+break F}if("state.cities.18.11"===aa3){w="Amoucha"
+break F}if("state.cities.18.12"===aa3){w="Babor"
+break F}if("state.cities.18.13"===aa3){w="Bazer Sakra"
+break F}if("state.cities.18.14"===aa3){w="Beidha Bordj"
+break F}if("state.cities.18.15"===aa3){w="Bellaa"
+break F}if("state.cities.18.16"===aa3){w="Beni Aziz"
+break F}if("state.cities.18.17"===aa3){w="Beni Chebana"
+break F}if("state.cities.18.18"===aa3){w="Beni Fouda"
+break F}if("state.cities.18.19"===aa3){w="Beni Mouhli"
+break F}if("state.cities.18.20"===aa3){w="Beni Ouartilane"
+break F}if("state.cities.18.21"===aa3){w="Beni Oussine"
+break F}if("state.cities.18.22"===aa3){w="Bir El Arch"
+break F}if("state.cities.18.23"===aa3){w="Bir Haddada"
+break F}if("state.cities.18.24"===aa3){w="Bouandas"
+break F}if("state.cities.18.25"===aa3){w="Bougaa"
+break F}if("state.cities.18.26"===aa3){w="Bousselam"
+break F}if("state.cities.18.27"===aa3){w="Boutaleb"
+break F}if("state.cities.18.28"===aa3){w="Dehamcha"
+break F}if("state.cities.18.29"===aa3){w="Djemila"
+break F}if("state.cities.18.30"===aa3){w="Draa Kebila"
+break F}if("state.cities.18.31"===aa3){w="El Eulma"
+break F}if("state.cities.18.32"===aa3){w=y1
+break F}if("state.cities.18.33"===aa3){w="El Ouricia"
+break F}if("state.cities.18.34"===aa3){w="Guellal"
+break F}if("state.cities.18.35"===aa3){w="Guelta Zerka"
+break F}if("state.cities.18.36"===aa3){w="Guenzet"
+break F}if("state.cities.18.37"===aa3){w="Guidjel"
+break F}if("state.cities.18.38"===aa3){w="Hamam Soukhna"
+break F}if("state.cities.18.39"===aa3){w="Hamma"
+break F}if("state.cities.18.40"===aa3){w="Hammam Guergour"
+break F}if("state.cities.18.41"===aa3){w="Harbil"
+break F}if("state.cities.18.42"===aa3){w="Ksar El Abtal"
+break F}if("state.cities.18.43"===aa3){w="Maaouia"
+break F}if("state.cities.18.44"===aa3){w="Maouaklane"
+break F}if("state.cities.18.45"===aa3){w="Mezloug"
+break F}if("state.cities.18.46"===aa3){w="Oued El Barad"
+break F}if("state.cities.18.47"===aa3){w="Ouled Addouane"
+break F}if("state.cities.18.48"===aa3){w="Ouled Sabor"
+break F}if("state.cities.18.49"===aa3){w="Ouled Si Ahmed"
+break F}if("state.cities.18.50"===aa3){w="Ouled Tebben"
+break F}if("state.cities.18.51"===aa3){w="Rosfa"
+break F}if("state.cities.18.52"===aa3){w="Salah Bey"
+break F}if("state.cities.18.53"===aa3){w="Serdj El Ghoul"
+break F}if("state.cities.18.54"===aa3){w="Setif"
+break F}if("state.cities.18.55"===aa3){w="Tachouda"
+break F}if("state.cities.18.56"===aa3){w="Tala Ifacene"
+break F}if("state.cities.18.57"===aa3){w="Taya"
+break F}if("state.cities.18.58"===aa3){w="Tella"
+break F}if("state.cities.18.59"===aa3){w="Tizi N'bechar"
+break F}if("state.cities.19.0"===aa3){w=x3
+break F}if("state.cities.19.1"===aa3){w="Ain Sekhouna"
+break F}if("state.cities.19.2"===aa3){w=y2
+break F}if("state.cities.19.3"===aa3){w="Doui Thabet"
+break F}if("state.cities.19.4"===aa3){w="El Hassasna"
+break F}if("state.cities.19.5"===aa3){w="Hounet"
+break F}if("state.cities.19.6"===aa3){w="Maamora"
+break F}if("state.cities.19.7"===aa3){w="Moulay Larbi"
+break F}if("state.cities.19.8"===aa3){w=y3
+break F}if("state.cities.19.9"===aa3){w="Ouled Khaled"
+break F}if("state.cities.19.10"===aa3){w="Saida"
+break F}if("state.cities.19.11"===aa3){w="Sidi Ahmed"
+break F}if("state.cities.19.12"===aa3){w=y4
+break F}if("state.cities.19.13"===aa3){w="Sidi Boubekeur"
+break F}if("state.cities.19.14"===aa3){w="Tircine"
+break F}if("state.cities.19.15"===aa3){w="Youb"
+break F}if("state.cities.20.0"===aa3){w="Ain Bouziane"
+break F}if("state.cities.20.1"===aa3){w="Ain Charchar"
+break F}if("state.cities.20.2"===aa3){w="Ain Kechera"
+break F}if("state.cities.20.3"===aa3){w="Ain Zouit"
+break F}if("state.cities.20.4"===aa3){w="Azzaba"
+break F}if("state.cities.20.5"===aa3){w="Bekkouche Lakhdar"
+break F}if("state.cities.20.6"===aa3){w="Ben Azzouz"
+break F}if("state.cities.20.7"===aa3){w="Beni Bechir"
+break F}if("state.cities.20.8"===aa3){w="Beni Oulbane"
+break F}if("state.cities.20.9"===aa3){w="Beni Zid"
+break F}if("state.cities.20.10"===aa3){w="Bin El Ouiden"
+break F}if("state.cities.20.11"===aa3){w="Bouchetata"
+break F}if("state.cities.20.12"===aa3){w="Cheraia"
+break F}if("state.cities.20.13"===aa3){w="Collo"
+break F}if("state.cities.20.14"===aa3){w="Djendel Saadi Mohamed"
+break F}if("state.cities.20.15"===aa3){w="El Arrouch"
+break F}if("state.cities.20.16"===aa3){w="El Ghedir"
+break F}if("state.cities.20.17"===aa3){w="El Hadaiek"
+break F}if("state.cities.20.18"===aa3){w=w8
+break F}if("state.cities.20.19"===aa3){w="Emjez Edchich"
+break F}if("state.cities.20.20"===aa3){w="Es Sebt"
+break F}if("state.cities.20.21"===aa3){w="Filfila"
+break F}if("state.cities.20.22"===aa3){w="Hamadi Krouma"
+break F}if("state.cities.20.23"===aa3){w="Kanoua"
+break F}if("state.cities.20.24"===aa3){w="Kerkera"
+break F}if("state.cities.20.25"===aa3){w="Khenag Mayoum"
+break F}if("state.cities.20.26"===aa3){w="Oued Zhour"
+break F}if("state.cities.20.27"===aa3){w="Ouldja Boulbalout"
+break F}if("state.cities.20.28"===aa3){w="Ouled Attia"
+break F}if("state.cities.20.29"===aa3){w="Ouled Habbeba"
+break F}if("state.cities.20.30"===aa3){w="Oum Toub"
+break F}if("state.cities.20.31"===aa3){w="Ramdane Djamel"
+break F}if("state.cities.20.32"===aa3){w="Salah Bouchaour"
+break F}if("state.cities.20.33"===aa3){w="Sidi Mezghiche"
+break F}if("state.cities.20.34"===aa3){w="Skikda"
+break F}if("state.cities.20.35"===aa3){w="Tamalous"
+break F}if("state.cities.20.36"===aa3){w="Zerdezas"
+break F}if("state.cities.20.37"===aa3){w="Zitouna"
+break F}if("state.cities.21.0"===aa3){w="Ain Adden"
+break F}if("state.cities.21.1"===aa3){w="Ain El Berd"
+break F}if("state.cities.21.2"===aa3){w="Ain Kada"
+break F}if("state.cities.21.3"===aa3){w="Ain Thrid"
+break F}if("state.cities.21.4"===aa3){w="Ain Tindamine"
+break F}if("state.cities.21.5"===aa3){w="Amarnas"
+break F}if("state.cities.21.6"===aa3){w="Badredine El Mokrani"
+break F}if("state.cities.21.7"===aa3){w="Belarbi"
+break F}if("state.cities.21.8"===aa3){w=y5
+break F}if("state.cities.21.9"===aa3){w="Benachiba Chelia"
+break F}if("state.cities.21.10"===aa3){w="Bir El Hammam"
+break F}if("state.cities.21.11"===aa3){w="Boudjebaa El Bordj"
+break F}if("state.cities.21.12"===aa3){w="Boukhanafis"
+break F}if("state.cities.21.13"===aa3){w="Chetouane Belaila"
+break F}if("state.cities.21.14"===aa3){w="Dhaya"
+break F}if("state.cities.21.15"===aa3){w="El Hacaiba"
+break F}if("state.cities.21.16"===aa3){w="Hassi Dahou"
+break F}if("state.cities.21.17"===aa3){w="Hassi Zahana"
+break F}if("state.cities.21.18"===aa3){w="Lamtar"
+break F}if("state.cities.21.19"===aa3){w="M'cid"
+break F}if("state.cities.21.20"===aa3){w="Makedra"
+break F}if("state.cities.21.21"===aa3){w="Marhoum"
+break F}if("state.cities.21.22"===aa3){w="Merine"
+break F}if("state.cities.21.23"===aa3){w="Mezaourou"
+break F}if("state.cities.21.24"===aa3){w="Mostefa Ben Brahim"
+break F}if("state.cities.21.25"===aa3){w="Moulay Slissen"
+break F}if("state.cities.21.26"===aa3){w="Oued Sebaa"
+break F}if("state.cities.21.27"===aa3){w="Oued Sefioun"
+break F}if("state.cities.21.28"===aa3){w="Oued Taourira"
+break F}if("state.cities.21.29"===aa3){w="Ras El Ma"
+break F}if("state.cities.21.30"===aa3){w="Redjem Demouche"
+break F}if("state.cities.21.31"===aa3){w="Sehala Thaoura"
+break F}if("state.cities.21.32"===aa3){w="Sfissef"
+break F}if("state.cities.21.33"===aa3){w="Sidi Ali Benyoub"
+break F}if("state.cities.21.34"===aa3){w="Sidi Ali Boussidi"
+break F}if("state.cities.21.35"===aa3){w="Sidi Bel Abbes"
+break F}if("state.cities.21.36"===aa3){w="Sidi Brahim"
+break F}if("state.cities.21.37"===aa3){w="Sidi Chaib"
+break F}if("state.cities.21.38"===aa3){w="Sidi Dahou Zairs"
+break F}if("state.cities.21.39"===aa3){w="Sidi Hamadouche"
+break F}if("state.cities.21.40"===aa3){w=y6
+break F}if("state.cities.21.41"===aa3){w="Sidi Lahcene"
+break F}if("state.cities.21.42"===aa3){w="Sidi Yacoub"
+break F}if("state.cities.21.43"===aa3){w="Tabia"
+break F}if("state.cities.21.44"===aa3){w="Tafissour"
+break F}if("state.cities.21.45"===aa3){w="Taoudmout"
+break F}if("state.cities.21.46"===aa3){w="Teghalimet"
+break F}if("state.cities.21.47"===aa3){w="Telagh"
+break F}if("state.cities.21.48"===aa3){w="Tenira"
+break F}if("state.cities.21.49"===aa3){w="Tessala"
+break F}if("state.cities.21.50"===aa3){w="Tilmouni"
+break F}if("state.cities.21.51"===aa3){w="Zerouala"
+break F}if("state.cities.22.0"===aa3){w="Ain Berda"
+break F}if("state.cities.22.1"===aa3){w="Annaba"
+break F}if("state.cities.22.2"===aa3){w="Berrahel"
+break F}if("state.cities.22.3"===aa3){w="Chetaibi"
+break F}if("state.cities.22.4"===aa3){w="Cheurfa"
+break F}if("state.cities.22.5"===aa3){w="El Bouni"
+break F}if("state.cities.22.6"===aa3){w="El Hadjar"
+break F}if("state.cities.22.7"===aa3){w="Eulma"
+break F}if("state.cities.22.8"===aa3){w="Oued El Aneb"
+break F}if("state.cities.22.9"===aa3){w="Seraidi"
+break F}if("state.cities.22.10"===aa3){w=y4
+break F}if("state.cities.22.11"===aa3){w="Treat"
+break F}if("state.cities.23.0"===aa3){w="Ain Ben Beida"
+break F}if("state.cities.23.1"===aa3){w="Ain Hessania"
+break F}if("state.cities.23.2"===aa3){w="Ain Larbi"
+break F}if("state.cities.23.3"===aa3){w="Ain Makhlouf"
+break F}if("state.cities.23.4"===aa3){w="Ain Reggada"
+break F}if("state.cities.23.5"===aa3){w="Belkheir"
+break F}if("state.cities.23.6"===aa3){w="Ben Djarah"
+break F}if("state.cities.23.7"===aa3){w="Beni Mezline"
+break F}if("state.cities.23.8"===aa3){w="Bordj Sabat"
+break F}if("state.cities.23.9"===aa3){w="Bou Hachana"
+break F}if("state.cities.23.10"===aa3){w="Bou Hamdane"
+break F}if("state.cities.23.11"===aa3){w="Bouati Mahmoud"
+break F}if("state.cities.23.12"===aa3){w="Bouchegouf"
+break F}if("state.cities.23.13"===aa3){w="Bouhamra Ahmed"
+break F}if("state.cities.23.14"===aa3){w="Dahouara"
+break F}if("state.cities.23.15"===aa3){w="Djeballah Khemissi"
+break F}if("state.cities.23.16"===aa3){w="El Fedjoudj"
+break F}if("state.cities.23.17"===aa3){w="Guelaat Bou Sbaa"
+break F}if("state.cities.23.18"===aa3){w="Guelma"
+break F}if("state.cities.23.19"===aa3){w="Hamam Debagh"
+break F}if("state.cities.23.20"===aa3){w="Hammam N'bail"
+break F}if("state.cities.23.21"===aa3){w="Heliopolis"
+break F}if("state.cities.23.22"===aa3){w="Khezara"
+break F}if("state.cities.23.23"===aa3){w="Medjez Amar"
+break F}if("state.cities.23.24"===aa3){w="Medjez Sfa"
+break F}if("state.cities.23.25"===aa3){w="Nechmaya"
+break F}if("state.cities.23.26"===aa3){w="Oued Cheham"
+break F}if("state.cities.23.27"===aa3){w="Oued Fragha"
+break F}if("state.cities.23.28"===aa3){w="Oued Zenati"
+break F}if("state.cities.23.29"===aa3){w="Ras El Agba"
+break F}if("state.cities.23.30"===aa3){w="Roknia"
+break F}if("state.cities.23.31"===aa3){w="Sellaoua Announa"
+break F}if("state.cities.23.32"===aa3){w="Sidi Sandel"
+break F}if("state.cities.23.33"===aa3){w="Tamlouka"
+break F}if("state.cities.24.0"===aa3){w="Ain Abid"
+break F}if("state.cities.24.1"===aa3){w="Ain Smara"
+break F}if("state.cities.24.2"===aa3){w=y5
+break F}if("state.cities.24.3"===aa3){w="Beni Hamidene"
+break F}if("state.cities.24.4"===aa3){w=v9
+break F}if("state.cities.24.5"===aa3){w="Didouche Mourad"
+break F}if("state.cities.24.6"===aa3){w="El Khroub"
+break F}if("state.cities.24.7"===aa3){w="Hamma Bouziane"
+break F}if("state.cities.24.8"===aa3){w="Ibn Ziad"
+break F}if("state.cities.24.9"===aa3){w="Messaoud Boujeriou"
+break F}if("state.cities.24.10"===aa3){w="Ouled Rahmouni"
+break F}if("state.cities.24.11"===aa3){w="Zighoud Youcef"
+break F}if("state.cities.25.0"===aa3){w="Ain Boucif"
+break F}if("state.cities.25.1"===aa3){w="Ain Ouksir"
+break F}if("state.cities.25.2"===aa3){w="Aissaouia"
+break F}if("state.cities.25.3"===aa3){w="Aziz"
+break F}if("state.cities.25.4"===aa3){w="Baata"
+break F}if("state.cities.25.5"===aa3){w="Ben Chicao"
+break F}if("state.cities.25.6"===aa3){w="Beni Slimane"
+break F}if("state.cities.25.7"===aa3){w="Berrouaghia"
+break F}if("state.cities.25.8"===aa3){w="Bir Ben Laabed"
+break F}if("state.cities.25.9"===aa3){w="Boghar"
+break F}if("state.cities.25.10"===aa3){w="Bouaiche"
+break F}if("state.cities.25.11"===aa3){w="Bouaichoune"
+break F}if("state.cities.25.12"===aa3){w="Bouchrahil"
+break F}if("state.cities.25.13"===aa3){w="Boughzoul"
+break F}if("state.cities.25.14"===aa3){w="Bouskene"
+break F}if("state.cities.25.15"===aa3){w="Chabounia"
+break F}if("state.cities.25.16"===aa3){w="Chelalet El Adhaoura"
+break F}if("state.cities.25.17"===aa3){w="Cheniguel"
+break F}if("state.cities.25.18"===aa3){w="Damiat"
+break F}if("state.cities.25.19"===aa3){w="Derrag"
+break F}if("state.cities.25.20"===aa3){w="Deux Bassins"
+break F}if("state.cities.25.21"===aa3){w="Djouab"
+break F}if("state.cities.25.22"===aa3){w="Draa Essamar"
+break F}if("state.cities.25.23"===aa3){w="El Azizia"
+break F}if("state.cities.25.24"===aa3){w="El Guelbelkebir"
+break F}if("state.cities.25.25"===aa3){w="El Hamdania"
+break F}if("state.cities.25.26"===aa3){w="El Omaria"
+break F}if("state.cities.25.27"===aa3){w="El Ouinet"
+break F}if("state.cities.25.28"===aa3){w="Hannacha"
+break F}if("state.cities.25.29"===aa3){w="Kef Lakhdar"
+break F}if("state.cities.25.30"===aa3){w="Khams Djouamaa"
+break F}if("state.cities.25.31"===aa3){w="Ksar El Boukhari"
+break F}if("state.cities.25.32"===aa3){w="Maghraoua"
+break F}if("state.cities.25.33"===aa3){w="Medea"
+break F}if("state.cities.25.34"===aa3){w="Medjebar"
+break F}if("state.cities.25.35"===aa3){w="Meftaha"
+break F}if("state.cities.25.36"===aa3){w="Mezerana"
+break F}if("state.cities.25.37"===aa3){w="Mihoub"
+break F}if("state.cities.25.38"===aa3){w="Ouamri"
+break F}if("state.cities.25.39"===aa3){w="Oued Harbil"
+break F}if("state.cities.25.40"===aa3){w="Ouled Antar"
+break F}if("state.cities.25.41"===aa3){w="Ouled Bouachra"
+break F}if("state.cities.25.42"===aa3){w=y3
+break F}if("state.cities.25.43"===aa3){w="Ouled Deid"
+break F}if("state.cities.25.44"===aa3){w="Ouled Hellal"
+break F}if("state.cities.25.45"===aa3){w="Ouled Maaref"
+break F}if("state.cities.25.46"===aa3){w="Oum El Djellil"
+break F}if("state.cities.25.47"===aa3){w="Ouzera"
+break F}if("state.cities.25.48"===aa3){w="Rebaia"
+break F}if("state.cities.25.49"===aa3){w="Saneg"
+break F}if("state.cities.25.50"===aa3){w="Sedraya"
+break F}if("state.cities.25.51"===aa3){w="Seghouane"
+break F}if("state.cities.25.52"===aa3){w="Si Mahdjoub"
+break F}if("state.cities.25.53"===aa3){w="Sidi Demed"
+break F}if("state.cities.25.54"===aa3){w=x7
+break F}if("state.cities.25.55"===aa3){w="Sidi Rabie"
+break F}if("state.cities.25.56"===aa3){w="Sidi Zahar"
+break F}if("state.cities.25.57"===aa3){w="Sidi Ziane"
+break F}if("state.cities.25.58"===aa3){w="Souagui"
+break F}if("state.cities.25.59"===aa3){w="Tablat"
+break F}if("state.cities.25.60"===aa3){w="Tafraout"
+break F}if("state.cities.25.61"===aa3){w="Tamesguida"
+break F}if("state.cities.25.62"===aa3){w="Tletat Ed Douair"
+break F}if("state.cities.25.63"===aa3){w="Zoubiria"
+break F}if("state.cities.26.0"===aa3){w="Achaacha"
+break F}if("state.cities.26.1"===aa3){w="Ain Boudinar"
+break F}if("state.cities.26.2"===aa3){w="Ain Nouissy"
+break F}if("state.cities.26.3"===aa3){w="Ain Sidi Cherif"
+break F}if("state.cities.26.4"===aa3){w="Ain Tedles"
+break F}if("state.cities.26.5"===aa3){w="Benabdelmalek Ramdane"
+break F}if("state.cities.26.6"===aa3){w="Bouguirat"
+break F}if("state.cities.26.7"===aa3){w="Fornaka"
+break F}if("state.cities.26.8"===aa3){w="Hadjadj"
+break F}if("state.cities.26.9"===aa3){w="Hassi Mameche"
+break F}if("state.cities.26.10"===aa3){w="Hassiane"
+break F}if("state.cities.26.11"===aa3){w="Khadra"
+break F}if("state.cities.26.12"===aa3){w="Kheir Eddine"
+break F}if("state.cities.26.13"===aa3){w=x6
+break F}if("state.cities.26.14"===aa3){w="Mazagran"
+break F}if("state.cities.26.15"===aa3){w="Mesra"
+break F}if("state.cities.26.16"===aa3){w=w0
+break F}if("state.cities.26.17"===aa3){w="Nekmaria"
+break F}if("state.cities.26.18"===aa3){w="Oued El Kheir"
+break F}if("state.cities.26.19"===aa3){w="Ouled Boughalem"
+break F}if("state.cities.26.20"===aa3){w="Ouled Maalah"
+break F}if("state.cities.26.21"===aa3){w="Safsaf"
+break F}if("state.cities.26.22"===aa3){w="Sayada"
+break F}if("state.cities.26.23"===aa3){w="Sidi Ali"
+break F}if("state.cities.26.24"===aa3){w="Sidi Belaattar"
+break F}if("state.cities.26.25"===aa3){w=y7
+break F}if("state.cities.26.26"===aa3){w="Sirat"
+break F}if("state.cities.26.27"===aa3){w="Souaflia"
+break F}if("state.cities.26.28"===aa3){w="Sour"
+break F}if("state.cities.26.29"===aa3){w="Stidia"
+break F}if("state.cities.26.30"===aa3){w="Tazgait"
+break F}if("state.cities.26.31"===aa3){w="Touahria"
+break F}if("state.cities.27.0"===aa3){w="Ain El Hadjel"
+break F}if("state.cities.27.1"===aa3){w="Ain El Melh"
+break F}if("state.cities.27.2"===aa3){w=y8
+break F}if("state.cities.27.3"===aa3){w="Ain Khadra"
+break F}if("state.cities.27.4"===aa3){w="Ain Rich"
+break F}if("state.cities.27.5"===aa3){w="Belaiba"
+break F}if("state.cities.27.6"===aa3){w="Ben Srour"
+break F}if("state.cities.27.7"===aa3){w="Beni Ilmane"
+break F}if("state.cities.27.8"===aa3){w="Benzouh"
+break F}if("state.cities.27.9"===aa3){w="Berhoum"
+break F}if("state.cities.27.10"===aa3){w="Bir Foda"
+break F}if("state.cities.27.11"===aa3){w="Bou Saada"
+break F}if("state.cities.27.12"===aa3){w="Bouti Sayeh"
+break F}if("state.cities.27.13"===aa3){w="Chellal"
+break F}if("state.cities.27.14"===aa3){w="Dehahna"
+break F}if("state.cities.27.15"===aa3){w="Djebel Messaad"
+break F}if("state.cities.27.16"===aa3){w="El Hamel"
+break F}if("state.cities.27.17"===aa3){w="El Houamed"
+break F}if("state.cities.27.18"===aa3){w="Hammam Dalaa"
+break F}if("state.cities.27.19"===aa3){w="Khettouti Sed El Jir"
+break F}if("state.cities.27.20"===aa3){w="Khoubana"
+break F}if("state.cities.27.21"===aa3){w="M'cif"
+break F}if("state.cities.27.22"===aa3){w="M'sila"
+break F}if("state.cities.27.23"===aa3){w="M'tarfa"
+break F}if("state.cities.27.24"===aa3){w="Maadid"
+break F}if("state.cities.27.25"===aa3){w="Maarif"
+break F}if("state.cities.27.26"===aa3){w="Magra"
+break F}if("state.cities.27.27"===aa3){w="Medjedel"
+break F}if("state.cities.27.28"===aa3){w="Menaa"
+break F}if("state.cities.27.29"===aa3){w="Mohamed Boudiaf"
+break F}if("state.cities.27.30"===aa3){w="Ouanougha"
+break F}if("state.cities.27.31"===aa3){w="Ouled Addi Guebala"
+break F}if("state.cities.27.32"===aa3){w="Ouled Derradj"
+break F}if("state.cities.27.33"===aa3){w="Ouled Madhi"
+break F}if("state.cities.27.34"===aa3){w="Ouled Mansour"
+break F}if("state.cities.27.35"===aa3){w=y9
+break F}if("state.cities.27.36"===aa3){w="Ouled Slimane"
+break F}if("state.cities.27.37"===aa3){w="Oulteme"
+break F}if("state.cities.27.38"===aa3){w="Sidi Aissa"
+break F}if("state.cities.27.39"===aa3){w=z0
+break F}if("state.cities.27.40"===aa3){w="Sidi Hadjeres"
+break F}if("state.cities.27.41"===aa3)break F
+if("state.cities.27.42"===aa3){w="Slim"
+break F}if("state.cities.27.43"===aa3){w="Souamaa"
+break F}if("state.cities.27.44"===aa3){w="Tamsa"
+break F}if("state.cities.27.45"===aa3){w="Tarmount"
+break F}if("state.cities.27.46"===aa3){w="Zarzour"
+break F}if("state.cities.28.0"===aa3){w=y8
+break F}if("state.cities.28.1"===aa3){w="Ain Fekan"
+break F}if("state.cities.28.2"===aa3){w="Ain Ferah"
+break F}if("state.cities.28.3"===aa3){w="Ain Frass"
+break F}if("state.cities.28.4"===aa3){w="Alaimia"
+break F}if("state.cities.28.5"===aa3){w="Aouf"
+break F}if("state.cities.28.6"===aa3){w="Benian"
+break F}if("state.cities.28.7"===aa3){w="Bou Henni"
+break F}if("state.cities.28.8"===aa3){w="Bouhanifia"
+break F}if("state.cities.28.9"===aa3){w="Chorfa"
+break F}if("state.cities.28.10"===aa3){w="El Bordj"
+break F}if("state.cities.28.11"===aa3){w="El Gaada"
+break F}if("state.cities.28.12"===aa3){w="El Ghomri"
+break F}if("state.cities.28.13"===aa3){w="El Gueitena"
+break F}if("state.cities.28.14"===aa3){w="El Hachem"
+break F}if("state.cities.28.15"===aa3){w="El Keurt"
+break F}if("state.cities.28.16"===aa3){w="El Mamounia"
+break F}if("state.cities.28.17"===aa3){w="El Menaouer"
+break F}if("state.cities.28.18"===aa3){w="Ferraguig"
+break F}if("state.cities.28.19"===aa3){w="Froha"
+break F}if("state.cities.28.20"===aa3){w="Gharrous"
 break F}w=v
 break F}if(w==null)G:{w="Sidi Slimane"
-if("state.cities.30.10"===z8){w="El Ancar"
-break G}if("state.cities.30.11"===z8){w="El Braya"
-break G}if("state.cities.30.12"===z8){w="El Kerma"
-break G}if("state.cities.30.13"===z8){w="Es Senia"
-break G}if("state.cities.30.14"===z8){w="Gdyel"
-break G}if("state.cities.30.15"===z8){w="Hassi Ben Okba"
-break G}if("state.cities.30.16"===z8){w="Hassi Bounif"
-break G}if("state.cities.30.17"===z8){w="Hassi Mefsoukh"
-break G}if("state.cities.30.18"===z8){w="Marsat El Hadjadj"
-break G}if("state.cities.30.19"===z8){w="Mers El Kebir"
-break G}if("state.cities.30.20"===z8){w="Messerghin"
-break G}if("state.cities.30.21"===z8){w="Oran"
-break G}if("state.cities.30.22"===z8){w="Oued Tlelat"
-break G}if("state.cities.30.23"===z8){w="Sidi Ben Yebka"
-break G}if("state.cities.30.24"===z8){w="Sidi Chami"
-break G}if("state.cities.30.25"===z8){w="Tafraoui"
-break G}if("state.cities.31.0"===z8){w="Ain El Orak"
-break G}if("state.cities.31.1"===z8){w="Arbaouat"
-break G}if("state.cities.31.2"===z8){w="Boualem"
-break G}if("state.cities.31.3"===z8){w="Bougtoub"
-break G}if("state.cities.31.4"===z8){w="Boussemghoun"
-break G}if("state.cities.31.5"===z8){w="Brezina"
-break G}if("state.cities.31.6"===z8){w="Cheguig"
-break G}if("state.cities.31.7"===z8){w="Chellala"
-break G}if("state.cities.31.8"===z8){w="El Bayadh"
-break G}if("state.cities.31.9"===z8){w="El Biodh Sidi Cheikh"
-break G}if("state.cities.31.10"===z8){w="El Bnoud"
-break G}if("state.cities.31.11"===z8){w="El Kheither"
-break G}if("state.cities.31.12"===z8){w="El Mehara"
-break G}if("state.cities.31.13"===z8){w="Ghassoul"
-break G}if("state.cities.31.14"===z8){w="Kef El Ahmar"
-break G}if("state.cities.31.15"===z8){w="Krakda"
-break G}if("state.cities.31.16"===z8){w="Rogassa"
-break G}if("state.cities.31.17"===z8){w=y4
-break G}if("state.cities.31.18"===z8)break G
-if("state.cities.31.19"===z8){w="Sidi Tifour"
-break G}if("state.cities.31.20"===z8){w="Stitten"
-break G}if("state.cities.31.21"===z8){w="Tousmouline"
-break G}if("state.cities.32.0"===z8){w="Bordj Omar Driss"
-break G}if("state.cities.32.1"===z8){w="Debdeb"
-break G}if("state.cities.32.2"===z8){w="Illizi"
-break G}if("state.cities.32.3"===z8){w="In Amenas"
-break G}if("state.cities.33.0"===z8){w="Ain Taghrout"
-break G}if("state.cities.33.1"===z8){w="Ain Tesra"
-break G}if("state.cities.33.2"===z8){w="Belimour"
-break G}if("state.cities.33.3"===z8){w="Ben Daoud"
-break G}if("state.cities.33.4"===z8){w="Bir Kasdali"
-break G}if("state.cities.33.5"===z8){w="Bordj Bou Arreridj"
-break G}if("state.cities.33.6"===z8){w="Bordj Ghdir"
-break G}if("state.cities.33.7"===z8){w="Bordj Zemora"
-break G}if("state.cities.33.8"===z8){w="Colla"
-break G}if("state.cities.33.9"===z8){w="Djaafra"
-break G}if("state.cities.33.10"===z8){w="El Ach"
-break G}if("state.cities.33.11"===z8){w="El Achir"
-break G}if("state.cities.33.12"===z8){w="El Anseur"
-break G}if("state.cities.33.13"===z8){w="El Hamadia"
-break G}if("state.cities.33.14"===z8){w="El M'hir"
-break G}if("state.cities.33.15"===z8){w="El Main"
-break G}if("state.cities.33.16"===z8){w="Ghilassa"
-break G}if("state.cities.33.17"===z8){w="Haraza"
-break G}if("state.cities.33.18"===z8){w="Hasnaoua"
-break G}if("state.cities.33.19"===z8){w="Khelil"
-break G}if("state.cities.33.20"===z8){w="Ksour"
-break G}if("state.cities.33.21"===z8){w=y6
-break G}if("state.cities.33.22"===z8){w="Medjana"
-break G}if("state.cities.33.23"===z8){w="Ouled Brahem"
-break G}if("state.cities.33.24"===z8){w="Ouled Dahmane"
-break G}if("state.cities.33.25"===z8){w=y3
-break G}if("state.cities.33.26"===z8){w="Rabta"
-break G}if("state.cities.33.27"===z8){w="Ras El Oued"
-break G}if("state.cities.33.28"===z8){w="Sidi Embarek"
-break G}if("state.cities.33.29"===z8){w="Tafreg"
-break G}if("state.cities.33.30"===z8){w="Taglait"
-break G}if("state.cities.33.31"===z8){w="Teniet En Nasr"
-break G}if("state.cities.33.32"===z8){w="Tesmart"
-break G}if("state.cities.33.33"===z8){w="Tixter"
-break G}if("state.cities.34.0"===z8){w="Afir"
-break G}if("state.cities.34.1"===z8){w="Ammal"
-break G}if("state.cities.34.2"===z8){w="Baghlia"
-break G}if("state.cities.34.3"===z8){w="Ben Choud"
-break G}if("state.cities.34.4"===z8){w="Beni Amrane"
-break G}if("state.cities.34.5"===z8){w="Bordj Menaiel"
-break G}if("state.cities.34.6"===z8){w="Boudouaou"
-break G}if("state.cities.34.7"===z8){w="Boudouaou El Bahri"
-break G}if("state.cities.34.8"===z8){w=v5
-break G}if("state.cities.34.9"===z8){w="Bouzegza Keddara"
-break G}if("state.cities.34.10"===z8){w="Chabet El Ameur"
-break G}if("state.cities.34.11"===z8){w="Corso"
-break G}if("state.cities.34.12"===z8){w="Dellys"
-break G}if("state.cities.34.13"===z8){w="Djinet"
-break G}if("state.cities.34.14"===z8){w="El Kharrouba"
-break G}if("state.cities.34.15"===z8){w="Hammedi"
-break G}if("state.cities.34.16"===z8){w="Isser"
-break G}if("state.cities.34.17"===z8){w="Khemis El Khechna"
-break G}if("state.cities.34.18"===z8){w="Larbatache"
-break G}if("state.cities.34.19"===z8){w="Leghata"
-break G}if("state.cities.34.20"===z8){w="Naciria"
-break G}if("state.cities.34.21"===z8){w=y7
-break G}if("state.cities.34.22"===z8){w="Ouled Hedadj"
-break G}if("state.cities.34.23"===z8){w="Ouled Moussa"
-break G}if("state.cities.34.24"===z8){w="Si Mustapha"
-break G}if("state.cities.34.25"===z8){w="Sidi Daoud"
-break G}if("state.cities.34.26"===z8){w="Souk El Haad"
-break G}if("state.cities.34.27"===z8){w="Taourga"
-break G}if("state.cities.34.28"===z8){w="Thenia"
-break G}if("state.cities.34.29"===z8){w="Tidjelabine"
-break G}if("state.cities.34.30"===z8){w=w6
-break G}if("state.cities.34.31"===z8){w="Zemmouri"
-break G}if("state.cities.35.0"===z8){w="Ain El Assel"
-break G}if("state.cities.35.1"===z8){w=y5
-break G}if("state.cities.35.2"===z8){w="Asfour"
-break G}if("state.cities.35.3"===z8){w="Ben M Hidi"
-break G}if("state.cities.35.4"===z8){w="Berrihane"
-break G}if("state.cities.35.5"===z8){w="Besbes"
-break G}if("state.cities.35.6"===z8){w="Bougous"
-break G}if("state.cities.35.7"===z8){w="Bouhadjar"
-break G}if("state.cities.35.8"===z8){w="Bouteldja"
-break G}if("state.cities.35.9"===z8){w="Chebaita Mokhtar"
-break G}if("state.cities.35.10"===z8){w="Chefia"
-break G}if("state.cities.35.11"===z8){w="Chihani"
-break G}if("state.cities.35.12"===z8){w="Drean"
-break G}if("state.cities.35.13"===z8){w="Echatt"
-break G}if("state.cities.35.14"===z8){w="El Aioun"
-break G}if("state.cities.35.15"===z8){w="El Kala"
-break G}if("state.cities.35.16"===z8){w="El Tarf"
-break G}if("state.cities.35.17"===z8){w="Hammam Beni Salah"
-break G}if("state.cities.35.18"===z8){w="Lac Des Oiseaux"
-break G}if("state.cities.35.19"===z8){w="Oued Zitoun"
-break G}if("state.cities.35.20"===z8){w="Raml Souk"
-break G}if("state.cities.35.21"===z8){w="Souarekh"
-break G}if("state.cities.35.22"===z8){w="Zerizer"
-break G}if("state.cities.35.23"===z8){w="Zitouna"
-break G}if("state.cities.36.0"===z8){w="Oum El Assel"
-break G}if("state.cities.36.1"===z8){w="Tindouf"
-break G}if("state.cities.37.0"===z8){w="Ammari"
-break G}if("state.cities.37.1"===z8){w="Beni Chaib"
-break G}if("state.cities.37.2"===z8){w="Beni Lahcene"
-break G}if("state.cities.37.3"===z8){w="Bordj Bounaama"
-break G}if("state.cities.37.4"===z8){w="Bordj El Emir Abdelkader"
-break G}if("state.cities.37.5"===z8){w="Bou Caid"
-break G}if("state.cities.37.6"===z8){w=y8
-break G}if("state.cities.37.7"===z8){w="Larbaa"
-break G}if("state.cities.37.8"===z8){w="Lardjem"
-break G}if("state.cities.37.9"===z8){w="Layoune"
-break G}if("state.cities.37.10"===z8){w="Lazharia"
-break G}if("state.cities.37.11"===z8){w="Maacem"
-break G}if("state.cities.37.12"===z8){w="Melaab"
-break G}if("state.cities.37.13"===z8){w="Ouled Bessem"
-break G}if("state.cities.37.14"===z8){w="Sidi Abed"
-break G}if("state.cities.37.15"===z8){w="Sidi Boutouchent"
-break G}if("state.cities.37.16"===z8){w="Sidi Lantri"
-break G}if("state.cities.37.17"===z8)break G
-if("state.cities.37.18"===z8){w="Tamellalet"
-break G}if("state.cities.37.19"===z8){w="Theniet El Had"
-break G}if("state.cities.37.20"===z8){w=v6
-break G}if("state.cities.37.21"===z8){w="Youssoufia"
-break G}if("state.cities.38.0"===z8){w="Bayadha"
-break G}if("state.cities.38.1"===z8){w="Ben Guecha"
-break G}if("state.cities.38.2"===z8){w="Debila"
-break G}if("state.cities.38.3"===z8){w="Douar El Maa"
-break G}if("state.cities.38.4"===z8){w="El Ogla"
-break G}if("state.cities.38.5"===z8){w="El Oued"
-break G}if("state.cities.38.6"===z8){w="Guemar"
-break G}if("state.cities.38.7"===z8){w="Hamraia"
-break G}if("state.cities.38.8"===z8){w="Hassani Abdelkrim"
-break G}if("state.cities.38.9"===z8){w="Hassi Khalifa"
-break G}if("state.cities.38.10"===z8){w="Kouinine"
-break G}if("state.cities.38.11"===z8){w="Magrane"
-break G}if("state.cities.38.12"===z8){w="Mih Ouansa"
-break G}if("state.cities.38.13"===z8){w="Nakhla"
-break G}if("state.cities.38.14"===z8){w="Oued El Alenda"
-break G}if("state.cities.38.15"===z8){w="Ourmes"
-break G}if("state.cities.38.16"===z8){w="Reguiba"
-break G}if("state.cities.38.17"===z8){w="Robbah"
-break G}if("state.cities.38.18"===z8){w="Sidi Aoun"
-break G}if("state.cities.38.19"===z8){w=w9
-break G}if("state.cities.38.20"===z8){w="Taleb Larbi"
-break G}if("state.cities.38.21"===z8){w="Trifaoui"
-break G}if("state.cities.39.0"===z8){w="Ain Touila"
-break G}if("state.cities.39.1"===z8){w="Babar"
-break G}if("state.cities.39.2"===z8){w="Baghai"
-break G}if("state.cities.39.3"===z8){w="Bouhmama"
-break G}if("state.cities.39.4"===z8){w="Chelia"
-break G}if("state.cities.39.5"===z8){w="Cherchar"
-break G}if("state.cities.39.6"===z8){w="Djellal"
-break G}if("state.cities.39.7"===z8){w="El Hamma"
-break G}if("state.cities.39.8"===z8){w="El Mahmal"
-break G}if("state.cities.39.9"===z8){w="El Oueldja"
-break G}if("state.cities.39.10"===z8){w="Ensigha"
-break G}if("state.cities.39.11"===z8){w="Kais"
-break G}if("state.cities.39.12"===z8){w=v7
-break G}if("state.cities.39.13"===z8){w="Khirane"
-break G}if("state.cities.39.14"===z8){w="M'sara"
-break G}if("state.cities.39.15"===z8){w="M'toussa"
-break G}if("state.cities.39.16"===z8){w="Ouled Rechache"
-break G}if("state.cities.39.17"===z8){w="Remila"
-break G}if("state.cities.39.18"===z8){w="Tamza"
-break G}if("state.cities.39.19"===z8){w="Taouzianat"
-break G}if("state.cities.39.20"===z8){w="Yabous"
-break G}if("state.cities.40.0"===z8){w=x6
-break G}if("state.cities.40.1"===z8){w="Ain Zana"
-break G}if("state.cities.40.2"===z8){w="Bir Bouhouche"
-break G}if("state.cities.40.3"===z8){w="Drea"
-break G}if("state.cities.40.4"===z8){w="Haddada"
-break G}if("state.cities.40.5"===z8){w="Hanencha"
-break G}if("state.cities.40.6"===z8){w="Khedara"
-break G}if("state.cities.40.7"===z8){w="Khemissa"
-break G}if("state.cities.40.8"===z8){w="M'daourouche"
-break G}if("state.cities.40.9"===z8){w="Machroha"
-break G}if("state.cities.40.10"===z8){w="Merahna"
-break G}if("state.cities.40.11"===z8){w="Oued Kebrit"
-break G}if("state.cities.40.12"===z8){w="Ouled Driss"
-break G}if("state.cities.40.13"===z8){w="Ouled Moumen"
-break G}if("state.cities.40.14"===z8){w="Oum El Adhaim"
-break G}if("state.cities.40.15"===z8){w="Quillen"
-break G}if("state.cities.40.16"===z8){w="Ragouba"
-break G}if("state.cities.40.17"===z8){w="Safel El Ouiden"
-break G}if("state.cities.40.18"===z8){w="Sedrata"
-break G}if("state.cities.40.19"===z8){w="Sidi Fredj"
-break G}if("state.cities.40.20"===z8){w="Souk Ahras"
-break G}if("state.cities.40.21"===z8){w="Taoura"
-break G}if("state.cities.40.22"===z8){w="Terraguelt"
-break G}if("state.cities.40.23"===z8){w="Tiffech"
-break G}if("state.cities.40.24"===z8){w="Zaarouria"
-break G}if("state.cities.40.25"===z8){w="Zouabi"
-break G}if("state.cities.41.0"===z8){w="Aghbal"
-break G}if("state.cities.41.1"===z8){w="Ahmer El Ain"
-break G}if("state.cities.41.2"===z8){w="Ain Tagourait"
-break G}if("state.cities.41.3"===z8){w="Attatba"
-break G}if("state.cities.41.4"===z8){w="Beni Mileuk"
-break G}if("state.cities.41.5"===z8){w="Bou Haroun"
-break G}if("state.cities.41.6"===z8){w="Bou Ismail"
-break G}if("state.cities.41.7"===z8){w="Bourkika"
-break G}if("state.cities.41.8"===z8){w="Chaiba"
-break G}if("state.cities.41.9"===z8){w="Cherchell"
-break G}if("state.cities.41.10"===z8){w="Damous"
-break G}if("state.cities.41.11"===z8){w="Douaouda"
-break G}if("state.cities.41.12"===z8){w="Fouka"
-break G}if("state.cities.41.13"===z8){w="Gouraya"
-break G}if("state.cities.41.14"===z8){w="Hadjout"
-break G}if("state.cities.41.15"===z8){w="Hadjret Ennous"
-break G}if("state.cities.41.16"===z8){w=y8
-break G}if("state.cities.41.17"===z8){w="Kolea"
-break G}if("state.cities.41.18"===z8){w="Larhat"
-break G}if("state.cities.41.19"===z8){w="Menaceur"
-break G}if("state.cities.41.20"===z8){w="Merad"
-break G}if("state.cities.41.21"===z8){w="Messelmoun"
-break G}if("state.cities.41.22"===z8){w="Nador"
-break G}if("state.cities.41.23"===z8){w=x8
-break G}if("state.cities.41.24"===z8){w="Sidi Ghiles"
-break G}if("state.cities.41.25"===z8){w="Sidi Rached"
-break G}if("state.cities.41.26"===z8){w="Sidi Semiane"
-break G}if("state.cities.41.27"===z8){w="Tipaza"
-break G}if("state.cities.42.0"===z8){w="Ahmed Rachedi"
-break G}if("state.cities.42.1"===z8){w="Ain Beida Harriche"
-break G}if("state.cities.42.2"===z8){w="Ain Mellouk"
-break G}if("state.cities.42.3"===z8){w="Ain Tine"
-break G}if("state.cities.42.4"===z8){w="Amira Arres"
-break G}if("state.cities.42.5"===z8){w="Benyahia Abderrahmane"
-break G}if("state.cities.42.6"===z8){w="Bouhatem"
-break G}if("state.cities.42.7"===z8){w="Chelghoum Laid"
-break G}if("state.cities.42.8"===z8){w="Chigara"
-break G}if("state.cities.42.9"===z8){w="Derrahi Bousselah"
-break G}if("state.cities.42.10"===z8){w="El Mechira"
-break G}if("state.cities.42.11"===z8){w="Elayadi Barbes"
-break G}if("state.cities.42.12"===z8){w="Ferdjioua"
-break G}if("state.cities.42.13"===z8){w="Grarem Gouga"
-break G}if("state.cities.42.14"===z8){w="Hamala"
-break G}if("state.cities.42.15"===z8){w="Mila"
-break G}if("state.cities.42.16"===z8){w="Minar Zarza"
-break G}if("state.cities.42.17"===z8){w="Oued Athmenia"
-break G}if("state.cities.42.18"===z8){w="Oued Endja"
-break G}if("state.cities.42.19"===z8){w="Oued Seguen"
-break G}if("state.cities.42.20"===z8){w="Ouled Khalouf"
-break G}if("state.cities.42.21"===z8){w="Rouached"
-break G}if("state.cities.42.22"===z8){w="Sidi Khelifa"
-break G}if("state.cities.42.23"===z8){w="Sidi Merouane"
-break G}if("state.cities.42.24"===z8){w="Tadjenanet"
-break G}if("state.cities.42.25"===z8){w="Tassadane Haddada"
-break G}if("state.cities.42.26"===z8){w="Teleghma"
-break G}if("state.cities.42.27"===z8){w="Terrai Bainem"
-break G}if("state.cities.42.28"===z8){w="Tessala"
-break G}if("state.cities.42.29"===z8){w="Tiberguent"
-break G}if("state.cities.42.30"===z8){w="Yahia Beniguecha"
-break G}if("state.cities.42.31"===z8){w="Zeghaia"
-break G}if("state.cities.43.0"===z8){w=x2
-break G}if("state.cities.43.1"===z8){w="Ain Bouyahia"
-break G}if("state.cities.43.2"===z8){w="Ain Defla"
-break G}if("state.cities.43.3"===z8){w="Ain Lechiakh"
-break G}if("state.cities.43.4"===z8){w=x6
-break G}if("state.cities.43.5"===z8){w="Ain Tork"
-break G}if("state.cities.43.6"===z8){w="Arib"
-break G}if("state.cities.43.7"===z8){w="Barbouche"
-break G}if("state.cities.43.8"===z8){w="Bathia"
-break G}if("state.cities.43.9"===z8){w="Belaas"
-break G}if("state.cities.43.10"===z8){w="Ben Allal"
-break G}if("state.cities.43.11"===z8){w="Bir Ould Khelifa"
-break G}if("state.cities.43.12"===z8){w="Bordj Emir Khaled"
-break G}if("state.cities.43.13"===z8){w="Boumedfaa"
-break G}if("state.cities.43.14"===z8){w="Bourached"
-break G}if("state.cities.43.15"===z8){w="Djelida"
-break G}if("state.cities.43.16"===z8){w="Djemaa Ouled Cheikh"
-break G}if("state.cities.43.17"===z8){w="Djendel"
-break G}if("state.cities.43.18"===z8){w="El Abadia"
-break G}if("state.cities.43.19"===z8){w="El Amra"
-break G}if("state.cities.43.20"===z8){w="El Attaf"
-break G}if("state.cities.43.21"===z8){w="El Maine"
-break G}if("state.cities.43.22"===z8){w="Hammam Righa"
-break G}if("state.cities.43.23"===z8){w="Hassania"
-break G}if("state.cities.43.24"===z8){w="Hoceinia"
-break G}if("state.cities.43.25"===z8){w="Khemis Miliana"
-break G}if("state.cities.43.26"===z8){w="Mekhatria"
-break G}if("state.cities.43.27"===z8){w="Miliana"
-break G}if("state.cities.43.28"===z8){w="Oued Chorfa"
-break G}if("state.cities.43.29"===z8){w="Oued Djemaa"
-break G}if("state.cities.43.30"===z8){w="Rouina"
-break G}if("state.cities.43.31"===z8){w=y1
-break G}if("state.cities.43.32"===z8){w="Tacheta Zegagha"
-break G}if("state.cities.43.33"===z8){w="Tarik Ibn Ziad"
-break G}if("state.cities.43.34"===z8){w="Tiberkanine"
-break G}if("state.cities.43.35"===z8){w="Zeddine"
-break G}if("state.cities.44.0"===z8){w="Ain Ben Khelil"
-break G}if("state.cities.44.1"===z8){w="Ain Safra"
-break G}if("state.cities.44.2"===z8){w="Assela"
-break G}if("state.cities.44.3"===z8){w="Djeniane Bourzeg"
-break G}if("state.cities.44.4"===z8){w="El Biod"
-break G}if("state.cities.44.5"===z8){w="Kasdir"
-break G}if("state.cities.44.6"===z8){w="Makman Ben Amer"
-break G}if("state.cities.44.7"===z8){w="Mecheria"
-break G}if("state.cities.44.8"===z8){w="Moghrar"
-break G}if("state.cities.44.9"===z8){w="Naama"
-break G}if("state.cities.44.10"===z8){w="Sfissifa"
-break G}if("state.cities.44.11"===z8){w="Tiout"
-break G}if("state.cities.45.0"===z8){w="Aghlal"
-break G}if("state.cities.45.1"===z8){w="Ain El Arbaa"
-break G}if("state.cities.45.2"===z8){w="Ain Kihal"
-break G}if("state.cities.45.3"===z8){w="Ain Temouchent"
-break G}if("state.cities.45.4"===z8){w="Ain Tolba"
-break G}if("state.cities.45.5"===z8){w="Aoubellil"
-break G}if("state.cities.45.6"===z8){w="Beni Saf"
-break G}if("state.cities.45.7"===z8){w="Bouzedjar"
-break G}if("state.cities.45.8"===z8){w="Chaabat El Ham"
-break G}if("state.cities.45.9"===z8){w="Chentouf"
-break G}if("state.cities.45.10"===z8){w="El Amria"
-break G}if("state.cities.45.11"===z8){w="El Malah"
-break G}if("state.cities.45.12"===z8){w="El Messaid"
-break G}if("state.cities.45.13"===z8){w=x4
-break G}if("state.cities.45.14"===z8){w="Hammam Bouhadjar"
-break G}if("state.cities.45.15"===z8){w="Hassasna"
-break G}if("state.cities.45.16"===z8){w="Hassi El Ghella"
-break G}if("state.cities.45.17"===z8){w="Oued Berkeche"
-break G}if("state.cities.45.18"===z8){w="Oued Sebbah"
-break G}if("state.cities.45.19"===z8){w="Ouled Boudjemaa"
-break G}if("state.cities.45.20"===z8){w="Ouled Kihal"
-break G}if("state.cities.45.21"===z8){w="Oulhaca El Gheraba"
-break G}if("state.cities.45.22"===z8){w="Sidi Ben Adda"
-break G}if("state.cities.45.23"===z8){w="Sidi Boumediene"
-break G}if("state.cities.45.24"===z8){w="Sidi Ouriache"
-break G}if("state.cities.45.25"===z8){w="Sidi Safi"
-break G}if("state.cities.45.26"===z8){w="Tamzoura"
-break G}if("state.cities.45.27"===z8){w="Terga"
-break G}if("state.cities.46.0"===z8){w="Berriane"
-break G}if("state.cities.46.1"===z8){w="Bounoura"
-break G}if("state.cities.46.2"===z8){w="Dhayet Bendhahoua"
-break G}if("state.cities.46.3"===z8){w="El Atteuf"
-break G}if("state.cities.46.4"===z8){w="El Guerrara"
-break G}if("state.cities.46.5"===z8){w=v8
-break G}if("state.cities.46.6"===z8){w=y6
-break G}if("state.cities.46.7"===z8){w="Metlili"
-break G}if("state.cities.46.8"===z8){w="Sebseb"
-break G}if("state.cities.46.9"===z8){w="Zelfana"
-break G}if("state.cities.47.0"===z8){w="Ain Rahma"
-break G}if("state.cities.47.1"===z8){w="Ain Tarek"
-break G}if("state.cities.47.2"===z8){w="Ammi Moussa"
-break G}if("state.cities.47.3"===z8){w="Belaassel Bouzagza"
-break G}if("state.cities.47.4"===z8){w="Bendaoud"
-break G}if("state.cities.47.5"===z8){w="Beni Dergoun"
-break G}if("state.cities.47.6"===z8){w="Beni Zentis"
-break G}if("state.cities.47.7"===z8){w="Dar Ben Abdelah"
-break G}if("state.cities.47.8"===z8){w="Djidiouia"
-break G}if("state.cities.47.9"===z8){w="El Guettar"
-break G}if("state.cities.47.10"===z8){w="El H'madna"
-break G}if("state.cities.47.11"===z8){w=w5
-break G}if("state.cities.47.12"===z8){w="El Matmar"
-break G}if("state.cities.47.13"===z8){w=x5
-break G}if("state.cities.47.14"===z8){w="Had Echkalla"
-break G}if("state.cities.47.15"===z8){w="Hamri"
-break G}if("state.cities.47.16"===z8){w="Kalaa"
-break G}if("state.cities.47.17"===z8){w="Lahlef"
-break G}if("state.cities.47.18"===z8){w="Mazouna"
-break G}if("state.cities.47.19"===z8){w="Mediouna"
-break G}if("state.cities.47.20"===z8){w="Mendes"
-break G}if("state.cities.47.21"===z8){w="Merdja Sidi Abed"
-break G}if("state.cities.47.22"===z8){w="Ouarizane"
-break G}if("state.cities.47.23"===z8){w="Oued El Djemaa"
-break G}if("state.cities.47.24"===z8){w="Oued Essalem"
-break G}if("state.cities.47.25"===z8){w="Oued Rhiou"
-break G}if("state.cities.47.26"===z8){w="Ouled Aiche"
-break G}if("state.cities.47.27"===z8){w="Ouled Sidi Mihoub"
-break G}if("state.cities.47.28"===z8){w="Ramka"
-break G}if("state.cities.47.29"===z8){w=v9
-break G}if("state.cities.47.30"===z8){w="Sidi Khettab"
-break G}if("state.cities.47.31"===z8){w="Sidi Lazreg"
-break G}if("state.cities.47.32"===z8){w="Sidi M'hamed Benali"
-break G}if("state.cities.47.33"===z8){w="Sidi M'hamed Benaouda"
-break G}if("state.cities.47.34"===z8){w="Sidi Saada"
-break G}if("state.cities.47.35"===z8){w="Souk El Had"
-break G}if("state.cities.47.36"===z8){w="Yellel"
-break G}if("state.cities.47.37"===z8){w="Zemmoura"
-break G}if("state.cities.48.0"===z8){w="Aougrout"
-break G}if("state.cities.48.1"===z8){w="Charouine"
-break G}if("state.cities.48.2"===z8){w="Deldoul"
-break G}if("state.cities.48.3"===z8){w="Ksar Kaddour"
-break G}if("state.cities.48.4"===z8){w="Metarfa"
-break G}if("state.cities.48.5"===z8){w=y7
-break G}if("state.cities.48.6"===z8){w="Ouled Said"
-break G}if("state.cities.48.7"===z8){w="Talmine"
-break G}if("state.cities.48.8"===z8){w=w0
-break G}if("state.cities.48.9"===z8){w="Tinerkouk"
-break G}if("state.cities.49.0"===z8){w="Bordj Badji Mokhtar"
-break G}if("state.cities.49.1"===z8){w="Timiaouine"
-break G}if("state.cities.50.0"===z8){w="Besbes"
-break G}if("state.cities.50.1"===z8){w="Chaiba"
-break G}if("state.cities.50.2"===z8){w="Doucen"
-break G}if("state.cities.50.3"===z8){w="Ouled Djellal"
-break G}if("state.cities.50.4"===z8){w="Ras El Miad"
-break G}if("state.cities.50.5"===z8){w=y0
-break G}if("state.cities.51.0"===z8){w="Beni Abbes"
-break G}if("state.cities.51.1"===z8){w="Beni Ikhlef"
-break G}if("state.cities.51.2"===z8){w="El Ouata"
-break G}if("state.cities.51.3"===z8){w="Igli"
-break G}if("state.cities.51.4"===z8){w="Kerzaz"
-break G}if("state.cities.51.5"===z8){w="Ksabi"
-break G}if("state.cities.51.6"===z8){w="Ouled Khoudir"
-break G}if("state.cities.51.7"===z8){w="Tabelbala"
-break G}if("state.cities.51.8"===z8){w="Tamtert"
-break G}if("state.cities.51.9"===z8){w="Timoudi"
-break G}if("state.cities.52.0"===z8){w="Foggaret Azzaouia"
-break G}if("state.cities.52.1"===z8){w="In Ghar"
-break G}if("state.cities.52.2"===z8){w="In Salah"
-break G}if("state.cities.53.0"===z8){w="In Guezzam"
-break G}if("state.cities.53.1"===z8){w="Tin Zouatine"
-break G}if("state.cities.54.0"===z8){w="Benaceur"
-break G}if("state.cities.54.1"===z8){w="Blidet Amor"
-break G}if("state.cities.54.2"===z8){w="El Alia"
-break G}if("state.cities.54.3"===z8){w="El Hadjira"
-break G}if("state.cities.54.4"===z8){w="Megarine"
-break G}if("state.cities.54.5"===z8){w="Mnaguer"
-break G}if("state.cities.54.6"===z8){w="Nezla"
-break G}if("state.cities.54.7"===z8)break G
-if("state.cities.54.8"===z8){w="Taibet"
-break G}if("state.cities.54.9"===z8){w="Tebesbest"
-break G}if("state.cities.54.10"===z8){w="Temacine"
-break G}if("state.cities.54.11"===z8){w=w1
-break G}if("state.cities.54.12"===z8){w="Zaouia El Abidia"
-break G}if("state.cities.55.0"===z8){w="Bordj El Haouasse"
-break G}if("state.cities.55.1"===z8){w="Djanet"
-break G}if("state.cities.56.0"===z8){w="Djamaa"
-break G}if("state.cities.56.1"===z8){w="El M'ghair"
-break G}if("state.cities.56.2"===z8){w="Mrara"
-break G}if("state.cities.56.3"===z8){w="Oum Touyour"
-break G}if("state.cities.56.4"===z8){w="Sidi Amrane"
-break G}if("state.cities.56.5"===z8){w="Sidi Khelil"
-break G}if("state.cities.56.6"===z8){w="Still"
-break G}if("state.cities.56.7"===z8){w="Tenedla"
-break G}if("state.cities.57.0"===z8){w="El Meniaa"
-break G}if("state.cities.57.1"===z8){w="Hassi Fehal"
-break G}if("state.cities.57.2"===z8){w="Hassi Gara"
-break G}if("subscriptionCountdown.quotaExceeded.title"===z8){w=h7
-break G}if("subscriptionCountdown.quotaExceeded.message"===z8){w="Vous avez d\xe9pass\xe9 la limite autoris\xe9e. Achetez des points ou passez \xe0 un plan sup\xe9rieur pour continuer."
-break G}if("subscriptionCountdown.consumedPoints"===z8){w="Points consomm\xe9s"
-break G}if("subscriptionCountdown.points"===z8){w=h4
-break G}if("subscriptionCountdown.exceededBy"===z8){w=new A.e0a()
-break G}if("subscriptionCountdown.remaining"===z8){w=new A.e0b()
-break G}if("subscriptionCountdown.buyPlan"===z8){w="Acheter un plan"
-break G}if("subscriptionCountdown.chargePoints"===z8){w="Recharger points"
-break G}if("templates.label"===z8){w="Mod\xe8les"
-break G}if("templates.title"===z8){w="Mod\xe8les de boutique"
-break G}if("templates.description"===z8){w="Choisissez un mod\xe8le pour votre boutique en ligne"
-break G}if("templates.categories.all"===z8){w="Tous"
-break G}if("templates.categories.ecommerce"===z8){w=y9
-break G}if("templates.categories.business"===z8){w=u9
-break G}if("templates.categories.portfolio"===z8){w="Portfolio"
-break G}if("templates.categories.blog"===z8){w="Blog"
-break G}if("templates.categories.restaurant"===z8){w="Restaurant"
-break G}if("templates.categories.fashion"===z8){w="Mode"
-break G}if("templates.categories.technology"===z8){w="Technologie"
-break G}if("templates.categories.health"===z8){w="Sant\xe9"
-break G}if("templates.categories.education"===z8){w="\xc9ducation"
-break G}if("templates.actions.preview"===z8){w=d
-break G}if("templates.actions.select"===z8){w=v0
-break G}if("templates.actions.customize"===z8){w=j3
-break G}if("templates.actions.apply"===z8){w=t5
-break G}if("templates.actions.demo"===z8){w="D\xe9mo"
-break G}if("templates.actions.install"===z8){w="Installer"
-break G}if("templates.actions.activate"===z8){w=k2
-break G}if("templates.actions.deactivate"===z8){w=n6
-break G}if("templates.features.responsive"===z8){w="Responsive"
-break G}if("templates.features.seoOptimized"===z8){w="SEO optimis\xe9"
-break G}if("templates.features.fastLoading"===z8){w="Rapide"
-break G}if("templates.features.mobileReady"===z8){w="Mobile pr\xeat"
-break G}if("templates.features.customizable"===z8){w="Personnalisable"
-break G}if("templates.features.multiLanguage"===z8){w="Multi-langue"
-break G}if("templates.features.darkMode"===z8){w="Mode sombre"
-break G}if("templates.features.analytics"===z8){w="Analytique"
-break G}if("templates.features.ecommerce"===z8){w=y9
-break G}if("templates.features.paymentGateway"===z8){w="Paiement en ligne"
-break G}if("templates.status.active"===z8){w=i1
-break G}if("templates.status.inactive"===z8){w="Inactif"
-break G}if("templates.status.installing"===z8){w="Installation..."
-break G}if("templates.status.updating"===z8){w="Mise \xe0 jour..."
-break G}if("templates.status.error"===z8){w="Erreur"
+if("state.cities.28.21"===aa3){w="Ghriss"
+break G}if("state.cities.28.22"===aa3){w="Guerdjoum"
+break G}if("state.cities.28.23"===aa3){w="Hacine"
+break G}if("state.cities.28.24"===aa3){w="Khalouia"
+break G}if("state.cities.28.25"===aa3){w="Makhda"
+break G}if("state.cities.28.26"===aa3){w="Maoussa"
+break G}if("state.cities.28.27"===aa3){w="Mascara"
+break G}if("state.cities.28.28"===aa3){w="Matemore"
+break G}if("state.cities.28.29"===aa3){w="Mocta Douz"
+break G}if("state.cities.28.30"===aa3){w=x9
+break G}if("state.cities.28.31"===aa3){w="Nesmot"
+break G}if("state.cities.28.32"===aa3){w="Oggaz"
+break G}if("state.cities.28.33"===aa3){w="Oued El Abtal"
+break G}if("state.cities.28.34"===aa3){w="Oued Taria"
+break G}if("state.cities.28.35"===aa3){w="Ras El Ain Amirouche"
+break G}if("state.cities.28.36"===aa3){w="Sedjerara"
+break G}if("state.cities.28.37"===aa3){w="Sehailia"
+break G}if("state.cities.28.38"===aa3){w="Sidi Abdeldjebar"
+break G}if("state.cities.28.39"===aa3){w="Sidi Abdelmoumene"
+break G}if("state.cities.28.40"===aa3){w="Sidi Boussaid"
+break G}if("state.cities.28.41"===aa3){w="Sidi Kada"
+break G}if("state.cities.28.42"===aa3){w="Sig"
+break G}if("state.cities.28.43"===aa3){w="Tighennif"
+break G}if("state.cities.28.44"===aa3){w="Tizi"
+break G}if("state.cities.28.45"===aa3){w="Zahana"
+break G}if("state.cities.28.46"===aa3){w="Zelamta"
+break G}if("state.cities.29.0"===aa3){w=w9
+break G}if("state.cities.29.1"===aa3){w="El Borma"
+break G}if("state.cities.29.2"===aa3){w="Hassi Ben Abdellah"
+break G}if("state.cities.29.3"===aa3){w="Hassi Messaoud"
+break G}if("state.cities.29.4"===aa3){w="N'goussa"
+break G}if("state.cities.29.5"===aa3){w="Ouargla"
+break G}if("state.cities.29.6"===aa3){w="Rouissat"
+break G}if("state.cities.29.7"===aa3){w="Sidi Khouiled"
+break G}if("state.cities.30.0"===aa3){w="Ain Biya"
+break G}if("state.cities.30.1"===aa3){w=z1
+break G}if("state.cities.30.2"===aa3){w=x4
+break G}if("state.cities.30.3"===aa3){w="Arzew"
+break G}if("state.cities.30.4"===aa3){w="Ben Freha"
+break G}if("state.cities.30.5"===aa3){w="Bethioua"
+break G}if("state.cities.30.6"===aa3){w="Bir El Djir"
+break G}if("state.cities.30.7"===aa3){w="Boufatis"
+break G}if("state.cities.30.8"===aa3){w="Bousfer"
+break G}if("state.cities.30.9"===aa3){w="Boutlelis"
+break G}if("state.cities.30.10"===aa3){w="El Ancar"
+break G}if("state.cities.30.11"===aa3){w="El Braya"
+break G}if("state.cities.30.12"===aa3){w="El Kerma"
+break G}if("state.cities.30.13"===aa3){w="Es Senia"
+break G}if("state.cities.30.14"===aa3){w="Gdyel"
+break G}if("state.cities.30.15"===aa3){w="Hassi Ben Okba"
+break G}if("state.cities.30.16"===aa3){w="Hassi Bounif"
+break G}if("state.cities.30.17"===aa3){w="Hassi Mefsoukh"
+break G}if("state.cities.30.18"===aa3){w="Marsat El Hadjadj"
+break G}if("state.cities.30.19"===aa3){w="Mers El Kebir"
+break G}if("state.cities.30.20"===aa3){w="Messerghin"
+break G}if("state.cities.30.21"===aa3){w="Oran"
+break G}if("state.cities.30.22"===aa3){w="Oued Tlelat"
+break G}if("state.cities.30.23"===aa3){w="Sidi Ben Yebka"
+break G}if("state.cities.30.24"===aa3){w="Sidi Chami"
+break G}if("state.cities.30.25"===aa3){w="Tafraoui"
+break G}if("state.cities.31.0"===aa3){w="Ain El Orak"
+break G}if("state.cities.31.1"===aa3){w="Arbaouat"
+break G}if("state.cities.31.2"===aa3){w="Boualem"
+break G}if("state.cities.31.3"===aa3){w="Bougtoub"
+break G}if("state.cities.31.4"===aa3){w="Boussemghoun"
+break G}if("state.cities.31.5"===aa3){w="Brezina"
+break G}if("state.cities.31.6"===aa3){w="Cheguig"
+break G}if("state.cities.31.7"===aa3){w="Chellala"
+break G}if("state.cities.31.8"===aa3){w="El Bayadh"
+break G}if("state.cities.31.9"===aa3){w="El Biodh Sidi Cheikh"
+break G}if("state.cities.31.10"===aa3){w="El Bnoud"
+break G}if("state.cities.31.11"===aa3){w="El Kheither"
+break G}if("state.cities.31.12"===aa3){w="El Mehara"
+break G}if("state.cities.31.13"===aa3){w="Ghassoul"
+break G}if("state.cities.31.14"===aa3){w="Kef El Ahmar"
+break G}if("state.cities.31.15"===aa3){w="Krakda"
+break G}if("state.cities.31.16"===aa3){w="Rogassa"
+break G}if("state.cities.31.17"===aa3){w=z0
+break G}if("state.cities.31.18"===aa3)break G
+if("state.cities.31.19"===aa3){w="Sidi Tifour"
+break G}if("state.cities.31.20"===aa3){w="Stitten"
+break G}if("state.cities.31.21"===aa3){w="Tousmouline"
+break G}if("state.cities.32.0"===aa3){w="Bordj Omar Driss"
+break G}if("state.cities.32.1"===aa3){w="Debdeb"
+break G}if("state.cities.32.2"===aa3){w="Illizi"
+break G}if("state.cities.32.3"===aa3){w="In Amenas"
+break G}if("state.cities.33.0"===aa3){w="Ain Taghrout"
+break G}if("state.cities.33.1"===aa3){w="Ain Tesra"
+break G}if("state.cities.33.2"===aa3){w="Belimour"
+break G}if("state.cities.33.3"===aa3){w="Ben Daoud"
+break G}if("state.cities.33.4"===aa3){w="Bir Kasdali"
+break G}if("state.cities.33.5"===aa3){w="Bordj Bou Arreridj"
+break G}if("state.cities.33.6"===aa3){w="Bordj Ghdir"
+break G}if("state.cities.33.7"===aa3){w="Bordj Zemora"
+break G}if("state.cities.33.8"===aa3){w="Colla"
+break G}if("state.cities.33.9"===aa3){w="Djaafra"
+break G}if("state.cities.33.10"===aa3){w="El Ach"
+break G}if("state.cities.33.11"===aa3){w="El Achir"
+break G}if("state.cities.33.12"===aa3){w="El Anseur"
+break G}if("state.cities.33.13"===aa3){w="El Hamadia"
+break G}if("state.cities.33.14"===aa3){w="El M'hir"
+break G}if("state.cities.33.15"===aa3){w="El Main"
+break G}if("state.cities.33.16"===aa3){w="Ghilassa"
+break G}if("state.cities.33.17"===aa3){w="Haraza"
+break G}if("state.cities.33.18"===aa3){w="Hasnaoua"
+break G}if("state.cities.33.19"===aa3){w="Khelil"
+break G}if("state.cities.33.20"===aa3){w="Ksour"
+break G}if("state.cities.33.21"===aa3){w=z2
+break G}if("state.cities.33.22"===aa3){w="Medjana"
+break G}if("state.cities.33.23"===aa3){w="Ouled Brahem"
+break G}if("state.cities.33.24"===aa3){w="Ouled Dahmane"
+break G}if("state.cities.33.25"===aa3){w=y9
+break G}if("state.cities.33.26"===aa3){w="Rabta"
+break G}if("state.cities.33.27"===aa3){w="Ras El Oued"
+break G}if("state.cities.33.28"===aa3){w="Sidi Embarek"
+break G}if("state.cities.33.29"===aa3){w="Tafreg"
+break G}if("state.cities.33.30"===aa3){w="Taglait"
+break G}if("state.cities.33.31"===aa3){w="Teniet En Nasr"
+break G}if("state.cities.33.32"===aa3){w="Tesmart"
+break G}if("state.cities.33.33"===aa3){w="Tixter"
+break G}if("state.cities.34.0"===aa3){w="Afir"
+break G}if("state.cities.34.1"===aa3){w="Ammal"
+break G}if("state.cities.34.2"===aa3){w="Baghlia"
+break G}if("state.cities.34.3"===aa3){w="Ben Choud"
+break G}if("state.cities.34.4"===aa3){w="Beni Amrane"
+break G}if("state.cities.34.5"===aa3){w="Bordj Menaiel"
+break G}if("state.cities.34.6"===aa3){w="Boudouaou"
+break G}if("state.cities.34.7"===aa3){w="Boudouaou El Bahri"
+break G}if("state.cities.34.8"===aa3){w=w1
+break G}if("state.cities.34.9"===aa3){w="Bouzegza Keddara"
+break G}if("state.cities.34.10"===aa3){w="Chabet El Ameur"
+break G}if("state.cities.34.11"===aa3){w="Corso"
+break G}if("state.cities.34.12"===aa3){w="Dellys"
+break G}if("state.cities.34.13"===aa3){w="Djinet"
+break G}if("state.cities.34.14"===aa3){w="El Kharrouba"
+break G}if("state.cities.34.15"===aa3){w="Hammedi"
+break G}if("state.cities.34.16"===aa3){w="Isser"
+break G}if("state.cities.34.17"===aa3){w="Khemis El Khechna"
+break G}if("state.cities.34.18"===aa3){w="Larbatache"
+break G}if("state.cities.34.19"===aa3){w="Leghata"
+break G}if("state.cities.34.20"===aa3){w="Naciria"
+break G}if("state.cities.34.21"===aa3){w=z3
+break G}if("state.cities.34.22"===aa3){w="Ouled Hedadj"
+break G}if("state.cities.34.23"===aa3){w="Ouled Moussa"
+break G}if("state.cities.34.24"===aa3){w="Si Mustapha"
+break G}if("state.cities.34.25"===aa3){w="Sidi Daoud"
+break G}if("state.cities.34.26"===aa3){w="Souk El Haad"
+break G}if("state.cities.34.27"===aa3){w="Taourga"
+break G}if("state.cities.34.28"===aa3){w="Thenia"
+break G}if("state.cities.34.29"===aa3){w="Tidjelabine"
+break G}if("state.cities.34.30"===aa3){w=x2
+break G}if("state.cities.34.31"===aa3){w="Zemmouri"
+break G}if("state.cities.35.0"===aa3){w="Ain El Assel"
+break G}if("state.cities.35.1"===aa3){w=z1
+break G}if("state.cities.35.2"===aa3){w="Asfour"
+break G}if("state.cities.35.3"===aa3){w="Ben M Hidi"
+break G}if("state.cities.35.4"===aa3){w="Berrihane"
+break G}if("state.cities.35.5"===aa3){w="Besbes"
+break G}if("state.cities.35.6"===aa3){w="Bougous"
+break G}if("state.cities.35.7"===aa3){w="Bouhadjar"
+break G}if("state.cities.35.8"===aa3){w="Bouteldja"
+break G}if("state.cities.35.9"===aa3){w="Chebaita Mokhtar"
+break G}if("state.cities.35.10"===aa3){w="Chefia"
+break G}if("state.cities.35.11"===aa3){w="Chihani"
+break G}if("state.cities.35.12"===aa3){w="Drean"
+break G}if("state.cities.35.13"===aa3){w="Echatt"
+break G}if("state.cities.35.14"===aa3){w="El Aioun"
+break G}if("state.cities.35.15"===aa3){w="El Kala"
+break G}if("state.cities.35.16"===aa3){w="El Tarf"
+break G}if("state.cities.35.17"===aa3){w="Hammam Beni Salah"
+break G}if("state.cities.35.18"===aa3){w="Lac Des Oiseaux"
+break G}if("state.cities.35.19"===aa3){w="Oued Zitoun"
+break G}if("state.cities.35.20"===aa3){w="Raml Souk"
+break G}if("state.cities.35.21"===aa3){w="Souarekh"
+break G}if("state.cities.35.22"===aa3){w="Zerizer"
+break G}if("state.cities.35.23"===aa3){w="Zitouna"
+break G}if("state.cities.36.0"===aa3){w="Oum El Assel"
+break G}if("state.cities.36.1"===aa3){w="Tindouf"
+break G}if("state.cities.37.0"===aa3){w="Ammari"
+break G}if("state.cities.37.1"===aa3){w="Beni Chaib"
+break G}if("state.cities.37.2"===aa3){w="Beni Lahcene"
+break G}if("state.cities.37.3"===aa3){w="Bordj Bounaama"
+break G}if("state.cities.37.4"===aa3){w="Bordj El Emir Abdelkader"
+break G}if("state.cities.37.5"===aa3){w="Bou Caid"
+break G}if("state.cities.37.6"===aa3){w=z4
+break G}if("state.cities.37.7"===aa3){w=x1
+break G}if("state.cities.37.8"===aa3){w="Lardjem"
+break G}if("state.cities.37.9"===aa3){w="Layoune"
+break G}if("state.cities.37.10"===aa3){w="Lazharia"
+break G}if("state.cities.37.11"===aa3){w="Maacem"
+break G}if("state.cities.37.12"===aa3){w="Melaab"
+break G}if("state.cities.37.13"===aa3){w="Ouled Bessem"
+break G}if("state.cities.37.14"===aa3){w="Sidi Abed"
+break G}if("state.cities.37.15"===aa3){w="Sidi Boutouchent"
+break G}if("state.cities.37.16"===aa3){w="Sidi Lantri"
+break G}if("state.cities.37.17"===aa3)break G
+if("state.cities.37.18"===aa3){w="Tamellalet"
+break G}if("state.cities.37.19"===aa3){w="Theniet El Had"
+break G}if("state.cities.37.20"===aa3){w=w2
+break G}if("state.cities.37.21"===aa3){w="Youssoufia"
+break G}if("state.cities.38.0"===aa3){w="Bayadha"
+break G}if("state.cities.38.1"===aa3){w="Ben Guecha"
+break G}if("state.cities.38.2"===aa3){w="Debila"
+break G}if("state.cities.38.3"===aa3){w="Douar El Maa"
+break G}if("state.cities.38.4"===aa3){w="El Ogla"
+break G}if("state.cities.38.5"===aa3){w="El Oued"
+break G}if("state.cities.38.6"===aa3){w="Guemar"
+break G}if("state.cities.38.7"===aa3){w="Hamraia"
+break G}if("state.cities.38.8"===aa3){w="Hassani Abdelkrim"
+break G}if("state.cities.38.9"===aa3){w="Hassi Khalifa"
+break G}if("state.cities.38.10"===aa3){w="Kouinine"
+break G}if("state.cities.38.11"===aa3){w="Magrane"
+break G}if("state.cities.38.12"===aa3){w="Mih Ouansa"
+break G}if("state.cities.38.13"===aa3){w="Nakhla"
+break G}if("state.cities.38.14"===aa3){w="Oued El Alenda"
+break G}if("state.cities.38.15"===aa3){w="Ourmes"
+break G}if("state.cities.38.16"===aa3){w="Reguiba"
+break G}if("state.cities.38.17"===aa3){w="Robbah"
+break G}if("state.cities.38.18"===aa3){w="Sidi Aoun"
+break G}if("state.cities.38.19"===aa3){w=x5
+break G}if("state.cities.38.20"===aa3){w="Taleb Larbi"
+break G}if("state.cities.38.21"===aa3){w="Trifaoui"
+break G}if("state.cities.39.0"===aa3){w="Ain Touila"
+break G}if("state.cities.39.1"===aa3){w="Babar"
+break G}if("state.cities.39.2"===aa3){w="Baghai"
+break G}if("state.cities.39.3"===aa3){w="Bouhmama"
+break G}if("state.cities.39.4"===aa3){w="Chelia"
+break G}if("state.cities.39.5"===aa3){w="Cherchar"
+break G}if("state.cities.39.6"===aa3){w="Djellal"
+break G}if("state.cities.39.7"===aa3){w="El Hamma"
+break G}if("state.cities.39.8"===aa3){w="El Mahmal"
+break G}if("state.cities.39.9"===aa3){w="El Oueldja"
+break G}if("state.cities.39.10"===aa3){w="Ensigha"
+break G}if("state.cities.39.11"===aa3){w="Kais"
+break G}if("state.cities.39.12"===aa3){w=w3
+break G}if("state.cities.39.13"===aa3){w="Khirane"
+break G}if("state.cities.39.14"===aa3){w="M'sara"
+break G}if("state.cities.39.15"===aa3){w="M'toussa"
+break G}if("state.cities.39.16"===aa3){w="Ouled Rechache"
+break G}if("state.cities.39.17"===aa3){w="Remila"
+break G}if("state.cities.39.18"===aa3){w="Tamza"
+break G}if("state.cities.39.19"===aa3){w="Taouzianat"
+break G}if("state.cities.39.20"===aa3){w="Yabous"
+break G}if("state.cities.40.0"===aa3){w=y2
+break G}if("state.cities.40.1"===aa3){w="Ain Zana"
+break G}if("state.cities.40.2"===aa3){w="Bir Bouhouche"
+break G}if("state.cities.40.3"===aa3){w="Drea"
+break G}if("state.cities.40.4"===aa3){w="Haddada"
+break G}if("state.cities.40.5"===aa3){w="Hanencha"
+break G}if("state.cities.40.6"===aa3){w="Khedara"
+break G}if("state.cities.40.7"===aa3){w="Khemissa"
+break G}if("state.cities.40.8"===aa3){w="M'daourouche"
+break G}if("state.cities.40.9"===aa3){w="Machroha"
+break G}if("state.cities.40.10"===aa3){w="Merahna"
+break G}if("state.cities.40.11"===aa3){w="Oued Kebrit"
+break G}if("state.cities.40.12"===aa3){w="Ouled Driss"
+break G}if("state.cities.40.13"===aa3){w="Ouled Moumen"
+break G}if("state.cities.40.14"===aa3){w="Oum El Adhaim"
+break G}if("state.cities.40.15"===aa3){w="Quillen"
+break G}if("state.cities.40.16"===aa3){w="Ragouba"
+break G}if("state.cities.40.17"===aa3){w="Safel El Ouiden"
+break G}if("state.cities.40.18"===aa3){w="Sedrata"
+break G}if("state.cities.40.19"===aa3){w="Sidi Fredj"
+break G}if("state.cities.40.20"===aa3){w="Souk Ahras"
+break G}if("state.cities.40.21"===aa3){w="Taoura"
+break G}if("state.cities.40.22"===aa3){w="Terraguelt"
+break G}if("state.cities.40.23"===aa3){w="Tiffech"
+break G}if("state.cities.40.24"===aa3){w="Zaarouria"
+break G}if("state.cities.40.25"===aa3){w="Zouabi"
+break G}if("state.cities.41.0"===aa3){w="Aghbal"
+break G}if("state.cities.41.1"===aa3){w="Ahmer El Ain"
+break G}if("state.cities.41.2"===aa3){w="Ain Tagourait"
+break G}if("state.cities.41.3"===aa3){w="Attatba"
+break G}if("state.cities.41.4"===aa3){w="Beni Mileuk"
+break G}if("state.cities.41.5"===aa3){w="Bou Haroun"
+break G}if("state.cities.41.6"===aa3){w="Bou Ismail"
+break G}if("state.cities.41.7"===aa3){w="Bourkika"
+break G}if("state.cities.41.8"===aa3){w="Chaiba"
+break G}if("state.cities.41.9"===aa3){w="Cherchell"
+break G}if("state.cities.41.10"===aa3){w="Damous"
+break G}if("state.cities.41.11"===aa3){w="Douaouda"
+break G}if("state.cities.41.12"===aa3){w="Fouka"
+break G}if("state.cities.41.13"===aa3){w="Gouraya"
+break G}if("state.cities.41.14"===aa3){w="Hadjout"
+break G}if("state.cities.41.15"===aa3){w="Hadjret Ennous"
+break G}if("state.cities.41.16"===aa3){w=z4
+break G}if("state.cities.41.17"===aa3){w="Kolea"
+break G}if("state.cities.41.18"===aa3){w="Larhat"
+break G}if("state.cities.41.19"===aa3){w="Menaceur"
+break G}if("state.cities.41.20"===aa3){w="Merad"
+break G}if("state.cities.41.21"===aa3){w="Messelmoun"
+break G}if("state.cities.41.22"===aa3){w="Nador"
+break G}if("state.cities.41.23"===aa3){w=y4
+break G}if("state.cities.41.24"===aa3){w="Sidi Ghiles"
+break G}if("state.cities.41.25"===aa3){w="Sidi Rached"
+break G}if("state.cities.41.26"===aa3){w="Sidi Semiane"
+break G}if("state.cities.41.27"===aa3){w="Tipaza"
+break G}if("state.cities.42.0"===aa3){w="Ahmed Rachedi"
+break G}if("state.cities.42.1"===aa3){w="Ain Beida Harriche"
+break G}if("state.cities.42.2"===aa3){w="Ain Mellouk"
+break G}if("state.cities.42.3"===aa3){w="Ain Tine"
+break G}if("state.cities.42.4"===aa3){w="Amira Arres"
+break G}if("state.cities.42.5"===aa3){w="Benyahia Abderrahmane"
+break G}if("state.cities.42.6"===aa3){w="Bouhatem"
+break G}if("state.cities.42.7"===aa3){w="Chelghoum Laid"
+break G}if("state.cities.42.8"===aa3){w="Chigara"
+break G}if("state.cities.42.9"===aa3){w="Derrahi Bousselah"
+break G}if("state.cities.42.10"===aa3){w="El Mechira"
+break G}if("state.cities.42.11"===aa3){w="Elayadi Barbes"
+break G}if("state.cities.42.12"===aa3){w="Ferdjioua"
+break G}if("state.cities.42.13"===aa3){w="Grarem Gouga"
+break G}if("state.cities.42.14"===aa3){w="Hamala"
+break G}if("state.cities.42.15"===aa3){w="Mila"
+break G}if("state.cities.42.16"===aa3){w="Minar Zarza"
+break G}if("state.cities.42.17"===aa3){w="Oued Athmenia"
+break G}if("state.cities.42.18"===aa3){w="Oued Endja"
+break G}if("state.cities.42.19"===aa3){w="Oued Seguen"
+break G}if("state.cities.42.20"===aa3){w="Ouled Khalouf"
+break G}if("state.cities.42.21"===aa3){w="Rouached"
+break G}if("state.cities.42.22"===aa3){w="Sidi Khelifa"
+break G}if("state.cities.42.23"===aa3){w="Sidi Merouane"
+break G}if("state.cities.42.24"===aa3){w="Tadjenanet"
+break G}if("state.cities.42.25"===aa3){w="Tassadane Haddada"
+break G}if("state.cities.42.26"===aa3){w="Teleghma"
+break G}if("state.cities.42.27"===aa3){w="Terrai Bainem"
+break G}if("state.cities.42.28"===aa3){w="Tessala"
+break G}if("state.cities.42.29"===aa3){w="Tiberguent"
+break G}if("state.cities.42.30"===aa3){w="Yahia Beniguecha"
+break G}if("state.cities.42.31"===aa3){w="Zeghaia"
+break G}if("state.cities.43.0"===aa3){w=x8
+break G}if("state.cities.43.1"===aa3){w="Ain Bouyahia"
+break G}if("state.cities.43.2"===aa3){w="Ain Defla"
+break G}if("state.cities.43.3"===aa3){w="Ain Lechiakh"
+break G}if("state.cities.43.4"===aa3){w=y2
+break G}if("state.cities.43.5"===aa3){w="Ain Tork"
+break G}if("state.cities.43.6"===aa3){w="Arib"
+break G}if("state.cities.43.7"===aa3){w="Barbouche"
+break G}if("state.cities.43.8"===aa3){w="Bathia"
+break G}if("state.cities.43.9"===aa3){w="Belaas"
+break G}if("state.cities.43.10"===aa3){w="Ben Allal"
+break G}if("state.cities.43.11"===aa3){w="Bir Ould Khelifa"
+break G}if("state.cities.43.12"===aa3){w="Bordj Emir Khaled"
+break G}if("state.cities.43.13"===aa3){w="Boumedfaa"
+break G}if("state.cities.43.14"===aa3){w="Bourached"
+break G}if("state.cities.43.15"===aa3){w="Djelida"
+break G}if("state.cities.43.16"===aa3){w="Djemaa Ouled Cheikh"
+break G}if("state.cities.43.17"===aa3){w="Djendel"
+break G}if("state.cities.43.18"===aa3){w="El Abadia"
+break G}if("state.cities.43.19"===aa3){w="El Amra"
+break G}if("state.cities.43.20"===aa3){w="El Attaf"
+break G}if("state.cities.43.21"===aa3){w="El Maine"
+break G}if("state.cities.43.22"===aa3){w="Hammam Righa"
+break G}if("state.cities.43.23"===aa3){w="Hassania"
+break G}if("state.cities.43.24"===aa3){w="Hoceinia"
+break G}if("state.cities.43.25"===aa3){w="Khemis Miliana"
+break G}if("state.cities.43.26"===aa3){w="Mekhatria"
+break G}if("state.cities.43.27"===aa3){w="Miliana"
+break G}if("state.cities.43.28"===aa3){w="Oued Chorfa"
+break G}if("state.cities.43.29"===aa3){w="Oued Djemaa"
+break G}if("state.cities.43.30"===aa3){w="Rouina"
+break G}if("state.cities.43.31"===aa3){w=y7
+break G}if("state.cities.43.32"===aa3){w="Tacheta Zegagha"
+break G}if("state.cities.43.33"===aa3){w="Tarik Ibn Ziad"
+break G}if("state.cities.43.34"===aa3){w="Tiberkanine"
+break G}if("state.cities.43.35"===aa3){w="Zeddine"
+break G}if("state.cities.44.0"===aa3){w="Ain Ben Khelil"
+break G}if("state.cities.44.1"===aa3){w="Ain Safra"
+break G}if("state.cities.44.2"===aa3){w="Assela"
+break G}if("state.cities.44.3"===aa3){w="Djeniane Bourzeg"
+break G}if("state.cities.44.4"===aa3){w="El Biod"
+break G}if("state.cities.44.5"===aa3){w="Kasdir"
+break G}if("state.cities.44.6"===aa3){w="Makman Ben Amer"
+break G}if("state.cities.44.7"===aa3){w="Mecheria"
+break G}if("state.cities.44.8"===aa3){w="Moghrar"
+break G}if("state.cities.44.9"===aa3){w="Naama"
+break G}if("state.cities.44.10"===aa3){w="Sfissifa"
+break G}if("state.cities.44.11"===aa3){w="Tiout"
+break G}if("state.cities.45.0"===aa3){w="Aghlal"
+break G}if("state.cities.45.1"===aa3){w="Ain El Arbaa"
+break G}if("state.cities.45.2"===aa3){w="Ain Kihal"
+break G}if("state.cities.45.3"===aa3){w="Ain Temouchent"
+break G}if("state.cities.45.4"===aa3){w="Ain Tolba"
+break G}if("state.cities.45.5"===aa3){w="Aoubellil"
+break G}if("state.cities.45.6"===aa3){w="Beni Saf"
+break G}if("state.cities.45.7"===aa3){w="Bouzedjar"
+break G}if("state.cities.45.8"===aa3){w="Chaabat El Ham"
+break G}if("state.cities.45.9"===aa3){w="Chentouf"
+break G}if("state.cities.45.10"===aa3){w="El Amria"
+break G}if("state.cities.45.11"===aa3){w="El Malah"
+break G}if("state.cities.45.12"===aa3){w="El Messaid"
+break G}if("state.cities.45.13"===aa3){w=y0
+break G}if("state.cities.45.14"===aa3){w="Hammam Bouhadjar"
+break G}if("state.cities.45.15"===aa3){w="Hassasna"
+break G}if("state.cities.45.16"===aa3){w="Hassi El Ghella"
+break G}if("state.cities.45.17"===aa3){w="Oued Berkeche"
+break G}if("state.cities.45.18"===aa3){w="Oued Sebbah"
+break G}if("state.cities.45.19"===aa3){w="Ouled Boudjemaa"
+break G}if("state.cities.45.20"===aa3){w="Ouled Kihal"
+break G}if("state.cities.45.21"===aa3){w="Oulhaca El Gheraba"
+break G}if("state.cities.45.22"===aa3){w="Sidi Ben Adda"
+break G}if("state.cities.45.23"===aa3){w="Sidi Boumediene"
+break G}if("state.cities.45.24"===aa3){w="Sidi Ouriache"
+break G}if("state.cities.45.25"===aa3){w="Sidi Safi"
+break G}if("state.cities.45.26"===aa3){w="Tamzoura"
+break G}if("state.cities.45.27"===aa3){w="Terga"
+break G}if("state.cities.46.0"===aa3){w="Berriane"
+break G}if("state.cities.46.1"===aa3){w="Bounoura"
+break G}if("state.cities.46.2"===aa3){w="Dhayet Bendhahoua"
+break G}if("state.cities.46.3"===aa3){w="El Atteuf"
+break G}if("state.cities.46.4"===aa3){w="El Guerrara"
+break G}if("state.cities.46.5"===aa3){w=w4
+break G}if("state.cities.46.6"===aa3){w=z2
+break G}if("state.cities.46.7"===aa3){w="Metlili"
+break G}if("state.cities.46.8"===aa3){w="Sebseb"
+break G}if("state.cities.46.9"===aa3){w="Zelfana"
+break G}if("state.cities.47.0"===aa3){w="Ain Rahma"
+break G}if("state.cities.47.1"===aa3){w="Ain Tarek"
+break G}if("state.cities.47.2"===aa3){w="Ammi Moussa"
+break G}if("state.cities.47.3"===aa3){w="Belaassel Bouzagza"
+break G}if("state.cities.47.4"===aa3){w="Bendaoud"
+break G}if("state.cities.47.5"===aa3){w="Beni Dergoun"
+break G}if("state.cities.47.6"===aa3){w="Beni Zentis"
+break G}if("state.cities.47.7"===aa3){w="Dar Ben Abdelah"
+break G}if("state.cities.47.8"===aa3){w="Djidiouia"
+break G}if("state.cities.47.9"===aa3){w="El Guettar"
+break G}if("state.cities.47.10"===aa3){w="El H'madna"
+break G}if("state.cities.47.11"===aa3){w=x0
+break G}if("state.cities.47.12"===aa3){w="El Matmar"
+break G}if("state.cities.47.13"===aa3){w=y1
+break G}if("state.cities.47.14"===aa3){w="Had Echkalla"
+break G}if("state.cities.47.15"===aa3){w="Hamri"
+break G}if("state.cities.47.16"===aa3){w="Kalaa"
+break G}if("state.cities.47.17"===aa3){w="Lahlef"
+break G}if("state.cities.47.18"===aa3){w="Mazouna"
+break G}if("state.cities.47.19"===aa3){w="Mediouna"
+break G}if("state.cities.47.20"===aa3){w="Mendes"
+break G}if("state.cities.47.21"===aa3){w="Merdja Sidi Abed"
+break G}if("state.cities.47.22"===aa3){w="Ouarizane"
+break G}if("state.cities.47.23"===aa3){w="Oued El Djemaa"
+break G}if("state.cities.47.24"===aa3){w="Oued Essalem"
+break G}if("state.cities.47.25"===aa3){w="Oued Rhiou"
+break G}if("state.cities.47.26"===aa3){w="Ouled Aiche"
+break G}if("state.cities.47.27"===aa3){w="Ouled Sidi Mihoub"
+break G}if("state.cities.47.28"===aa3){w="Ramka"
+break G}if("state.cities.47.29"===aa3){w=w5
+break G}if("state.cities.47.30"===aa3){w="Sidi Khettab"
+break G}if("state.cities.47.31"===aa3){w="Sidi Lazreg"
+break G}if("state.cities.47.32"===aa3){w="Sidi M'hamed Benali"
+break G}if("state.cities.47.33"===aa3){w="Sidi M'hamed Benaouda"
+break G}if("state.cities.47.34"===aa3){w="Sidi Saada"
+break G}if("state.cities.47.35"===aa3){w="Souk El Had"
+break G}if("state.cities.47.36"===aa3){w="Yellel"
+break G}if("state.cities.47.37"===aa3){w="Zemmoura"
+break G}if("state.cities.48.0"===aa3){w="Aougrout"
+break G}if("state.cities.48.1"===aa3){w="Charouine"
+break G}if("state.cities.48.2"===aa3){w="Deldoul"
+break G}if("state.cities.48.3"===aa3){w="Ksar Kaddour"
+break G}if("state.cities.48.4"===aa3){w="Metarfa"
+break G}if("state.cities.48.5"===aa3){w=z3
+break G}if("state.cities.48.6"===aa3){w="Ouled Said"
+break G}if("state.cities.48.7"===aa3){w="Talmine"
+break G}if("state.cities.48.8"===aa3){w=w6
+break G}if("state.cities.48.9"===aa3){w="Tinerkouk"
+break G}if("state.cities.49.0"===aa3){w="Bordj Badji Mokhtar"
+break G}if("state.cities.49.1"===aa3){w="Timiaouine"
+break G}if("state.cities.50.0"===aa3){w="Besbes"
+break G}if("state.cities.50.1"===aa3){w="Chaiba"
+break G}if("state.cities.50.2"===aa3){w="Doucen"
+break G}if("state.cities.50.3"===aa3){w="Ouled Djellal"
+break G}if("state.cities.50.4"===aa3){w="Ras El Miad"
+break G}if("state.cities.50.5"===aa3){w=y6
+break G}if("state.cities.51.0"===aa3){w="Beni Abbes"
+break G}if("state.cities.51.1"===aa3){w="Beni Ikhlef"
+break G}if("state.cities.51.2"===aa3){w="El Ouata"
+break G}if("state.cities.51.3"===aa3){w="Igli"
+break G}if("state.cities.51.4"===aa3){w="Kerzaz"
+break G}if("state.cities.51.5"===aa3){w="Ksabi"
+break G}if("state.cities.51.6"===aa3){w="Ouled Khoudir"
+break G}if("state.cities.51.7"===aa3){w="Tabelbala"
+break G}if("state.cities.51.8"===aa3){w="Tamtert"
+break G}if("state.cities.51.9"===aa3){w="Timoudi"
+break G}if("state.cities.52.0"===aa3){w="Foggaret Azzaouia"
+break G}if("state.cities.52.1"===aa3){w="In Ghar"
+break G}if("state.cities.52.2"===aa3){w="In Salah"
+break G}if("state.cities.53.0"===aa3){w="In Guezzam"
+break G}if("state.cities.53.1"===aa3){w="Tin Zouatine"
+break G}if("state.cities.54.0"===aa3){w="Benaceur"
+break G}if("state.cities.54.1"===aa3){w="Blidet Amor"
+break G}if("state.cities.54.2"===aa3){w="El Alia"
+break G}if("state.cities.54.3"===aa3){w="El Hadjira"
+break G}if("state.cities.54.4"===aa3){w="Megarine"
+break G}if("state.cities.54.5"===aa3){w="Mnaguer"
+break G}if("state.cities.54.6"===aa3){w="Nezla"
+break G}if("state.cities.54.7"===aa3)break G
+if("state.cities.54.8"===aa3){w="Taibet"
+break G}if("state.cities.54.9"===aa3){w="Tebesbest"
+break G}if("state.cities.54.10"===aa3){w="Temacine"
+break G}if("state.cities.54.11"===aa3){w=w7
+break G}if("state.cities.54.12"===aa3){w="Zaouia El Abidia"
+break G}if("state.cities.55.0"===aa3){w="Bordj El Haouasse"
+break G}if("state.cities.55.1"===aa3){w="Djanet"
+break G}if("state.cities.56.0"===aa3){w="Djamaa"
+break G}if("state.cities.56.1"===aa3){w="El M'ghair"
+break G}if("state.cities.56.2"===aa3){w="Mrara"
+break G}if("state.cities.56.3"===aa3){w="Oum Touyour"
+break G}if("state.cities.56.4"===aa3){w="Sidi Amrane"
+break G}if("state.cities.56.5"===aa3){w="Sidi Khelil"
+break G}if("state.cities.56.6"===aa3){w="Still"
+break G}if("state.cities.56.7"===aa3){w="Tenedla"
+break G}if("state.cities.57.0"===aa3){w="El Meniaa"
+break G}if("state.cities.57.1"===aa3){w="Hassi Fehal"
+break G}if("state.cities.57.2"===aa3){w="Hassi Gara"
 break G}w=v
-break G}if(w==null)H:{w="Premium"
-if("templates.status.available"===z8){w="Disponible"
-break H}if("templates.status.premium"===z8)break H
-if("templates.status.free"===z8){w="Gratuit"
-break H}if("templates.filters.type"===z8){w="Type"
-break H}if("templates.filters.price"===z8){w=b5
-break H}if("templates.filters.features"===z8){w=z0
-break H}if("templates.filters.popularity"===z8){w="Popularit\xe9"
-break H}if("templates.filters.newest"===z8){w="Nouveaux"
-break H}if("templates.filters.rating"===z8){w=g2
-break H}if("templates.pricing.free"===z8){w="Gratuit"
-break H}if("templates.pricing.premium"===z8)break H
-if("templates.pricing.oneTime"===z8){w="Unique"
-break H}if("templates.pricing.monthly"===z8){w="Mensuel"
-break H}if("templates.pricing.yearly"===z8){w="Annuel"
-break H}if("templates.pricing.lifetime"===z8){w="\xc0 vie"
-break H}if("templates.customization.colors"===z8){w=u8
-break H}if("templates.customization.fonts"===z8){w="Polices"
-break H}if("templates.customization.layout"===z8){w=j5
-break H}if("templates.customization.header"===z8){w="En-t\xeate"
-break H}if("templates.customization.footer"===z8){w="Pied"
-break H}if("templates.customization.sidebar"===z8){w="Barre lat\xe9rale"
-break H}if("templates.customization.logo"===z8){w="Logo"
-break H}if("templates.customization.favicon"===z8){w="Favicon"
-break H}if("templates.customization.background"===z8){w="Arri\xe8re-plan"
-break H}if("templates.customization.sections"===z8){w="Sections"
-break H}if("templates.sections.hero"===z8){w="Banni\xe8re"
-break H}if("templates.sections.about"===z8){w="\xc0 propos"
-break H}if("templates.sections.services"===z8){w="Services"
-break H}if("templates.sections.products"===z8){w=b1
-break H}if("templates.sections.testimonials"===z8){w="Avis"
-break H}if("templates.sections.contact"===z8){w="Contact"
-break H}if("templates.sections.gallery"===z8){w="Galerie"
-break H}if("templates.sections.team"===z8){w="\xc9quipe"
-break H}if("templates.sections.pricing"===z8){w="Tarifs"
-break H}if("templates.sections.faq"===z8){w="FAQ"
-break H}if("templates.sections.blog"===z8){w="Blog"
-break H}if("templates.sections.newsletter"===z8){w="Newsletter"
-break H}if("templates.messages.selectTemplate"===z8){w="Choisissez un mod\xe8le"
-break H}if("templates.messages.templateSelected"===z8){w="Mod\xe8le s\xe9lectionn\xe9"
-break H}if("templates.messages.templateInstalled"===z8){w="Mod\xe8le install\xe9"
-break H}if("templates.messages.templateActivated"===z8){w="Mod\xe8le activ\xe9"
-break H}if("templates.messages.templateDeactivated"===z8){w="Mod\xe8le d\xe9sactiv\xe9"
-break H}if("templates.messages.installationFailed"===z8){w="\xc9chec d\u2019installation"
-break H}if("templates.messages.noTemplatesFound"===z8){w="Aucun mod\xe8le trouv\xe9"
-break H}if("templates.messages.loadingTemplates"===z8){w=r3
-break H}if("templates.messages.previewNotAvailable"===z8){w="Aper\xe7u non dispo"
-break H}if("templates.messages.confirmInstallation"===z8){w="Installer ce mod\xe8le ?"
-break H}if("templates.messages.confirmActivation"===z8){w="Activer ce mod\xe8le ?"
-break H}if("templates.messages.unsavedChanges"===z8){w=j4
-break H}if("templates.form.templateName"===z8){w=b2
-break H}if("templates.form.templateDescription"===z8){w=c1
-break H}if("templates.form.templateCategory"===z8){w="Cat\xe9gorie"
-break H}if("templates.form.templateTags"===z8){w="Tags"
-break H}if("templates.form.templatePrice"===z8){w=b5
-break H}if("templates.form.templateVersion"===z8){w="Version"
-break H}if("templates.form.templateAuthor"===z8){w="Auteur"
-break H}if("templates.form.templateLicense"===z8){w="Licence"
-break H}if("templates.validation.nameRequired"===z8){w="Nom requis"
-break H}if("templates.validation.descriptionRequired"===z8){w="Description requise"
-break H}if("templates.validation.categoryRequired"===z8){w="Cat\xe9gorie requise"
-break H}if("templates.validation.invalidPrice"===z8){w="Prix invalide"
-break H}if("templates.validation.invalidVersion"===z8){w="Version invalide"
-break H}if("templates.tabs.overview"===z8){w="Vue d\u2019ensemble"
-break H}if("templates.tabs.features"===z8){w=z0
-break H}if("templates.tabs.customization"===z8){w="Personnalisation"
-break H}if("templates.tabs.settings"===z8){w=j9
-break H}if("templates.tabs.preview"===z8){w=d
-break H}if("templates.tabs.documentation"===z8){w="Docs"
-break H}if("webhooks.settings.title"===z8){w=z1
-break H}if("webhooks.settings.integration.title"===z8){w="Int\xe9gration Webhooks"
-break H}if("webhooks.settings.integration.description"===z8){w="Connectez votre boutique \xe0 des services externes pour recevoir des notifications instantan\xe9es"
-break H}if("webhooks.settings.integration.enableButton"===z8){w=z2
-break H}if("webhooks.settings.webhooks.activeCount"===z8){w="Webhooks ({active}/{total} actifs)"
-break H}if("webhooks.settings.webhooks.disabled"===z8){w=k
-break H}if("webhooks.settings.webhooks.addButton"===z8){w=z3
-break H}if("webhooks.settings.status.enabled"===z8){w="Webhooks activ\xe9s"
-break H}if("webhooks.settings.status.disabled"===z8){w="Webhooks d\xe9sactiv\xe9s"
-break H}if("webhooks.settings.status.enabledDescription"===z8){w="Tous les webhooks fonctionnent et envoient des notifications"
-break H}if("webhooks.settings.status.disabledDescription"===z8){w="Les webhooks sont d\xe9sactiv\xe9s, aucune notification envoy\xe9e"
-break H}if("webhooks.settings.dangerZone.title"===z8){w=z4
-break H}if("webhooks.settings.dangerZone.subtitle"===z8){w=z5
-break H}if("webhooks.settings.dangerZone.deleteAllButton"===z8){w=z6
-break H}if("webhooks.settings.emptyState.title"===z8){w="Aucun webhook"
-break H}if("webhooks.settings.emptyState.subtitle"===z8){w="Ajoutez un webhook pour recevoir des notifications instantan\xe9es"
-break H}if("webhooks.settings.webhookStatus.disabled"===z8){w=k
-break H}if("webhooks.settings.webhookStatus.integrationDisabled"===z8){w="Int\xe9gration d\xe9sactiv\xe9e"
-break H}if("webhooksView.settings.title"===z8){w=z1
-break H}if("webhooksView.settings.activateWebhooks"===z8){w=z2
-break H}if("webhooksView.settings.addWebhook"===z8){w=z3
-break H}if("webhooksView.settings.status.active"===z8){w="Webhooks actifs"
-break H}if("webhooksView.settings.status.inactive"===z8){w="Webhooks inactifs"
-break H}if("webhooksView.settings.dangerZone.title"===z8){w=z4
-break H}if("webhooksView.settings.dangerZone.description"===z8){w=z5
-break H}if("webhooksView.settings.dangerZone.deleteAll"===z8){w=z6
-break H}if("webhooksView.settings.activateWebhook"===z8){w="Activer ce Webhook"
+break G}if(w==null)H:{w="E-commerce"
+if("subscriptionCountdown.quotaExceeded.title"===aa3){w=i0
+break H}if("subscriptionCountdown.quotaExceeded.message"===aa3){w="Vous avez d\xe9pass\xe9 la limite autoris\xe9e. Achetez des points ou passez \xe0 un plan sup\xe9rieur pour continuer."
+break H}if("subscriptionCountdown.consumedPoints"===aa3){w="Points consomm\xe9s"
+break H}if("subscriptionCountdown.points"===aa3){w=h7
+break H}if("subscriptionCountdown.exceededBy"===aa3){w=new A.e3_()
+break H}if("subscriptionCountdown.remaining"===aa3){w=new A.e30()
+break H}if("subscriptionCountdown.buyPlan"===aa3){w="Acheter un plan"
+break H}if("subscriptionCountdown.chargePoints"===aa3){w="Recharger points"
+break H}if("templates.label"===aa3){w="Mod\xe8les"
+break H}if("templates.title"===aa3){w="Mod\xe8les de boutique"
+break H}if("templates.description"===aa3){w="Choisissez un mod\xe8le pour votre boutique en ligne"
+break H}if("templates.categories.all"===aa3){w="Tous"
+break H}if("templates.categories.ecommerce"===aa3)break H
+if("templates.categories.business"===aa3){w=v5
+break H}if("templates.categories.portfolio"===aa3){w="Portfolio"
+break H}if("templates.categories.blog"===aa3){w="Blog"
+break H}if("templates.categories.restaurant"===aa3){w="Restaurant"
+break H}if("templates.categories.fashion"===aa3){w="Mode"
+break H}if("templates.categories.technology"===aa3){w="Technologie"
+break H}if("templates.categories.health"===aa3){w="Sant\xe9"
+break H}if("templates.categories.education"===aa3){w="\xc9ducation"
+break H}if("templates.actions.preview"===aa3){w=a0
+break H}if("templates.actions.select"===aa3){w=v6
+break H}if("templates.actions.customize"===aa3){w=j6
+break H}if("templates.actions.apply"===aa3){w=u0
+break H}if("templates.actions.demo"===aa3){w="D\xe9mo"
+break H}if("templates.actions.install"===aa3){w="Installer"
+break H}if("templates.actions.activate"===aa3){w=k5
+break H}if("templates.actions.deactivate"===aa3){w=n9
+break H}if("templates.features.responsive"===aa3){w="Responsive"
+break H}if("templates.features.seoOptimized"===aa3){w="SEO optimis\xe9"
+break H}if("templates.features.fastLoading"===aa3){w="Rapide"
+break H}if("templates.features.mobileReady"===aa3){w="Mobile pr\xeat"
+break H}if("templates.features.customizable"===aa3){w="Personnalisable"
+break H}if("templates.features.multiLanguage"===aa3){w="Multi-langue"
+break H}if("templates.features.darkMode"===aa3){w="Mode sombre"
+break H}if("templates.features.analytics"===aa3){w="Analytique"
+break H}if("templates.features.ecommerce"===aa3)break H
+if("templates.features.paymentGateway"===aa3){w="Paiement en ligne"
+break H}if("templates.status.active"===aa3){w=i4
+break H}if("templates.status.inactive"===aa3){w="Inactif"
+break H}if("templates.status.installing"===aa3){w="Installation..."
+break H}if("templates.status.updating"===aa3){w="Mise \xe0 jour..."
+break H}if("templates.status.error"===aa3){w="Erreur"
+break H}if("templates.status.available"===aa3){w="Disponible"
+break H}if("templates.status.premium"===aa3){w="Premium"
+break H}if("templates.status.free"===aa3){w="Gratuit"
+break H}if("templates.filters.type"===aa3){w="Type"
+break H}if("templates.filters.price"===aa3){w=b7
+break H}if("templates.filters.features"===aa3){w=z5
+break H}if("templates.filters.popularity"===aa3){w="Popularit\xe9"
+break H}if("templates.filters.newest"===aa3){w="Nouveaux"
+break H}if("templates.filters.rating"===aa3){w=g5
+break H}if("templates.pricing.free"===aa3){w="Gratuit"
+break H}if("templates.pricing.premium"===aa3){w="Premium"
+break H}if("templates.pricing.oneTime"===aa3){w="Unique"
+break H}if("templates.pricing.monthly"===aa3){w="Mensuel"
+break H}if("templates.pricing.yearly"===aa3){w="Annuel"
+break H}if("templates.pricing.lifetime"===aa3){w="\xc0 vie"
+break H}if("templates.customization.colors"===aa3){w=v3
+break H}if("templates.customization.fonts"===aa3){w="Polices"
+break H}if("templates.customization.layout"===aa3){w=j8
+break H}if("templates.customization.header"===aa3){w="En-t\xeate"
+break H}if("templates.customization.footer"===aa3){w="Pied"
+break H}if("templates.customization.sidebar"===aa3){w="Barre lat\xe9rale"
+break H}if("templates.customization.logo"===aa3){w="Logo"
+break H}if("templates.customization.favicon"===aa3){w="Favicon"
+break H}if("templates.customization.background"===aa3){w="Arri\xe8re-plan"
+break H}if("templates.customization.sections"===aa3){w="Sections"
+break H}if("templates.sections.hero"===aa3){w="Banni\xe8re"
+break H}if("templates.sections.about"===aa3){w="\xc0 propos"
+break H}if("templates.sections.services"===aa3){w="Services"
+break H}if("templates.sections.products"===aa3){w=b2
+break H}if("templates.sections.testimonials"===aa3){w="Avis"
+break H}if("templates.sections.contact"===aa3){w="Contact"
+break H}if("templates.sections.gallery"===aa3){w="Galerie"
+break H}if("templates.sections.team"===aa3){w="\xc9quipe"
+break H}if("templates.sections.pricing"===aa3){w="Tarifs"
+break H}if("templates.sections.faq"===aa3){w="FAQ"
+break H}if("templates.sections.blog"===aa3){w="Blog"
+break H}if("templates.sections.newsletter"===aa3){w="Newsletter"
+break H}if("templates.messages.selectTemplate"===aa3){w="Choisissez un mod\xe8le"
+break H}if("templates.messages.templateSelected"===aa3){w="Mod\xe8le s\xe9lectionn\xe9"
+break H}if("templates.messages.templateInstalled"===aa3){w="Mod\xe8le install\xe9"
+break H}if("templates.messages.templateActivated"===aa3){w="Mod\xe8le activ\xe9"
+break H}if("templates.messages.templateDeactivated"===aa3){w="Mod\xe8le d\xe9sactiv\xe9"
+break H}if("templates.messages.installationFailed"===aa3){w="\xc9chec d\u2019installation"
+break H}if("templates.messages.noTemplatesFound"===aa3){w="Aucun mod\xe8le trouv\xe9"
+break H}if("templates.messages.loadingTemplates"===aa3){w=r6
+break H}if("templates.messages.previewNotAvailable"===aa3){w="Aper\xe7u non dispo"
+break H}if("templates.messages.confirmInstallation"===aa3){w="Installer ce mod\xe8le ?"
+break H}if("templates.messages.confirmActivation"===aa3){w="Activer ce mod\xe8le ?"
+break H}if("templates.messages.unsavedChanges"===aa3){w=j7
+break H}if("templates.form.templateName"===aa3){w=b4
+break H}if("templates.form.templateDescription"===aa3){w=c3
+break H}if("templates.form.templateCategory"===aa3){w="Cat\xe9gorie"
+break H}if("templates.form.templateTags"===aa3){w="Tags"
+break H}if("templates.form.templatePrice"===aa3){w=b7
+break H}if("templates.form.templateVersion"===aa3){w="Version"
+break H}if("templates.form.templateAuthor"===aa3){w="Auteur"
+break H}if("templates.form.templateLicense"===aa3){w="Licence"
+break H}if("templates.validation.nameRequired"===aa3){w="Nom requis"
+break H}if("templates.validation.descriptionRequired"===aa3){w="Description requise"
+break H}if("templates.validation.categoryRequired"===aa3){w="Cat\xe9gorie requise"
+break H}if("templates.validation.invalidPrice"===aa3){w="Prix invalide"
+break H}if("templates.validation.invalidVersion"===aa3){w="Version invalide"
+break H}if("templates.tabs.overview"===aa3){w="Vue d\u2019ensemble"
+break H}if("templates.tabs.features"===aa3){w=z5
+break H}if("templates.tabs.customization"===aa3){w="Personnalisation"
+break H}if("templates.tabs.settings"===aa3){w=k2
+break H}if("templates.tabs.preview"===aa3){w=a0
+break H}if("templates.tabs.documentation"===aa3){w="Docs"
+break H}if("webhooks.settings.title"===aa3){w=z6
+break H}if("webhooks.settings.integration.title"===aa3){w="Int\xe9gration Webhooks"
+break H}if("webhooks.settings.integration.description"===aa3){w="Connectez votre boutique \xe0 des services externes pour recevoir des notifications instantan\xe9es"
+break H}if("webhooks.settings.integration.enableButton"===aa3){w=z7
+break H}if("webhooks.settings.webhooks.activeCount"===aa3){w="Webhooks ({active}/{total} actifs)"
+break H}if("webhooks.settings.webhooks.disabled"===aa3){w=j
+break H}if("webhooks.settings.webhooks.addButton"===aa3){w=z8
+break H}if("webhooks.settings.status.enabled"===aa3){w="Webhooks activ\xe9s"
+break H}if("webhooks.settings.status.disabled"===aa3){w="Webhooks d\xe9sactiv\xe9s"
+break H}if("webhooks.settings.status.enabledDescription"===aa3){w="Tous les webhooks fonctionnent et envoient des notifications"
+break H}if("webhooks.settings.status.disabledDescription"===aa3){w="Les webhooks sont d\xe9sactiv\xe9s, aucune notification envoy\xe9e"
+break H}if("webhooks.settings.dangerZone.title"===aa3){w=z9
+break H}if("webhooks.settings.dangerZone.subtitle"===aa3){w=aa0
+break H}if("webhooks.settings.dangerZone.deleteAllButton"===aa3){w=aa1
+break H}if("webhooks.settings.emptyState.title"===aa3){w="Aucun webhook"
+break H}if("webhooks.settings.emptyState.subtitle"===aa3){w="Ajoutez un webhook pour recevoir des notifications instantan\xe9es"
+break H}if("webhooks.settings.webhookStatus.disabled"===aa3){w=j
+break H}if("webhooks.settings.webhookStatus.integrationDisabled"===aa3){w="Int\xe9gration d\xe9sactiv\xe9e"
+break H}if("webhooksView.settings.title"===aa3){w=z6
+break H}if("webhooksView.settings.activateWebhooks"===aa3){w=z7
+break H}if("webhooksView.settings.addWebhook"===aa3){w=z8
+break H}if("webhooksView.settings.status.active"===aa3){w="Webhooks actifs"
+break H}if("webhooksView.settings.status.inactive"===aa3){w="Webhooks inactifs"
+break H}if("webhooksView.settings.dangerZone.title"===aa3){w=z9
+break H}if("webhooksView.settings.dangerZone.description"===aa3){w=aa0
+break H}if("webhooksView.settings.dangerZone.deleteAll"===aa3){w=aa1
+break H}if("webhooksView.settings.activateWebhook"===aa3){w="Activer ce Webhook"
 break H}w=v
 break H}return w},
-f8F(d){return new A.e0P(d)},
-b_1:function b_1(d){var _=this
+fbs(d){return new A.e3E(d)},
+b_m:function b_m(d){var _=this
 _.a=d
 _.cy=_.cx=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dNb:function dNb(d){var _=this
+dPL:function dPL(d){var _=this
 _.a=d
 _.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dMx:function dMx(d){var _=this
+dP6:function dP6(d){var _=this
 _.a=d
 _.d=_.c=_.b=$},
-dRz:function dRz(d){var _=this
+dU8:function dU8(d){var _=this
 _.a=d
 _.Q=_.y=_.x=_.w=_.e=_.d=_.c=$},
-dRD:function dRD(d){this.a=d
+dUc:function dUc(d){this.a=d
 this.b=$},
-dRH:function dRH(d){var _=this
+dUg:function dUg(d){var _=this
 _.a=d
 _.d=_.c=_.b=$},
-dSm:function dSm(d){this.a=d
+dUW:function dUW(d){this.a=d
 this.c=this.b=$},
-dSI:function dSI(d){var _=this
+dVh:function dVh(d){var _=this
 _.a=d
 _.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dT1:function dT1(d){this.a=d
+dVB:function dVB(d){this.a=d
 this.c=this.b=$},
-dTr:function dTr(d){var _=this
+dW0:function dW0(d){var _=this
 _.a=d
 _.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dTV:function dTV(d){var _=this
+dWu:function dWu(d){var _=this
 _.a=d
 _.e=_.d=_.c=_.b=$},
-dU4:function dU4(d){var _=this
+dWE:function dWE(d){var _=this
 _.a=d
 _.y=_.x=_.w=_.f=_.c=_.b=$},
-dUs:function dUs(d){var _=this
+dX3:function dX3(d){var _=this
 _.a=d
-_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
+_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
+dXJ:function dXJ(d){this.a=d
+this.b=$},
+dXN:function dXN(){},
+dXT:function dXT(d){var _=this
+_.a=d
+_.x=_.r=_.e=_.d=_.c=_.b=$},
+dR1:function dR1(d){this.a=d
+this.b=$},
+dPK:function dPK(){},
+dPP:function dPP(d){var _=this
+_.a=d
+_.e=_.d=_.c=_.b=$},
+dOT:function dOT(d){this.a=d
+this.c=this.b=$},
+dT1:function dT1(d){this.a=d
+this.d=this.c=$},
+dU0:function dU0(d){this.a=d
+this.c=$},
+dSa:function dSa(d){var _=this
+_.a=d
+_.Q=_.z=_.y=_.x=_.w=_.f=_.e=_.c=_.b=$},
+dTB:function dTB(d){var _=this
+_.a=d
+_.r=_.f=_.e=_.d=_.c=_.b=$},
+dPe:function dPe(d){this.a=d
+this.b=$},
+dSk:function dSk(d){this.a=d
+this.e=this.b=$},
+dQ8:function dQ8(d){var _=this
+_.a=d
+_.as=_.Q=_.z=_.x=_.r=_.f=_.e=_.d=_.c=_.b=$},
+dOQ:function dOQ(){},
+dOG:function dOG(d){var _=this
+_.a=d
+_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
+dU4:function dU4(d){this.a=d
+this.c=this.b=$},
+dP8:function dP8(){},
+dPa:function dPa(){},
+dPc:function dPc(){},
+dUa:function dUa(){},
+dUe:function dUe(){},
+dUw:function dUw(d){this.a=d
+this.b=$},
 dUU:function dUU(d){this.a=d
 this.b=$},
 dUY:function dUY(){},
-dV3:function dV3(d){var _=this
-_.a=d
-_.x=_.r=_.e=_.d=_.c=_.b=$},
-dOs:function dOs(d){this.a=d
-this.b=$},
-dNa:function dNa(){},
-dNf:function dNf(d){var _=this
-_.a=d
-_.e=_.d=_.c=_.b=$},
-dMj:function dMj(d){this.a=d
-this.c=this.b=$},
-dQs:function dQs(d){this.a=d
-this.d=this.c=$},
-dRr:function dRr(d){this.a=d
-this.c=$},
-dPB:function dPB(d){var _=this
-_.a=d
-_.Q=_.z=_.y=_.x=_.w=_.f=_.e=_.c=_.b=$},
-dR1:function dR1(d){var _=this
-_.a=d
-_.r=_.f=_.e=_.d=_.c=_.b=$},
-dMF:function dMF(d){this.a=d
-this.b=$},
-dPL:function dPL(d){this.a=d
-this.e=this.b=$},
-dNz:function dNz(d){var _=this
-_.a=d
-_.as=_.Q=_.z=_.x=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dMg:function dMg(){},
-dM6:function dM6(d){var _=this
-_.a=d
-_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dRv:function dRv(d){this.a=d
-this.c=this.b=$},
-dMz:function dMz(){},
-dMB:function dMB(){},
-dMD:function dMD(){},
-dRB:function dRB(){},
-dRF:function dRF(){},
-dRX:function dRX(d){this.a=d
-this.b=$},
-dSk:function dSk(d){this.a=d
-this.b=$},
-dSo:function dSo(){},
-dSq:function dSq(){},
-dSY:function dSY(){},
-dSW:function dSW(){},
-dSz:function dSz(){},
-dSB:function dSB(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dSw:function dSw(){},
-dSK:function dSK(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dSU:function dSU(){},
-dSu:function dSu(d){this.a=d
-this.b=$},
-dSS:function dSS(){},
-dT0:function dT0(){},
-dT3:function dT3(){},
-dTa:function dTa(){},
-dT6:function dT6(){},
-dTv:function dTv(d){this.a=d
-this.c=this.b=$},
-dTc:function dTc(){},
-dTB:function dTB(){},
-dTq:function dTq(){},
-dTF:function dTF(d){this.a=d
-this.b=$},
-dT8:function dT8(){},
-dTt:function dTt(){},
-dTD:function dTD(){},
-dTi:function dTi(d){var _=this
-_.a=d
-_.f=_.e=_.d=_.c=_.b=$},
-dTP:function dTP(d){var _=this
-_.a=d
-_.f=_.e=_.d=_.c=_.b=$},
-dU0:function dU0(){},
-dTZ:function dTZ(){},
-dTX:function dTX(){},
-dU8:function dU8(){},
-dU3:function dU3(){},
-dU6:function dU6(){},
-dUw:function dUw(d){this.a=d
-this.c=this.b=$},
-dUu:function dUu(){},
-dUr:function dUr(){},
-dUQ:function dUQ(){},
-dUG:function dUG(){},
-dUf:function dUf(){},
-dUb:function dUb(){},
-dUh:function dUh(){},
-dUl:function dUl(){},
-dUn:function dUn(){},
-dUd:function dUd(){},
-dUO:function dUO(){},
-dUj:function dUj(){},
-dUC:function dUC(){},
-dUE:function dUE(){},
-dUp:function dUp(){},
-dUM:function dUM(){},
-dUK:function dUK(){},
-dUI:function dUI(){},
-dUS:function dUS(){},
-dUW:function dUW(){},
 dV_:function dV_(){},
-dV2:function dV2(){},
-dV5:function dV5(){},
-dOp:function dOp(d){this.a=d
-this.c=this.b=$},
-dNe:function dNe(){},
-dNh:function dNh(d){this.a=d
-this.c=this.b=$},
-dNn:function dNn(){},
-dMp:function dMp(d){var _=this
+dVx:function dVx(){},
+dVv:function dVv(){},
+dV8:function dV8(){},
+dVa:function dVa(d){var _=this
 _.a=d
 _.d=_.c=_.b=$},
-dMl:function dMl(){},
-dPY:function dPY(d){var _=this
+dV5:function dV5(){},
+dVj:function dVj(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dVt:function dVt(){},
+dV3:function dV3(d){this.a=d
+this.b=$},
+dVr:function dVr(){},
+dVA:function dVA(){},
+dVD:function dVD(){},
+dVK:function dVK(){},
+dVG:function dVG(){},
+dW4:function dW4(d){this.a=d
+this.c=this.b=$},
+dVM:function dVM(){},
+dWa:function dWa(){},
+dW_:function dW_(){},
+dWe:function dWe(d){this.a=d
+this.b=$},
+dVI:function dVI(){},
+dW2:function dW2(){},
+dWc:function dWc(){},
+dVS:function dVS(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dWo:function dWo(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dWA:function dWA(){},
+dWy:function dWy(){},
+dWw:function dWw(){},
+dWI:function dWI(){},
+dWD:function dWD(){},
+dWG:function dWG(){},
+dX7:function dX7(d){this.a=d
+this.c=this.b=$},
+dX5:function dX5(){},
+dX2:function dX2(){},
+dXF:function dXF(){},
+dXv:function dXv(){},
+dWP:function dWP(){},
+dWL:function dWL(){},
+dWR:function dWR(){},
+dWX:function dWX(){},
+dWZ:function dWZ(){},
+dWN:function dWN(){},
+dXD:function dXD(){},
+dWV:function dWV(){},
+dWT:function dWT(){},
+dXf:function dXf(){},
+dXh:function dXh(){},
+dX0:function dX0(){},
+dXB:function dXB(){},
+dXz:function dXz(){},
+dXx:function dXx(){},
+dXH:function dXH(){},
+dXd:function dXd(){},
+dXl:function dXl(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dXL:function dXL(){},
+dXP:function dXP(){},
+dXS:function dXS(){},
+dXV:function dXV(){},
+dQZ:function dQZ(d){this.a=d
+this.c=this.b=$},
+dPO:function dPO(){},
+dPR:function dPR(d){this.a=d
+this.c=this.b=$},
+dPX:function dPX(){},
+dOZ:function dOZ(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dOV:function dOV(){},
+dSx:function dSx(d){var _=this
 _.a=d
 _.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dQA:function dQA(d){var _=this
+dT9:function dT9(d){var _=this
 _.a=d
 _.r=_.f=_.e=_.d=_.c=_.b=$},
-dRk:function dRk(d){var _=this
+dTU:function dTU(d){var _=this
 _.a=d
 _.e=_.d=_.c=_.b=$},
-dOv:function dOv(){},
-dOJ:function dOJ(){},
-dOB:function dOB(d){var _=this
+dR4:function dR4(){},
+dRi:function dRi(){},
+dRa:function dRa(d){var _=this
 _.a=d
 _.e=_.d=_.c=_.b=$},
-dPH:function dPH(){},
-dPF:function dPF(){},
-dPD:function dPD(){},
-dOx:function dOx(){},
-dPw:function dPw(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dOX:function dOX(d){var _=this
-_.a=d
-_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dR3:function dR3(){},
-dQR:function dQR(d){this.a=d
-this.b=$},
-dR9:function dR9(d){this.a=d
-this.b=$},
-dR0:function dR0(){},
-dQV:function dQV(d){var _=this
-_.a=d
-_.f=_.e=_.d=_.c=_.b=$},
-dRd:function dRd(d){this.a=d
-this.d=this.c=$},
-dMH:function dMH(d){var _=this
-_.a=d
-_.z=_.y=_.x=_.w=_.f=_.d=_.c=_.b=$},
-dPN:function dPN(){},
-dPK:function dPK(){},
-dO4:function dO4(d){var _=this
-_.a=d
-_.f=_.e=_.d=_.c=_.b=$},
-dNu:function dNu(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dOi:function dOi(d){this.a=d
-this.b=$},
-dNZ:function dNZ(){},
-dNF:function dNF(d){this.a=d
-this.b=$},
-dOe:function dOe(d){this.a=d
-this.b=$},
-dNP:function dNP(d){this.a=d
-this.d=this.c=$},
-dND:function dND(){},
-dNB:function dNB(){},
-dNp:function dNp(){},
-dM8:function dM8(){},
-dM3:function dM3(){},
-dMa:function dMa(d){this.a=d
-this.b=$},
-dM5:function dM5(){},
-dMe:function dMe(){},
-dM1:function dM1(){},
-dRx:function dRx(){},
-dRu:function dRu(){},
-dRW:function dRW(d){this.a=d
-this.b=$},
-dSj:function dSj(d){this.a=d
-this.b=$},
-dSF:function dSF(){},
-dSH:function dSH(){},
-dSD:function dSD(){},
-dSO:function dSO(){},
-dSQ:function dSQ(){},
-dSM:function dSM(){},
-dSt:function dSt(){},
-dTx:function dTx(){},
-dTz:function dTz(){},
-dTH:function dTH(){},
-dTh:function dTh(){},
-dTo:function dTo(){},
-dTf:function dTf(){},
-dTk:function dTk(){},
-dTm:function dTm(){},
-dTO:function dTO(){},
-dTK:function dTK(){},
-dTM:function dTM(){},
-dTT:function dTT(){},
-dTR:function dTR(){},
-dUy:function dUy(){},
-dUA:function dUA(){},
-dOr:function dOr(){},
-dOo:function dOo(){},
-dNl:function dNl(){},
-dNj:function dNj(){},
-dMv:function dMv(){},
-dMr:function dMr(d){this.a=d
-this.b=$},
-dMn:function dMn(){},
-dQf:function dQf(){},
-dQl:function dQl(){},
-dQ_:function dQ_(){},
-dPX:function dPX(){},
-dQ5:function dQ5(d){this.a=d
-this.b=$},
-dPV:function dPV(){},
-dQn:function dQn(d){this.a=d
-this.c=this.b=$},
-dQ1:function dQ1(){},
-dQj:function dQj(){},
-dQ7:function dQ7(){},
-dQ9:function dQ9(){},
-dQd:function dQd(){},
-dPR:function dPR(){},
-dQh:function dQh(){},
-dPT:function dPT(){},
-dQb:function dQb(){},
-dQx:function dQx(){},
-dQE:function dQE(){},
-dQz:function dQz(){},
-dQu:function dQu(){},
-dQC:function dQC(){},
-dQG:function dQG(){},
-dRm:function dRm(){},
-dRj:function dRj(){},
-dRq:function dRq(){},
-dRo:function dRo(){},
-dOA:function dOA(){},
-dOF:function dOF(){},
-dOH:function dOH(){},
-dOD:function dOD(){},
-dPy:function dPy(){},
-dPu:function dPu(){},
-dPA:function dPA(){},
-dOZ:function dOZ(){},
-dOO:function dOO(){},
-dOS:function dOS(){},
-dOQ:function dOQ(){},
-dPa:function dPa(){},
-dP4:function dP4(){},
-dP6:function dP6(){},
-dP8:function dP8(){},
-dPe:function dPe(){},
-dPg:function dPg(d){this.a=d
-this.b=$},
-dP0:function dP0(){},
-dPo:function dPo(){},
-dPc:function dPc(){},
-dOW:function dOW(){},
-dPm:function dPm(){},
-dPk:function dPk(){},
-dP2:function dP2(){},
-dOU:function dOU(){},
-dOM:function dOM(){},
-dPs:function dPs(){},
-dPq:function dPq(){},
-dQM:function dQM(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dR6:function dR6(d){this.a=d
-this.b=$},
-dQX:function dQX(){},
-dQU:function dQU(){},
-dQZ:function dQZ(){},
-dRb:function dRb(){},
-dRf:function dRf(){},
-dMN:function dMN(d){this.a=d
-this.b=$},
-dN0:function dN0(d){var _=this
-_.a=d
-_.r=_.e=_.d=_.c=_.b=$},
-dML:function dML(){},
-dMR:function dMR(){},
-dMV:function dMV(d){this.a=d
-this.b=$},
-dMJ:function dMJ(){},
-dMT:function dMT(d){this.a=d
-this.b=$},
-dO1:function dO1(){},
-dO3:function dO3(){},
-dO6:function dO6(){},
-dO8:function dO8(d){this.a=d
-this.b=$},
-dOc:function dOc(){},
-dNw:function dNw(){},
-dNt:function dNt(){},
-dNy:function dNy(){},
-dOk:function dOk(){},
-dNH:function dNH(){},
-dOg:function dOg(){},
-dNV:function dNV(d){var _=this
-_.a=d
-_.d=_.c=_.b=$},
-dNM:function dNM(d){this.a=d
-this.c=this.b=$},
-dMc:function dMc(){},
-dRN:function dRN(d){var _=this
-_.a=d
-_.f=_.e=_.d=_.c=_.b=$},
-dS8:function dS8(d){var _=this
-_.a=d
-_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-dMt:function dMt(){},
-dQ3:function dQ3(){},
-dQp:function dQp(){},
-dQr:function dQr(){},
-dPi:function dPi(){},
-dQO:function dQO(){},
-dQQ:function dQQ(){},
-dQK:function dQK(){},
-dR8:function dR8(){},
-dMP:function dMP(){},
-dN4:function dN4(){},
-dN6:function dN6(){},
-dN8:function dN8(){},
-dN_:function dN_(){},
-dN2:function dN2(){},
-dMX:function dMX(){},
-dOa:function dOa(){},
-dNS:function dNS(){},
-dNU:function dNU(){},
-dNX:function dNX(){},
-dNO:function dNO(){},
-dNL:function dNL(){},
-dRT:function dRT(){},
-dRR:function dRR(){},
-dRV:function dRV(){},
-dRL:function dRL(){},
-dRP:function dRP(){},
+dSg:function dSg(){},
 dSe:function dSe(){},
 dSc:function dSc(){},
-dSi:function dSi(){},
-dS4:function dS4(){},
-dSg:function dSg(){},
-dS0:function dS0(){},
-dS2:function dS2(){},
-dSa:function dSa(){},
+dR6:function dR6(){},
+dS5:function dS5(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dRw:function dRw(d){var _=this
+_.a=d
+_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
+dTD:function dTD(){},
+dTq:function dTq(d){this.a=d
+this.b=$},
+dTJ:function dTJ(d){this.a=d
+this.b=$},
+dTA:function dTA(){},
+dTu:function dTu(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dTN:function dTN(d){this.a=d
+this.d=this.c=$},
+dPg:function dPg(d){var _=this
+_.a=d
+_.z=_.y=_.x=_.w=_.f=_.d=_.c=_.b=$},
+dSm:function dSm(){},
+dSj:function dSj(){},
+dQE:function dQE(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dQ3:function dQ3(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dQS:function dQS(d){this.a=d
+this.b=$},
+dQy:function dQy(){},
+dQe:function dQe(d){this.a=d
+this.b=$},
+dQO:function dQO(d){this.a=d
+this.b=$},
+dQo:function dQo(d){this.a=d
+this.d=this.c=$},
+dQc:function dQc(){},
+dQa:function dQa(){},
+dPZ:function dPZ(){},
+dOI:function dOI(){},
+dOD:function dOD(){},
+dOK:function dOK(d){this.a=d
+this.b=$},
+dOF:function dOF(){},
+dOO:function dOO(){},
+dOB:function dOB(){},
+dU6:function dU6(){},
+dU3:function dU3(){},
+dUv:function dUv(d){this.a=d
+this.b=$},
+dUT:function dUT(d){this.a=d
+this.b=$},
+dVe:function dVe(){},
+dVg:function dVg(){},
+dVc:function dVc(){},
+dVn:function dVn(){},
+dVp:function dVp(){},
+dVl:function dVl(){},
+dV2:function dV2(){},
+dW6:function dW6(){},
+dW8:function dW8(){},
+dWg:function dWg(){},
+dVR:function dVR(){},
+dVY:function dVY(){},
+dVP:function dVP(){},
+dVU:function dVU(){},
+dVW:function dVW(){},
+dWn:function dWn(){},
+dWj:function dWj(){},
+dWl:function dWl(){},
+dWs:function dWs(){},
+dWq:function dWq(){},
+dX9:function dX9(){},
+dXb:function dXb(){},
+dXn:function dXn(){},
+dXt:function dXt(){},
+dXp:function dXp(){},
+dXr:function dXr(){},
+dXk:function dXk(){},
+dR0:function dR0(){},
+dQY:function dQY(){},
+dPV:function dPV(){},
+dPT:function dPT(){},
+dP4:function dP4(){},
+dP0:function dP0(d){this.a=d
+this.b=$},
+dOX:function dOX(){},
+dSP:function dSP(){},
+dSV:function dSV(){},
+dSz:function dSz(){},
+dSw:function dSw(){},
+dSF:function dSF(d){this.a=d
+this.b=$},
+dSu:function dSu(){},
+dSX:function dSX(d){this.a=d
+this.c=this.b=$},
+dSB:function dSB(){},
+dST:function dST(){},
+dSH:function dSH(){},
+dSJ:function dSJ(){},
+dSN:function dSN(){},
+dSq:function dSq(){},
+dSR:function dSR(){},
+dSs:function dSs(){},
+dSL:function dSL(){},
+dT6:function dT6(){},
+dTd:function dTd(){},
+dT8:function dT8(){},
+dT3:function dT3(){},
+dTb:function dTb(){},
+dTf:function dTf(){},
+dTW:function dTW(){},
+dTT:function dTT(){},
+dU_:function dU_(){},
+dTY:function dTY(){},
+dR9:function dR9(){},
+dRe:function dRe(){},
+dRg:function dRg(){},
+dRc:function dRc(){},
 dS7:function dS7(){},
-e0P:function e0P(d){this.a=d},
-e_Q:function e_Q(){},
-e_R:function e_R(){},
-e_S:function e_S(){},
-e02:function e02(){},
-e0d:function e0d(){},
-e0o:function e0o(){},
-e0z:function e0z(){},
-e0J:function e0J(){},
-e0K:function e0K(){},
-e0L:function e0L(){},
-e0M:function e0M(){},
-e_T:function e_T(){},
-e_U:function e_U(){},
-e_V:function e_V(){},
-e_W:function e_W(){},
-e_X:function e_X(){},
-e_Y:function e_Y(){},
-e_Z:function e_Z(){},
-e0_:function e0_(){},
-e00:function e00(){},
-e01:function e01(){},
-e03:function e03(){},
-e04:function e04(){},
-e05:function e05(){},
-e06:function e06(){},
-e07:function e07(){},
-e08:function e08(){},
-e09:function e09(){},
-e0a:function e0a(){},
-e0b:function e0b(){},
-bmr:function bmr(){}}
+dS3:function dS3(){},
+dS9:function dS9(){},
+dRy:function dRy(){},
+dRn:function dRn(){},
+dRr:function dRr(){},
+dRp:function dRp(){},
+dRK:function dRK(){},
+dRE:function dRE(){},
+dRG:function dRG(){},
+dRI:function dRI(){},
+dRO:function dRO(){},
+dRQ:function dRQ(d){this.a=d
+this.b=$},
+dRA:function dRA(){},
+dRY:function dRY(){},
+dRM:function dRM(){},
+dRv:function dRv(){},
+dRW:function dRW(){},
+dRU:function dRU(){},
+dRC:function dRC(){},
+dRt:function dRt(){},
+dRl:function dRl(){},
+dS1:function dS1(){},
+dS_:function dS_(){},
+dTl:function dTl(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dTG:function dTG(d){this.a=d
+this.b=$},
+dTw:function dTw(){},
+dTt:function dTt(){},
+dTy:function dTy(){},
+dTL:function dTL(){},
+dTP:function dTP(){},
+dPm:function dPm(d){this.a=d
+this.b=$},
+dPA:function dPA(d){var _=this
+_.a=d
+_.r=_.e=_.d=_.c=_.b=$},
+dPk:function dPk(){},
+dPq:function dPq(){},
+dPu:function dPu(d){this.a=d
+this.b=$},
+dPi:function dPi(){},
+dPs:function dPs(d){this.a=d
+this.b=$},
+dQB:function dQB(){},
+dQD:function dQD(){},
+dQG:function dQG(){},
+dQI:function dQI(d){this.a=d
+this.b=$},
+dQM:function dQM(){},
+dQ5:function dQ5(){},
+dQ2:function dQ2(){},
+dQ7:function dQ7(){},
+dQU:function dQU(){},
+dQg:function dQg(){},
+dQQ:function dQQ(){},
+dQu:function dQu(d){var _=this
+_.a=d
+_.d=_.c=_.b=$},
+dQl:function dQl(d){this.a=d
+this.c=this.b=$},
+dOM:function dOM(){},
+dUm:function dUm(d){var _=this
+_.a=d
+_.f=_.e=_.d=_.c=_.b=$},
+dUI:function dUI(d){var _=this
+_.a=d
+_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
+dP2:function dP2(){},
+dSD:function dSD(){},
+dSZ:function dSZ(){},
+dT0:function dT0(){},
+dRS:function dRS(){},
+dTn:function dTn(){},
+dTp:function dTp(){},
+dTj:function dTj(){},
+dTI:function dTI(){},
+dPo:function dPo(){},
+dPE:function dPE(){},
+dPG:function dPG(){},
+dPI:function dPI(){},
+dPz:function dPz(){},
+dPC:function dPC(){},
+dPw:function dPw(){},
+dQK:function dQK(){},
+dQr:function dQr(){},
+dQt:function dQt(){},
+dQw:function dQw(){},
+dQn:function dQn(){},
+dQk:function dQk(){},
+dUs:function dUs(){},
+dUq:function dUq(){},
+dUu:function dUu(){},
+dUk:function dUk(){},
+dUo:function dUo(){},
+dUO:function dUO(){},
+dUM:function dUM(){},
+dUS:function dUS(){},
+dUE:function dUE(){},
+dUQ:function dUQ(){},
+dUA:function dUA(){},
+dUC:function dUC(){},
+dUK:function dUK(){},
+dUH:function dUH(){},
+e3E:function e3E(d){this.a=d},
+e2F:function e2F(){},
+e2G:function e2G(){},
+e2H:function e2H(){},
+e2S:function e2S(){},
+e32:function e32(){},
+e3d:function e3d(){},
+e3o:function e3o(){},
+e3y:function e3y(){},
+e3z:function e3z(){},
+e3A:function e3A(){},
+e3B:function e3B(){},
+e2I:function e2I(){},
+e2J:function e2J(){},
+e2K:function e2K(){},
+e2L:function e2L(){},
+e2M:function e2M(){},
+e2N:function e2N(){},
+e2O:function e2O(){},
+e2P:function e2P(){},
+e2Q:function e2Q(){},
+e2R:function e2R(){},
+e2T:function e2T(){},
+e2U:function e2U(){},
+e2V:function e2V(){},
+e2W:function e2W(){},
+e2X:function e2X(){},
+e2Y:function e2Y(){},
+e2Z:function e2Z(){},
+e3_:function e3_(){},
+e30:function e30(){},
+bn6:function bn6(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[4],A)
-A.b_1.prototype={
-h(d,e){return this.a.am1(e)},
-guA(){var w=this.b
+A.b_m.prototype={
+h(d,e){return this.a.amy(e)},
+guG(){var w=this.b
 return w===$?this.b=this:w},
 gq(){var w,v=this,u=v.c
-if(u===$){w=v.guA()
-v.c!==$&&B.aT()
-u=v.c=new A.dNb(w)}return u},
-glM(){var w,v=this,u=v.d
-if(u===$){w=v.guA()
-v.d!==$&&B.aT()
-u=v.d=new A.dMx(w)}return u},
-gSG(){var w,v=this,u=v.f
-if(u===$){w=v.guA()
-v.f!==$&&B.aT()
-u=v.f=new A.dRz(w)}return u},
+if(u===$){w=v.guG()
+v.c!==$&&B.aW()
+u=v.c=new A.dPL(w)}return u},
+glO(){var w,v=this,u=v.d
+if(u===$){w=v.guG()
+v.d!==$&&B.aW()
+u=v.d=new A.dP6(w)}return u},
+gSV(){var w,v=this,u=v.f
+if(u===$){w=v.guG()
+v.f!==$&&B.aW()
+u=v.f=new A.dU8(w)}return u},
 giG(){var w,v=this,u=v.r
-if(u===$){w=v.guA()
-v.r!==$&&B.aT()
-u=v.r=new A.dRD(w)}return u},
+if(u===$){w=v.guG()
+v.r!==$&&B.aW()
+u=v.r=new A.dUc(w)}return u},
 gR(){var w,v=this,u=v.w
-if(u===$){w=v.guA()
-v.w!==$&&B.aT()
-u=v.w=new A.dRH(w)}return u},
-gr3(){var w,v=this,u=v.x
-if(u===$){w=v.guA()
-v.x!==$&&B.aT()
-u=v.x=new A.dSm(w)}return u},
-ge5(){var w,v=this,u=v.y
-if(u===$){w=v.guA()
-v.y!==$&&B.aT()
-u=v.y=new A.dSI(w)}return u},
-gajx(){var w,v=this,u=v.z
-if(u===$){w=v.guA()
-v.z!==$&&B.aT()
-u=v.z=new A.dT1(w)}return u},
+if(u===$){w=v.guG()
+v.w!==$&&B.aW()
+u=v.w=new A.dUg(w)}return u},
+gra(){var w,v=this,u=v.x
+if(u===$){w=v.guG()
+v.x!==$&&B.aW()
+u=v.x=new A.dUW(w)}return u},
+ge6(){var w,v=this,u=v.y
+if(u===$){w=v.guG()
+v.y!==$&&B.aW()
+u=v.y=new A.dVh(w)}return u},
+gak1(){var w,v=this,u=v.z
+if(u===$){w=v.guG()
+v.z!==$&&B.aW()
+u=v.z=new A.dVB(w)}return u},
 ga2(){var w,v=this,u=v.Q
-if(u===$){w=v.guA()
-v.Q!==$&&B.aT()
-u=v.Q=new A.dTr(w)}return u},
-gkW(){var w,v=this,u=v.as
-if(u===$){w=v.guA()
-v.as!==$&&B.aT()
-u=v.as=new A.dTV(w)}return u},
-gFA(){var w,v=this,u=v.at
-if(u===$){w=v.guA()
-v.at!==$&&B.aT()
-u=v.at=new A.dU4(w)}return u},
-gbx(){var w,v=this,u=v.ax
-if(u===$){w=v.guA()
-v.ax!==$&&B.aT()
-u=v.ax=new A.dUs(w)}return u},
-gl3(){var w,v=this,u=v.ay
-if(u===$){w=v.guA()
-v.ay!==$&&B.aT()
-u=v.ay=new A.dUU(w)}return u},
+if(u===$){w=v.guG()
+v.Q!==$&&B.aW()
+u=v.Q=new A.dW0(w)}return u},
+gkZ(){var w,v=this,u=v.as
+if(u===$){w=v.guG()
+v.as!==$&&B.aW()
+u=v.as=new A.dWu(w)}return u},
+gFH(){var w,v=this,u=v.at
+if(u===$){w=v.guG()
+v.at!==$&&B.aW()
+u=v.at=new A.dWE(w)}return u},
+gb1(){var w,v=this,u=v.ax
+if(u===$){w=v.guG()
+v.ax!==$&&B.aW()
+u=v.ax=new A.dX3(w)}return u},
+gl5(){var w,v=this,u=v.ay
+if(u===$){w=v.guG()
+v.ay!==$&&B.aW()
+u=v.ay=new A.dXJ(w)}return u},
 gdl(d){var w=this,v=w.ch
-if(v===$){w.guA()
-w.ch!==$&&B.aT()
-v=w.ch=new A.dUY()}return v},
-gFK(){var w,v=this,u=v.cx
-if(u===$){w=v.guA()
-v.cx!==$&&B.aT()
-u=v.cx=new A.dV3(w)}return u},
-$iox:1}
-A.dNb.prototype={
-gadr(d){return"feeef marchand"},
-gFr(){return"Charger plus"},
+if(v===$){w.guG()
+w.ch!==$&&B.aW()
+v=w.ch=new A.dXN()}return v},
+gFS(){var w,v=this,u=v.cx
+if(u===$){w=v.guG()
+v.cx!==$&&B.aW()
+u=v.cx=new A.dXT(w)}return u},
+$ioB:1}
+A.dPL.prototype={
+gadW(d){return"feeef marchand"},
+gFx(){return"Charger plus"},
 ghf(d){var w=this.b
-return w===$?this.b=new A.dOs(this.a):w},
-gHL(){var w=this.c
-return w===$?this.c=new A.dNa():w},
-ga0(){var w=this.d
-return w===$?this.d=new A.dNf(this.a):w},
+return w===$?this.b=new A.dR1(this.a):w},
+gHT(){var w=this.c
+return w===$?this.c=new A.dPK():w},
+ga_(){var w=this.d
+return w===$?this.d=new A.dPP(this.a):w},
 gfT(){var w=this.e
-return w===$?this.e=new A.dMj(this.a):w},
-gc9(){var w=this.f
-return w===$?this.f=new A.dQs(this.a):w},
-gAU(){var w=this.r
-return w===$?this.r=new A.dRr(this.a):w},
-ga8(){var w=this.w
-return w===$?this.w=new A.dPB(this.a):w},
+return w===$?this.e=new A.dOT(this.a):w},
+gca(){var w=this.f
+return w===$?this.f=new A.dT1(this.a):w},
+gAY(){var w=this.r
+return w===$?this.r=new A.dU0(this.a):w},
+ga9(){var w=this.w
+return w===$?this.w=new A.dSa(this.a):w},
 gci(){var w=this.x
-return w===$?this.x=new A.dR1(this.a):w},
+return w===$?this.x=new A.dTB(this.a):w},
 gdg(){var w=this.y
-return w===$?this.y=new A.dMF(this.a):w},
-gnn(){var w=this.z
-return w===$?this.z=new A.dPL(this.a):w},
+return w===$?this.y=new A.dPe(this.a):w},
+gnr(){var w=this.z
+return w===$?this.z=new A.dSk(this.a):w},
 gR(){var w=this.Q
-return w===$?this.Q=new A.dNz(this.a):w},
-glM(){var w=this.as
-return w===$?this.as=new A.dMg():w},
+return w===$?this.Q=new A.dQ8(this.a):w},
+glO(){var w=this.as
+return w===$?this.as=new A.dOQ():w},
 giL(){var w=this.at
-return w===$?this.at=new A.dM6(this.a):w},
+return w===$?this.at=new A.dOG(this.a):w},
 gjv(){var w=this.ax
-return w===$?this.ax=new A.dRv(this.a):w}}
-A.dMx.prototype={
-gCs(d){var w=this.b
-return w===$?this.b=new A.dMz():w},
-gqx(){var w=this.c
-return w===$?this.c=new A.dMB():w},
-gxS(d){var w=this.d
-return w===$?this.d=new A.dMD():w},
-gFC(){return"Profil"},
-gaCS(){return"Retour"}}
-A.dRz.prototype={
+return w===$?this.ax=new A.dU4(this.a):w}}
+A.dP6.prototype={
+gCx(d){var w=this.b
+return w===$?this.b=new A.dP8():w},
+gqD(){var w=this.c
+return w===$?this.c=new A.dPa():w},
+gxX(d){var w=this.d
+return w===$?this.d=new A.dPc():w},
+gFJ(){return"Profil"},
+gaDw(){return"Retour"}}
+A.dU8.prototype={
 gi(){return"Appeler"},
-ghj(d){return"Message"},
+ghk(d){return"Message"},
 ghJ(){var w=this.Q
-return w===$?this.Q=new A.dRB():w},
+return w===$?this.Q=new A.dUa():w},
 $0(){return this.gi().$0()},
 $1(d){return this.gi().$1(d)},
 $2(d,e){return this.gi().$2(d,e)},
@@ -4958,1412 +5012,1455 @@ $2$pathSegments$query(d,e){return this.gi().$2$pathSegments$query(d,e)},
 $1$fragment(d){return this.gi().$1$fragment(d)},
 $2$test(d,e){return this.gi().$2$test(d,e)},
 $2$isDragging$isGhost(d,e){return this.gi().$2$isDragging$isGhost(d,e)}}
-A.dRD.prototype={
-gxe(){return"Cr\xe9er un filtre avanc\xe9"},
-gagk(){return"Modifier le filtre"},
-gaD6(){return"Nom du filtre"},
-gaD5(){return"ex: Commandes non pay\xe9es d'Alger"},
-gaFt(){return"Condition principale:"},
-ga_z(){return"ET"},
-ga34(){return"OU"},
-gaxk(){return"Ajouter une condition"},
-gaxq(){return"Ajouter un groupe"},
-gafC(){return"Supprimer la condition"},
-gaBf(){return"Supprimer le groupe"},
-gamz(){return"S\xe9lectionner le champ"},
-gamC(){return"S\xe9lectionner l'op\xe9ration"},
-gOv(){return"Valeur"},
-gaK7(){return"Valeurs (s\xe9par\xe9es par des virgules)"},
-gaK6(){return"ex: valeur1, valeur2, valeur3"},
-gagx(){return"Veuillez entrer une valeur"},
-ga4U(){return"Enregistrer"},
-gal8(){return"Mettre \xe0 jour"},
-gaD7(){return"Le nom du filtre est requis"},
-ga_F(){return"Au moins une condition est requise"},
-gaHa(){var w=this.b
-return w===$?this.b=new A.dRF():w}}
-A.dRH.prototype={
+A.dUc.prototype={
+gxj(){return"Cr\xe9er un filtre avanc\xe9"},
+gagP(){return"Modifier le filtre"},
+gaDL(){return"Nom du filtre"},
+gaDK(){return"ex: Commandes non pay\xe9es d'Alger"},
+gaG7(){return"Condition principale:"},
+ga_V(){return"ET"},
+ga3o(){return"OU"},
+gaxS(){return"Ajouter une condition"},
+gaxY(){return"Ajouter un groupe"},
+gag6(){return"Supprimer la condition"},
+gaBU(){return"Supprimer le groupe"},
+gan2(){return"S\xe9lectionner le champ"},
+gan5(){return"S\xe9lectionner l'op\xe9ration"},
+gOH(){return"Valeur"},
+gaKS(){return"Valeurs (s\xe9par\xe9es par des virgules)"},
+gaKR(){return"ex: valeur1, valeur2, valeur3"},
+gah1(){return"Veuillez entrer une valeur"},
+ga5c(){return"Enregistrer"},
+galG(){return"Mettre \xe0 jour"},
+gaDM(){return"Le nom du filtre est requis"},
+ga00(){return"Au moins une condition est requise"},
+gaHR(){var w=this.b
+return w===$?this.b=new A.dUe():w}}
+A.dUg.prototype={
 gd_(){var w=this.b
-return w===$?this.b=new A.dRX(this.a):w},
-gc2(){var w=this.c
-return w===$?this.c=new A.dSk(this.a):w}}
-A.dSm.prototype={
-gX(d){return"Classement"},
-guc(d){return"Actualiser"},
-gpI(){return"Pas encore de donn\xe9es"},
-gaGm(){return y.b0},
-gaDo(){return"Classement complet"},
-gUw(){var w=this.b
-return w===$?this.b=new A.dSo():w},
-gPo(){var w=this.c
-return w===$?this.c=new A.dSq():w}}
-A.dSI.prototype={
-gkZ(){var w=this.b
-return w===$?this.b=new A.dSY():w},
-ghJ(){var w=this.c
-return w===$?this.c=new A.dSW():w},
-gSi(){var w=this.d
-return w===$?this.d=new A.dSz():w},
-gaH8(){return"Ouvrir la page produit"},
-gvV(){var w=this.e
-return w===$?this.e=new A.dSB(this.a):w},
-gx0(){return"Ajouter produit"},
-gtC(){var w=this.f
-return w===$?this.f=new A.dSw():w},
-gR(){var w=this.r
-return w===$?this.r=new A.dSK(this.a):w},
-gAN(){var w=this.w
-return w===$?this.w=new A.dSU():w},
-ghA(){var w=this.x
-return w===$?this.x=new A.dSu(this.a):w},
-gIO(){var w=this.y
-return w===$?this.y=new A.dSS():w}}
-A.dT1.prototype={
-gfA(d){var w=this.b
-return w===$?this.b=new A.dT0():w},
-gpI(){var w=this.c
-return w===$?this.c=new A.dT3():w}}
-A.dTr.prototype={
-gaHc(){return"Nom commande"},
-ga5p(){return"Envoyer SMS"},
-gP2(){return"Envoyer SMS"},
-gagw(){return"\xc9crire le texte du message"},
-gaiA(){return"Texte trop long"},
-gxZ(d){return"Envoyer"},
-gadT(){return"Appeler client"},
-gaeJ(){return"Copier num\xe9ro"},
-gajK(){return"Num\xe9ro copi\xe9 avec succ\xe8s"},
-ga5l(){return"Envoyer event Meta Pixel"},
-ga5r(){return"Envoyer event TikTok Pixel"},
-gW9(){return"Envoyer vers Yalidine"},
-gW5(){return"Envoyer vers Ecotrack"},
-gW8(){return"Envoyer vers Procolis"},
-gW6(){return"Envoyer vers Noest"},
-gW7(){return"Envoyer vers OrderDZ"},
-gak0(){return"Imprimer \xe9tiquette (Yalidine)"},
-gae7(){return"Annuler lien (Yalidine)"},
-gae8(){return"Annuler lien avec Yalidine"},
-gajZ(){return"Imprimer \xe9tiquette (Ecotrack)"},
-gajp(){return"Ouvrir (Ecotrack)"},
-ghF(d){return"Fermer"},
-gadY(){return"Annuler lien (Ecotrack)"},
-gadZ(){return"Annuler lien avec Ecotrack"},
-gae4(){return"Annuler lien (Procolis)"},
-gae5(){return"Annuler lien avec Procolis"},
-gak_(){return"Imprimer \xe9tiquette (Noest)"},
-gajs(){return"Ouvrir (Noest)"},
-gae1(){return"Annuler lien (Noest)"},
-gae2(){return"Annuler lien avec Noest"},
-gn8(){return"Modifier"},
-geB(d){return"Supprimer"},
-gafG(){return"Supprimer commande"},
-gaeH(){return"Copier num\xe9ro commande"},
-gx9(d){return"Effacer"},
-gay0(){return"Appliquer"},
-gcA(d){return"Annuler"},
-gA8(){var w=this.b
-return w===$?this.b=new A.dTa():w},
-gla(){var w=this.c
-return w===$?this.c=new A.dT6():w},
-geN(){var w=this.d
-return w===$?this.d=new A.dTv(this.a):w},
-gha(){var w=this.e
-return w===$?this.e=new A.dTc():w},
-gnp(){var w=this.f
-return w===$?this.f=new A.dTB():w},
-gkC(){var w=this.r
-return w===$?this.r=new A.dTq():w},
-gjt(){var w=this.w
-return w===$?this.w=new A.dTF(this.a):w},
-gA7(){var w=this.x
-return w===$?this.x=new A.dT8():w},
-gFw(){var w=this.y
-return w===$?this.y=new A.dTt():w},
-goa(){var w=this.z
-return w===$?this.z=new A.dTD():w},
-giG(){var w=this.Q
-return w===$?this.Q=new A.dTi(this.a):w}}
-A.dTV.prototype={
-gX(d){return"Programme Partenaire"},
-gaKI(){return"WhatsApp"},
-Mm(d,e){return"Une erreur s'est produite : "+B.f(e)},
-gl7(d){var w=this.b
-return w===$?this.b=new A.dTP(this.a):w},
-ganL(){var w=this.c
-return w===$?this.c=new A.dU0():w},
-gajG(){var w=this.d
-return w===$?this.d=new A.dTZ():w},
-ga2f(){var w=this.e
-return w===$?this.e=new A.dTX():w}}
-A.dU4.prototype={
-gkZ(){var w=this.b
-return w===$?this.b=new A.dU8():w},
-gmm(){var w=this.c
-return w===$?this.c=new A.dU3():w},
-gmG(){var w=this.f
-return w===$?this.f=new A.dU6():w}}
-A.dUs.prototype={
-gX(d){return"Param\xe8tres de la boutique"},
-gh2(){var w=this.b
 return w===$?this.b=new A.dUw(this.a):w},
-ga0(){var w=this.c
-return w===$?this.c=new A.dUu():w},
-gld(d){var w=this.d
-return w===$?this.d=new A.dUr():w},
-gKa(){var w=this.e
-return w===$?this.e=new A.dUQ():w},
-ga8(){var w=this.f
-return w===$?this.f=new A.dUG():w},
-gvS(){var w=this.r
-return w===$?this.r=new A.dUf():w},
-gEy(){var w=this.w
-return w===$?this.w=new A.dUb():w},
-gn5(){var w=this.x
-return w===$?this.x=new A.dUh():w},
-gafu(){var w=this.y
-return w===$?this.y=new A.dUl():w},
-gM0(){var w=this.z
-return w===$?this.z=new A.dUn():w},
-gmj(){var w=this.Q
-return w===$?this.Q=new A.dUd():w},
-gfZ(){var w=this.as
-return w===$?this.as=new A.dUO():w},
-grK(){var w=this.at
-return w===$?this.at=new A.dUj():w},
-gjR(){var w=this.ax
-return w===$?this.ax=new A.dUC():w},
-grZ(){var w=this.ay
-return w===$?this.ay=new A.dUE():w},
-gj3(){var w=this.ch
-return w===$?this.ch=new A.dUp():w},
-gl1(){var w=this.CW
-return w===$?this.CW=new A.dUM():w},
-gbJ(){var w=this.cx
-return w===$?this.cx=new A.dUK():w},
-gun(){var w=this.cy
-return w===$?this.cy=new A.dUI():w},
-ga3N(){var w=this.db
-return w===$?this.db=new A.dUS():w}}
-A.dUU.prototype={
-gaxv(){return"Ajouter un nouveau prix d'exp\xe9dition"},
-guc(d){return"Actualiser"},
-anD(d){return"Statut: "+d+" \u2022 D\xe9fini par d\xe9faut"},
-anC(d){return"Statut: "+d},
-gvq(d){return"S\xe9lectionn\xe9"},
-gamq(d){return"S\xe9lectionner"},
-gn8(){return"Modifier"},
-geB(d){return"Supprimer"},
-gaF7(){return"M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"},
-gaic(){return"M\xe9thodes d'exp\xe9dition traditionnelles"},
-gaCo(){return y.x},
-gaCn(){return y._},
-gaCB(){return y.oy},
-gvf(){return"R\xe9essayer"},
-gaF6(){return y.c},
-gaF5(){return y.gp},
-amF(d){return'D\xe9fini "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
-aBu(d){return'D\xe9s\xe9lectionn\xe9 "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
-aJN(d){return"Erreur lors de la mise \xe0 jour: "+d},
-gHS(){return"Livraison"},
-ga5(d){var w=this.b
-return w===$?this.b=new A.dUW():w}}
-A.dUY.prototype={
-geV(){return B.b(["Adrar","Chlef","Laghouat","Oum el bouaghi","Batna","Bejaia","Biskra","Bechar","Blida","Bouira","Tamanrasset","Tebessa","Tlemcen","Tiaret","Tizi ouzou","Alger","Djelfa","Jijel","Setif","Saida","Skikda","Sidi bel abbes","Annaba","Guelma","Constantine","Medea","Mostaganem","Msila","Mascara","Ouargla","Oran","El bayadh","Illizi","Bordj bou arreridj","Boumerdes","El tarf","Tindouf","Tissemsilt","El oued","Khenchela","Souk ahras","Tipaza","Mila","Ain defla","Naama","Ain temouchent","Ghardaia","Relizane","Timimoun","Bordj badji mokhtar","Ouled djellal","Beni abbes","In salah","In guezzam","Touggourt","Djanet","El meghaier","El menia"],x.h)},
-gaek(){var w="Sidi Abderrahmane",v="Ouled Sidi Brahim",u=x.h
-return B.b([B.b(["Adrar","Akabli","Aoulef","Bouda","Fenoughil","In Zghmir","Ouled Ahmed Timmi","Reggane","Sali","Sebaa","Tamantit","Tamest","Timekten","Tit","Tsabit","Zaouiet Kounta"],u),B.b(["Abou El Hassan","Ain Merane","Benairia","Beni Bouattab","Beni Haoua","Beni Rached","Boukadir","Bouzeghaia","Breira","Chettia","Chlef","Dahra","El Hadjadj","El Karimia","El Marsa","Harchoun","Herenfa","Labiod Medjadja","Moussadek","Oued Fodda","Oued Goussine","Oued Sly","Ouled Abbes","Ouled Ben Abdelkader","Ouled Fares","Oum Drou","Sendjas",w,"Sidi Akkacha","Sobha","Tadjena","Talassa","Taougrite","Tenes","Zeboudja"],u),B.b(["Aflou","Ain Mahdi","Ain Sidi Ali","Beidha","Benacer Benchohra","Brida","El Assafia","El Ghicha","El Haouaita","Gueltat Sidi Saad","Hadj Mechri","Hassi Delaa","Hassi R'mel","Kheneg","Ksar El Hirane","Laghouat","Oued M'zi","Oued Morra","Sebgag","Sidi Bouzid","Sidi Makhlouf","Tadjemout","Tadjrouna","Taouiala"],u),B.b(["Ain Babouche","Ain Beida","Ain Diss","Ain Fekroune","Ain Kercha","Ain M'lila","Ain Zitoun","Behir Chergui","Berriche","Bir Chouhada","Dhala","El Amiria","El Belala","El Djazia","El Fedjoudj Boughrara Sa","El Harmilia","Fkirina","Hanchir Toumghani","Ksar Sbahi","Meskiana","Oued Nini","Ouled Gacem","Ouled Hamla","Ouled Zouai","Oum El Bouaghi","Rahia","Sigus","Souk Naamane","Zorg"],u),B.b(["Ain Djasser","Ain Touta","Ain Yagout","Arris","Azil Abedelkader","Barika","Batna","Beni Foudhala El Hakania","Bitam","Boulhilat","Boumagueur","Boumia","Bouzina","Chemora","Chir","Djerma","Djezzar","El Hassi","El Madher","Fesdis","Foum Toub","Ghassira","Gosbat","Guigba","Hidoussa","Ichmoul","Inoughissen","Kimmel","Ksar Bellezma","Larbaa","Lazrou","Lemsane","M Doukal","Maafa","Menaa","Merouana","N Gaous","Oued Chaaba","Oued El Ma","Oued Taga","Ouled Ammar","Ouled Aouf","Ouled Fadel","Ouled Sellem","Ouled Si Slimane","Ouyoun El Assafir","Rahbat","Ras El Aioun","Sefiane","Seggana","Seriana","T Kout","Talkhamt","Taxlent","Tazoult","Teniet El Abed","Tighanimine","Tigharghar","Tilatou","Timgad","Zanet El Beida"],u),B.b(["Adekar","Ait R'zine","Ait Smail","Akbou","Akfadou","Amalou","Amizour","Aokas","Barbacha","Bejaia","Beni Dejllil","Beni K'sila","Beni Mallikeche","Benimaouche","Boudjellil","Bouhamza","Boukhelifa","Chellata","Chemini","Darghina","Dra El Caid","El Kseur","Fenaia Il Maten","Feraoun","Ighil Ali","Ighram","Kendira","Kherrata","Leflaye","M'cisna","Melbou","Oued Ghir","Ouzellaguene","Seddouk","Sidi Aich","Sidi Ayad","Smaoun","Souk El Tenine","Souk Oufella","Tala Hamza","Tamokra","Tamridjet","Taourit Ighil","Taskriout","Tazmalt","Tibane","Tichy","Tifra","Timezrit","Tinebdar","Tizi N'berber","Toudja"],u),B.b(["Ain Naga","Ain Zaatout","Biskra","Bordj Ben Azzouz","Bouchagroun","Branis","Chetma","Djemorah","El Feidh","El Ghrous","El Hadjab","El Haouch","El Kantara","El Outaya","Foughala","Khenguet Sidi Nadji","Lichana","Lioua","M'chouneche","M'lili","Mekhadma","Meziraa","Oumache","Ourlal","Sidi Okba","Tolga","Zeribet El Oued"],u),B.b(["Abadla","Bechar","Beni Ounif","Boukais","Erg Ferradj","Kenadsa","Lahmar","Mechraa H.boumediene","Meridja","Mogheul","Taghit"],u),B.b(["Ain Romana","Beni Mered","Beni Tamou","Benkhelil","Blida","Bouarfa","Boufarik","Bougara","Bouinan","Chebli","Chiffa","Chrea","Djebabra","El Affroun","Guerrouaou","Hammam Melouane","Larbaa","Meftah","Mouzaia","Oued Djer","Oued El Alleug","Ouled Slama","Ouled Yaich","Souhane","Souma"],u),B.b(["Aghbalou","Ahl El Ksar","Ain Bessem","Ain El Hadjar","Ain Laloui","Ain Turk","Ait Laaziz","Aomar","Bechloul","Bir Ghbalou","Bordj Okhriss","Bouderbala","Bouira","Boukram","Chorfa","Dechmia","Dirah","Djebahia","El Adjiba","El Asnam","El Hachimia","El Hakimia","El Khabouzia","El Mokrani","Guerrouma","Hadjera Zerga","Haizer","Hanif","Kadiria","Lakhdaria","M Chedallah","Maala","Mamora","Mezdour","Oued El Berdi","Ouled Rached","Raouraoua","Ridane","Saharidj","Souk El Khemis","Sour El Ghozlane","Taghzout","Taguedite","Taourirt","Z'barbar"],u),B.b(["Abalessa","Ain Amguel","Idles","Tamanrasset","Tazrouk"],u),B.b(["Ain Zerga","Bedjene","Bekkaria","Bir Dheheb","Bir El Ater","Bir Mokkadem","Boukhadra","Boulhaf Dyr","Cheria","El Aouinet","El Houidjbet","El Kouif","El Malabiod","El Meridj","El Mezeraa","El Ogla","El Ogla El Malha","Ferkane","Guorriguer","Hammamet","Morssot","Negrine","Ouenza","Oum Ali","Saf Saf El Ouesra","Stah Guentis","Tebessa","Telidjen"],u),B.b(["Ain Fettah","Ain Fezza","Ain Ghoraba","Ain Kebira","Ain Nehala","Ain Tallout","Ain Youcef","Amieur","Azails","Bab El Assa","Beni Bahdel","Beni Boussaid","Beni Khaled","Beni Mester","Beni Ouarsous","Beni Smiel","Beni Snous","Bensekrane","Bouhlou","Bouihi","Chetouane","Dar Yaghmouracene","Djebala","El Aricha","El Fehoul","El Gor","Fellaoucene","Ghazaouet","Hammam Boughrara","Hennaya","Honaine","Maghnia","Mansourah","Marsa Ben M'hidi","Msirda Fouaga","Nedroma","Oued Chouly","Ouled Mimoun","Ouled Riyah","Remchi","Sabra","Sebbaa Chioukh","Sebdou","Sidi Abdelli","Sidi Djilali","Sidi Medjahed","Souahlia","Souani","Souk Tleta","Terny Beni Hediel","Tianet","Tlemcen","Zenata"],u),B.b(["Ain Bouchekif","Ain Deheb","Ain El Hadid","Ain Kermes","Ain Zarit","Bougara","Chehaima","Dahmouni","Djebilet Rosfa","Djillali Ben Amar","Faidja","Frenda","Guertoufa","Hamadia","Ksar Chellala","Madna","Mahdia","Mechraa Safa","Medrissa","Medroussa","Meghila","Mellakou","Nadorah","Naima","Oued Lilli","Rahouia","Rechaiga","Sebaine","Sebt","Serghine","Si Abdelghani",w,"Sidi Ali Mellal","Sidi Bakhti","Sidi Hosni","Sougueur","Tagdemt","Takhemaret","Tiaret","Tidda","Tousnina","Zmalet El Emir Abdelkade"],u),B.b(["Abi Youcef","Aghribs","Agouni Gueghrane","Ain El Hammam","Ain Zaouia","Ait Aggouacha","Ait Bouaddou","Ait Boumehdi","Ait Chafaa","Ait Khellili","Ait Mahmoud","Ait Oumalou","Ait Toudert","Ait Yahia","Ait Yahia Moussa","Akbil","Akerrou","Assi Youcef","Azazga","Azeffoun","Beni Aissi","Beni Douala","Beni Yenni","Beni Zikki","Beni Zmenzer","Boghni","Boudjima","Bounouh","Bouzeguene","Djebel Aissa Mimoun","Draa Ben Khedda","Draa El Mizan","Freha","Frikat","Iboudrarene","Idjeur","Iferhounene","Ifigha","Iflissen","Illilten","Illoula Oumalou","Imsouhal","Irdjen","Larba Nath Irathen","Larbaa Nath Irathen","M'kira","Maatkas","Makouda","Mechtras","Mekla","Mizrana","Ouacif","Ouadhias","Ouaguenoune","Sidi Naamane","Souamaa","Souk El Thenine","Tadmait","Tigzirt","Timizart","Tirmitine","Tizi Ghenif","Tizi N'tleta","Tizi Ouzou","Tizi Rached","Yakourene","Yatafene","Zekri"],u),B.b(["Ain Benian","Ain Taya","Alger Centre","Bab El Oued","Bab Ezzouar","Baba Hesen","Bachedjerah","Bains Romains","Baraki","Ben Aknoun","Beni Messous","Bir Mourad Rais","Bir Touta","Birkhadem","Bologhine Ibnou Ziri","Bordj El Bahri","Bordj El Kiffan","Bourouba","Bouzareah","Casbah","Cheraga","Dar El Beida","Dely Ibrahim","Djasr Kasentina","Douira","Draria","El Achour","El Biar","El Harrach","El Madania","El Magharia","El Merssa","El Mouradia","Herraoua","Hussein Dey","Hydra","Kheraisia","Kouba","Les Eucalyptus","Maalma","Mohamed Belouzdad","Mohammadia","Oued Koriche","Oued Smar","Ouled Chebel","Ouled Fayet","Rahmania","Rais Hamidou","Reghaia","Rouiba","Sehaoula","Setaouali","Sidi M'hamed","Sidi Moussa","Souidania","Tessala El Merdja","Zeralda"],u),B.b(["Ain Chouhada","Ain El Ibel","Ain Fekka","Ain Maabed","Ain Oussera","Amourah","Benhar","Benyagoub","Birine","Bouira Lahdab","Charef","Dar Chioukh","Deldoul","Djelfa","Douis","El Guedid","El Idrissia","El Khemis","Faidh El Botma","Guernini","Guettara","Had Sahary","Hassi Bahbah","Hassi El Euch","Hassi Fedoul","M Liliha","Messaad","Moudjebara","Oum Laadham","Sed Rahal","Selmana","Sidi Baizid","Sidi Ladjel","Tadmit","Zaafrane","Zaccar"],u),B.b(["Bordj Tahar","Boudria Beniyadjis","Bouraoui Belhadef","Boussif Ouled Askeur","Chahna","Chekfa","Djemaa Beni Habibi","Djimla","El Ancer","El Aouana","El Kennar Nouchfi","El Milia","Emir Abdelkader","Erraguene","Ghebala","Jijel","Khiri Oued Adjoul","Kouas","Oudjana","Ouled Rabah","Ouled Yahia Khadrouch","Selma Benziada","Settara","Sidi Abdelaziz","Sidi Marouf","Taher","Texena","Ziama Mansouria"],u),B.b(["Ain Abessa","Ain Arnat","Ain Azel","Ain El Kebira","Ain Lahdjar","Ain Legradj","Ain Oulmane","Ain Roua","Ain Sebt","Ait Naoual Mezada","Ait Tizi","Amoucha","Babor","Bazer Sakra","Beidha Bordj","Bellaa","Beni Aziz","Beni Chebana","Beni Fouda","Beni Mouhli","Beni Ouartilane","Beni Oussine","Bir El Arch","Bir Haddada","Bouandas","Bougaa","Bousselam","Boutaleb","Dehamcha","Djemila","Draa Kebila","El Eulma","El Ouldja","El Ouricia","Guellal","Guelta Zerka","Guenzet","Guidjel","Hamam Soukhna","Hamma","Hammam Guergour","Harbil","Ksar El Abtal","Maaouia","Maouaklane","Mezloug","Oued El Barad","Ouled Addouane","Ouled Sabor","Ouled Si Ahmed","Ouled Tebben","Rosfa","Salah Bey","Serdj El Ghoul","Setif","Tachouda","Tala Ifacene","Taya","Tella","Tizi N'bechar"],u),B.b(["Ain El Hadjar","Ain Sekhouna","Ain Soltane","Doui Thabet","El Hassasna","Hounet","Maamora","Moulay Larbi","Ouled Brahim","Ouled Khaled","Saida","Sidi Ahmed","Sidi Amar","Sidi Boubekeur","Tircine","Youb"],u),B.b(["Ain Bouziane","Ain Charchar","Ain Kechera","Ain Zouit","Azzaba","Bekkouche Lakhdar","Ben Azzouz","Beni Bechir","Beni Oulbane","Beni Zid","Bin El Ouiden","Bouchetata","Cheraia","Collo","Djendel Saadi Mohamed","El Arrouch","El Ghedir","El Hadaiek","El Marsa","Emjez Edchich","Es Sebt","Filfila","Hamadi Krouma","Kanoua","Kerkera","Khenag Mayoum","Oued Zhour","Ouldja Boulbalout","Ouled Attia","Ouled Habbeba","Oum Toub","Ramdane Djamel","Salah Bouchaour","Sidi Mezghiche","Skikda","Tamalous","Zerdezas","Zitouna"],u),B.b(["Ain Adden","Ain El Berd","Ain Kada","Ain Thrid","Ain Tindamine","Amarnas","Badredine El Mokrani","Belarbi","Ben Badis","Benachiba Chelia","Bir El Hammam","Boudjebaa El Bordj","Boukhanafis","Chetouane Belaila","Dhaya","El Hacaiba","Hassi Dahou","Hassi Zahana","Lamtar","M'cid","Makedra","Marhoum","Merine","Mezaourou","Mostefa Ben Brahim","Moulay Slissen","Oued Sebaa","Oued Sefioun","Oued Taourira","Ras El Ma","Redjem Demouche","Sehala Thaoura","Sfissef","Sidi Ali Benyoub","Sidi Ali Boussidi","Sidi Bel Abbes","Sidi Brahim","Sidi Chaib","Sidi Dahou Zairs","Sidi Hamadouche","Sidi Khaled","Sidi Lahcene","Sidi Yacoub","Tabia","Tafissour","Taoudmout","Teghalimet","Telagh","Tenira","Tessala","Tilmouni","Zerouala"],u),B.b(["Ain Berda","Annaba","Berrahel","Chetaibi","Cheurfa","El Bouni","El Hadjar","Eulma","Oued El Aneb","Seraidi","Sidi Amar","Treat"],u),B.b(["Ain Ben Beida","Ain Hessania","Ain Larbi","Ain Makhlouf","Ain Reggada","Belkheir","Ben Djarah","Beni Mezline","Bordj Sabat","Bou Hachana","Bou Hamdane","Bouati Mahmoud","Bouchegouf","Bouhamra Ahmed","Dahouara","Djeballah Khemissi","El Fedjoudj","Guelaat Bou Sbaa","Guelma","Hamam Debagh","Hammam N'bail","Heliopolis","Khezara","Medjez Amar","Medjez Sfa","Nechmaya","Oued Cheham","Oued Fragha","Oued Zenati","Ras El Agba","Roknia","Sellaoua Announa","Sidi Sandel","Tamlouka"],u),B.b(["Ain Abid","Ain Smara","Ben Badis","Beni Hamidene","Constantine","Didouche Mourad","El Khroub","Hamma Bouziane","Ibn Ziad","Messaoud Boujeriou","Ouled Rahmouni","Zighoud Youcef"],u),B.b(["Ain Boucif","Ain Ouksir","Aissaouia","Aziz","Baata","Ben Chicao","Beni Slimane","Berrouaghia","Bir Ben Laabed","Boghar","Bouaiche","Bouaichoune","Bouchrahil","Boughzoul","Bouskene","Chabounia","Chelalet El Adhaoura","Cheniguel","Damiat","Derrag","Deux Bassins","Djouab","Draa Essamar","El Azizia","El Guelbelkebir","El Hamdania","El Omaria","El Ouinet","Hannacha","Kef Lakhdar","Khams Djouamaa","Ksar El Boukhari","Maghraoua","Medea","Medjebar","Meftaha","Mezerana","Mihoub","Ouamri","Oued Harbil","Ouled Antar","Ouled Bouachra","Ouled Brahim","Ouled Deid","Ouled Hellal","Ouled Maaref","Oum El Djellil","Ouzera","Rebaia","Saneg","Sedraya","Seghouane","Si Mahdjoub","Sidi Demed","Sidi Naamane","Sidi Rabie","Sidi Zahar","Sidi Ziane","Souagui","Tablat","Tafraout","Tamesguida","Tletat Ed Douair","Zoubiria"],u),B.b(["Achaacha","Ain Boudinar","Ain Nouissy","Ain Sidi Cherif","Ain Tedles","Benabdelmalek Ramdane","Bouguirat","Fornaka","Hadjadj","Hassi Mameche","Hassiane","Khadra","Kheir Eddine","Mansourah","Mazagran","Mesra","Mostaganem","Nekmaria","Oued El Kheir","Ouled Boughalem","Ouled Maalah","Safsaf","Sayada","Sidi Ali","Sidi Belaattar","Sidi Lakhdar","Sirat","Souaflia","Sour","Stidia","Tazgait","Touahria"],u),B.b(["Ain El Hadjel","Ain El Melh","Ain Fares","Ain Khadra","Ain Rich","Belaiba","Ben Srour","Beni Ilmane","Benzouh","Berhoum","Bir Foda","Bou Saada","Bouti Sayeh","Chellal","Dehahna","Djebel Messaad","El Hamel","El Houamed","Hammam Dalaa","Khettouti Sed El Jir","Khoubana","M'cif","M'sila","M'tarfa","Maadid","Maarif","Magra","Medjedel","Menaa","Mohamed Boudiaf","Ouanougha","Ouled Addi Guebala","Ouled Derradj","Ouled Madhi","Ouled Mansour",v,"Ouled Slimane","Oulteme","Sidi Aissa","Sidi Ameur","Sidi Hadjeres","Sidi M'hamed","Slim","Souamaa","Tamsa","Tarmount","Zarzour"],u),B.b(["Ain Fares","Ain Fekan","Ain Ferah","Ain Frass","Alaimia","Aouf","Benian","Bou Henni","Bouhanifia","Chorfa","El Bordj","El Gaada","El Ghomri","El Gueitena","El Hachem","El Keurt","El Mamounia","El Menaouer","Ferraguig","Froha","Gharrous","Ghriss","Guerdjoum","Hacine","Khalouia","Makhda","Maoussa","Mascara","Matemore","Mocta Douz","Mohammadia","Nesmot","Oggaz","Oued El Abtal","Oued Taria","Ras El Ain Amirouche","Sedjerara","Sehailia","Sidi Abdeldjebar","Sidi Abdelmoumene","Sidi Boussaid","Sidi Kada","Sig","Tighennif","Tizi","Zahana","Zelamta"],u),B.b(["Ain Beida","El Borma","Hassi Ben Abdellah","Hassi Messaoud","N'goussa","Ouargla","Rouissat","Sidi Khouiled"],u),B.b(["Ain Biya","Ain Kerma","Ain Turk","Arzew","Ben Freha","Bethioua","Bir El Djir","Boufatis","Bousfer","Boutlelis","El Ancar","El Braya","El Kerma","Es Senia","Gdyel","Hassi Ben Okba","Hassi Bounif","Hassi Mefsoukh","Marsat El Hadjadj","Mers El Kebir","Messerghin","Oran","Oued Tlelat","Sidi Ben Yebka","Sidi Chami","Tafraoui"],u),B.b(["Ain El Orak","Arbaouat","Boualem","Bougtoub","Boussemghoun","Brezina","Cheguig","Chellala","El Bayadh","El Biodh Sidi Cheikh","El Bnoud","El Kheither","El Mehara","Ghassoul","Kef El Ahmar","Krakda","Rogassa","Sidi Ameur","Sidi Slimane","Sidi Tifour","Stitten","Tousmouline"],u),B.b(["Bordj Omar Driss","Debdeb","Illizi","In Amenas"],u),B.b(["Ain Taghrout","Ain Tesra","Belimour","Ben Daoud","Bir Kasdali","Bordj Bou Arreridj","Bordj Ghdir","Bordj Zemora","Colla","Djaafra","El Ach","El Achir","El Anseur","El Hamadia","El M'hir","El Main","Ghilassa","Haraza","Hasnaoua","Khelil","Ksour","Mansoura","Medjana","Ouled Brahem","Ouled Dahmane",v,"Rabta","Ras El Oued","Sidi Embarek","Tafreg","Taglait","Teniet En Nasr","Tesmart","Tixter"],u),B.b(["Afir","Ammal","Baghlia","Ben Choud","Beni Amrane","Bordj Menaiel","Boudouaou","Boudouaou El Bahri","Boumerdes","Bouzegza Keddara","Chabet El Ameur","Corso","Dellys","Djinet","El Kharrouba","Hammedi","Isser","Khemis El Khechna","Larbatache","Leghata","Naciria","Ouled Aissa","Ouled Hedadj","Ouled Moussa","Si Mustapha","Sidi Daoud","Souk El Haad","Taourga","Thenia","Tidjelabine","Timezrit","Zemmouri"],u),B.b(["Ain El Assel","Ain Kerma","Asfour","Ben M Hidi","Berrihane","Besbes","Bougous","Bouhadjar","Bouteldja","Chebaita Mokhtar","Chefia","Chihani","Drean","Echatt","El Aioun","El Kala","El Tarf","Hammam Beni Salah","Lac Des Oiseaux","Oued Zitoun","Raml Souk","Souarekh","Zerizer","Zitouna"],u),B.b(["Oum El Assel","Tindouf"],u),B.b(["Ammari","Beni Chaib","Beni Lahcene","Bordj Bounaama","Bordj El Emir Abdelkader","Bou Caid","Khemisti","Larbaa","Lardjem","Layoune","Lazharia","Maacem","Melaab","Ouled Bessem","Sidi Abed","Sidi Boutouchent","Sidi Lantri","Sidi Slimane","Tamellalet","Theniet El Had","Tissemsilt","Youssoufia"],u),B.b(["Bayadha","Ben Guecha","Debila","Douar El Maa","El Ogla","El Oued","Guemar","Hamraia","Hassani Abdelkrim","Hassi Khalifa","Kouinine","Magrane","Mih Ouansa","Nakhla","Oued El Alenda","Ourmes","Reguiba","Robbah","Sidi Aoun","Taghzout","Taleb Larbi","Trifaoui"],u),B.b(["Ain Touila","Babar","Baghai","Bouhmama","Chelia","Cherchar","Djellal","El Hamma","El Mahmal","El Oueldja","Ensigha","Kais","Khenchela","Khirane","M'sara","M'toussa","Ouled Rechache","Remila","Tamza","Taouzianat","Yabous"],u),B.b(["Ain Soltane","Ain Zana","Bir Bouhouche","Drea","Haddada","Hanencha","Khedara","Khemissa","M'daourouche","Machroha","Merahna","Oued Kebrit","Ouled Driss","Ouled Moumen","Oum El Adhaim","Quillen","Ragouba","Safel El Ouiden","Sedrata","Sidi Fredj","Souk Ahras","Taoura","Terraguelt","Tiffech","Zaarouria","Zouabi"],u),B.b(["Aghbal","Ahmer El Ain","Ain Tagourait","Attatba","Beni Mileuk","Bou Haroun","Bou Ismail","Bourkika","Chaiba","Cherchell","Damous","Douaouda","Fouka","Gouraya","Hadjout","Hadjret Ennous","Khemisti","Kolea","Larhat","Menaceur","Merad","Messelmoun","Nador","Sidi Amar","Sidi Ghiles","Sidi Rached","Sidi Semiane","Tipaza"],u),B.b(["Ahmed Rachedi","Ain Beida Harriche","Ain Mellouk","Ain Tine","Amira Arres","Benyahia Abderrahmane","Bouhatem","Chelghoum Laid","Chigara","Derrahi Bousselah","El Mechira","Elayadi Barbes","Ferdjioua","Grarem Gouga","Hamala","Mila","Minar Zarza","Oued Athmenia","Oued Endja","Oued Seguen","Ouled Khalouf","Rouached","Sidi Khelifa","Sidi Merouane","Tadjenanet","Tassadane Haddada","Teleghma","Terrai Bainem","Tessala","Tiberguent","Yahia Beniguecha","Zeghaia"],u),B.b(["Ain Benian","Ain Bouyahia","Ain Defla","Ain Lechiakh","Ain Soltane","Ain Tork","Arib","Barbouche","Bathia","Belaas","Ben Allal","Bir Ould Khelifa","Bordj Emir Khaled","Boumedfaa","Bourached","Djelida","Djemaa Ouled Cheikh","Djendel","El Abadia","El Amra","El Attaf","El Maine","Hammam Righa","Hassania","Hoceinia","Khemis Miliana","Mekhatria","Miliana","Oued Chorfa","Oued Djemaa","Rouina","Sidi Lakhdar","Tacheta Zegagha","Tarik Ibn Ziad","Tiberkanine","Zeddine"],u),B.b(["Ain Ben Khelil","Ain Safra","Assela","Djeniane Bourzeg","El Biod","Kasdir","Makman Ben Amer","Mecheria","Moghrar","Naama","Sfissifa","Tiout"],u),B.b(["Aghlal","Ain El Arbaa","Ain Kihal","Ain Temouchent","Ain Tolba","Aoubellil","Beni Saf","Bouzedjar","Chaabat El Ham","Chentouf","El Amria","El Malah","El Messaid","Emir Abdelkader","Hammam Bouhadjar","Hassasna","Hassi El Ghella","Oued Berkeche","Oued Sebbah","Ouled Boudjemaa","Ouled Kihal","Oulhaca El Gheraba","Sidi Ben Adda","Sidi Boumediene","Sidi Ouriache","Sidi Safi","Tamzoura","Terga"],u),B.b(["Berriane","Bounoura","Dhayet Bendhahoua","El Atteuf","El Guerrara","Ghardaia","Mansoura","Metlili","Sebseb","Zelfana"],u),B.b(["Ain Rahma","Ain Tarek","Ammi Moussa","Belaassel Bouzagza","Bendaoud","Beni Dergoun","Beni Zentis","Dar Ben Abdelah","Djidiouia","El Guettar","El H'madna","El Hassi","El Matmar","El Ouldja","Had Echkalla","Hamri","Kalaa","Lahlef","Mazouna","Mediouna","Mendes","Merdja Sidi Abed","Ouarizane","Oued El Djemaa","Oued Essalem","Oued Rhiou","Ouled Aiche","Ouled Sidi Mihoub","Ramka","Relizane","Sidi Khettab","Sidi Lazreg","Sidi M'hamed Benali","Sidi M'hamed Benaouda","Sidi Saada","Souk El Had","Yellel","Zemmoura"],u),B.b(["Aougrout","Charouine","Deldoul","Ksar Kaddour","Metarfa","Ouled Aissa","Ouled Said","Talmine","Timimoun","Tinerkouk"],u),B.b(["Bordj Badji Mokhtar","Timiaouine"],u),B.b(["Besbes","Chaiba","Doucen","Ouled Djellal","Ras El Miad","Sidi Khaled"],u),B.b(["Beni Abbes","Beni Ikhlef","El Ouata","Igli","Kerzaz","Ksabi","Ouled Khoudir","Tabelbala","Tamtert","Timoudi"],u),B.b(["Foggaret Azzaouia","In Ghar","In Salah"],u),B.b(["In Guezzam","Tin Zouatine"],u),B.b(["Benaceur","Blidet Amor","El Alia","El Hadjira","Megarine","Mnaguer","Nezla","Sidi Slimane","Taibet","Tebesbest","Temacine","Touggourt","Zaouia El Abidia"],u),B.b(["Bordj El Haouasse","Djanet"],u),B.b(["Djamaa","El M'ghair","Mrara","Oum Touyour","Sidi Amrane","Sidi Khelil","Still","Tenedla"],u),B.b(["El Meniaa","Hassi Fehal","Hassi Gara"],u)],x.g)}}
-A.dV3.prototype={
-ga6(d){return"Mod\xe8les"},
-gX(d){return"Mod\xe8les de boutique"},
-gl7(d){var w=this.c
-return w===$?this.c=new A.dV_():w},
-gMp(){var w=this.d
-return w===$?this.d=new A.dV2():w},
-ga5(d){var w=this.e
-return w===$?this.e=new A.dV5():w}}
-A.dOs.prototype={
-gnY(){var w=this.b
-return w===$?this.b=new A.dOp(this.a):w}}
-A.dNa.prototype={
-gjD(){return"Aujourd'hui"},
-gnS(){return"Hier"},
-gAS(){return"Cette semaine"},
-gAR(){return"Ce mois-ci"},
-gafs(){return"Personnalis\xe9"}}
-A.dNf.prototype={
-gHx(){return"copi\xe9"},
-gaEZ(){return"Plus tard"},
-gNt(){return"Aucune information disponible"},
-ga6u(){return"Synchronisations"},
-ga_J(){var w=this.b
-return w===$?this.b=new A.dNe():w},
-gFd(d){return"Historique"},
-gNA(){return"Optionnel"},
-gaBm(){return"Suppression..."},
-guD(d){return"Retour"},
-gvf(){return"R\xe9essayer"},
-gCO(d){return"R\xe9initialiser"},
+gc4(){var w=this.c
+return w===$?this.c=new A.dUU(this.a):w}}
+A.dUW.prototype={
+gU(d){return"Classement"},
+gui(d){return"Actualiser"},
+gpQ(){return"Pas encore de donn\xe9es"},
+gaH1(){return y.b0},
+gaE2(){return"Classement complet"},
+gUM(){var w=this.b
+return w===$?this.b=new A.dUY():w},
+gPA(){var w=this.c
+return w===$?this.c=new A.dV_():w}}
+A.dVh.prototype={
+gl0(){var w=this.b
+return w===$?this.b=new A.dVx():w},
+ghJ(){var w=this.c
+return w===$?this.c=new A.dVv():w},
+gSx(){var w=this.d
+return w===$?this.d=new A.dV8():w},
+gaHQ(){return"Ouvrir la page produit"},
+gvY(){var w=this.e
+return w===$?this.e=new A.dVa(this.a):w},
+gx6(){return"Ajouter produit"},
+gtI(){var w=this.f
+return w===$?this.f=new A.dV5():w},
+gR(){var w=this.r
+return w===$?this.r=new A.dVj(this.a):w},
+gAR(){var w=this.w
+return w===$?this.w=new A.dVt():w},
+ghB(){var w=this.x
+return w===$?this.x=new A.dV3(this.a):w},
+gIW(){var w=this.y
+return w===$?this.y=new A.dVr():w}}
+A.dVB.prototype={
+geZ(d){var w=this.b
+return w===$?this.b=new A.dVA():w},
+gpQ(){var w=this.c
+return w===$?this.c=new A.dVD():w}}
+A.dW0.prototype={
+gaHT(){return"Nom commande"},
+ga5L(){return"Envoyer SMS"},
+gPe(){return"Envoyer SMS"},
+gah0(){return"\xc9crire le texte du message"},
+gaj4(){return"Texte trop long"},
+gy4(d){return"Envoyer"},
+gaen(){return"Appeler client"},
+gafd(){return"Copier num\xe9ro"},
+gake(){return"Num\xe9ro copi\xe9 avec succ\xe8s"},
+ga5H(){return"Envoyer event Meta Pixel"},
+ga5N(){return"Envoyer event TikTok Pixel"},
+gWp(){return"Envoyer vers Yalidine"},
+gWl(){return"Envoyer vers Ecotrack"},
+gWo(){return"Envoyer vers Procolis"},
+gWm(){return"Envoyer vers Noest"},
+gWn(){return"Envoyer vers OrderDZ"},
+gakv(){return"Imprimer \xe9tiquette (Yalidine)"},
+gaeC(){return"Annuler lien (Yalidine)"},
+gaeD(){return"Annuler lien avec Yalidine"},
+gakt(){return"Imprimer \xe9tiquette (Ecotrack)"},
+gajU(){return"Ouvrir (Ecotrack)"},
 ghF(d){return"Fermer"},
-gVo(){return"Vous"},
-gaiq(){return y.fu},
-gcu(d){var w=this.d
-return w===$?this.d=new A.dNh(this.a):w},
-ga4p(){return"Exporter"},
-ghE(d){return"Enregistrer"},
-gcA(d){return"Annuler"},
-gn8(){return"\xc9diter"},
-gmD(d){return"Mettre \xe0 jour"},
-geB(d){return"Supprimer"},
-gfN(d){return"Ajouter"},
-gm6(){return"Lien"},
-gfA(d){return"Erreur"},
-gth(){var w=this.e
-return w===$?this.e=new A.dNn():w},
-gqT(d){return"Confirmer"},
-gkl(){return"Op\xe9ration r\xe9ussie"},
-guS(){return"\xc9chec de l'op\xe9ration"},
-gfZ(){return"Exp\xe9dition"},
-geu(d){return"Total"},
-gazO(d){return"Contr\xf4le"},
-gqY(d){return"Vide"},
-gaeG(){return"Copi\xe9 avec succ\xe8s"},
-gaiG(){return"Plus"},
-gxO(){return"Annuler"},
-gx3(){return"Tout"}}
-A.dMj.prototype={
-goc(){var w=this.b
-return w===$?this.b=new A.dMp(this.a):w},
-gakx(){return"R\xe9initialiser le mot de passe"},
-gWi(){return"Se connecter"},
-gPe(){return"S'inscrire"},
-gaxa(){return y.mH},
-gacZ(){return y.ol},
-gaBV(){return"Vous n\u2019avez pas de compte ?"},
-gaxR(){return"Vous avez d\xe9j\xe0 un compte ?"},
-gFs(){var w=this.c
-return w===$?this.c=new A.dMl():w}}
-A.dQs.prototype={
-gbv(){var w=this.c
-return w===$?this.c=new A.dPY(this.a):w},
-gbJ(){var w=this.d
-return w===$?this.d=new A.dQA(this.a):w}}
-A.dRr.prototype={
-gbv(){var w=this.c
-return w===$?this.c=new A.dRk(this.a):w}}
-A.dPB.prototype={
-ghw(d){var w=this.b
-return w===$?this.b=new A.dOv():w},
-gqY(d){var w=this.c
-return w===$?this.c=new A.dOJ():w},
-gei(){var w=this.e
-return w===$?this.e=new A.dOB(this.a):w},
-goa(){var w=this.f
-return w===$?this.f=new A.dPH():w},
-gvq(d){return"S\xe9lectionn\xe9"},
-ga5(d){var w=this.w
-return w===$?this.w=new A.dPF():w},
-gj9(){var w=this.x
-return w===$?this.x=new A.dPD():w},
-giR(){var w=this.y
-return w===$?this.y=new A.dOx():w},
-gC2(d){return"Cr\xe9er une commande"},
-gmD(d){return"Modifier la commande"},
-grS(d){var w=this.z
-return w===$?this.z=new A.dPw(this.a):w},
-gbv(){var w=this.Q
-return w===$?this.Q=new A.dOX(this.a):w}}
+gaes(){return"Annuler lien (Ecotrack)"},
+gaet(){return"Annuler lien avec Ecotrack"},
+gaez(){return"Annuler lien (Procolis)"},
+gaeA(){return"Annuler lien avec Procolis"},
+gaku(){return"Imprimer \xe9tiquette (Noest)"},
+gajX(){return"Ouvrir (Noest)"},
+gaew(){return"Annuler lien (Noest)"},
+gaex(){return"Annuler lien avec Noest"},
+gnc(){return"Modifier"},
+gei(d){return"Supprimer"},
+gaga(){return"Supprimer commande"},
+gafb(){return"Copier num\xe9ro commande"},
+gxd(d){return"Effacer"},
+gayA(){return"Appliquer"},
+gcB(d){return"Annuler"},
+gAd(){var w=this.b
+return w===$?this.b=new A.dVK():w},
+glc(){var w=this.c
+return w===$?this.c=new A.dVG():w},
+geO(){var w=this.d
+return w===$?this.d=new A.dW4(this.a):w},
+gha(){var w=this.e
+return w===$?this.e=new A.dVM():w},
+gnt(){var w=this.f
+return w===$?this.f=new A.dWa():w},
+gkE(){var w=this.r
+return w===$?this.r=new A.dW_():w},
+gjt(){var w=this.w
+return w===$?this.w=new A.dWe(this.a):w},
+gAc(){var w=this.x
+return w===$?this.x=new A.dVI():w},
+gFD(){var w=this.y
+return w===$?this.y=new A.dW2():w},
+gof(){var w=this.z
+return w===$?this.z=new A.dWc():w},
+giG(){var w=this.Q
+return w===$?this.Q=new A.dVS(this.a):w}}
+A.dWu.prototype={
+gU(d){return"Programme Partenaire"},
+gaLs(){return"WhatsApp"},
+Mw(d,e){return"Une erreur s'est produite : "+B.f(e)},
+gl9(d){var w=this.b
+return w===$?this.b=new A.dWo(this.a):w},
+gaof(){var w=this.c
+return w===$?this.c=new A.dWA():w},
+gaka(){var w=this.d
+return w===$?this.d=new A.dWy():w},
+ga2A(){var w=this.e
+return w===$?this.e=new A.dWw():w}}
+A.dWE.prototype={
+gl0(){var w=this.b
+return w===$?this.b=new A.dWI():w},
+gmp(){var w=this.c
+return w===$?this.c=new A.dWD():w},
+gmJ(){var w=this.f
+return w===$?this.f=new A.dWG():w}}
+A.dX3.prototype={
+gU(d){return"Param\xe8tres de la boutique"},
+gfV(){var w=this.b
+return w===$?this.b=new A.dX7(this.a):w},
+ga_(){var w=this.c
+return w===$?this.c=new A.dX5():w},
+glf(d){var w=this.d
+return w===$?this.d=new A.dX2():w},
+gKj(){var w=this.e
+return w===$?this.e=new A.dXF():w},
+ga9(){var w=this.f
+return w===$?this.f=new A.dXv():w},
+gvV(){var w=this.r
+return w===$?this.r=new A.dWP():w},
+gED(){var w=this.w
+return w===$?this.w=new A.dWL():w},
+gn9(){var w=this.x
+return w===$?this.x=new A.dWR():w},
+gafZ(){var w=this.y
+return w===$?this.y=new A.dWX():w},
+gMa(){var w=this.z
+return w===$?this.z=new A.dWZ():w},
+gmm(){var w=this.Q
+return w===$?this.Q=new A.dWN():w},
+gh_(){var w=this.as
+return w===$?this.as=new A.dXD():w},
+gkA(){var w=this.at
+return w===$?this.at=new A.dWV():w},
+gmS(){var w=this.ax
+return w===$?this.ax=new A.dWT():w},
+gjT(){var w=this.ay
+return w===$?this.ay=new A.dXf():w},
+gt4(){var w=this.ch
+return w===$?this.ch=new A.dXh():w},
+gj3(){var w=this.CW
+return w===$?this.CW=new A.dX0():w},
+gl3(){var w=this.cx
+return w===$?this.cx=new A.dXB():w},
+gbK(){var w=this.cy
+return w===$?this.cy=new A.dXz():w},
+guu(){var w=this.db
+return w===$?this.db=new A.dXx():w},
+ga45(){var w=this.dx
+return w===$?this.dx=new A.dXH():w},
+gud(d){var w=this.dy
+return w===$?this.dy=new A.dXd():w},
+gm9(){var w=this.fr
+return w===$?this.fr=new A.dXl(this.a):w}}
+A.dXJ.prototype={
+gay2(){return"Ajouter un nouveau prix d'exp\xe9dition"},
+gui(d){return"Actualiser"},
+ao7(d){return"Statut: "+d+" \u2022 D\xe9fini par d\xe9faut"},
+ao6(d){return"Statut: "+d},
+gvt(d){return"S\xe9lectionn\xe9"},
+gamX(d){return"S\xe9lectionner"},
+gnc(){return"Modifier"},
+gei(d){return"Supprimer"},
+gaFM(){return"M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"},
+gaiI(){return"M\xe9thodes d'exp\xe9dition traditionnelles"},
+gaD2(){return y.x},
+gaD1(){return y._},
+gaDf(){return y.oy},
+gtd(){return"R\xe9essayer"},
+gaFL(){return y.c},
+gaFK(){return y.gp},
+an8(d){return'D\xe9fini "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
+aC8(d){return'D\xe9s\xe9lectionn\xe9 "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
+aKx(d){return"Erreur lors de la mise \xe0 jour: "+d},
+gI_(){return"Livraison"},
+ga5(d){var w=this.b
+return w===$?this.b=new A.dXL():w}}
+A.dXN.prototype={
+geV(){return B.b(["Adrar","Chlef","Laghouat","Oum el bouaghi","Batna","Bejaia","Biskra","Bechar","Blida","Bouira","Tamanrasset","Tebessa","Tlemcen","Tiaret","Tizi ouzou","Alger","Djelfa","Jijel","Setif","Saida","Skikda","Sidi bel abbes","Annaba","Guelma","Constantine","Medea","Mostaganem","Msila","Mascara","Ouargla","Oran","El bayadh","Illizi","Bordj bou arreridj","Boumerdes","El tarf","Tindouf","Tissemsilt","El oued","Khenchela","Souk ahras","Tipaza","Mila","Ain defla","Naama","Ain temouchent","Ghardaia","Relizane","Timimoun","Bordj badji mokhtar","Ouled djellal","Beni abbes","In salah","In guezzam","Touggourt","Djanet","El meghaier","El menia"],x.h)},
+gaeP(){var w="Sidi Abderrahmane",v="Ouled Sidi Brahim",u=x.h
+return B.b([B.b(["Adrar","Akabli","Aoulef","Bouda","Fenoughil","In Zghmir","Ouled Ahmed Timmi","Reggane","Sali","Sebaa","Tamantit","Tamest","Timekten","Tit","Tsabit","Zaouiet Kounta"],u),B.b(["Abou El Hassan","Ain Merane","Benairia","Beni Bouattab","Beni Haoua","Beni Rached","Boukadir","Bouzeghaia","Breira","Chettia","Chlef","Dahra","El Hadjadj","El Karimia","El Marsa","Harchoun","Herenfa","Labiod Medjadja","Moussadek","Oued Fodda","Oued Goussine","Oued Sly","Ouled Abbes","Ouled Ben Abdelkader","Ouled Fares","Oum Drou","Sendjas",w,"Sidi Akkacha","Sobha","Tadjena","Talassa","Taougrite","Tenes","Zeboudja"],u),B.b(["Aflou","Ain Mahdi","Ain Sidi Ali","Beidha","Benacer Benchohra","Brida","El Assafia","El Ghicha","El Haouaita","Gueltat Sidi Saad","Hadj Mechri","Hassi Delaa","Hassi R'mel","Kheneg","Ksar El Hirane","Laghouat","Oued M'zi","Oued Morra","Sebgag","Sidi Bouzid","Sidi Makhlouf","Tadjemout","Tadjrouna","Taouiala"],u),B.b(["Ain Babouche","Ain Beida","Ain Diss","Ain Fekroune","Ain Kercha","Ain M'lila","Ain Zitoun","Behir Chergui","Berriche","Bir Chouhada","Dhala","El Amiria","El Belala","El Djazia","El Fedjoudj Boughrara Sa","El Harmilia","Fkirina","Hanchir Toumghani","Ksar Sbahi","Meskiana","Oued Nini","Ouled Gacem","Ouled Hamla","Ouled Zouai","Oum El Bouaghi","Rahia","Sigus","Souk Naamane","Zorg"],u),B.b(["Ain Djasser","Ain Touta","Ain Yagout","Arris","Azil Abedelkader","Barika","Batna","Beni Foudhala El Hakania","Bitam","Boulhilat","Boumagueur","Boumia","Bouzina","Chemora","Chir","Djerma","Djezzar","El Hassi","El Madher","Fesdis","Foum Toub","Ghassira","Gosbat","Guigba","Hidoussa","Ichmoul","Inoughissen","Kimmel","Ksar Bellezma","Larbaa","Lazrou","Lemsane","M Doukal","Maafa","Menaa","Merouana","N Gaous","Oued Chaaba","Oued El Ma","Oued Taga","Ouled Ammar","Ouled Aouf","Ouled Fadel","Ouled Sellem","Ouled Si Slimane","Ouyoun El Assafir","Rahbat","Ras El Aioun","Sefiane","Seggana","Seriana","T Kout","Talkhamt","Taxlent","Tazoult","Teniet El Abed","Tighanimine","Tigharghar","Tilatou","Timgad","Zanet El Beida"],u),B.b(["Adekar","Ait R'zine","Ait Smail","Akbou","Akfadou","Amalou","Amizour","Aokas","Barbacha","Bejaia","Beni Dejllil","Beni K'sila","Beni Mallikeche","Benimaouche","Boudjellil","Bouhamza","Boukhelifa","Chellata","Chemini","Darghina","Dra El Caid","El Kseur","Fenaia Il Maten","Feraoun","Ighil Ali","Ighram","Kendira","Kherrata","Leflaye","M'cisna","Melbou","Oued Ghir","Ouzellaguene","Seddouk","Sidi Aich","Sidi Ayad","Smaoun","Souk El Tenine","Souk Oufella","Tala Hamza","Tamokra","Tamridjet","Taourit Ighil","Taskriout","Tazmalt","Tibane","Tichy","Tifra","Timezrit","Tinebdar","Tizi N'berber","Toudja"],u),B.b(["Ain Naga","Ain Zaatout","Biskra","Bordj Ben Azzouz","Bouchagroun","Branis","Chetma","Djemorah","El Feidh","El Ghrous","El Hadjab","El Haouch","El Kantara","El Outaya","Foughala","Khenguet Sidi Nadji","Lichana","Lioua","M'chouneche","M'lili","Mekhadma","Meziraa","Oumache","Ourlal","Sidi Okba","Tolga","Zeribet El Oued"],u),B.b(["Abadla","Bechar","Beni Ounif","Boukais","Erg Ferradj","Kenadsa","Lahmar","Mechraa H.boumediene","Meridja","Mogheul","Taghit"],u),B.b(["Ain Romana","Beni Mered","Beni Tamou","Benkhelil","Blida","Bouarfa","Boufarik","Bougara","Bouinan","Chebli","Chiffa","Chrea","Djebabra","El Affroun","Guerrouaou","Hammam Melouane","Larbaa","Meftah","Mouzaia","Oued Djer","Oued El Alleug","Ouled Slama","Ouled Yaich","Souhane","Souma"],u),B.b(["Aghbalou","Ahl El Ksar","Ain Bessem","Ain El Hadjar","Ain Laloui","Ain Turk","Ait Laaziz","Aomar","Bechloul","Bir Ghbalou","Bordj Okhriss","Bouderbala","Bouira","Boukram","Chorfa","Dechmia","Dirah","Djebahia","El Adjiba","El Asnam","El Hachimia","El Hakimia","El Khabouzia","El Mokrani","Guerrouma","Hadjera Zerga","Haizer","Hanif","Kadiria","Lakhdaria","M Chedallah","Maala","Mamora","Mezdour","Oued El Berdi","Ouled Rached","Raouraoua","Ridane","Saharidj","Souk El Khemis","Sour El Ghozlane","Taghzout","Taguedite","Taourirt","Z'barbar"],u),B.b(["Abalessa","Ain Amguel","Idles","Tamanrasset","Tazrouk"],u),B.b(["Ain Zerga","Bedjene","Bekkaria","Bir Dheheb","Bir El Ater","Bir Mokkadem","Boukhadra","Boulhaf Dyr","Cheria","El Aouinet","El Houidjbet","El Kouif","El Malabiod","El Meridj","El Mezeraa","El Ogla","El Ogla El Malha","Ferkane","Guorriguer","Hammamet","Morssot","Negrine","Ouenza","Oum Ali","Saf Saf El Ouesra","Stah Guentis","Tebessa","Telidjen"],u),B.b(["Ain Fettah","Ain Fezza","Ain Ghoraba","Ain Kebira","Ain Nehala","Ain Tallout","Ain Youcef","Amieur","Azails","Bab El Assa","Beni Bahdel","Beni Boussaid","Beni Khaled","Beni Mester","Beni Ouarsous","Beni Smiel","Beni Snous","Bensekrane","Bouhlou","Bouihi","Chetouane","Dar Yaghmouracene","Djebala","El Aricha","El Fehoul","El Gor","Fellaoucene","Ghazaouet","Hammam Boughrara","Hennaya","Honaine","Maghnia","Mansourah","Marsa Ben M'hidi","Msirda Fouaga","Nedroma","Oued Chouly","Ouled Mimoun","Ouled Riyah","Remchi","Sabra","Sebbaa Chioukh","Sebdou","Sidi Abdelli","Sidi Djilali","Sidi Medjahed","Souahlia","Souani","Souk Tleta","Terny Beni Hediel","Tianet","Tlemcen","Zenata"],u),B.b(["Ain Bouchekif","Ain Deheb","Ain El Hadid","Ain Kermes","Ain Zarit","Bougara","Chehaima","Dahmouni","Djebilet Rosfa","Djillali Ben Amar","Faidja","Frenda","Guertoufa","Hamadia","Ksar Chellala","Madna","Mahdia","Mechraa Safa","Medrissa","Medroussa","Meghila","Mellakou","Nadorah","Naima","Oued Lilli","Rahouia","Rechaiga","Sebaine","Sebt","Serghine","Si Abdelghani",w,"Sidi Ali Mellal","Sidi Bakhti","Sidi Hosni","Sougueur","Tagdemt","Takhemaret","Tiaret","Tidda","Tousnina","Zmalet El Emir Abdelkade"],u),B.b(["Abi Youcef","Aghribs","Agouni Gueghrane","Ain El Hammam","Ain Zaouia","Ait Aggouacha","Ait Bouaddou","Ait Boumehdi","Ait Chafaa","Ait Khellili","Ait Mahmoud","Ait Oumalou","Ait Toudert","Ait Yahia","Ait Yahia Moussa","Akbil","Akerrou","Assi Youcef","Azazga","Azeffoun","Beni Aissi","Beni Douala","Beni Yenni","Beni Zikki","Beni Zmenzer","Boghni","Boudjima","Bounouh","Bouzeguene","Djebel Aissa Mimoun","Draa Ben Khedda","Draa El Mizan","Freha","Frikat","Iboudrarene","Idjeur","Iferhounene","Ifigha","Iflissen","Illilten","Illoula Oumalou","Imsouhal","Irdjen","Larba Nath Irathen","Larbaa Nath Irathen","M'kira","Maatkas","Makouda","Mechtras","Mekla","Mizrana","Ouacif","Ouadhias","Ouaguenoune","Sidi Naamane","Souamaa","Souk El Thenine","Tadmait","Tigzirt","Timizart","Tirmitine","Tizi Ghenif","Tizi N'tleta","Tizi Ouzou","Tizi Rached","Yakourene","Yatafene","Zekri"],u),B.b(["Ain Benian","Ain Taya","Alger Centre","Bab El Oued","Bab Ezzouar","Baba Hesen","Bachedjerah","Bains Romains","Baraki","Ben Aknoun","Beni Messous","Bir Mourad Rais","Bir Touta","Birkhadem","Bologhine Ibnou Ziri","Bordj El Bahri","Bordj El Kiffan","Bourouba","Bouzareah","Casbah","Cheraga","Dar El Beida","Dely Ibrahim","Djasr Kasentina","Douira","Draria","El Achour","El Biar","El Harrach","El Madania","El Magharia","El Merssa","El Mouradia","Herraoua","Hussein Dey","Hydra","Kheraisia","Kouba","Les Eucalyptus","Maalma","Mohamed Belouzdad","Mohammadia","Oued Koriche","Oued Smar","Ouled Chebel","Ouled Fayet","Rahmania","Rais Hamidou","Reghaia","Rouiba","Sehaoula","Setaouali","Sidi M'hamed","Sidi Moussa","Souidania","Tessala El Merdja","Zeralda"],u),B.b(["Ain Chouhada","Ain El Ibel","Ain Fekka","Ain Maabed","Ain Oussera","Amourah","Benhar","Benyagoub","Birine","Bouira Lahdab","Charef","Dar Chioukh","Deldoul","Djelfa","Douis","El Guedid","El Idrissia","El Khemis","Faidh El Botma","Guernini","Guettara","Had Sahary","Hassi Bahbah","Hassi El Euch","Hassi Fedoul","M Liliha","Messaad","Moudjebara","Oum Laadham","Sed Rahal","Selmana","Sidi Baizid","Sidi Ladjel","Tadmit","Zaafrane","Zaccar"],u),B.b(["Bordj Tahar","Boudria Beniyadjis","Bouraoui Belhadef","Boussif Ouled Askeur","Chahna","Chekfa","Djemaa Beni Habibi","Djimla","El Ancer","El Aouana","El Kennar Nouchfi","El Milia","Emir Abdelkader","Erraguene","Ghebala","Jijel","Khiri Oued Adjoul","Kouas","Oudjana","Ouled Rabah","Ouled Yahia Khadrouch","Selma Benziada","Settara","Sidi Abdelaziz","Sidi Marouf","Taher","Texena","Ziama Mansouria"],u),B.b(["Ain Abessa","Ain Arnat","Ain Azel","Ain El Kebira","Ain Lahdjar","Ain Legradj","Ain Oulmane","Ain Roua","Ain Sebt","Ait Naoual Mezada","Ait Tizi","Amoucha","Babor","Bazer Sakra","Beidha Bordj","Bellaa","Beni Aziz","Beni Chebana","Beni Fouda","Beni Mouhli","Beni Ouartilane","Beni Oussine","Bir El Arch","Bir Haddada","Bouandas","Bougaa","Bousselam","Boutaleb","Dehamcha","Djemila","Draa Kebila","El Eulma","El Ouldja","El Ouricia","Guellal","Guelta Zerka","Guenzet","Guidjel","Hamam Soukhna","Hamma","Hammam Guergour","Harbil","Ksar El Abtal","Maaouia","Maouaklane","Mezloug","Oued El Barad","Ouled Addouane","Ouled Sabor","Ouled Si Ahmed","Ouled Tebben","Rosfa","Salah Bey","Serdj El Ghoul","Setif","Tachouda","Tala Ifacene","Taya","Tella","Tizi N'bechar"],u),B.b(["Ain El Hadjar","Ain Sekhouna","Ain Soltane","Doui Thabet","El Hassasna","Hounet","Maamora","Moulay Larbi","Ouled Brahim","Ouled Khaled","Saida","Sidi Ahmed","Sidi Amar","Sidi Boubekeur","Tircine","Youb"],u),B.b(["Ain Bouziane","Ain Charchar","Ain Kechera","Ain Zouit","Azzaba","Bekkouche Lakhdar","Ben Azzouz","Beni Bechir","Beni Oulbane","Beni Zid","Bin El Ouiden","Bouchetata","Cheraia","Collo","Djendel Saadi Mohamed","El Arrouch","El Ghedir","El Hadaiek","El Marsa","Emjez Edchich","Es Sebt","Filfila","Hamadi Krouma","Kanoua","Kerkera","Khenag Mayoum","Oued Zhour","Ouldja Boulbalout","Ouled Attia","Ouled Habbeba","Oum Toub","Ramdane Djamel","Salah Bouchaour","Sidi Mezghiche","Skikda","Tamalous","Zerdezas","Zitouna"],u),B.b(["Ain Adden","Ain El Berd","Ain Kada","Ain Thrid","Ain Tindamine","Amarnas","Badredine El Mokrani","Belarbi","Ben Badis","Benachiba Chelia","Bir El Hammam","Boudjebaa El Bordj","Boukhanafis","Chetouane Belaila","Dhaya","El Hacaiba","Hassi Dahou","Hassi Zahana","Lamtar","M'cid","Makedra","Marhoum","Merine","Mezaourou","Mostefa Ben Brahim","Moulay Slissen","Oued Sebaa","Oued Sefioun","Oued Taourira","Ras El Ma","Redjem Demouche","Sehala Thaoura","Sfissef","Sidi Ali Benyoub","Sidi Ali Boussidi","Sidi Bel Abbes","Sidi Brahim","Sidi Chaib","Sidi Dahou Zairs","Sidi Hamadouche","Sidi Khaled","Sidi Lahcene","Sidi Yacoub","Tabia","Tafissour","Taoudmout","Teghalimet","Telagh","Tenira","Tessala","Tilmouni","Zerouala"],u),B.b(["Ain Berda","Annaba","Berrahel","Chetaibi","Cheurfa","El Bouni","El Hadjar","Eulma","Oued El Aneb","Seraidi","Sidi Amar","Treat"],u),B.b(["Ain Ben Beida","Ain Hessania","Ain Larbi","Ain Makhlouf","Ain Reggada","Belkheir","Ben Djarah","Beni Mezline","Bordj Sabat","Bou Hachana","Bou Hamdane","Bouati Mahmoud","Bouchegouf","Bouhamra Ahmed","Dahouara","Djeballah Khemissi","El Fedjoudj","Guelaat Bou Sbaa","Guelma","Hamam Debagh","Hammam N'bail","Heliopolis","Khezara","Medjez Amar","Medjez Sfa","Nechmaya","Oued Cheham","Oued Fragha","Oued Zenati","Ras El Agba","Roknia","Sellaoua Announa","Sidi Sandel","Tamlouka"],u),B.b(["Ain Abid","Ain Smara","Ben Badis","Beni Hamidene","Constantine","Didouche Mourad","El Khroub","Hamma Bouziane","Ibn Ziad","Messaoud Boujeriou","Ouled Rahmouni","Zighoud Youcef"],u),B.b(["Ain Boucif","Ain Ouksir","Aissaouia","Aziz","Baata","Ben Chicao","Beni Slimane","Berrouaghia","Bir Ben Laabed","Boghar","Bouaiche","Bouaichoune","Bouchrahil","Boughzoul","Bouskene","Chabounia","Chelalet El Adhaoura","Cheniguel","Damiat","Derrag","Deux Bassins","Djouab","Draa Essamar","El Azizia","El Guelbelkebir","El Hamdania","El Omaria","El Ouinet","Hannacha","Kef Lakhdar","Khams Djouamaa","Ksar El Boukhari","Maghraoua","Medea","Medjebar","Meftaha","Mezerana","Mihoub","Ouamri","Oued Harbil","Ouled Antar","Ouled Bouachra","Ouled Brahim","Ouled Deid","Ouled Hellal","Ouled Maaref","Oum El Djellil","Ouzera","Rebaia","Saneg","Sedraya","Seghouane","Si Mahdjoub","Sidi Demed","Sidi Naamane","Sidi Rabie","Sidi Zahar","Sidi Ziane","Souagui","Tablat","Tafraout","Tamesguida","Tletat Ed Douair","Zoubiria"],u),B.b(["Achaacha","Ain Boudinar","Ain Nouissy","Ain Sidi Cherif","Ain Tedles","Benabdelmalek Ramdane","Bouguirat","Fornaka","Hadjadj","Hassi Mameche","Hassiane","Khadra","Kheir Eddine","Mansourah","Mazagran","Mesra","Mostaganem","Nekmaria","Oued El Kheir","Ouled Boughalem","Ouled Maalah","Safsaf","Sayada","Sidi Ali","Sidi Belaattar","Sidi Lakhdar","Sirat","Souaflia","Sour","Stidia","Tazgait","Touahria"],u),B.b(["Ain El Hadjel","Ain El Melh","Ain Fares","Ain Khadra","Ain Rich","Belaiba","Ben Srour","Beni Ilmane","Benzouh","Berhoum","Bir Foda","Bou Saada","Bouti Sayeh","Chellal","Dehahna","Djebel Messaad","El Hamel","El Houamed","Hammam Dalaa","Khettouti Sed El Jir","Khoubana","M'cif","M'sila","M'tarfa","Maadid","Maarif","Magra","Medjedel","Menaa","Mohamed Boudiaf","Ouanougha","Ouled Addi Guebala","Ouled Derradj","Ouled Madhi","Ouled Mansour",v,"Ouled Slimane","Oulteme","Sidi Aissa","Sidi Ameur","Sidi Hadjeres","Sidi M'hamed","Slim","Souamaa","Tamsa","Tarmount","Zarzour"],u),B.b(["Ain Fares","Ain Fekan","Ain Ferah","Ain Frass","Alaimia","Aouf","Benian","Bou Henni","Bouhanifia","Chorfa","El Bordj","El Gaada","El Ghomri","El Gueitena","El Hachem","El Keurt","El Mamounia","El Menaouer","Ferraguig","Froha","Gharrous","Ghriss","Guerdjoum","Hacine","Khalouia","Makhda","Maoussa","Mascara","Matemore","Mocta Douz","Mohammadia","Nesmot","Oggaz","Oued El Abtal","Oued Taria","Ras El Ain Amirouche","Sedjerara","Sehailia","Sidi Abdeldjebar","Sidi Abdelmoumene","Sidi Boussaid","Sidi Kada","Sig","Tighennif","Tizi","Zahana","Zelamta"],u),B.b(["Ain Beida","El Borma","Hassi Ben Abdellah","Hassi Messaoud","N'goussa","Ouargla","Rouissat","Sidi Khouiled"],u),B.b(["Ain Biya","Ain Kerma","Ain Turk","Arzew","Ben Freha","Bethioua","Bir El Djir","Boufatis","Bousfer","Boutlelis","El Ancar","El Braya","El Kerma","Es Senia","Gdyel","Hassi Ben Okba","Hassi Bounif","Hassi Mefsoukh","Marsat El Hadjadj","Mers El Kebir","Messerghin","Oran","Oued Tlelat","Sidi Ben Yebka","Sidi Chami","Tafraoui"],u),B.b(["Ain El Orak","Arbaouat","Boualem","Bougtoub","Boussemghoun","Brezina","Cheguig","Chellala","El Bayadh","El Biodh Sidi Cheikh","El Bnoud","El Kheither","El Mehara","Ghassoul","Kef El Ahmar","Krakda","Rogassa","Sidi Ameur","Sidi Slimane","Sidi Tifour","Stitten","Tousmouline"],u),B.b(["Bordj Omar Driss","Debdeb","Illizi","In Amenas"],u),B.b(["Ain Taghrout","Ain Tesra","Belimour","Ben Daoud","Bir Kasdali","Bordj Bou Arreridj","Bordj Ghdir","Bordj Zemora","Colla","Djaafra","El Ach","El Achir","El Anseur","El Hamadia","El M'hir","El Main","Ghilassa","Haraza","Hasnaoua","Khelil","Ksour","Mansoura","Medjana","Ouled Brahem","Ouled Dahmane",v,"Rabta","Ras El Oued","Sidi Embarek","Tafreg","Taglait","Teniet En Nasr","Tesmart","Tixter"],u),B.b(["Afir","Ammal","Baghlia","Ben Choud","Beni Amrane","Bordj Menaiel","Boudouaou","Boudouaou El Bahri","Boumerdes","Bouzegza Keddara","Chabet El Ameur","Corso","Dellys","Djinet","El Kharrouba","Hammedi","Isser","Khemis El Khechna","Larbatache","Leghata","Naciria","Ouled Aissa","Ouled Hedadj","Ouled Moussa","Si Mustapha","Sidi Daoud","Souk El Haad","Taourga","Thenia","Tidjelabine","Timezrit","Zemmouri"],u),B.b(["Ain El Assel","Ain Kerma","Asfour","Ben M Hidi","Berrihane","Besbes","Bougous","Bouhadjar","Bouteldja","Chebaita Mokhtar","Chefia","Chihani","Drean","Echatt","El Aioun","El Kala","El Tarf","Hammam Beni Salah","Lac Des Oiseaux","Oued Zitoun","Raml Souk","Souarekh","Zerizer","Zitouna"],u),B.b(["Oum El Assel","Tindouf"],u),B.b(["Ammari","Beni Chaib","Beni Lahcene","Bordj Bounaama","Bordj El Emir Abdelkader","Bou Caid","Khemisti","Larbaa","Lardjem","Layoune","Lazharia","Maacem","Melaab","Ouled Bessem","Sidi Abed","Sidi Boutouchent","Sidi Lantri","Sidi Slimane","Tamellalet","Theniet El Had","Tissemsilt","Youssoufia"],u),B.b(["Bayadha","Ben Guecha","Debila","Douar El Maa","El Ogla","El Oued","Guemar","Hamraia","Hassani Abdelkrim","Hassi Khalifa","Kouinine","Magrane","Mih Ouansa","Nakhla","Oued El Alenda","Ourmes","Reguiba","Robbah","Sidi Aoun","Taghzout","Taleb Larbi","Trifaoui"],u),B.b(["Ain Touila","Babar","Baghai","Bouhmama","Chelia","Cherchar","Djellal","El Hamma","El Mahmal","El Oueldja","Ensigha","Kais","Khenchela","Khirane","M'sara","M'toussa","Ouled Rechache","Remila","Tamza","Taouzianat","Yabous"],u),B.b(["Ain Soltane","Ain Zana","Bir Bouhouche","Drea","Haddada","Hanencha","Khedara","Khemissa","M'daourouche","Machroha","Merahna","Oued Kebrit","Ouled Driss","Ouled Moumen","Oum El Adhaim","Quillen","Ragouba","Safel El Ouiden","Sedrata","Sidi Fredj","Souk Ahras","Taoura","Terraguelt","Tiffech","Zaarouria","Zouabi"],u),B.b(["Aghbal","Ahmer El Ain","Ain Tagourait","Attatba","Beni Mileuk","Bou Haroun","Bou Ismail","Bourkika","Chaiba","Cherchell","Damous","Douaouda","Fouka","Gouraya","Hadjout","Hadjret Ennous","Khemisti","Kolea","Larhat","Menaceur","Merad","Messelmoun","Nador","Sidi Amar","Sidi Ghiles","Sidi Rached","Sidi Semiane","Tipaza"],u),B.b(["Ahmed Rachedi","Ain Beida Harriche","Ain Mellouk","Ain Tine","Amira Arres","Benyahia Abderrahmane","Bouhatem","Chelghoum Laid","Chigara","Derrahi Bousselah","El Mechira","Elayadi Barbes","Ferdjioua","Grarem Gouga","Hamala","Mila","Minar Zarza","Oued Athmenia","Oued Endja","Oued Seguen","Ouled Khalouf","Rouached","Sidi Khelifa","Sidi Merouane","Tadjenanet","Tassadane Haddada","Teleghma","Terrai Bainem","Tessala","Tiberguent","Yahia Beniguecha","Zeghaia"],u),B.b(["Ain Benian","Ain Bouyahia","Ain Defla","Ain Lechiakh","Ain Soltane","Ain Tork","Arib","Barbouche","Bathia","Belaas","Ben Allal","Bir Ould Khelifa","Bordj Emir Khaled","Boumedfaa","Bourached","Djelida","Djemaa Ouled Cheikh","Djendel","El Abadia","El Amra","El Attaf","El Maine","Hammam Righa","Hassania","Hoceinia","Khemis Miliana","Mekhatria","Miliana","Oued Chorfa","Oued Djemaa","Rouina","Sidi Lakhdar","Tacheta Zegagha","Tarik Ibn Ziad","Tiberkanine","Zeddine"],u),B.b(["Ain Ben Khelil","Ain Safra","Assela","Djeniane Bourzeg","El Biod","Kasdir","Makman Ben Amer","Mecheria","Moghrar","Naama","Sfissifa","Tiout"],u),B.b(["Aghlal","Ain El Arbaa","Ain Kihal","Ain Temouchent","Ain Tolba","Aoubellil","Beni Saf","Bouzedjar","Chaabat El Ham","Chentouf","El Amria","El Malah","El Messaid","Emir Abdelkader","Hammam Bouhadjar","Hassasna","Hassi El Ghella","Oued Berkeche","Oued Sebbah","Ouled Boudjemaa","Ouled Kihal","Oulhaca El Gheraba","Sidi Ben Adda","Sidi Boumediene","Sidi Ouriache","Sidi Safi","Tamzoura","Terga"],u),B.b(["Berriane","Bounoura","Dhayet Bendhahoua","El Atteuf","El Guerrara","Ghardaia","Mansoura","Metlili","Sebseb","Zelfana"],u),B.b(["Ain Rahma","Ain Tarek","Ammi Moussa","Belaassel Bouzagza","Bendaoud","Beni Dergoun","Beni Zentis","Dar Ben Abdelah","Djidiouia","El Guettar","El H'madna","El Hassi","El Matmar","El Ouldja","Had Echkalla","Hamri","Kalaa","Lahlef","Mazouna","Mediouna","Mendes","Merdja Sidi Abed","Ouarizane","Oued El Djemaa","Oued Essalem","Oued Rhiou","Ouled Aiche","Ouled Sidi Mihoub","Ramka","Relizane","Sidi Khettab","Sidi Lazreg","Sidi M'hamed Benali","Sidi M'hamed Benaouda","Sidi Saada","Souk El Had","Yellel","Zemmoura"],u),B.b(["Aougrout","Charouine","Deldoul","Ksar Kaddour","Metarfa","Ouled Aissa","Ouled Said","Talmine","Timimoun","Tinerkouk"],u),B.b(["Bordj Badji Mokhtar","Timiaouine"],u),B.b(["Besbes","Chaiba","Doucen","Ouled Djellal","Ras El Miad","Sidi Khaled"],u),B.b(["Beni Abbes","Beni Ikhlef","El Ouata","Igli","Kerzaz","Ksabi","Ouled Khoudir","Tabelbala","Tamtert","Timoudi"],u),B.b(["Foggaret Azzaouia","In Ghar","In Salah"],u),B.b(["In Guezzam","Tin Zouatine"],u),B.b(["Benaceur","Blidet Amor","El Alia","El Hadjira","Megarine","Mnaguer","Nezla","Sidi Slimane","Taibet","Tebesbest","Temacine","Touggourt","Zaouia El Abidia"],u),B.b(["Bordj El Haouasse","Djanet"],u),B.b(["Djamaa","El M'ghair","Mrara","Oum Touyour","Sidi Amrane","Sidi Khelil","Still","Tenedla"],u),B.b(["El Meniaa","Hassi Fehal","Hassi Gara"],u)],x.g)}}
+A.dXT.prototype={
+ga8(d){return"Mod\xe8les"},
+gU(d){return"Mod\xe8les de boutique"},
+gl9(d){var w=this.c
+return w===$?this.c=new A.dXP():w},
+gMz(){var w=this.d
+return w===$?this.d=new A.dXS():w},
+ga5(d){var w=this.e
+return w===$?this.e=new A.dXV():w}}
 A.dR1.prototype={
-ga2q(){var w=this.b
-return w===$?this.b=new A.dR3():w},
-gmQ(){var w=this.c
-return w===$?this.c=new A.dQR(this.a):w},
-gir(){var w=this.d
-return w===$?this.d=new A.dR9(this.a):w},
-gaGa(){return"Mes magasins"},
-grS(d){var w=this.e
-return w===$?this.e=new A.dR0():w},
-gbv(){var w=this.f
-return w===$?this.f=new A.dQV(this.a):w},
-gi_(){var w=this.r
-return w===$?this.r=new A.dRd(this.a):w}}
-A.dMF.prototype={
-gaKH(){return"Bienvenue, "},
-gbJ(){var w=this.b
-return w===$?this.b=new A.dMH(this.a):w}}
-A.dPL.prototype={
-gOf(){var w=this.b
-return w===$?this.b=new A.dPN():w},
-gaGs(){return"Aucun produit trouv\xe9 avec ce SKU"},
-gamd(){return"Erreur de scan"},
-gaIt(){return"Actualiser les produits"},
-gaGu(){return"Aucun r\xe9sultat trouv\xe9"},
-gaCy(){return"Scanner ou entrer un code-barres/SKU"},
-game(){return"Scanner pour ajouter un produit"},
-gqQ(){var w=this.e
-return w===$?this.e=new A.dPK():w}}
-A.dNz.prototype={
-gX(d){return"Int\xe9grations"},
-gbh(d){return y.ms},
-gaxK(){return"Services de publicit\xe9 et de marketing"},
-gan9(){return"Services de livraison"},
-gl1(){var w=this.b
-return w===$?this.b=new A.dO4(this.a):w},
-gbB(){var w=this.c
-return w===$?this.c=new A.dNu(this.a):w},
-gfo(){var w=this.d
-return w===$?this.d=new A.dOi(this.a):w},
-gjh(){var w=this.e
-return w===$?this.e=new A.dNZ():w},
-gd_(){var w=this.f
-return w===$?this.f=new A.dNF(this.a):w},
-gc2(){var w=this.r
-return w===$?this.r=new A.dOe(this.a):w},
-gfd(){var w=this.x
-return w===$?this.x=new A.dNP(this.a):w},
-ghV(){var w=this.z
-return w===$?this.z=new A.dND():w},
-gwu(){var w=this.Q
-return w===$?this.Q=new A.dNB():w},
-gmN(){var w=this.as
-return w===$?this.as=new A.dNp():w}}
-A.dMg.prototype={
-gaGE(){return"Notifications"},
-gaDQ(){return"Aide"}}
-A.dM6.prototype={
-gX(d){return"Studio d'images IA"},
-gak6(d){var w=this.c
-return w===$?this.c=new A.dM8():w},
-ghL(d){var w=this.d
-return w===$?this.d=new A.dM3():w},
-gFG(){var w=this.f
-return w===$?this.f=new A.dMa(this.a):w},
-gkA(){var w=this.r
-return w===$?this.r=new A.dM5():w},
-ghJ(){var w=this.w
-return w===$?this.w=new A.dMe():w},
-gHi(){var w=this.x
-return w===$?this.x=new A.dM1():w}}
-A.dRv.prototype={
-gqe(){return"D\xe9p\xf4t"},
-gxZ(d){return"Envoyer"},
-gaJt(){return"Transactions"},
-gaBq(){return"D\xe9p\xf4ts"},
-gaGw(){return"Aucune transaction pour le moment"},
-gaGx(){return"Toutes vos transactions appara\xeetront ici"},
-gaGn(){return"Aucun d\xe9p\xf4t pour le moment"},
-gaGo(){return"Tous vos d\xe9p\xf4ts appara\xeetront ici"},
-gxA(){return"Chargement..."},
-gFr(){return"Charger plus"},
-gaCA(){return y.n9},
-gaCz(){return"Erreur lors du chargement des d\xe9p\xf4ts"},
-gzp(){var w=this.b
-return w===$?this.b=new A.dRx():w},
-gSW(){var w=this.c
-return w===$?this.c=new A.dRu():w},
-gmm(){return"DZD"},
-gBL(){return"Votre solde"},
-gane(){return"Afficher le code QR de r\xe9ception"}}
-A.dMz.prototype={
-ga6(d){return"Langue"},
-gadu(){return"\u0639\u0631\u0628\u064a"},
-gagu(){return"Anglais"},
-gahg(){return"Fran\xe7ais"}}
-A.dMB.prototype={
-ga6(d){return"Th\xe8me"},
-ga0t(){return"Sombre"},
-gWG(){return"Syst\xe8me"},
-ga2j(){return"Clair"}}
-A.dMD.prototype={
-gaE9(){return"Augmenter le zoom"},
-gaB1(){return"R\xe9duire le zoom"}}
-A.dRB.prototype={
-gaHb(){return"Commande cr\xe9\xe9e avec succ\xe8s"},
-gaHe(){return"Commande mise \xe0 jour avec succ\xe8s"}}
-A.dRF.prototype={
-ga18(){return"\xc9gal \xe0"},
-gaGz(){return"Diff\xe9rent de"},
-grI(d){return"Contient"},
-gPn(d){return"Commence par"},
-ga14(d){return"Se termine par"},
-gam8(){return"Sup\xe9rieur \xe0"},
-gam7(){return"Sup\xe9rieur ou \xe9gal \xe0"},
-gaF9(){return"Inf\xe9rieur \xe0"},
-gaF8(){return"Inf\xe9rieur ou \xe9gal \xe0"},
-gaE4(){return"Dans la liste"},
-gaGA(){return"Pas dans"},
-gaEH(){return"Est nul"},
-gaEG(){return"N'est pas nul"}}
-A.dRX.prototype={
-ghh(){var w=this.b
-return w===$?this.b=new A.dRW(this.a):w}}
-A.dSk.prototype={
-ghh(){var w=this.b
-return w===$?this.b=new A.dSj(this.a):w}}
-A.dSo.prototype={
-gjD(){return"Aujourd'hui"},
-goO(){return"Cette semaine"},
-goD(){return"Ce mois"},
-gx3(){return"Tout le temps"}}
-A.dSq.prototype={
-ghJ(){return"R\xe9ussi"},
-guS(){return"\xc9chou\xe9"},
-gaE6(){return"En r\xe9vision"},
-gaE3(){return"En livraison"}}
-A.dSY.prototype={
-gaIM(){return"Veuillez remplir les champs requis"}}
-A.dSW.prototype={
-gaI1(){return"Produit cr\xe9\xe9"},
-gaI4(){return"Produit mis \xe0 jour"}}
-A.dSz.prototype={
-gX(d){return"\xcates-vous s\xfbr ?"},
-gqb(d){return"Les modifications seront annul\xe9es."},
-gcA(d){return"Annuler"},
-gqT(d){return"Confirmer"}}
-A.dSB.prototype={
-gd_(){var w=this.b
-return w===$?this.b=new A.dSF():w},
-gc2(){var w=this.c
-return w===$?this.c=new A.dSH():w},
-ghV(){var w=this.d
-return w===$?this.d=new A.dSD():w}}
-A.dSw.prototype={
-gX(d){return"Assistant IA"},
-gcX(){return y.kB},
-gaKO(){return"Veuillez d'abord \xe9crire les instructions"},
-gaCO(){return y.da},
-gaxN(){return y.lA},
-galv(){return"G\xe9n\xe9rer"},
-gaEd(){return y.c6},
-gaJX(){return y.Y},
-galz(){return"G\xe9n\xe9ration \xe9chou\xe9e"},
-gaES(){return y.v}}
-A.dSK.prototype={
-gaiV(){return"Aucun pixel activ\xe9"},
-gd_(){var w=this.b
-return w===$?this.b=new A.dSO():w},
-gc2(){var w=this.c
-return w===$?this.c=new A.dSQ():w},
-ghV(){var w=this.d
-return w===$?this.d=new A.dSM():w}}
-A.dSU.prototype={
-gaBw(){return"Informations d\xe9taill\xe9es"},
-gagj(){return"Modifier le contenu"},
-gaAI(){return"Cr\xe9er avec l'IA"},
-gaGj(){return y.w},
-gak2(){return"Contenu du produit"},
-gaCe(){return"Modifier le contenu d\xe9taill\xe9"},
-gaAC(){return"Cr\xe9er du contenu avec l'IA"}}
-A.dSu.prototype={
-gX(d){return"Compl\xe9ments"},
-gcX(){return y.l},
-gafB(){var w=this.b
-return w===$?this.b=new A.dSt():w},
-gadg(){return"Ajouter un nouveau"},
-gn8(){return"Modifier le compl\xe9ment"},
-gfa(d){return"Image du compl\xe9ment"},
-gFM(){return"Titre du compl\xe9ment"},
-gHU(){return"Description du compl\xe9ment"},
-gajX(){return"Prix du compl\xe9ment"},
-ga60(){return"Stock"},
-gaiD(){return"Minimum"},
-gaiv(){return"Maximum"}}
-A.dSS.prototype={
-gOB(){return"YouTube"},
-gaER(){return"Modifier JSON"},
-gaAY(){return"Donn\xe9es copi\xe9es dans le presse-papiers"},
-gaCi(){return"Modifier les donn\xe9es du produit (JSON)"},
+go2(){var w=this.b
+return w===$?this.b=new A.dQZ(this.a):w}}
+A.dPK.prototype={
+gjE(){return"Aujourd'hui"},
+gnX(){return"Hier"},
+gAW(){return"Cette semaine"},
+gAV(){return"Ce mois-ci"},
+gafX(){return"Personnalis\xe9"}}
+A.dPP.prototype={
+gHF(){return"copi\xe9"},
+gaFD(){return"Plus tard"},
+gNE(){return"Aucune information disponible"},
+ga6U(){return"Synchronisations"},
+ga04(){var w=this.b
+return w===$?this.b=new A.dPO():w},
+gFj(d){return"Historique"},
+gNM(){return"Optionnel"},
+gaC0(){return"Suppression..."},
+gtL(d){return"Retour"},
+gtd(){return"R\xe9essayer"},
+gFC(){return"Aucun r\xe9sultat trouv\xe9"},
+gCT(d){return"R\xe9initialiser"},
+gn3(d){return"Rechercher"},
+ghF(d){return"Fermer"},
+gVE(){return"Vous"},
+gaiV(){return y.fu},
+gcv(d){var w=this.d
+return w===$?this.d=new A.dPR(this.a):w},
+ga4I(){return"Exporter"},
 ghE(d){return"Enregistrer"},
-gHx(){return"Copier"}}
-A.dT0.prototype={
-aFk(d){return"\xc9chec du chargement des donn\xe9es : "+d}}
-A.dT3.prototype={
-gayj(d){return"Aucune donn\xe9e"}}
-A.dTa.prototype={
-gjD(){return"Aujourd'hui"},
-gnS(){return"Hier"},
-gAS(){return"Cette semaine"},
-gNc(){return"Semaine derni\xe8re"},
-gAR(){return"Ce mois"},
-gNa(){return"Mois dernier"},
-gaFZ(){return"Il y a {months} mois"},
-gaKS(){return"Il y a 1 an"},
-gaKT(){return"Il y a {years} ans"}}
-A.dT6.prototype={
-gafI(){return"Supprimer {count} commande(s)"},
-ga0E(){return y.hi},
-gafJ(){return y.fH},
-gRW(){return"Assigner {count} commande(s) \xe0 un membre"},
-gayf(){return"Assigner la commande \xe0 un membre"},
-ga53(){return y.ea},
-gamB(){return y.c2},
-ga54(){return"S\xe9lectionner un membre"},
-gLz(){return y.iX},
-gayg(){return"Commande assign\xe9e avec succ\xe8s"},
-gadz(){return y.P},
-gaye(){return y.ox},
-ga2F(){return"Aucun membre dans ce magasin"}}
-A.dTv.prototype={
-gOX(){return y.j4},
-gOY(){return y.i7},
-gP_(){return y.nW},
-gP4(){return"Envoi des \xe9v\xe9nements {eventName}..."},
-gP1(){return y.hu},
-gP0(){return y.oa},
-gOZ(){return y.F},
-gpl(){return"Envoyer les \xe9v\xe9nements"},
-gd_(){var w=this.b
-return w===$?this.b=new A.dTx():w},
-gc2(){var w=this.c
-return w===$?this.c=new A.dTz():w}}
-A.dTc.prototype={
-gP3(){return"Envoyer vers Zimou Express"},
-ga5v(){return"Envoi en cours..."},
-ga5q(){return"Commande envoy\xe9e avec succ\xe8s"},
-ga5i(){return"Erreur : {error}"},
-gW4(){return"Envoyer vers Ecomanager"},
-gajo(){return"Ouvrir Ecomanager"},
-gadV(){return"Annuler le lien Ecomanager"},
-gadW(){return"Annuler le lien Ecomanager"},
-gadU(){return y.bP},
-ga_S(){return"Lien Ecomanager annul\xe9 avec succ\xe8s"},
-gS5(){return y.gU},
-gS6(){return y.d1},
-gHm(){return"Lien annul\xe9 avec succ\xe8s"},
-gae_(){return"Annuler le lien"},
-gHn(){return"Annuler l'envoi"},
-ga0W(){return"Le service Ecotrack n'est pas disponible"},
-gadX(){return y.E},
-gae0(){return y.O},
-gae3(){return"Lien Noest annul\xe9 avec succ\xe8s"}}
+gcB(d){return"Annuler"},
+gnc(){return"\xc9diter"},
+gmG(d){return"Mettre \xe0 jour"},
+gei(d){return"Supprimer"},
+gfz(d){return"Ajouter"},
+gm8(){return"Lien"},
+geZ(d){return"Erreur"},
+gon(){var w=this.e
+return w===$?this.e=new A.dPX():w},
+gr_(d){return"Confirmer"},
+gjI(){return"Op\xe9ration r\xe9ussie"},
+guX(){return"\xc9chec de l'op\xe9ration"},
+gh_(){return"Exp\xe9dition"},
+gew(d){return"Total"},
+gaAn(d){return"Contr\xf4le"},
+gr4(d){return"Vide"},
+gafa(){return"Copi\xe9 avec succ\xe8s"},
+gaja(){return"Plus"},
+gxT(){return"Annuler"},
+gx7(){return"Tout"}}
+A.dOT.prototype={
+goh(){var w=this.b
+return w===$?this.b=new A.dOZ(this.a):w},
+gal1(){return"R\xe9initialiser le mot de passe"},
+gWy(){return"Se connecter"},
+gPq(){return"S'inscrire"},
+gaxI(){return y.mH},
+gadr(){return y.ol},
+gaCz(){return"Vous n\u2019avez pas de compte ?"},
+gayq(){return"Vous avez d\xe9j\xe0 un compte ?"},
+gFy(){var w=this.c
+return w===$?this.c=new A.dOV():w}}
+A.dT1.prototype={
+gbw(){var w=this.c
+return w===$?this.c=new A.dSx(this.a):w},
+gbK(){var w=this.d
+return w===$?this.d=new A.dT9(this.a):w}}
+A.dU0.prototype={
+gbw(){var w=this.c
+return w===$?this.c=new A.dTU(this.a):w}}
+A.dSa.prototype={
+ghw(d){var w=this.b
+return w===$?this.b=new A.dR4():w},
+gr4(d){var w=this.c
+return w===$?this.c=new A.dRi():w},
+gel(){var w=this.e
+return w===$?this.e=new A.dRa(this.a):w},
+gof(){var w=this.f
+return w===$?this.f=new A.dSg():w},
+gvt(d){return"S\xe9lectionn\xe9"},
+ga5(d){var w=this.w
+return w===$?this.w=new A.dSe():w},
+gj9(){var w=this.x
+return w===$?this.x=new A.dSc():w},
+giR(){var w=this.y
+return w===$?this.y=new A.dR6():w},
+gC7(d){return"Cr\xe9er une commande"},
+gmG(d){return"Modifier la commande"},
+grY(d){var w=this.z
+return w===$?this.z=new A.dS5(this.a):w},
+gbw(){var w=this.Q
+return w===$?this.Q=new A.dRw(this.a):w}}
 A.dTB.prototype={
-gnp(){return"Risque retour"},
-gX(d){return"Risque de retour ({count} num\xe9ro(s))"},
-gaiU(){return y.Z},
-gfA(d){return y.hw},
-gpI(){return"Aucune donn\xe9e disponible"},
-gaGl(){return y.Q},
-gaz2(){return y.iv},
-gaDi(){return"Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"},
-gaDR(d){return"Risque \xe9lev\xe9"},
-gaFR(){return"Risque moyen"},
-gaFs(d){return"Risque faible"},
-guN(){return"Livr\xe9"},
-guS(){return"\xc9chec de la livraison"},
-gaJq(){return"Total des commandes"},
-gaIU(){return"Pourcentage de risque"}}
-A.dTq.prototype={
-gHK(){return"Filtre de date"},
+ga2K(){var w=this.b
+return w===$?this.b=new A.dTD():w},
+gmU(){var w=this.c
+return w===$?this.c=new A.dTq(this.a):w},
+gir(){var w=this.d
+return w===$?this.d=new A.dTJ(this.a):w},
+gaGP(){return"Mes magasins"},
+grY(d){var w=this.e
+return w===$?this.e=new A.dTA():w},
+gbw(){var w=this.f
+return w===$?this.f=new A.dTu(this.a):w},
+gi_(){var w=this.r
+return w===$?this.r=new A.dTN(this.a):w}}
+A.dPe.prototype={
+gaLr(){return"Bienvenue, "},
+gbK(){var w=this.b
+return w===$?this.b=new A.dPg(this.a):w}}
+A.dSk.prototype={
+gOr(){var w=this.b
+return w===$?this.b=new A.dSm():w},
+gaH8(){return"Aucun produit trouv\xe9 avec ce SKU"},
+gamK(){return"Erreur de scan"},
+gaJc(){return"Actualiser les produits"},
+gFC(){return"Aucun r\xe9sultat trouv\xe9"},
+gaDc(){return"Scanner ou entrer un code-barres/SKU"},
+gamL(){return"Scanner pour ajouter un produit"},
+gqX(){var w=this.e
+return w===$?this.e=new A.dSj():w}}
+A.dQ8.prototype={
+gU(d){return"Int\xe9grations"},
+gb8(d){return y.ms},
+gayj(){return"Services de publicit\xe9 et de marketing"},
+ganD(){return"Services de livraison"},
+gl3(){var w=this.b
+return w===$?this.b=new A.dQE(this.a):w},
+gbB(){var w=this.c
+return w===$?this.c=new A.dQ3(this.a):w},
+gfp(){var w=this.d
+return w===$?this.d=new A.dQS(this.a):w},
+gjh(){var w=this.e
+return w===$?this.e=new A.dQy():w},
+gd_(){var w=this.f
+return w===$?this.f=new A.dQe(this.a):w},
+gc4(){var w=this.r
+return w===$?this.r=new A.dQO(this.a):w},
+gfe(){var w=this.x
+return w===$?this.x=new A.dQo(this.a):w},
+ghV(){var w=this.z
+return w===$?this.z=new A.dQc():w},
+gwy(){var w=this.Q
+return w===$?this.Q=new A.dQa():w},
+gmQ(){var w=this.as
+return w===$?this.as=new A.dPZ():w}}
+A.dOQ.prototype={
+gaHj(){return"Notifications"},
+gaEu(){return"Aide"}}
+A.dOG.prototype={
+gU(d){return"Studio d'images IA"},
+gakB(d){var w=this.c
+return w===$?this.c=new A.dOI():w},
+ghL(d){var w=this.d
+return w===$?this.d=new A.dOD():w},
+gFO(){var w=this.f
+return w===$?this.f=new A.dOK(this.a):w},
+gkC(){var w=this.r
+return w===$?this.r=new A.dOF():w},
+ghJ(){var w=this.w
+return w===$?this.w=new A.dOO():w},
+gHq(){var w=this.x
+return w===$?this.x=new A.dOB():w}}
+A.dU4.prototype={
+gqk(){return"D\xe9p\xf4t"},
+gy4(d){return"Envoyer"},
+gaKd(){return"Transactions"},
+gaC4(){return"D\xe9p\xf4ts"},
+gaHb(){return"Aucune transaction pour le moment"},
+gaHc(){return"Toutes vos transactions appara\xeetront ici"},
+gaH2(){return"Aucun d\xe9p\xf4t pour le moment"},
+gaH3(){return"Tous vos d\xe9p\xf4ts appara\xeetront ici"},
+gxF(){return"Chargement..."},
+gFx(){return"Charger plus"},
+gaDe(){return y.n9},
+gaDd(){return"Erreur lors du chargement des d\xe9p\xf4ts"},
+gzt(){var w=this.b
+return w===$?this.b=new A.dU6():w},
+gTb(){var w=this.c
+return w===$?this.c=new A.dU3():w},
+gmp(){return"DZD"},
+gBQ(){return"Votre solde"},
+ganI(){return"Afficher le code QR de r\xe9ception"}}
+A.dP8.prototype={
+ga8(d){return"Langue"},
+gadZ(){return"\u0639\u0631\u0628\u064a"},
+gagZ(){return"Anglais"},
+gahL(){return"Fran\xe7ais"}}
+A.dPa.prototype={
+ga8(d){return"Th\xe8me"},
+ga0P(){return"Sombre"},
+gWW(){return"Syst\xe8me"},
+ga2E(){return"Clair"}}
+A.dPc.prototype={
+gaEO(){return"Augmenter le zoom"},
+gaBH(){return"R\xe9duire le zoom"}}
+A.dUa.prototype={
+gaHS(){return"Commande cr\xe9\xe9e avec succ\xe8s"},
+gaHV(){return"Commande mise \xe0 jour avec succ\xe8s"}}
+A.dUe.prototype={
+ga1u(){return"\xc9gal \xe0"},
+gaHe(){return"Diff\xe9rent de"},
+grP(d){return"Contient"},
+gPz(d){return"Commence par"},
+ga1q(d){return"Se termine par"},
+gamF(){return"Sup\xe9rieur \xe0"},
+gamE(){return"Sup\xe9rieur ou \xe9gal \xe0"},
+gaFO(){return"Inf\xe9rieur \xe0"},
+gaFN(){return"Inf\xe9rieur ou \xe9gal \xe0"},
+gaEJ(){return"Dans la liste"},
+gaHf(){return"Pas dans"},
+gaFl(){return"Est nul"},
+gaFk(){return"N'est pas nul"}}
+A.dUw.prototype={
+ghi(){var w=this.b
+return w===$?this.b=new A.dUv(this.a):w}}
+A.dUU.prototype={
+ghi(){var w=this.b
+return w===$?this.b=new A.dUT(this.a):w}}
+A.dUY.prototype={
+gjE(){return"Aujourd'hui"},
+goU(){return"Cette semaine"},
+goJ(){return"Ce mois"},
+gx7(){return"Tout le temps"}}
+A.dV_.prototype={
+ghJ(){return"R\xe9ussi"},
+guX(){return"\xc9chou\xe9"},
+gaEL(){return"En r\xe9vision"},
+gaEI(){return"En livraison"}}
+A.dVx.prototype={
+gaJv(){return"Veuillez remplir les champs requis"}}
+A.dVv.prototype={
+gaIK(){return"Produit cr\xe9\xe9"},
+gaIN(){return"Produit mis \xe0 jour"}}
+A.dV8.prototype={
+gU(d){return"\xcates-vous s\xfbr ?"},
+gqh(d){return"Les modifications seront annul\xe9es."},
+gcB(d){return"Annuler"},
+gr_(d){return"Confirmer"}}
+A.dVa.prototype={
+gd_(){var w=this.b
+return w===$?this.b=new A.dVe():w},
+gc4(){var w=this.c
+return w===$?this.c=new A.dVg():w},
+ghV(){var w=this.d
+return w===$?this.d=new A.dVc():w}}
+A.dV5.prototype={
+gU(d){return"Assistant IA"},
+gcj(){return y.kB},
+gaLy(){return"Veuillez d'abord \xe9crire les instructions"},
+gaDs(){return y.da},
+gaym(){return y.lA},
+gam0(){return"G\xe9n\xe9rer"},
+gaES(){return y.c6},
+gaKH(){return y.Y},
+gam4(){return"G\xe9n\xe9ration \xe9chou\xe9e"},
+gaFw(){return y.v}}
+A.dVj.prototype={
+gajp(){return"Aucun pixel activ\xe9"},
+gd_(){var w=this.b
+return w===$?this.b=new A.dVn():w},
+gc4(){var w=this.c
+return w===$?this.c=new A.dVp():w},
+ghV(){var w=this.d
+return w===$?this.d=new A.dVl():w}}
+A.dVt.prototype={
+gaCa(){return"Informations d\xe9taill\xe9es"},
+gagO(){return"Modifier le contenu"},
+gaBm(){return"Cr\xe9er avec l'IA"},
+gaGY(){return y.w},
+gakx(){return"Contenu du produit"},
+gaCT(){return"Modifier le contenu d\xe9taill\xe9"},
+gaBe(){return"Cr\xe9er du contenu avec l'IA"}}
+A.dV3.prototype={
+gU(d){return"Compl\xe9ments"},
+gcj(){return y.l},
+gag5(){var w=this.b
+return w===$?this.b=new A.dV2():w},
+gadL(){return"Ajouter un nouveau"},
+gnc(){return"Modifier le compl\xe9ment"},
+gfb(d){return"Image du compl\xe9ment"},
+gFU(){return"Titre du compl\xe9ment"},
+gI1(){return"Description du compl\xe9ment"},
+gakr(){return"Prix du compl\xe9ment"},
+ga6q(){return"Stock"},
+gaj7(){return"Minimum"},
+gaj_(){return"Maximum"}}
+A.dVr.prototype={
+gON(){return"YouTube"},
+gaFv(){return"Modifier JSON"},
+gaBC(){return"Donn\xe9es copi\xe9es dans le presse-papiers"},
+gaCX(){return"Modifier les donn\xe9es du produit (JSON)"},
+ghE(d){return"Enregistrer"},
+gHF(){return"Copier"}}
+A.dVA.prototype={
+aFZ(d){return"\xc9chec du chargement des donn\xe9es : "+d}}
+A.dVD.prototype={
+gayT(d){return"Aucune donn\xe9e"}}
+A.dVK.prototype={
+gjE(){return"Aujourd'hui"},
+gnX(){return"Hier"},
+gAW(){return"Cette semaine"},
+gNm(){return"Semaine derni\xe8re"},
+gAV(){return"Ce mois"},
+gNk(){return"Mois dernier"},
+gaGD(){return"Il y a {months} mois"},
+gaLC(){return"Il y a 1 an"},
+gaLD(){return"Il y a {years} ans"}}
+A.dVG.prototype={
+gagc(){return"Supprimer {count} commande(s)"},
+ga1_(){return y.hi},
+gagd(){return y.fH},
+gSa(){return"Assigner {count} commande(s) \xe0 un membre"},
+gayP(){return"Assigner la commande \xe0 un membre"},
+ga5p(){return y.ea},
+gan4(){return y.c2},
+ga5q(){return"S\xe9lectionner un membre"},
+gLJ(){return y.iX},
+gayQ(){return"Commande assign\xe9e avec succ\xe8s"},
+gae3(){return y.P},
+gayO(){return y.ox},
+ga2Z(){return"Aucun membre dans ce magasin"}}
+A.dW4.prototype={
+gP8(){return y.j4},
+gP9(){return y.i8},
+gPb(){return y.nW},
+gPg(){return"Envoi des \xe9v\xe9nements {eventName}..."},
+gPd(){return y.hu},
+gPc(){return y.oa},
+gPa(){return y.F},
+gps(){return"Envoyer les \xe9v\xe9nements"},
+gd_(){var w=this.b
+return w===$?this.b=new A.dW6():w},
+gc4(){var w=this.c
+return w===$?this.c=new A.dW8():w}}
+A.dVM.prototype={
+gPf(){return"Envoyer vers Zimou Express"},
+ga5R(){return"Envoi en cours..."},
+ga5M(){return"Commande envoy\xe9e avec succ\xe8s"},
+ga5E(){return"Erreur : {error}"},
+gWk(){return"Envoyer vers Ecomanager"},
+gajT(){return"Ouvrir Ecomanager"},
+gaep(){return"Annuler le lien Ecomanager"},
+gaeq(){return"Annuler le lien Ecomanager"},
+gaeo(){return y.bP},
+ga0d(){return"Lien Ecomanager annul\xe9 avec succ\xe8s"},
+gSk(){return y.gU},
+gSl(){return y.d1},
+gHu(){return"Lien annul\xe9 avec succ\xe8s"},
+gaeu(){return"Annuler le lien"},
+gHv(){return"Annuler l'envoi"},
+ga1h(){return"Le service Ecotrack n'est pas disponible"},
+gaer(){return y.E},
+gaev(){return y.O},
+gaey(){return"Lien Noest annul\xe9 avec succ\xe8s"}}
+A.dWa.prototype={
+gnt(){return"Risque retour"},
+gU(d){return"Risque de retour ({count} num\xe9ro(s))"},
+gajo(){return y.Z},
+geZ(d){return y.hw},
+gpQ(){return"Aucune donn\xe9e disponible"},
+gaH0(){return y.Q},
+gazC(){return y.iv},
+gaDX(){return"Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"},
+gaEv(d){return"Risque \xe9lev\xe9"},
+gaGv(){return"Risque moyen"},
+gaG6(d){return"Risque faible"},
+guS(){return"Livr\xe9"},
+guX(){return"\xc9chec de la livraison"},
+gaKa(){return"Total des commandes"},
+gaJF(){return"Pourcentage de risque"}}
+A.dW_.prototype={
+gHS(){return"Filtre de date"},
 ghR(){return"Filtre d'\xe9tiquettes"},
-gaiy(){return"Filtre confirm\xe9 par"},
-gFB(d){return"Filtre de produit"},
+gaj2(){return"Filtre confirm\xe9 par"},
+gFI(d){return"Filtre de produit"},
 gdl(d){return"Filtre d'\xe9tat"},
 ga5(d){return"Filtre de statut de commande"},
 gj3(){return"Filtre de statut personnalis\xe9"},
-gafM(){return"Filtre de service de livraison"},
+gagg(){return"Filtre de service de livraison"},
 giR(){return"Filtre de statut de livraison"},
 gj9(){return"Filtre de statut de paiement"},
-gako(){return"Supprimer le filtre"},
-gaAN(){return"Date personnalis\xe9e"},
-ganm(){return"Depuis aujourd'hui"},
-gann(){return"Depuis hier"},
-gaEV(){return"Derni\xe8res 2 heures"},
-gaEU(){return"Derni\xe8res 24 heures"},
-gNc(){return"Derni\xe8re semaine"},
-gaEW(){return"30 derniers jours"},
-ganl(){return"Depuis {date}"},
-gayq(){return"Avant {date}"}}
-A.dTF.prototype={
-gaxx(){return"Ajouter une commande"},
-gUE(){return"Imprimer les \xe9tiquettes"},
-ga5u(){return"Envoyer \xe0 la livraison"},
-ga5n(){return"Envoyer des \xe9v\xe9nements Meta Pixel"},
-ga5s(){return"Envoyer des \xe9v\xe9nements TikTok Pixel"},
-ga_U(){return"Changer le statut"},
-gafL(){return"Supprimer la s\xe9lection"},
-gae6(){return"Annuler la s\xe9lection"},
-gvq(d){return"{count} s\xe9lectionn\xe9(s)"},
-gaox(){return"Synchroniser les commandes"},
-gaoy(){return y.H},
-gaot(){return y.di},
-gajw(){return"Num\xe9ro de commande copi\xe9"},
-gafH(){return"Commande supprim\xe9e avec succ\xe8s"},
-gayY(){return y.jN},
-gWD(){var w=this.b
-return w===$?this.b=new A.dTH():w},
-ga5_(){return"Exemple : num\xe9ro de t\xe9l\xe9phone.."},
-gaiz(){return"Entrez le texte du message"},
-gcA(d){return"Annuler"},
-gIH(){return"Sans nom"}}
-A.dT8.prototype={
-gX(d){return"\xc9tiquettes personnalis\xe9es"},
-gaxA(){return"\xc9tiqueter"},
-gaxw(){return"Ajouter une nouvelle \xe9tiquette"},
-gaxn(){return"Date d'ajout"},
-gt0(){return"Note"},
-gaxC(){return"Ajout\xe9 par"},
-gaJz(){return"Inconnu"},
-gaJ_(){return"Commande \xe9tiquet\xe9e avec succ\xe8s"},
-gaBl(){return"\xc9tiquette supprim\xe9e avec succ\xe8s"}}
-A.dTt.prototype={
-gaHB(){return"Paiement re\xe7u"},
-gM5(){return"En cours de livraison"}}
-A.dTD.prototype={
-gaiT(){return y.M},
-gaAz(){return y.i6},
-gaIX(){return y.mY},
-gaCQ(){return y.nY},
-gaBh(){return y.eu},
-gaxc(){return y.dC},
-gazq(){return'Colonne "{columnName}" d\xe9s\xe9pingl\xe9e'},
-gazp(){return'Colonne "{columnName}" \xe9pingl\xe9e'},
-ganq(){return'Tri\xe9 par "{columnName}" ({direction})'},
-gadn(){return"[ADMIN]"},
-ganE(){return"Collant"},
-gami(){return"D\xe9filement offX m\xeame lorsqu'il est gel\xe9"}}
-A.dTi.prototype={
-gbv(){var w=this.b
-return w===$?this.b=new A.dTh():w},
-gGd(){var w=this.c
-return w===$?this.c=new A.dTo():w},
-gSU(){var w=this.d
-return w===$?this.d=new A.dTf():w},
-ga3c(){var w=this.e
-return w===$?this.e=new A.dTk():w},
-gGa(){var w=this.f
-return w===$?this.f=new A.dTm():w}}
-A.dTP.prototype={
-gqe(){var w=this.b
-return w===$?this.b=new A.dTO():w},
-gS2(){var w=this.c
-return w===$?this.c=new A.dTK():w},
-gzY(){var w=this.d
-return w===$?this.d=new A.dTM():w},
-gW1(){var w=this.e
-return w===$?this.e=new A.dTT():w},
-ga39(){var w=this.f
-return w===$?this.f=new A.dTR():w}}
-A.dU0.prototype={
-go3(d){return"Rechercher un magasin par nom ou slug"}}
-A.dTZ.prototype={
-ghj(d){return y.aL},
-gaKJ(){return"Contacter via WhatsApp"}}
-A.dTX.prototype={
-gX(d){return"Informations l\xe9gales"},
-gbh(d){return y.jW},
-gazK(){return"Contacter le support"}}
-A.dU8.prototype={
-gaIL(){return"Veuillez saisir le montant"},
-gaEl(){return"Veuillez entrer un nombre valide"}}
-A.dU3.prototype={
-ga0V(){return"DZD"},
-gaJZ(){return"USD"}}
-A.dU6.prototype={
-gcA(d){return"Annuler"}}
-A.dUw.prototype={
-gOq(){return"Mettre \xe0 jour les images"},
-gGe(){var w=this.b
-return w===$?this.b=new A.dUy():w},
-gGf(){var w=this.c
-return w===$?this.c=new A.dUA():w},
-gayV(){return"Changer les images"}}
-A.dUu.prototype={
-gX(d){return"Informations g\xe9n\xe9rales"},
-gN(d){return"Nom"},
-gaGd(){return"Nom"},
-gaGc(){return y.lb},
-gbh(d){return y.f},
-gHU(){return"Description"},
-gaJ0(){return y.bM},
-gFM(){return"Titre"},
-gaJY(){return"URL"},
-gaxd(){return"Activer"},
-gaxe(){return"Afficher ou masquer le slogan"},
-gIH(){return"Nom non ajout\xe9"},
-gaiX(){return"Sans titre"},
-gaGp(){return"Sans description"},
-gaFn(){return"Emplacement et adresse"},
-gand(){return"Afficher le code QR"}}
-A.dUr.prototype={
-gX(d){return"Domaine de votre site"},
-gaiO(){return"Nom de domaine"},
-gOw(){return"V\xe9rifi\xe9"},
-gafE(){return"Supprimer le domaine"},
-gaey(){return y.kG},
-gaFc(){return"Erreur lors de l'ouverture du lien"}}
-A.dUQ.prototype={
-gX(d){return"Nom du sous-domaine"},
-ga6(d){return"Sous-domaine"},
-gv8(d){return"Nom du sous-domaine"}}
-A.dUG.prototype={
-ga0N(){return"D\xe9sactiver les paniers abandonn\xe9s"},
-gag_(){return y.iR}}
-A.dUf.prototype={
-gAM(){return"Couleur principale"},
-gaHX(){return y.pm},
-gG4(){return"Couleur secondaire"},
-gamm(){return y.iK},
-gaAW(){return"Couleurs du mode sombre"},
-gaAX(){return y.fC},
-gIZ(){return"Couleur principale du mode sombre"},
-gaHW(){return y.i5},
-gG5(){return"Couleur secondaire du mode sombre"},
-gaml(){return y.b2}}
-A.dUb.prototype={
-gX(d){return"Adresses et succursales"},
-gaxj(){return"Ajouter une succursale"},
-gaz8(){return"Ville et r\xe9gion non sp\xe9cifi\xe9es"},
-gaBb(){return"Supprimer la succursale"},
-gazw(){return"Voulez-vous supprimer cette succursale ?"},
-gaCa(){return"Modifier la succursale"}}
-A.dUh.prototype={
-gX(d){return"Moyens de contact"},
-gaxl(){return"Ajouter un contact"},
-gaCc(){return"Modifier le contact"},
-gaBd(){return"Supprimer le contact"},
-gazy(){return"Voulez-vous supprimer ce contact ?"}}
-A.dUl.prototype={
-gX(d){return y.fK}}
-A.dUn.prototype={
-gX(d){return"Statuts de commande personnalis\xe9s"},
-gaGk(){return y.N},
-gaE1(){return"Importer un mod\xe8le"}}
-A.dUd.prototype={
-gX(d){return"Cat\xe9gories"},
-gad5(){return"Ajouter une cat\xe9gorie"},
-ganJ(){return"Cat\xe9gorie de la boutique"},
-gaCb(){return"Modifier la cat\xe9gorie"},
-gaBc(){return"Supprimer la cat\xe9gorie"},
-gazx(){return"Voulez-vous supprimer cette cat\xe9gorie ?"}}
-A.dUO.prototype={
-gX(d){return"Exp\xe9dition et livraison"}}
-A.dUj.prototype={
-gX(d){return"Devises"},
-gamw(){return"S\xe9lectionnez les devises"},
-gamx(){return y.J},
-gamv(){return y.ld},
-gamy(){return y.k0},
-gaB7(){return"Par d\xe9faut"}}
-A.dUC.prototype={
-gX(d){return"Membres et r\xf4les"}}
-A.dUE.prototype={
-gaer(){return"Code copi\xe9 avec succ\xe8s"},
-gvk(){return"Mise \xe0 jour r\xe9ussie"}}
-A.dUp.prototype={
-gaxm(){return"Ajouter un statut personnalis\xe9"},
-ga6_(){return"Couleur du statut (optionnel)"},
-gaej(){return"Choisir"},
-gaCd(){return"Modifier le statut personnalis\xe9"},
-gaBe(){return"Supprimer le statut personnalis\xe9"},
-gcA(d){return"Annuler"},
-geB(d){return"Supprimer"}}
-A.dUM.prototype={
-gamn(){return"S\xe9curit\xe9 et donn\xe9es"},
-gamp(){return y.jG},
-gaK8(){return"Compte v\xe9rifi\xe9"}}
-A.dUK.prototype={
-gaxE(){return"Param\xe8tres suppl\xe9mentaires"},
-gaBv(){return"Design et couleurs"},
-gayF(){return"Entreprise"},
-gaHg(){return"Commandes"},
-gc9(){return"Produits"},
-gakA(){return"\xc9quipe"},
-gaBx(){return"D\xe9veloppement"},
-gaAV(){return"Zone dangereuse"}}
-A.dUI.prototype={
-gaFB(){return y.K},
-gaFC(){return"G\xe9rer le sous-domaine de la boutique"},
-gaAT(){return y.l5},
-gaFu(){return"G\xe9rer les succursales et adresses"},
-gaFw(){return"G\xe9rer les moyens de contact"},
-gaFA(){return"G\xe9rer les m\xe9thodes d'exp\xe9dition"},
-gaFx(){return"G\xe9rer les pays o\xf9 la boutique op\xe8re"},
-gaFy(){return y.fS},
-gaFz(){return y.hM},
-gaFv(){return"G\xe9rer les cat\xe9gories de la boutique"},
-gaFD(){return"G\xe9rer les membres de l'\xe9quipe"},
-gaxX(){return y.je},
-gaBk(){return"Supprimer d\xe9finitivement la boutique"}}
-A.dUS.prototype={
-gtQ(){return"Pays"},
-gaxW(){return"Cl\xe9s API"},
-gaBj(){return"Supprimer la boutique"}}
-A.dUW.prototype={
-gle(){return"Brouillon"},
-gaI7(){return"Publi\xe9"}}
-A.dV_.prototype={
-gaAS(){return"Personnaliser"}}
-A.dV2.prototype={
-gaIQ(){return"Responsive"},
-gamL(){return"SEO optimis\xe9"}}
-A.dV5.prototype={
-gbD(d){return"Actif"}}
-A.dOp.prototype={
-aFO(d){return"Maximum "+d+" fichiers"},
-gaig(){return"Passer en mode Liste"},
-ga4R(){return"Passer en mode Grille"},
-gJn(d){var w=this.b
-return w===$?this.b=new A.dOr():w},
-gaGq(){return"Aucun fichier trouv\xe9"},
-gag8(){return"Glissez-d\xe9posez les fichiers ici"},
-gayA(){return"Parcourir"},
-a5b(d,e){return""+e+" fichier s\xe9lectionn\xe9"},
-amH(d){return""+d+" fichiers s\xe9lectionn\xe9s"},
-gafD(){return y.kN},
-gaD4(){var w=this.c
-return w===$?this.c=new A.dOo():w}}
-A.dNe.prototype={
-ga2E(){return"NOUVEAU"}}
-A.dNh.prototype={
-gX(d){return"Importer des produits"},
-gamD(){return y.s},
-ganx(){return"D\xe9marrer l'importation"},
-gahk(){return"Importer depuis WooCommerce"},
-gahh(){return"Importer depuis Foorweb"},
-gahj(){return"Importer depuis Storeino"},
-gahl(){return"Importer depuis YouCan"},
-gahi(){return"Importer depuis Lightfunnels"},
-gaKL(){return y.q},
-gaDa(){return y.lH},
-ganN(){return y.jP},
-gaKU(){return y.a1},
-gaFa(){return y.o},
-gmG(){var w=this.b
-return w===$?this.b=new A.dNl():w},
-gUa(d){var w=this.c
-return w===$?this.c=new A.dNj():w},
-gG6(){return"Tout s\xe9lectionner"},
-gHV(d){return"Tout d\xe9s\xe9lectionner"},
-gahK(){return y.lo},
-ga_Y(){return"V\xe9rification..."},
-gaee(){return"V\xe9rifier la boutique"},
-gazA(){return"\xcates-vous s\xfbr de vouloir importer"},
-gak3(){return"produit"},
-gak5(){return y.cV},
-gMW(){return"Importation r\xe9ussie"},
-gazC(){return"Confirmer la s\xe9lection"},
-galn(){return"Voir les produits"},
-gaz1(){return"V\xe9rifier le produit"},
-gazB(){return y.b3},
-gaI5(){return"Le produit sera ajout\xe9 \xe0 votre boutique"},
-gaE_(){return"Produit import\xe9 avec succ\xe8s"},
-ahM(d){return y.pb+d},
-azz(d){return"\xcates-vous s\xfbr de vouloir importer "+d+" produits ?"},
-aE0(d){return""+d+" produits import\xe9s avec succ\xe8s"},
-azD(d){return"Confirmer la s\xe9lection ("+d+")"},
-gaK_(){return"Utiliser le chemin exact"},
-gaK0(){return y.fq},
-ak4(d){return""+d+" produits trouv\xe9s"},
-gahR(){return"Importation des produits..."},
-ahO(d,e){return""+d+" sur "+e+" produits import\xe9s"},
-gahL(){return"Erreur d'importation"},
-gahP(){return"Produits import\xe9s avec succ\xe8s"},
-ahQ(d){return""+d+" produits import\xe9s"},
-a5c(d){return""+d+" produits s\xe9lectionn\xe9s"},
-gaez(){return y.fN},
-gTO(){return"Importer des produits"},
-guD(d){return"Retour"}}
-A.dNn.prototype={
-gc5(d){return"DZD"},
-gq1(){return"\u062f\u062c"},
-gN(d){return"Dinar alg\xe9rien"}}
-A.dMp.prototype={
+gakT(){return"Supprimer le filtre"},
+gaBr(){return"Date personnalis\xe9e"},
+ganQ(){return"Depuis aujourd'hui"},
+ganR(){return"Depuis hier"},
+gaFz(){return"Derni\xe8res 2 heures"},
+gaFy(){return"Derni\xe8res 24 heures"},
+gNm(){return"Derni\xe8re semaine"},
+gaFA(){return"30 derniers jours"},
+ganP(){return"Depuis {date}"},
+gaz_(){return"Avant {date}"}}
+A.dWe.prototype={
+gay4(){return"Ajouter une commande"},
+gUU(){return"Imprimer les \xe9tiquettes"},
+ga5Q(){return"Envoyer \xe0 la livraison"},
+ga5J(){return"Envoyer des \xe9v\xe9nements Meta Pixel"},
+ga5O(){return"Envoyer des \xe9v\xe9nements TikTok Pixel"},
+ga0f(){return"Changer le statut"},
+gagf(){return"Supprimer la s\xe9lection"},
+gaeB(){return"Annuler la s\xe9lection"},
+gvt(d){return"{count} s\xe9lectionn\xe9(s)"},
+gap1(){return"Synchroniser les commandes"},
+gap2(){return y.H},
+gaoY(){return y.di},
+gak0(){return"Num\xe9ro de commande copi\xe9"},
+gagb(){return"Commande supprim\xe9e avec succ\xe8s"},
+gazx(){return y.jN},
+gWT(){var w=this.b
+return w===$?this.b=new A.dWg():w},
+ga5i(){return"Exemple : num\xe9ro de t\xe9l\xe9phone.."},
+gaj3(){return"Entrez le texte du message"},
+gcB(d){return"Annuler"},
+gIP(){return"Sans nom"}}
+A.dVI.prototype={
+gU(d){return"\xc9tiquettes personnalis\xe9es"},
+gay9(){return"\xc9tiqueter"},
+gay3(){return"Ajouter une nouvelle \xe9tiquette"},
+gaxV(){return"Date d'ajout"},
+gt6(){return"Note"},
+gayb(){return"Ajout\xe9 par"},
+gaKj(){return"Inconnu"},
+gaJK(){return"Commande \xe9tiquet\xe9e avec succ\xe8s"},
+gaC_(){return"\xc9tiquette supprim\xe9e avec succ\xe8s"}}
+A.dW2.prototype={
+gaIh(){return"Paiement re\xe7u"},
+gMf(){return"En cours de livraison"}}
+A.dWc.prototype={
+gajn(){return y.M},
+gaBb(){return y.i7},
+gaJI(){return y.mY},
+gaDu(){return y.nY},
+gaBW(){return y.eu},
+gaxK(){return y.dC},
+gaA_(){return'Colonne "{columnName}" d\xe9s\xe9pingl\xe9e'},
+gazZ(){return'Colonne "{columnName}" \xe9pingl\xe9e'},
+ganV(){return'Tri\xe9 par "{columnName}" ({direction})'},
+gadS(){return"[ADMIN]"},
+gao8(){return"Collant"},
+gamP(){return"D\xe9filement offX m\xeame lorsqu'il est gel\xe9"}}
+A.dVS.prototype={
+gbw(){var w=this.b
+return w===$?this.b=new A.dVR():w},
+gGl(){var w=this.c
+return w===$?this.c=new A.dVY():w},
+gT9(){var w=this.d
+return w===$?this.d=new A.dVP():w},
+ga3w(){var w=this.e
+return w===$?this.e=new A.dVU():w},
+gGi(){var w=this.f
+return w===$?this.f=new A.dVW():w}}
+A.dWo.prototype={
+gqk(){var w=this.b
+return w===$?this.b=new A.dWn():w},
+gSh(){var w=this.c
+return w===$?this.c=new A.dWj():w},
+gA2(){var w=this.d
+return w===$?this.d=new A.dWl():w},
+gWh(){var w=this.e
+return w===$?this.e=new A.dWs():w},
+ga3t(){var w=this.f
+return w===$?this.f=new A.dWq():w}}
+A.dWA.prototype={
+go8(d){return"Rechercher un magasin par nom ou slug"}}
+A.dWy.prototype={
+ghk(d){return y.aL},
+gaLt(){return"Contacter via WhatsApp"}}
+A.dWw.prototype={
+gU(d){return"Informations l\xe9gales"},
+gb8(d){return y.jW},
+gaAj(){return"Contacter le support"}}
+A.dWI.prototype={
+gaJu(){return"Veuillez saisir le montant"},
+gaF_(){return"Veuillez entrer un nombre valide"}}
+A.dWD.prototype={
+ga1g(){return"DZD"},
+gaKJ(){return"USD"}}
+A.dWG.prototype={
+gcB(d){return"Annuler"}}
+A.dX7.prototype={
+gOC(){return"Mettre \xe0 jour les images"},
+gGm(){var w=this.b
+return w===$?this.b=new A.dX9():w},
+gBh(){var w=this.c
+return w===$?this.c=new A.dXb():w},
+gazu(){return"Changer les images"}}
+A.dX5.prototype={
+gU(d){return"Informations g\xe9n\xe9rales"},
+gM(d){return"Nom"},
+gaGS(){return"Nom"},
+gaGR(){return y.lb},
+gb8(d){return y.f},
+gI1(){return"Description"},
+gaJL(){return y.bM},
+gFU(){return"Titre"},
+gaKI(){return"URL"},
+gaxL(){return"Activer"},
+gaxM(){return"Afficher ou masquer le slogan"},
+gIP(){return"Nom non ajout\xe9"},
+gajr(){return"Sans titre"},
+gaH4(){return"Sans description"},
+gaG1(){return"Emplacement et adresse"},
+ganH(){return"Afficher le code QR"},
+gaBK(){return"Alg\xe9rie"}}
+A.dX2.prototype={
+gU(d){return"Domaine de votre site"},
+gaji(){return"Nom de domaine"},
+gOI(){return"V\xe9rifi\xe9"},
+gag8(){return"Supprimer le domaine"},
+gaf2(){return y.kG},
+gaFR(){return"Erreur lors de l'ouverture du lien"}}
+A.dXF.prototype={
+gU(d){return"Nom du sous-domaine"},
+ga8(d){return"Sous-domaine"},
+gvc(d){return"Nom du sous-domaine"}}
+A.dXv.prototype={
+ga18(){return"D\xe9sactiver les paniers abandonn\xe9s"},
+gagu(){return y.iR}}
+A.dWP.prototype={
+gAQ(){return"Couleur principale"},
+gaIF(){return y.pm},
+gGc(){return"Couleur secondaire"},
+gamT(){return y.iK},
+gaBA(){return"Couleurs du mode sombre"},
+gaBB(){return y.fC},
+gJ6(){return"Couleur principale du mode sombre"},
+gaIE(){return y.i5},
+gGd(){return"Couleur secondaire du mode sombre"},
+gamS(){return y.b2}}
+A.dWL.prototype={
+gU(d){return"Adresses et succursales"},
+gaxR(){return"Ajouter une succursale"},
+gazI(){return"Ville et r\xe9gion non sp\xe9cifi\xe9es"},
+gaBQ(){return"Supprimer la succursale"},
+gaA5(){return"Voulez-vous supprimer cette succursale ?"},
+gaCP(){return"Modifier la succursale"}}
+A.dWR.prototype={
+gU(d){return"Moyens de contact"},
+gaxT(){return"Ajouter un contact"},
+gaCR(){return"Modifier le contact"},
+gaBS(){return"Supprimer le contact"},
+gaA7(){return"Voulez-vous supprimer ce contact ?"}}
+A.dWX.prototype={
+gU(d){return y.fK}}
+A.dWZ.prototype={
+gU(d){return"Statuts de commande personnalis\xe9s"},
+gaH_(){return y.ho},
+gaEG(){return"Importer un mod\xe8le"}}
+A.dWN.prototype={
+gU(d){return"Cat\xe9gories"},
+gady(){return"Ajouter une cat\xe9gorie"},
+gaod(){return"Cat\xe9gorie de la boutique"},
+gaCQ(){return"Modifier la cat\xe9gorie"},
+gaBR(){return"Supprimer la cat\xe9gorie"},
+gaA6(){return"Voulez-vous supprimer cette cat\xe9gorie ?"}}
+A.dXD.prototype={
+gU(d){return"Exp\xe9dition et livraison"}}
+A.dWV.prototype={
+gU(d){return"Devises"},
+ga5n(){return"S\xe9lectionnez les devises"},
+gan1(){return y.J},
+ga5m(){return y.ld},
+ga5o(){return y.k0},
+gT5(){return"Par d\xe9faut"},
+gzC(){return"D\xe9finir par d\xe9faut"},
+gadC(){return"Ajouter une devise"},
+gLE(){return"Toutes les devises ont \xe9t\xe9 ajout\xe9es"}}
+A.dWT.prototype={
+gJW(){return"Veuillez s\xe9lectionner un pays par d\xe9faut"},
+gaGZ(){return"Aucun pays ajout\xe9"},
+gadB(){return"Ajouter un pays"},
+gzC(){return"D\xe9finir par d\xe9faut"},
+gLE(){return"Tous les pays ont \xe9t\xe9 ajout\xe9s"}}
+A.dXf.prototype={
+gU(d){return"Membres et r\xf4les"}}
+A.dXh.prototype={
+gaeW(){return"Code copi\xe9 avec succ\xe8s"},
+gvn(){return"Mise \xe0 jour r\xe9ussie"}}
+A.dX0.prototype={
+gaxU(){return"Ajouter un statut personnalis\xe9"},
+ga6l(){return"Couleur du statut (optionnel)"},
+gaeO(){return"Choisir"},
+gaCS(){return"Modifier le statut personnalis\xe9"},
+gaBT(){return"Supprimer le statut personnalis\xe9"},
+gcB(d){return"Annuler"},
+gei(d){return"Supprimer"}}
+A.dXB.prototype={
+gamU(){return"S\xe9curit\xe9 et donn\xe9es"},
+gamW(){return y.jG},
+gaKT(){return"Compte v\xe9rifi\xe9"}}
+A.dXz.prototype={
+gayd(){return"Param\xe8tres suppl\xe9mentaires"},
+gaC9(){return"Design et couleurs"},
+gaze(){return"Entreprise"},
+gaHX(){return"Commandes"},
+gca(){return"Produits"},
+gal5(){return"\xc9quipe"},
+gaCb(){return"D\xe9veloppement"},
+gaBz(){return"Zone dangereuse"}}
+A.dXx.prototype={
+gaGf(){return y.mh},
+gaGg(){return"G\xe9rer le sous-domaine de la boutique"},
+gaBx(){return y.l5},
+gaG8(){return"G\xe9rer les succursales et adresses"},
+gaGa(){return"G\xe9rer les moyens de contact"},
+gaGe(){return"G\xe9rer les m\xe9thodes d'exp\xe9dition"},
+gaGb(){return"G\xe9rer les pays o\xf9 la boutique op\xe8re"},
+gaGc(){return y.fS},
+gaGd(){return y.i6},
+gaG9(){return"G\xe9rer les cat\xe9gories de la boutique"},
+gaGh(){return"G\xe9rer les membres de l'\xe9quipe"},
+gayw(){return y.je},
+gaBZ(){return"Supprimer d\xe9finitivement la boutique"}}
+A.dXH.prototype={
+gmS(){return"Pays"},
+gayv(){return"Cl\xe9s API"},
+gaBY(){return"Supprimer la boutique"}}
+A.dXd.prototype={
+gU(d){return"Langues"},
+gcj(){return y.N},
+gJW(){return y.fN},
+gaH7(){return"Aucune langue ajout\xe9e"},
+gadH(){return"Ajouter une langue"},
+gzC(){return"D\xe9finir par d\xe9faut"}}
+A.dXl.prototype={
+gU(d){return"Terminer la configuration de la boutique"},
+gcj(){return"Configurons votre boutique correctement"},
+ga6m(){var w=this.b
+return w===$?this.b=new A.dXn():w},
+ga6p(){var w=this.c
+return w===$?this.c=new A.dXt():w},
+ga6n(){var w=this.d
+return w===$?this.d=new A.dXp():w},
+ga6o(){var w=this.e
+return w===$?this.e=new A.dXr():w},
+gpP(d){return"Suivant"},
+ganS(d){return"Passer"},
+gjI(){return"Termin\xe9"},
+gxf(){var w=this.f
+return w===$?this.f=new A.dXk():w},
+gaJA(){return y.p},
+gaJB(){return y.db}}
+A.dXL.prototype={
+glg(){return"Brouillon"},
+gaIQ(){return"Publi\xe9"}}
+A.dXP.prototype={
+gaBw(){return"Personnaliser"}}
+A.dXS.prototype={
+gaJz(){return"Responsive"},
+gane(){return"SEO optimis\xe9"}}
+A.dXV.prototype={
+gbE(d){return"Actif"}}
+A.dQZ.prototype={
+aGs(d){return"Maximum "+d+" fichiers"},
+gaiM(){return"Passer en mode Liste"},
+ga59(){return"Passer en mode Grille"},
+gJv(d){var w=this.b
+return w===$?this.b=new A.dR0():w},
+gaH5(){return"Aucun fichier trouv\xe9"},
+gagD(){return"Glissez-d\xe9posez les fichiers ici"},
+gaz9(){return"Parcourir"},
+a5x(d,e){return""+e+" fichier s\xe9lectionn\xe9"},
+ana(d){return""+d+" fichiers s\xe9lectionn\xe9s"},
+gag7(){return y.kN},
+gaDJ(){var w=this.c
+return w===$?this.c=new A.dQY():w}}
+A.dPO.prototype={
+ga2Y(){return"NOUVEAU"}}
+A.dPR.prototype={
+gU(d){return"Importer des produits"},
+gan6(){return y.s},
+gao1(){return"D\xe9marrer l'importation"},
+gahP(){return"Importer depuis WooCommerce"},
+gahM(){return"Importer depuis Foorweb"},
+gahO(){return"Importer depuis Storeino"},
+gahQ(){return"Importer depuis YouCan"},
+gahN(){return"Importer depuis Lightfunnels"},
+gaLv(){return y.q},
+gaDP(){return y.lH},
+gaoh(){return y.jP},
+gaLE(){return y.a1},
+gaFP(){return y.iQ},
+gmJ(){var w=this.b
+return w===$?this.b=new A.dPV():w},
+gUq(d){var w=this.c
+return w===$?this.c=new A.dPT():w},
+gGe(){return"Tout s\xe9lectionner"},
+gI2(d){return"Tout d\xe9s\xe9lectionner"},
+gaie(){return y.lo},
+ga0j(){return"V\xe9rification..."},
+gaeJ(){return"V\xe9rifier la boutique"},
+gaA9(){return"\xcates-vous s\xfbr de vouloir importer"},
+gaky(){return"produit"},
+gakA(){return y.cV},
+gN5(){return"Importation r\xe9ussie"},
+gaAb(){return"Confirmer la s\xe9lection"},
+galU(){return"Voir les produits"},
+gazB(){return"V\xe9rifier le produit"},
+gaAa(){return y.b3},
+gaIO(){return"Le produit sera ajout\xe9 \xe0 votre boutique"},
+gaEE(){return"Produit import\xe9 avec succ\xe8s"},
+aig(d){return y.pb+d},
+aA8(d){return"\xcates-vous s\xfbr de vouloir importer "+d+" produits ?"},
+aEF(d){return""+d+" produits import\xe9s avec succ\xe8s"},
+aAc(d){return"Confirmer la s\xe9lection ("+d+")"},
+gaKK(){return"Utiliser le chemin exact"},
+gaKL(){return y.fq},
+akz(d){return""+d+" produits trouv\xe9s"},
+gail(){return"Importation des produits..."},
+aii(d,e){return""+d+" sur "+e+" produits import\xe9s"},
+gaif(){return"Erreur d'importation"},
+gaij(){return"Produits import\xe9s avec succ\xe8s"},
+aik(d){return""+d+" produits import\xe9s"},
+a5y(d){return""+d+" produits s\xe9lectionn\xe9s"},
+gaf3(){return y.nB},
+gU3(){return"Importer des produits"},
+gtL(d){return"Retour"}}
+A.dPX.prototype={
+gbC(d){return"DZD"},
+gnz(){return"\u062f\u062c"},
+gM(d){return"Dinar alg\xe9rien"}}
+A.dOZ.prototype={
 gjv(){var w=this.b
-return w===$?this.b=new A.dMv():w},
-gank(){return y.k3},
-gFC(){var w=this.c
-return w===$?this.c=new A.dMr(this.a):w},
-gadp(d){var w=this.d
-return w===$?this.d=new A.dMn():w},
-gaHF(){return"Informations personnelles"},
-gamo(){return"S\xe9curit\xe9 et connexion"},
-gK3(){return"Se d\xe9connecter"},
-gaBg(){return"Supprimer mon compte"},
-gaIs(){return"Mon code de parrainage"},
-gayW(){return"Changer le mot de passe"},
-gayX(){return y.G},
-gazL(){return y.fY}}
-A.dMl.prototype={
-gaIT(){return"R\xe9vocation des jetons d\u2019acc\xe8s"},
-gazg(){return"Nettoyage du cache de l\u2019application"},
-ganj(){return"D\xe9connexion de votre compte"},
-gaFr(){return"D\xe9connexion termin\xe9e"},
-gaFp(){return"D\xe9connexion en cours"},
-gaIr(){return"Redirection vers la page d\u2019accueil..."},
-gaHK(){return y.hC}}
-A.dPY.prototype={
+return w===$?this.b=new A.dP4():w},
+ganO(){return y.k3},
+gFJ(){var w=this.c
+return w===$?this.c=new A.dP0(this.a):w},
+gadU(d){var w=this.d
+return w===$?this.d=new A.dOX():w},
+gaIl(){return"Informations personnelles"},
+gamV(){return"S\xe9curit\xe9 et connexion"},
+gKc(){return"Se d\xe9connecter"},
+gaBV(){return"Supprimer mon compte"},
+gaJb(){return"Mon code de parrainage"},
+gazv(){return"Changer le mot de passe"},
+gazw(){return y.G},
+gaAk(){return y.fY}}
+A.dOV.prototype={
+gaJE(){return"R\xe9vocation des jetons d\u2019acc\xe8s"},
+gazQ(){return"Nettoyage du cache de l\u2019application"},
+ganN(){return"D\xe9connexion de votre compte"},
+gaG5(){return"D\xe9connexion termin\xe9e"},
+gaG3(){return"D\xe9connexion en cours"},
+gaJa(){return"Redirection vers la page d\u2019accueil..."},
+gaIq(){return y.hC}}
+A.dSx.prototype={
 ga5(d){var w=this.b
-return w===$?this.b=new A.dQf():w},
-gbN(d){var w=this.c
-return w===$?this.c=new A.dQl():w},
+return w===$?this.b=new A.dSP():w},
+gbO(d){var w=this.c
+return w===$?this.c=new A.dSV():w},
 ghf(d){var w=this.d
-return w===$?this.d=new A.dQ_():w},
+return w===$?this.d=new A.dSz():w},
 giS(){var w=this.e
-return w===$?this.e=new A.dPX():w},
-gkF(){var w=this.f
-return w===$?this.f=new A.dQ5(this.a):w},
-gbh(d){var w=this.r
-return w===$?this.r=new A.dPV():w},
-goM(){var w=this.w
-return w===$?this.w=new A.dQn(this.a):w},
-gN(d){var w=this.x
-return w===$?this.x=new A.dQ1():w},
-gX(d){var w=this.y
-return w===$?this.y=new A.dQj():w},
+return w===$?this.e=new A.dSw():w},
+gkH(){var w=this.f
+return w===$?this.f=new A.dSF(this.a):w},
+gb8(d){var w=this.r
+return w===$?this.r=new A.dSu():w},
+goS(){var w=this.w
+return w===$?this.w=new A.dSX(this.a):w},
+gM(d){var w=this.x
+return w===$?this.x=new A.dSB():w},
+gU(d){var w=this.y
+return w===$?this.y=new A.dST():w},
 gdi(){var w=this.z
-return w===$?this.z=new A.dQ7():w},
+return w===$?this.z=new A.dSH():w},
 ghQ(){var w=this.Q
-return w===$?this.Q=new A.dQ9():w},
-ghg(){var w=this.ay
-return w===$?this.ay=new A.dQd():w},
-gvN(){var w=this.ch
-return w===$?this.ch=new A.dPR():w},
-gnu(){var w=this.CW
-return w===$?this.CW=new A.dQh():w},
-gxb(){var w=this.cx
-return w===$?this.cx=new A.dPT():w},
+return w===$?this.Q=new A.dSJ():w},
+ghh(){var w=this.ay
+return w===$?this.ay=new A.dSN():w},
+gvQ(){var w=this.ch
+return w===$?this.ch=new A.dSq():w},
+gny(){var w=this.CW
+return w===$?this.CW=new A.dSR():w},
+gxg(){var w=this.cx
+return w===$?this.cx=new A.dSs():w},
 gj_(){var w=this.cy
-return w===$?this.cy=new A.dQb():w}}
-A.dQA.prototype={
-gayp(){var w=this.b
-return w===$?this.b=new A.dQx():w},
-gNP(){var w=this.c
-return w===$?this.c=new A.dQE():w},
-ga0H(){var w=this.d
-return w===$?this.d=new A.dQz():w},
-gaxJ(){var w=this.e
-return w===$?this.e=new A.dQu():w},
-gaEp(){var w=this.f
-return w===$?this.f=new A.dQC():w},
-gDw(){var w=this.r
-return w===$?this.r=new A.dQG():w}}
-A.dRk.prototype={
-gN(d){var w=this.b
-return w===$?this.b=new A.dRm():w},
-gC8(){var w=this.c
-return w===$?this.c=new A.dRj():w},
-grb(d){var w=this.d
-return w===$?this.d=new A.dRq():w},
-gajD(d){var w=this.e
-return w===$?this.e=new A.dRo():w}}
-A.dOv.prototype={
-gCC(d){return"Commande"},
-gHK(){return"Date"},
-gqQ(){return"Panier"},
-geu(d){return"Total"},
-gfZ(){return"Livraison"}}
-A.dOJ.prototype={
-ga6(d){return"Aucune commande"},
-gbh(d){return y.nV}}
-A.dOB.prototype={
+return w===$?this.cy=new A.dSL():w}}
+A.dT9.prototype={
+gayZ(){var w=this.b
+return w===$?this.b=new A.dT6():w},
+gO0(){var w=this.c
+return w===$?this.c=new A.dTd():w},
+ga12(){var w=this.d
+return w===$?this.d=new A.dT8():w},
+gayi(){var w=this.e
+return w===$?this.e=new A.dT3():w},
+gaF3(){var w=this.f
+return w===$?this.f=new A.dTb():w},
+gDB(){var w=this.r
+return w===$?this.r=new A.dTf():w}}
+A.dTU.prototype={
+gM(d){var w=this.b
+return w===$?this.b=new A.dTW():w},
+gCd(){var w=this.c
+return w===$?this.c=new A.dTT():w},
+grj(d){var w=this.d
+return w===$?this.d=new A.dU_():w},
+gak7(d){var w=this.e
+return w===$?this.e=new A.dTY():w}}
+A.dR4.prototype={
+gCH(d){return"Commande"},
+gHS(){return"Date"},
+gqX(){return"Panier"},
+gew(d){return"Total"},
+gh_(){return"Livraison"}}
+A.dRi.prototype={
+ga8(d){return"Aucune commande"},
+gb8(d){return y.nV}}
+A.dRa.prototype={
 gbB(){var w=this.b
-return w===$?this.b=new A.dOA():w},
+return w===$?this.b=new A.dR9():w},
 gjh(){var w=this.c
-return w===$?this.c=new A.dOF():w},
-gfo(){var w=this.d
-return w===$?this.d=new A.dOH():w},
-gfd(){var w=this.e
-return w===$?this.e=new A.dOD():w}}
-A.dPH.prototype={
+return w===$?this.c=new A.dRe():w},
+gfp(){var w=this.d
+return w===$?this.d=new A.dRg():w},
+gfe(){var w=this.e
+return w===$?this.e=new A.dRc():w}}
+A.dSg.prototype={
 ghw(d){return"Colonnes"}}
-A.dPF.prototype={
-gle(){return"Brouillon"},
+A.dSe.prototype={
+glg(){return"Brouillon"},
 gjr(d){return"Nouveau"},
-goI(){return"En r\xe9vision"},
-gmi(){return"Confirm\xe9"},
-gkH(){return"En livraison"},
-gmk(d){return"Termin\xe9"},
-glb(){return"\xc9chou\xe9"}}
-A.dPD.prototype={
-gOo(){return"Non pay\xe9"},
-gNC(){return"Pay\xe9"},
-gaIo(){return"Re\xe7u"}}
-A.dOx.prototype={
+goO(){return"En r\xe9vision"},
+gml(){return"Confirm\xe9"},
+gkJ(){return"En livraison"},
+gmn(d){return"Termin\xe9"},
+gld(){return"\xc9chou\xe9"}}
+A.dSc.prototype={
+gOA(){return"Non pay\xe9"},
+gNO(){return"Pay\xe9"},
+gaJ7(){return"Re\xe7u"}}
+A.dR6.prototype={
 gjr(d){return"En attente"},
-gM5(){return"En cours"},
-guN(){return"Livr\xe9"},
-gvg(){return"Retourn\xe9"}}
-A.dPw.prototype={
-gbJ(){var w=this.b
-return w===$?this.b=new A.dPy():w},
-gl7(d){var w=this.c
-return w===$?this.c=new A.dPu():w},
-gkZ(){var w=this.d
-return w===$?this.d=new A.dPA():w}}
-A.dOX.prototype={
+gMf(){return"En cours"},
+guS(){return"Livr\xe9"},
+gvj(){return"Retourn\xe9"}}
+A.dS5.prototype={
+gbK(){var w=this.b
+return w===$?this.b=new A.dS7():w},
+gl9(d){var w=this.c
+return w===$?this.c=new A.dS3():w},
+gl0(){var w=this.d
+return w===$?this.d=new A.dS9():w}}
+A.dRw.prototype={
 gD(d){var w=this.b
-return w===$?this.b=new A.dOZ():w},
-gfw(){var w=this.d
-return w===$?this.d=new A.dOO():w},
+return w===$?this.b=new A.dRy():w},
+gfA(){var w=this.d
+return w===$?this.d=new A.dRn():w},
 geY(){var w=this.e
-return w===$?this.e=new A.dOS():w},
-gm2(){var w=this.r
-return w===$?this.r=new A.dOQ():w},
-gnt(){var w=this.w
-return w===$?this.w=new A.dPa():w},
-gaHZ(){var w=this.x
-return w===$?this.x=new A.dP4():w},
-gjW(d){var w=this.y
-return w===$?this.y=new A.dP6():w},
+return w===$?this.e=new A.dRr():w},
+gm4(){var w=this.r
+return w===$?this.r=new A.dRp():w},
+gnx(){var w=this.w
+return w===$?this.w=new A.dRK():w},
+gaIH(){var w=this.x
+return w===$?this.x=new A.dRE():w},
+gjX(d){var w=this.y
+return w===$?this.y=new A.dRG():w},
 gfS(){var w=this.z
-return w===$?this.z=new A.dP8():w},
-gew(){var w=this.Q
-return w===$?this.Q=new A.dPe():w},
-glI(d){var w=this.at
-return w===$?this.at=new A.dPg(this.a):w},
-gdw(d){var w=this.ay
-return w===$?this.ay=new A.dP0():w},
-gqB(){var w=this.ch
-return w===$?this.ch=new A.dPo():w},
-grp(){var w=this.CW
-return w===$?this.CW=new A.dPc():w},
+return w===$?this.z=new A.dRI():w},
+gey(){var w=this.Q
+return w===$?this.Q=new A.dRO():w},
+glK(d){var w=this.at
+return w===$?this.at=new A.dRQ(this.a):w},
+gdA(d){var w=this.ay
+return w===$?this.ay=new A.dRA():w},
+gqI(){var w=this.ch
+return w===$?this.ch=new A.dRY():w},
+grw(){var w=this.CW
+return w===$?this.CW=new A.dRM():w},
 giS(){var w=this.cx
-return w===$?this.cx=new A.dOW():w},
+return w===$?this.cx=new A.dRv():w},
 gjy(){var w=this.db
-return w===$?this.db=new A.dPm():w},
+return w===$?this.db=new A.dRW():w},
 ga5(d){var w=this.dy
-return w===$?this.dy=new A.dPk():w},
+return w===$?this.dy=new A.dRU():w},
 gj9(){var w=this.fr
-return w===$?this.fr=new A.dP2():w},
+return w===$?this.fr=new A.dRC():w},
 giR(){var w=this.fx
-return w===$?this.fx=new A.dOU():w},
+return w===$?this.fx=new A.dRt():w},
 giQ(){var w=this.fy
-return w===$?this.fy=new A.dOM():w},
-gta(){var w=this.go
-return w===$?this.go=new A.dPs():w},
-geu(d){var w=this.k2
-return w===$?this.k2=new A.dPq():w}}
-A.dR3.prototype={
-gX(d){return"Contenu verrouill\xe9"},
-ghj(d){return y.l9},
-gaFo(){return"Verrouill\xe9"}}
-A.dQR.prototype={
-gX(d){return"Vous avez un montant d\xfb \xe0 payer"},
-ghj(d){return y.d_},
-gajE(){return"Payer le montant d\xfb"},
-gaHv(){return"Payer"},
-gazJ(){return y.kj},
-gaeD(){return"Contacter via WhatsApp"},
-gazM(){return"WhatsApp"},
-gn7(){var w=this.b
-return w===$?this.b=new A.dQM(this.a):w}}
-A.dR9.prototype={
-gtP(){var w=this.b
-return w===$?this.b=new A.dR6(this.a):w}}
-A.dR0.prototype={
-gC2(d){return"Cr\xe9er un magasin"}}
-A.dQV.prototype={
-gN(d){var w=this.b
-return w===$?this.b=new A.dQX():w},
+return w===$?this.fy=new A.dRl():w},
+gth(){var w=this.go
+return w===$?this.go=new A.dS1():w},
+gew(d){var w=this.k2
+return w===$?this.k2=new A.dS_():w}}
+A.dTD.prototype={
+gU(d){return"Contenu verrouill\xe9"},
+ghk(d){return y.l9},
+gaG2(){return"Verrouill\xe9"}}
+A.dTq.prototype={
+gU(d){return"Vous avez un montant d\xfb \xe0 payer"},
+ghk(d){return y.d_},
+gak8(){return"Payer le montant d\xfb"},
+gaIb(){return"Payer"},
+gaAi(){return y.kj},
+gaf7(){return"Contacter via WhatsApp"},
+gaAl(){return"WhatsApp"},
+gnb(){var w=this.b
+return w===$?this.b=new A.dTl(this.a):w}}
+A.dTJ.prototype={
+gtW(){var w=this.b
+return w===$?this.b=new A.dTG(this.a):w}}
+A.dTA.prototype={
+gC7(d){return"Cr\xe9er un magasin"}}
+A.dTu.prototype={
+gM(d){var w=this.b
+return w===$?this.b=new A.dTw():w},
 ga7(d){var w=this.e
-return w===$?this.e=new A.dQU():w},
-ghg(){var w=this.f
-return w===$?this.f=new A.dQZ():w}}
-A.dRd.prototype={
-gadq(){return"Tous les magasins"},
-gaAF(){return"Cr\xe9er un magasin"},
-gany(){return"Commencez \xe0 vendre aujourd'hui"},
-gaiW(){return"Aucun magasin trouv\xe9"},
-gakZ(){return"Essayez un autre terme de recherche"},
-gaz5(){return"Choisir la couleur du magasin"},
-aFl(d){return""+d+" magasins charg\xe9s avec succ\xe8s"},
-gaFh(){return"Erreur lors du chargement des magasins"},
-gaFj(){return"\xc9chec du chargement des magasins"},
-gaFi(){return y.j5},
-gvf(){return"R\xe9essayer"},
-gaor(){return"Support"},
-gaCm(){return"Cr\xe9ez votre premier magasin"},
-gaCl(){return y.j},
-gaKs(){return"Regarder la vid\xe9o tutorielle"},
-gaB2(){return"Offres et r\xe9ductions compl\xe8tes"},
-gaB4(){return y.on},
-gOw(){return"V\xe9rifi\xe9"},
-gaH9(){return"Ouvrir mon magasin"},
-gLt(){var w=this.c
-return w===$?this.c=new A.dRb():w},
-gajC(){var w=this.d
-return w===$?this.d=new A.dRf():w}}
-A.dMH.prototype={
-gAE(){var w=this.b
-return w===$?this.b=new A.dMN(this.a):w},
+return w===$?this.e=new A.dTt():w},
+ghh(){var w=this.f
+return w===$?this.f=new A.dTy():w}}
+A.dTN.prototype={
+gadV(){return"Tous les magasins"},
+gaBj(){return"Cr\xe9er un magasin"},
+gao2(){return"Commencez \xe0 vendre aujourd'hui"},
+gajq(){return"Aucun magasin trouv\xe9"},
+galw(){return"Essayez un autre terme de recherche"},
+gazF(){return"Choisir la couleur du magasin"},
+aG_(d){return""+d+" magasins charg\xe9s avec succ\xe8s"},
+gaFW(){return"Erreur lors du chargement des magasins"},
+gaFY(){return"\xc9chec du chargement des magasins"},
+gaFX(){return y.j5},
+gtd(){return"R\xe9essayer"},
+gaoW(){return"Support"},
+gaD0(){return"Cr\xe9ez votre premier magasin"},
+gaD_(){return y.j},
+gaLc(){return"Regarder la vid\xe9o tutorielle"},
+gaBI(){return"Offres et r\xe9ductions compl\xe8tes"},
+gaBL(){return y.on},
+gOI(){return"V\xe9rifi\xe9"},
+gNL(){return"Ouvrir mon magasin"},
+gLC(){var w=this.c
+return w===$?this.c=new A.dTL():w},
+gak6(){var w=this.d
+return w===$?this.d=new A.dTP():w}}
+A.dPg.prototype={
+gAI(){var w=this.b
+return w===$?this.b=new A.dPm(this.a):w},
 giJ(){var w=this.c
-return w===$?this.c=new A.dN0(this.a):w},
-ga8(){var w=this.d
-return w===$?this.d=new A.dML():w},
-gc9(){var w=this.f
-return w===$?this.f=new A.dMR():w},
-gfZ(){var w=this.x
-return w===$?this.x=new A.dMV(this.a):w},
+return w===$?this.c=new A.dPA(this.a):w},
+ga9(){var w=this.d
+return w===$?this.d=new A.dPk():w},
+gca(){var w=this.f
+return w===$?this.f=new A.dPq():w},
+gh_(){var w=this.x
+return w===$?this.x=new A.dPu(this.a):w},
 gR(){var w=this.y
-return w===$?this.y=new A.dMJ():w},
+return w===$?this.y=new A.dPi():w},
 gjx(){var w=this.z
-return w===$?this.z=new A.dMT(this.a):w},
-gaCJ(){return"D\xe9velopper le menu"},
-gazn(){return"R\xe9duire le menu"}}
-A.dPN.prototype={
-gano(){return"Ignorer la bo\xeete d\u2019impression"},
-gakC(){return"Merci pour votre achat"},
-gIY(){return"Aper\xe7u"},
-gaHY(d){return"Imprimer"}}
-A.dPK.prototype={
-gqY(d){return"Le panier est vide"},
-gaef(){return"Encaisser"},
-gkH(){return"Traitement..."},
-gaxB(){return"ajout\xe9 au panier"},
-gx9(d){return"Vider le panier"},
-gaen(){return"Vider le panier"},
-gaem(){return"Voulez-vous vraiment vider le panier ?"}}
-A.dO4.prototype={
-gX(d){return"Int\xe9gration de s\xe9curit\xe9"},
-gS7(){var w=this.b
-return w===$?this.b=new A.dO1():w},
-gn7(){var w=this.c
-return w===$?this.c=new A.dO3():w},
-ga0(){var w=this.d
-return w===$?this.d=new A.dO6():w},
-ga8(){var w=this.e
-return w===$?this.e=new A.dO8(this.a):w},
-gaJy(){var w=this.f
-return w===$?this.f=new A.dOc():w}}
-A.dNu.prototype={
-gX(d){return"Ecotrack"},
-gbh(d){return y.D},
-gtK(){return"Copier les tarifs"},
-gA2(){return"Copier les tarifs"},
-guG(){return y.k},
-guH(){return"Tarifs copi\xe9s avec succ\xe8s"},
-gml(){return"Connecter ma boutique"},
-gjx(){var w=this.b
-return w===$?this.b=new A.dNw():w},
-gjm(){var w=this.c
-return w===$?this.c=new A.dNt():w},
-giJ(){var w=this.d
-return w===$?this.d=new A.dNy():w}}
-A.dOi.prototype={
-gX(d){return"Yalidine Express"},
-gbh(d){return y.lP},
-gtK(){return"Copier les tarifs"},
-gA2(){return"Copier les tarifs"},
-guG(){return y.k},
-guH(){return"Tarifs copi\xe9s avec succ\xe8s"},
-gml(){return"Connecter ma boutique"},
-gmn(d){return"D\xe9connecter"},
-go_(){return y.gq},
-gaKt(){return"Webhook"},
-gaKD(){return"Param\xe8tres Webhook"},
-gaKy(){return y.lc},
-gaKE(){return"URL du Webhook"},
-gaKx(){return"Copier l'URL"},
-gaKw(){return"URL du webhook copi\xe9e"},
-gOx(){return"Cl\xe9 secr\xe8te du Webhook"},
-gaKz(){return"Cl\xe9 secr\xe8te copi\xe9e"},
-gaKA(){return"Copier la cl\xe9"},
-gaKG(){return"Avertissement de s\xe9curit\xe9"},
-gaKF(){return y.U},
-gaKu(){return"Ajouter la cl\xe9 secr\xe8te"},
-gaKv(){return"Fermer"},
-gjx(){var w=this.b
-return w===$?this.b=new A.dOk():w}}
-A.dNZ.prototype={
-gX(d){return"Procolis"},
-guG(){return y.L},
-guH(){return y.p},
-gtK(){return"Copier les tarifs"},
-gbh(d){return y.p9},
-gml(){return"Connecter ma boutique"},
-gmn(d){return"D\xe9connecter"},
-go_(){return y.gA}}
-A.dNF.prototype={
-gX(d){return"Meta Pixel"},
-gbh(d){return y.eQ},
-gml(){return"Connecter ma boutique"},
-gmn(d){return"D\xe9connecter"},
-go_(){return y.m},
-gEl(){return"Ajouter un Pixel"},
-gNK(){return"ID Pixel"},
-gNu(){return y.r},
-gNL(){return"ex. : Pixel principal du site"},
-gjx(){var w=this.b
-return w===$?this.b=new A.dNH():w},
-gMj(){return"Modifier le Pixel"},
-aBi(d){return y.u+d+" ?"},
-gJO(){return"S\xe9lectionner un Pixel"},
-gaJ1(){return"Tester CAPI"},
-gLI(){return"Catalogue produits"},
-gJS(){return"Envoyer un \xe9v\xe9nement test"},
-gJT(){return y.X},
-gO9(){return"Code test"},
-gOa(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
-A.dOe.prototype={
-gX(d){return"TikTok Pixel"},
-gbh(d){return y.nt},
-gml(){return"Connecter ma boutique"},
-gmn(d){return"D\xe9connecter"},
-go_(){return y.mv},
-gEl(){return"Ajouter un Pixel"},
-gMj(){return"Modifier le Pixel"},
-gNK(){return"ID Pixel"},
-gNL(){return"ex. : Pixel principal du site"},
-gBE(){return"Jeton d\u2019acc\xe8s"},
-gNu(){return y.r},
-gjx(){var w=this.b
-return w===$?this.b=new A.dOg():w},
-gJO(){return"S\xe9lectionner un Pixel"},
-gaJB(){return"Pixel sans nom"},
-gaJ2(){return"Tester Events API"},
-gLI(){return"Catalogue produits"},
-gJS(){return"Envoyer un \xe9v\xe9nement test"},
-gJT(){return y.lW},
-gO9(){return"Code test"},
-gOa(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
-A.dNP.prototype={
-gX(d){return"Noest"},
-gbh(d){return y.hR},
-gml(){return"Connecter ma boutique"},
-gmn(d){return"D\xe9connecter"},
-go_(){return y.f6},
-gtK(){return"Copier les tarifs"},
-gA2(){return"Copier les tarifs"},
-guG(){return y.k},
-guH(){return"Tarifs copi\xe9s avec succ\xe8s"},
-gaHd(){return"Type de commande"},
-gaBo(){return"Type de livraison"},
-gIN(){var w=this.c
-return w===$?this.c=new A.dNV(this.a):w},
-gSV(){var w=this.d
-return w===$?this.d=new A.dNM(this.a):w}}
-A.dND.prototype={
-gX(d){return"Google Sheets"},
-gbh(d){return y.cK},
-gaov(){return"Synchronisation des en-t\xeates..."},
-gaow(){return"En-t\xeates synchronis\xe9s avec succ\xe8s"},
-gaou(){return y.fz}}
-A.dNB.prototype={
-gml(){return"Connecter ma boutique"}}
-A.dNp.prototype={
-gX(d){return"Int\xe9gration IA"},
-gbh(d){return y.n_},
-gEq(){return"Cl\xe9 API"},
-gLw(){return y.a},
-gUY(){return"Mod\xe8le de texte"},
-gTN(){return"Mod\xe8le d'image"},
-gnV(){return"Configurer l'int\xe9gration IA"},
-gaCp(d){return"Activer l'int\xe9gration IA"},
-gmn(d){return"D\xe9connecter"},
-gaBM(){return y.m6}}
-A.dM8.prototype={
-gaCf(){return"Entrez les modifications..."},
-galx(){return"Entrez une description..."}}
-A.dM3.prototype={
-gamA(){return"S\xe9lectionner une image"},
-gayU(){return"Changer l'image"},
-gazb(){return"Effacer l'image"},
-gaCg(){return"Modifier l'image"},
-gxO(){return"Annuler"},
-ga4t(){return"G\xe9n\xe9rer l'image"},
-gadt(){return"Appliquer les modifications"},
-gkH(){return"Traitement..."},
-gaI0(){return"Traitement de l'image..."}}
-A.dMa.prototype={
-gfN(d){return"Ajouter"},
-gIw(){var w=this.b
-return w===$?this.b=new A.dMc():w}}
-A.dM5.prototype={
-gaGv(){return y.cx},
-gaGt(){return y.n7},
-gaGr(){return"Aucune image \xe0 modifier"},
-ga1d(){return"\xc9chec du chargement de l'image"},
-gaCN(){return"\xc9chec de l'affichage de l'image"},
-gaCP(){return y.lR},
-gaCR(){return"\xc9chec du partage de l'image"},
-galw(){return"\xc9chec de la g\xe9n\xe9ration de l'image"}}
-A.dMe.prototype={
-gaDY(){return"Image g\xe9n\xe9r\xe9e avec succ\xe8s"},
-gaCj(){return y.eJ},
-gaFb(){return"Lien de l'image copi\xe9"}}
-A.dM1.prototype={
-gans(){return"Carr\xe9"},
-gajQ(){return"Portrait"},
-ganO(){return"Story"},
-gai7(){return"Paysage"}}
-A.dRx.prototype={
-gqe(){return"D\xe9p\xf4t"},
-gir(){return"Abonnement"},
-gAK(d){return"Points"},
-ganK(){return"Paiement du magasin"},
-gxZ(d){return"Envoyer"},
-gaIm(){return"Recevoir"},
-gaJs(d){return"Transaction"},
-gaxO(){return"G\xe9n\xe9ration IA"},
-gaIu(){return"Remboursement"},
-gaxG(){return"Ajustement"}}
-A.dRu.prototype={
-gmk(d){return"Termin\xe9"},
-gjr(d){return"En attente"},
-guS(){return"\xc9chou\xe9"},
-glb(){return"Annul\xe9"}}
-A.dRW.prototype={
-gX(d){return"Choisir type d\u2019\xe9v\xe9nement"},
-ghi(){var w=this.b
-return w===$?this.b=new A.dRN(this.a):w},
-gJQ(){return"Envoyer"},
-gKc(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
-gMn(d){return"Erreur : {error}"}}
+return w===$?this.z=new A.dPs(this.a):w},
+gaDn(){return"D\xe9velopper le menu"},
+gazX(){return"R\xe9duire le menu"}}
+A.dSm.prototype={
+ganT(){return"Ignorer la bo\xeete d\u2019impression"},
+gal7(){return"Merci pour votre achat"},
+gJ5(){return"Aper\xe7u"},
+gaIG(d){return"Imprimer"}}
 A.dSj.prototype={
-gX(d){return"Choisir type d\u2019\xe9v\xe9nement"},
-ghi(){var w=this.b
-return w===$?this.b=new A.dS8(this.a):w},
-gJQ(){return"Envoyer"},
-gKc(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
-gMn(d){return"Erreur : {error}"}}
-A.dSF.prototype={
-gX(d){return"Confirmer la suppression"},
-gqb(d){return y.g},
-gcA(d){return"Annuler"},
-geB(d){return"Supprimer"}}
-A.dSH.prototype={
-gX(d){return"Confirmer la suppression"},
-gqb(d){return y.d2},
-gcA(d){return"Annuler"},
-geB(d){return"Supprimer"}}
-A.dSD.prototype={
-gX(d){return"Confirmer la suppression"},
-gqb(d){return y.jA},
-gcA(d){return"Annuler"},
-geB(d){return"Supprimer"}}
-A.dSO.prototype={
-gnV(){return"Configurer Meta Pixel"},
-geB(d){return"Supprimer Meta Pixel"}}
-A.dSQ.prototype={
-gnV(){return"Configurer TikTok Pixel"},
-geB(d){return"Supprimer TikTok Pixel"}}
-A.dSM.prototype={
-gnV(){return"Configurer Google Sheets"},
-geB(d){return"Supprimer Google Sheets"},
-gan5(){return"Feuille :"},
-gan4(){return"Nom de la feuille :"},
-gaGC(){return"Non sp\xe9cifi\xe9"}}
-A.dSt.prototype={
-gX(d){return"Compl\xe9ments"},
-gqb(d){return y.dg}}
-A.dTx.prototype={
-gpe(){return"Achat"},
-gCt(){return"Piste"},
-gpj(){return"Voir le contenu"},
-gp0(){return"Ajouter au panier"},
-gpb(){return"Initier le paiement"}}
-A.dTz.prototype={
-gpe(){return"Achat"},
-gCF(){return"Passer une commande"},
-gpj(){return"Voir le contenu"},
-gBG(){return"Ajouter \xe0 la liste de souhaits"},
-gpY(d){return"Recherche"},
-gBF(){return"Ajouter les informations de paiement"},
-gp0(){return"Ajouter au panier"},
-gpb(){return"Initier le paiement"},
-gBV(){return"Terminer l'inscription"}}
-A.dTH.prototype={
+gr4(d){return"Le panier est vide"},
+gaeK(){return"Encaisser"},
+gkJ(){return"Traitement..."},
+gaya(){return"ajout\xe9 au panier"},
+gxd(d){return"Vider le panier"},
+gaeS(){return"Vider le panier"},
+gaeR(){return"Voulez-vous vraiment vider le panier ?"}}
+A.dQE.prototype={
+gU(d){return"Int\xe9gration de s\xe9curit\xe9"},
+gSm(){var w=this.b
+return w===$?this.b=new A.dQB():w},
+gnb(){var w=this.c
+return w===$?this.c=new A.dQD():w},
+ga_(){var w=this.d
+return w===$?this.d=new A.dQG():w},
+ga9(){var w=this.e
+return w===$?this.e=new A.dQI(this.a):w},
+gaKi(){var w=this.f
+return w===$?this.f=new A.dQM():w}}
+A.dQ3.prototype={
+gU(d){return"Ecotrack"},
+gb8(d){return y.D},
+gtR(){return"Copier les tarifs"},
+gA7(){return"Copier les tarifs"},
+guL(){return y.k},
+guM(){return"Tarifs copi\xe9s avec succ\xe8s"},
+gmo(){return"Connecter ma boutique"},
+gjx(){var w=this.b
+return w===$?this.b=new A.dQ5():w},
+gjm(){var w=this.c
+return w===$?this.c=new A.dQ2():w},
+giJ(){var w=this.d
+return w===$?this.d=new A.dQ7():w}}
+A.dQS.prototype={
+gU(d){return"Yalidine Express"},
+gb8(d){return y.lP},
+gtR(){return"Copier les tarifs"},
+gA7(){return"Copier les tarifs"},
+guL(){return y.k},
+guM(){return"Tarifs copi\xe9s avec succ\xe8s"},
+gmo(){return"Connecter ma boutique"},
+gmq(d){return"D\xe9connecter"},
+go4(){return y.gq},
+gaLd(){return"Webhook"},
+gaLn(){return"Param\xe8tres Webhook"},
+gaLi(){return y.lc},
+gaLo(){return"URL du Webhook"},
+gaLh(){return"Copier l'URL"},
+gaLg(){return"URL du webhook copi\xe9e"},
+gOJ(){return"Cl\xe9 secr\xe8te du Webhook"},
+gaLj(){return"Cl\xe9 secr\xe8te copi\xe9e"},
+gaLk(){return"Copier la cl\xe9"},
+gaLq(){return"Avertissement de s\xe9curit\xe9"},
+gaLp(){return y.U},
+gaLe(){return"Ajouter la cl\xe9 secr\xe8te"},
+gaLf(){return"Fermer"},
+gjx(){var w=this.b
+return w===$?this.b=new A.dQU():w}}
+A.dQy.prototype={
+gU(d){return"Procolis"},
+guL(){return y.L},
+guM(){return y.jn},
+gtR(){return"Copier les tarifs"},
+gb8(d){return y.p9},
+gmo(){return"Connecter ma boutique"},
+gmq(d){return"D\xe9connecter"},
+go4(){return y.gA}}
+A.dQe.prototype={
+gU(d){return"Meta Pixel"},
+gb8(d){return y.eQ},
+gmo(){return"Connecter ma boutique"},
+gmq(d){return"D\xe9connecter"},
+go4(){return y.m},
+gEq(){return"Ajouter un Pixel"},
+gNW(){return"ID Pixel"},
+gNF(){return y.r},
+gNX(){return"ex. : Pixel principal du site"},
+gjx(){var w=this.b
+return w===$?this.b=new A.dQg():w},
+gMt(){return"Modifier le Pixel"},
+aBX(d){return y.u+d+" ?"},
+gJX(){return"S\xe9lectionner un Pixel"},
+gaJM(){return"Tester CAPI"},
+gLS(){return"Catalogue produits"},
+gK0(){return"Envoyer un \xe9v\xe9nement test"},
+gK1(){return y.X},
+gOl(){return"Code test"},
+gOm(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
+A.dQO.prototype={
+gU(d){return"TikTok Pixel"},
+gb8(d){return y.nt},
+gmo(){return"Connecter ma boutique"},
+gmq(d){return"D\xe9connecter"},
+go4(){return y.mv},
+gEq(){return"Ajouter un Pixel"},
+gMt(){return"Modifier le Pixel"},
+gNW(){return"ID Pixel"},
+gNX(){return"ex. : Pixel principal du site"},
+gBJ(){return"Jeton d\u2019acc\xe8s"},
+gNF(){return y.r},
+gjx(){var w=this.b
+return w===$?this.b=new A.dQQ():w},
+gJX(){return"S\xe9lectionner un Pixel"},
+gaKl(){return"Pixel sans nom"},
+gaJN(){return"Tester Events API"},
+gLS(){return"Catalogue produits"},
+gK0(){return"Envoyer un \xe9v\xe9nement test"},
+gK1(){return y.lW},
+gOl(){return"Code test"},
+gOm(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
+A.dQo.prototype={
+gU(d){return"Noest"},
+gb8(d){return y.hR},
+gmo(){return"Connecter ma boutique"},
+gmq(d){return"D\xe9connecter"},
+go4(){return y.f6},
+gtR(){return"Copier les tarifs"},
+gA7(){return"Copier les tarifs"},
+guL(){return y.k},
+guM(){return"Tarifs copi\xe9s avec succ\xe8s"},
+gaHU(){return"Type de commande"},
+gaC2(){return"Type de livraison"},
+gIV(){var w=this.c
+return w===$?this.c=new A.dQu(this.a):w},
+gTa(){var w=this.d
+return w===$?this.d=new A.dQl(this.a):w}}
+A.dQc.prototype={
+gU(d){return"Google Sheets"},
+gb8(d){return y.cK},
+gap_(){return"Synchronisation des en-t\xeates..."},
+gap0(){return"En-t\xeates synchronis\xe9s avec succ\xe8s"},
+gaoZ(){return y.fz}}
+A.dQa.prototype={
+gmo(){return"Connecter ma boutique"}}
+A.dPZ.prototype={
+gU(d){return"Int\xe9gration IA"},
+gb8(d){return y.n_},
+gEv(){return"Cl\xe9 API"},
+gLG(){return y.a},
+gVd(){return"Mod\xe8le de texte"},
+gU2(){return"Mod\xe8le d'image"},
+go_(){return"Configurer l'int\xe9gration IA"},
+gaD3(d){return"Activer l'int\xe9gration IA"},
+gmq(d){return"D\xe9connecter"},
+gaCq(){return y.m6}}
+A.dOI.prototype={
+gaCU(){return"Entrez les modifications..."},
+gam2(){return"Entrez une description..."}}
+A.dOD.prototype={
+gan3(){return"S\xe9lectionner une image"},
+gazt(){return"Changer l'image"},
+gazL(){return"Effacer l'image"},
+gaCV(){return"Modifier l'image"},
+gxT(){return"Annuler"},
+ga4M(){return"G\xe9n\xe9rer l'image"},
+gadY(){return"Appliquer les modifications"},
+gkJ(){return"Traitement..."},
+gaIJ(){return"Traitement de l'image..."}}
+A.dOK.prototype={
+gfz(d){return"Ajouter"},
+gIE(){var w=this.b
+return w===$?this.b=new A.dOM():w}}
+A.dOF.prototype={
+gaHa(){return y.cx},
+gaH9(){return y.n7},
+gaH6(){return"Aucune image \xe0 modifier"},
+ga1z(){return"\xc9chec du chargement de l'image"},
+gaDr(){return"\xc9chec de l'affichage de l'image"},
+gaDt(){return y.lR},
+gaDv(){return"\xc9chec du partage de l'image"},
+gam1(){return"\xc9chec de la g\xe9n\xe9ration de l'image"}}
+A.dOO.prototype={
+gaEC(){return"Image g\xe9n\xe9r\xe9e avec succ\xe8s"},
+gaCY(){return y.eJ},
+gaFQ(){return"Lien de l'image copi\xe9"}}
+A.dOB.prototype={
+ganX(){return"Carr\xe9"},
+gakk(){return"Portrait"},
+gaoi(){return"Story"},
+gaiD(){return"Paysage"}}
+A.dU6.prototype={
+gqk(){return"D\xe9p\xf4t"},
+gir(){return"Abonnement"},
+gAO(d){return"Points"},
+gaoe(){return"Paiement du magasin"},
+gy4(d){return"Envoyer"},
+gaJ5(){return"Recevoir"},
+gaKc(d){return"Transaction"},
+gayn(){return"G\xe9n\xe9ration IA"},
+gaJd(){return"Remboursement"},
+gayf(){return"Ajustement"}}
+A.dU3.prototype={
+gmn(d){return"Termin\xe9"},
+gjr(d){return"En attente"},
+guX(){return"\xc9chou\xe9"},
+gld(){return"Annul\xe9"}}
+A.dUv.prototype={
+gU(d){return"Choisir type d\u2019\xe9v\xe9nement"},
+ghj(){var w=this.b
+return w===$?this.b=new A.dUm(this.a):w},
+gJZ(){return"Envoyer"},
+gKl(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
+gMx(d){return"Erreur : {error}"}}
+A.dUT.prototype={
+gU(d){return"Choisir type d\u2019\xe9v\xe9nement"},
+ghj(){var w=this.b
+return w===$?this.b=new A.dUI(this.a):w},
+gJZ(){return"Envoyer"},
+gKl(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
+gMx(d){return"Erreur : {error}"}}
+A.dVe.prototype={
+gU(d){return"Confirmer la suppression"},
+gqh(d){return y.g},
+gcB(d){return"Annuler"},
+gei(d){return"Supprimer"}}
+A.dVg.prototype={
+gU(d){return"Confirmer la suppression"},
+gqh(d){return y.d2},
+gcB(d){return"Annuler"},
+gei(d){return"Supprimer"}}
+A.dVc.prototype={
+gU(d){return"Confirmer la suppression"},
+gqh(d){return y.jA},
+gcB(d){return"Annuler"},
+gei(d){return"Supprimer"}}
+A.dVn.prototype={
+go_(){return"Configurer Meta Pixel"},
+gei(d){return"Supprimer Meta Pixel"}}
+A.dVp.prototype={
+go_(){return"Configurer TikTok Pixel"},
+gei(d){return"Supprimer TikTok Pixel"}}
+A.dVl.prototype={
+go_(){return"Configurer Google Sheets"},
+gei(d){return"Supprimer Google Sheets"},
+ganz(){return"Feuille :"},
+gany(){return"Nom de la feuille :"},
+gaHh(){return"Non sp\xe9cifi\xe9"}}
+A.dV2.prototype={
+gU(d){return"Compl\xe9ments"},
+gqh(d){return y.dg}}
+A.dW6.prototype={
+gpl(){return"Achat"},
+gCy(){return"Piste"},
+gpq(){return"Voir le contenu"},
+gpa(){return"Ajouter au panier"},
+gpi(){return"Initier le paiement"}}
+A.dW8.prototype={
+gpl(){return"Achat"},
+gCK(){return"Passer une commande"},
+gpq(){return"Voir le contenu"},
+gBL(){return"Ajouter \xe0 la liste de souhaits"},
+gn3(d){return"Recherche"},
+gBK(){return"Ajouter les informations de paiement"},
+gpa(){return"Ajouter au panier"},
+gpi(){return"Initier le paiement"},
+gC_(){return"Terminer l'inscription"}}
+A.dWg.prototype={
 gi(){return"Appeler"},
-gDB(){return"SMS"},
-gayd(d){return"Assigner"},
+gDG(){return"SMS"},
+gayN(d){return"Assigner"},
 $0(){return this.gi().$0()},
 $1(d){return this.gi().$1(d)},
 $2(d,e){return this.gi().$2(d,e)},
@@ -7077,852 +7174,876 @@ $2$pathSegments$query(d,e){return this.gi().$2$pathSegments$query(d,e)},
 $1$fragment(d){return this.gi().$1$fragment(d)},
 $2$test(d,e){return this.gi().$2$test(d,e)},
 $2$isDragging$isGhost(d,e){return this.gi().$2$isDragging$isGhost(d,e)}}
-A.dTh.prototype={
+A.dVR.prototype={
 ga5(d){return"Statut"},
 giR(){return"Statut de livraison"},
 gj9(){return"Statut de paiement"},
 gj3(){return"Statut personnalis\xe9"},
-gfw(){return"Nom du client"},
+gfA(){return"Nom du client"},
 geY(){return"T\xe9l\xe9phone du client"},
-gpD(){return"Email du client"},
-gew(){return"Wilaya"},
+gpK(){return"Email du client"},
+gey(){return"Wilaya"},
 gfS(){return"Ville"},
-guv(d){return"Source"},
-geu(d){return"Total"},
+guB(d){return"Source"},
+gew(d){return"Total"},
 giQ(){return"Date de cr\xe9ation"},
-gta(){return"Date de mise \xe0 jour"}}
-A.dTo.prototype={
-gle(){return"Brouillon"},
+gth(){return"Date de mise \xe0 jour"}}
+A.dVY.prototype={
+glg(){return"Brouillon"},
 gjr(d){return"En attente"},
-gmi(){return"Accept\xe9"},
-gaIy(){return"Rejet\xe9"},
-glb(){return"Annul\xe9"},
-gvg(){return"Retourn\xe9"}}
-A.dTf.prototype={
+gml(){return"Accept\xe9"},
+gaJh(){return"Rejet\xe9"},
+gld(){return"Annul\xe9"},
+gvj(){return"Retourn\xe9"}}
+A.dVP.prototype={
 gjr(d){return"En attente"},
-gan8(){return"Exp\xe9di\xe9"},
-guN(){return"Livr\xe9"},
-gvg(){return"Retourn\xe9"}}
-A.dTk.prototype={
-gOo(){return"Non pay\xe9"},
-gNC(){return"Pay\xe9"},
-gaIv(){return"Rembours\xe9"}}
-A.dTm.prototype={
-gCz(){return"Meta"},
-gaEj(){return"Instagram"},
-gOB(){return"YouTube"},
-gam6(){return"Google"},
-gaJ8(){return"TikTok"},
-gaBI(){return"Direct"}}
-A.dTO.prototype={
-gX(d){return"D\xe9poser un solde"},
-gbh(d){return y.y},
-gmO(d){return"D\xe9poser maintenant"}}
-A.dTK.prototype={
-gX(d){return"Acheter un abonnement"},
-gbh(d){return y.k1},
-gmO(d){return"Acheter un abonnement"},
-gxe(){return y.jF}}
-A.dTM.prototype={
-gX(d){return"Recharger des points"},
-gbh(d){return y.W},
-gmO(d){return"Recharger des points"},
-gxe(){return y.it}}
-A.dTT.prototype={
-gX(d){return"Envoyer de l'argent"},
-gbh(d){return y.S},
-gmO(d){return"Envoyer maintenant"}}
-A.dTR.prototype={
-gX(d){return"Payer les dettes"},
-gbh(d){return y.pd},
-gmO(d){return"Payer maintenant"}}
-A.dUy.prototype={
-gX(d){return"Ic\xf4ne de la boutique"},
-gbh(d){return y.mc}}
-A.dUA.prototype={
-gX(d){return"Logo de la boutique"},
-gbh(d){return y.V}}
-A.dOr.prototype={
-gX(d){return"T\xe9l\xe9verser un fichier"},
-gmO(d){return"T\xe9l\xe9verser"},
-gaI6(){return"T\xe9l\xe9versement..."}}
-A.dOo.prototype={
-gfa(d){return"Image"}}
-A.dNl.prototype={
-ga58(){return"S\xe9lectionner une boutique"},
-ga59(){return y.A},
-ga56(){return"S\xe9lectionner des produits"},
-ga57(){return y.la},
-gEG(){return"Confirmer l'importation"},
-ga06(){return y.aI},
-gNP(){return"Lien du produit"},
-gaI2(){return"Entrez le lien du produit pour commencer"}}
-A.dNj.prototype={
-gNN(){return"Pr\xe9c\xe9dent"},
-gu7(d){return"Suivant"}}
-A.dMv.prototype={
-ga6(d){return"Portefeuille"},
-ayn(d,e){return"Solde : "+d+" "+e}}
-A.dMr.prototype={
-ga6(d){return"Mon profil"},
-galb(){var w=this.b
-return w===$?this.b=new A.dMt():w}}
-A.dMn.prototype={
-gX(d){return"S\xe9curit\xe9 et donn\xe9es"},
-gcX(){return y.nu}}
-A.dQf.prototype={
-ga6(d){return"Statut"}}
-A.dQl.prototype={
-ga6(d){return"Type"}}
-A.dQ_.prototype={
-ga6(d){return"M\xe9dias"},
-gfN(d){return"Ajouter m\xe9dia"},
-gada(){return"Ajouter depuis YouTube"},
-gaKa(){return"Lien vid\xe9o"},
-gaKb(){return"Lien vid\xe9o YouTube"},
-gamM(){return"D\xe9finir comme image principale"},
-gaiS(){return"Aucun m\xe9dia"},
-gmD(d){return"Mettre \xe0 jour"},
-gfa(d){return"Image"}}
-A.dPX.prototype={
-ga6(d){return"R\xe9duction"},
-giV(){return"R\xe9duction appliqu\xe9e"}}
-A.dQ5.prototype={
-ga6(d){return"Offres"},
-go3(d){return"Ajouter des offres"},
-gado(){var w=this.b
-return w===$?this.b=new A.dQ3():w},
-gfN(d){return"Ajouter une offre"}}
+ganC(){return"Exp\xe9di\xe9"},
+guS(){return"Livr\xe9"},
+gvj(){return"Retourn\xe9"}}
+A.dVU.prototype={
+gOA(){return"Non pay\xe9"},
+gNO(){return"Pay\xe9"},
+gaJe(){return"Rembours\xe9"}}
+A.dVW.prototype={
+gCE(){return"Meta"},
+gaEY(){return"Instagram"},
+gON(){return"YouTube"},
+gamD(){return"Google"},
+gaJT(){return"TikTok"},
+gaCm(){return"Direct"}}
+A.dWn.prototype={
+gU(d){return"D\xe9poser un solde"},
+gb8(d){return y.y},
+gmR(d){return"D\xe9poser maintenant"}}
+A.dWj.prototype={
+gU(d){return"Acheter un abonnement"},
+gb8(d){return y.k1},
+gmR(d){return"Acheter un abonnement"},
+gxj(){return y.jF}}
+A.dWl.prototype={
+gU(d){return"Recharger des points"},
+gb8(d){return y.W},
+gmR(d){return"Recharger des points"},
+gxj(){return y.it}}
+A.dWs.prototype={
+gU(d){return"Envoyer de l'argent"},
+gb8(d){return y.hM},
+gmR(d){return"Envoyer maintenant"}}
+A.dWq.prototype={
+gU(d){return"Payer les dettes"},
+gb8(d){return y.pd},
+gmR(d){return"Payer maintenant"}}
+A.dX9.prototype={
+gU(d){return"Ic\xf4ne de la boutique"},
+gb8(d){return y.mc}}
+A.dXb.prototype={
+gU(d){return"Logo de la boutique"},
+gb8(d){return y.V}}
+A.dXn.prototype={
+gU(d){return"Personnalisez votre boutique"},
+gb8(d){return y.K}}
+A.dXt.prototype={
+gU(d){return"S\xe9lectionner la langue"},
+gb8(d){return y.e}}
+A.dXp.prototype={
+gU(d){return"S\xe9lectionner le pays"},
+gb8(d){return y.o}}
+A.dXr.prototype={
+gU(d){return"S\xe9lectionner la devise"},
+gb8(d){return y.T}}
+A.dXk.prototype={
+gU(d){return y.ic},
+gcj(){return y.nG},
+gNL(){return"Ouvrir votre boutique"},
+gFK(){return"Actions rapides"},
+gaBg(){return"Cr\xe9er un produit"},
+gaBh(){return y.S},
+gaIB(){return"Aper\xe7u de la boutique"},
+gaIC(){return y.et},
+gay5(){return"Ajouter des pixels"},
+gay6(){return y.g_},
+gamu(){return"Commencer"}}
+A.dR0.prototype={
+gU(d){return"T\xe9l\xe9verser un fichier"},
+gmR(d){return"T\xe9l\xe9verser"},
+gaIP(){return"T\xe9l\xe9versement..."}}
+A.dQY.prototype={
+gfb(d){return"Image"}}
 A.dPV.prototype={
-ga6(d){return"Description"},
-giV(){return"Description du produit"}}
-A.dQn.prototype={
-ga6(d){return"Variantes"},
-go3(d){return"Ajouter des variantes"},
-ga40(d){var w=this.b
-return w===$?this.b=new A.dQp():w},
-gi_(){var w=this.c
-return w===$?this.c=new A.dQr():w}}
-A.dQ1.prototype={
-ga6(d){return"Nom"},
-giV(){return"Nom du produit"}}
-A.dQj.prototype={
-ga6(d){return"Titre du produit"},
-giV(){return"Titre du produit"}}
-A.dQ7.prototype={
-ga6(d){return"Prix"},
-giV(){return"Prix du produit"}}
-A.dQ9.prototype={
-ga6(d){return"Quantit\xe9"}}
-A.dQd.prototype={
-ga6(d){return"Slug"},
-giV(){return"Identifiant unique du produit (URL)"}}
-A.dPR.prototype={
-ga6(d){return"Code-barres"},
-giV(){return"Code-barres du produit"}}
-A.dQh.prototype={
-ga6(d){return"Stock"}}
+ga5u(){return"S\xe9lectionner une boutique"},
+ga5v(){return y.A},
+ga5s(){return"S\xe9lectionner des produits"},
+ga5t(){return y.la},
+gEL(){return"Confirmer l'importation"},
+ga0s(){return y.aI},
+gO0(){return"Lien du produit"},
+gaIL(){return"Entrez le lien du produit pour commencer"}}
 A.dPT.prototype={
-ga6(d){return"Co\xfbt"}}
-A.dQb.prototype={
-ga6(d){return"SKU"},
-giV(){return"Identifiant interne du produit"}}
-A.dQx.prototype={
-ga6(d){return"Infos de base"}}
-A.dQE.prototype={
-ga6(d){return"Lien du produit"}}
-A.dQz.prototype={
-ga6(d){return"Donn\xe9es descriptives"},
-gaea(){return"Aide les clients \xe0 trouver vos produits"}}
-A.dQu.prototype={
-ga6(d){return"Param\xe8tres avanc\xe9s"}}
-A.dQC.prototype={
-ga6(d){return"Stock et comptabilit\xe9"}}
-A.dQG.prototype={
-ga6(d){return"M\xe9thode de livraison"},
-giV(){return"M\xe9thode de livraison du produit"},
-gaB6(){return"Prix par d\xe9faut"}}
-A.dRm.prototype={
-ga6(d){return"Nom"}}
-A.dRj.prototype={
-ga6(d){return"Email"}}
-A.dRq.prototype={
-ga6(d){return"T\xe9l\xe9phone"}}
-A.dRo.prototype={
-ga6(d){return"Mot de passe"}}
-A.dOA.prototype={
-gX(d){return"Envoyer \xe0 Ecotrack"},
-gfw(){return"Nom du client"},
-grb(d){return"T\xe9l\xe9phone client"},
-gIW(){return"T\xe9l\xe9phone suppl\xe9mentaire"},
-glL(){return"Adresse client"},
-gdl(d){return"R\xe9gion"},
-gpA(d){return"Ville"},
-gvp(){return"S\xe9lectionner une ville"},
-gaGD(){return"Notes"},
-gAV(d){return"Poids (kg)"},
-geu(d){return"Montant total"},
-gzW(){return"Peut ouvrir le colis ?"},
-gLH(){return"Indiquez si le colis peut \xeatre ouvert"},
-gaDj(){return"Fragile"},
-gaDk(){return"Indiquez si le colis est fragile"},
-gaHS(){return"Pr\xe9parer du stock"},
-gaHT(){return y.aF},
-gaHI(){return"Retrait en agence"},
-gaHJ(){return y.R},
-ghJ(){return"Commande envoy\xe9e \xe0 Ecotrack avec succ\xe8s"},
-gpi(){return"Erreur inconnue"}}
-A.dOF.prototype={
-gaGy(){return"Magasin non connect\xe9 \xe0 Procolis"},
-ghJ(){return"Commande envoy\xe9e \xe0 Procolis avec succ\xe8s"},
-gfA(d){return"Erreur"},
-gpi(){return"Erreur inconnue"}}
-A.dOH.prototype={
-gX(d){return"Envoyer \xe0 Yalidine"},
-gfw(){return"Nom du client"},
-grb(d){return"T\xe9l\xe9phone client"},
-glL(){return"Adresse client"},
-gdl(d){return"R\xe9gion"},
-gpA(d){return"Ville"},
-gvp(){return"S\xe9lectionner une ville"},
-gAV(d){return"Poids (kg)"},
-geu(d){return"Montant total"},
-ghJ(){return"Commande envoy\xe9e \xe0 Yalidine avec succ\xe8s"},
-gpi(){return"Erreur inconnue"}}
-A.dOD.prototype={
-gX(d){return"Envoyer \xe0 Noest"},
-gfw(){return"Nom du client"},
-grb(d){return"T\xe9l\xe9phone client"},
-gIW(){return"T\xe9l\xe9phone suppl\xe9mentaire"},
-glL(){return"Adresse client"},
-gdl(d){return"R\xe9gion"},
-gpA(d){return"Ville"},
-gvp(){return"S\xe9lectionner une ville"},
-gAV(d){return"Poids (kg)"},
-geu(d){return"Montant total"},
-gzW(){return"Peut ouvrir le colis ?"},
-gLH(){return"Indiquez si le colis peut \xeatre ouvert"},
-ganB(){return"Code station"},
-ghJ(){return"Commande envoy\xe9e \xe0 Noest avec succ\xe8s"},
-gfA(d){return"Erreur"},
-gpi(){return"Erreur inconnue"}}
-A.dPy.prototype={
-gaAP(){return"Informations client"},
-gfZ(){return"Informations de livraison"},
-gdw(d){return"Articles"}}
-A.dPu.prototype={
-ghE(d){return"Enregistrer la commande"}}
-A.dPA.prototype={
-gno(d){return"Ce champ est obligatoire"},
-gaEn(){return"Num\xe9ro de t\xe9l\xe9phone invalide"},
-gaEm(){return"Format de nombre invalide"}}
-A.dOZ.prototype={
-ga6(d){return"ID"}}
-A.dOO.prototype={
-ga6(d){return"Nom client"}}
-A.dOS.prototype={
-ga6(d){return"T\xe9l\xe9phone client"}}
-A.dOQ.prototype={
-ga6(d){return"Note du client"}}
-A.dPa.prototype={
-ga6(d){return"Note livraison"}}
+gNZ(){return"Pr\xe9c\xe9dent"},
+gpP(d){return"Suivant"}}
 A.dP4.prototype={
-ga6(d){return"Note priv\xe9e"}}
-A.dP6.prototype={
-ga6(d){return"Adresse de livraison"}}
-A.dP8.prototype={
-ga6(d){return"Ville"}}
-A.dPe.prototype={
-ga6(d){return"R\xe9gion"}}
-A.dPg.prototype={
-ga6(d){return"Type de livraison"},
-gdw(d){var w=this.b
-return w===$?this.b=new A.dPi():w}}
+ga8(d){return"Portefeuille"},
+ayX(d,e){return"Solde : "+d+" "+e}}
 A.dP0.prototype={
-ga6(d){return"Articles"}}
-A.dPo.prototype={
-ga6(d){return"Sous-total"}}
-A.dPc.prototype={
-ga6(d){return"Frais de livraison"}}
-A.dOW.prototype={
-ga6(d){return"Remise"}}
-A.dPm.prototype={
-ga6(d){return"ID magasin"}}
-A.dPk.prototype={
-ga6(d){return"Statut commande"}}
-A.dP2.prototype={
-ga6(d){return"Statut paiement"}}
-A.dOU.prototype={
-ga6(d){return"Statut livraison"}}
-A.dOM.prototype={
-ga6(d){return"Cr\xe9\xe9 le"}}
-A.dPs.prototype={
-ga6(d){return"Mis \xe0 jour le"}}
-A.dPq.prototype={
-ga6(d){return"Total"}}
-A.dQM.prototype={
-gX(d){return"Payer le montant d\xfb"},
-gaC3(){return"Montant d\xfb"},
-gAK(d){return"points"},
-gaHz(){return"Montant \xe0 payer"},
-gaHL(){return"{points} points seront d\xe9duits"},
-gaIB(){return y.hs},
-ga3i(){var w=this.b
-return w===$?this.b=new A.dQO():w},
-gkZ(){var w=this.c
-return w===$?this.c=new A.dQQ():w},
-gl7(d){var w=this.d
-return w===$?this.d=new A.dQK():w},
+ga8(d){return"Mon profil"},
+galJ(){var w=this.b
+return w===$?this.b=new A.dP2():w}}
+A.dOX.prototype={
+gU(d){return"S\xe9curit\xe9 et donn\xe9es"},
+gcj(){return y.nu}}
+A.dSP.prototype={
+ga8(d){return"Statut"}}
+A.dSV.prototype={
+ga8(d){return"Type"}}
+A.dSz.prototype={
+ga8(d){return"M\xe9dias"},
+gfz(d){return"Ajouter m\xe9dia"},
+gadF(){return"Ajouter depuis YouTube"},
+gaKV(){return"Lien vid\xe9o"},
+gaKW(){return"Lien vid\xe9o YouTube"},
+ganf(){return"D\xe9finir comme image principale"},
+gajm(){return"Aucun m\xe9dia"},
+gmG(d){return"Mettre \xe0 jour"},
+gfb(d){return"Image"}}
+A.dSw.prototype={
+ga8(d){return"R\xe9duction"},
+giV(){return"R\xe9duction appliqu\xe9e"}}
+A.dSF.prototype={
+ga8(d){return"Offres"},
+go8(d){return"Ajouter des offres"},
+gadT(){var w=this.b
+return w===$?this.b=new A.dSD():w},
+gfz(d){return"Ajouter une offre"}}
+A.dSu.prototype={
+ga8(d){return"Description"},
+giV(){return"Description du produit"}}
+A.dSX.prototype={
+ga8(d){return"Variantes"},
+go8(d){return"Ajouter des variantes"},
+ga4j(d){var w=this.b
+return w===$?this.b=new A.dSZ():w},
+gi_(){var w=this.c
+return w===$?this.c=new A.dT0():w}}
+A.dSB.prototype={
+ga8(d){return"Nom"},
+giV(){return"Nom du produit"}}
+A.dST.prototype={
+ga8(d){return"Titre du produit"},
+giV(){return"Titre du produit"}}
+A.dSH.prototype={
+ga8(d){return"Prix"},
+giV(){return"Prix du produit"}}
+A.dSJ.prototype={
+ga8(d){return"Quantit\xe9"}}
+A.dSN.prototype={
+ga8(d){return"Slug"},
+giV(){return"Identifiant unique du produit (URL)"}}
+A.dSq.prototype={
+ga8(d){return"Code-barres"},
+giV(){return"Code-barres du produit"}}
+A.dSR.prototype={
+ga8(d){return"Stock"}}
+A.dSs.prototype={
+ga8(d){return"Co\xfbt"}}
+A.dSL.prototype={
+ga8(d){return"SKU"},
+giV(){return"Identifiant interne du produit"}}
+A.dT6.prototype={
+ga8(d){return"Infos de base"}}
+A.dTd.prototype={
+ga8(d){return"Lien du produit"}}
+A.dT8.prototype={
+ga8(d){return"Donn\xe9es descriptives"},
+gaeF(){return"Aide les clients \xe0 trouver vos produits"}}
+A.dT3.prototype={
+ga8(d){return"Param\xe8tres avanc\xe9s"}}
+A.dTb.prototype={
+ga8(d){return"Stock et comptabilit\xe9"}}
+A.dTf.prototype={
+ga8(d){return"M\xe9thode de livraison"},
+giV(){return"M\xe9thode de livraison du produit"},
+gaBM(){return"Prix par d\xe9faut"}}
+A.dTW.prototype={
+ga8(d){return"Nom"}}
+A.dTT.prototype={
+ga8(d){return"Email"}}
+A.dU_.prototype={
+ga8(d){return"T\xe9l\xe9phone"}}
+A.dTY.prototype={
+ga8(d){return"Mot de passe"}}
+A.dR9.prototype={
+gU(d){return"Envoyer \xe0 Ecotrack"},
+gfA(){return"Nom du client"},
+grj(d){return"T\xe9l\xe9phone client"},
+gJ3(){return"T\xe9l\xe9phone suppl\xe9mentaire"},
+glN(){return"Adresse client"},
+gdl(d){return"R\xe9gion"},
+gpH(d){return"Ville"},
+gvs(){return"S\xe9lectionner une ville"},
+gaHi(){return"Notes"},
+gAZ(d){return"Poids (kg)"},
+gew(d){return"Montant total"},
+gA0(){return"Peut ouvrir le colis ?"},
+gLR(){return"Indiquez si le colis peut \xeatre ouvert"},
+gaDY(){return"Fragile"},
+gaDZ(){return"Indiquez si le colis est fragile"},
+gaIy(){return"Pr\xe9parer du stock"},
+gaIz(){return y.aF},
+gaIo(){return"Retrait en agence"},
+gaIp(){return y.R},
+ghJ(){return"Commande envoy\xe9e \xe0 Ecotrack avec succ\xe8s"},
+gpp(){return"Erreur inconnue"}}
+A.dRe.prototype={
+gaHd(){return"Magasin non connect\xe9 \xe0 Procolis"},
+ghJ(){return"Commande envoy\xe9e \xe0 Procolis avec succ\xe8s"},
+geZ(d){return"Erreur"},
+gpp(){return"Erreur inconnue"}}
+A.dRg.prototype={
+gU(d){return"Envoyer \xe0 Yalidine"},
+gfA(){return"Nom du client"},
+grj(d){return"T\xe9l\xe9phone client"},
+glN(){return"Adresse client"},
+gdl(d){return"R\xe9gion"},
+gpH(d){return"Ville"},
+gvs(){return"S\xe9lectionner une ville"},
+gAZ(d){return"Poids (kg)"},
+gew(d){return"Montant total"},
+ghJ(){return"Commande envoy\xe9e \xe0 Yalidine avec succ\xe8s"},
+gpp(){return"Erreur inconnue"}}
+A.dRc.prototype={
+gU(d){return"Envoyer \xe0 Noest"},
+gfA(){return"Nom du client"},
+grj(d){return"T\xe9l\xe9phone client"},
+gJ3(){return"T\xe9l\xe9phone suppl\xe9mentaire"},
+glN(){return"Adresse client"},
+gdl(d){return"R\xe9gion"},
+gpH(d){return"Ville"},
+gvs(){return"S\xe9lectionner une ville"},
+gAZ(d){return"Poids (kg)"},
+gew(d){return"Montant total"},
+gA0(){return"Peut ouvrir le colis ?"},
+gLR(){return"Indiquez si le colis peut \xeatre ouvert"},
+gao5(){return"Code station"},
+ghJ(){return"Commande envoy\xe9e \xe0 Noest avec succ\xe8s"},
+geZ(d){return"Erreur"},
+gpp(){return"Erreur inconnue"}}
+A.dS7.prototype={
+gaBt(){return"Informations client"},
+gh_(){return"Informations de livraison"},
+gdA(d){return"Articles"}}
+A.dS3.prototype={
+ghE(d){return"Enregistrer la commande"}}
+A.dS9.prototype={
+gns(d){return"Ce champ est obligatoire"},
+gaF1(){return"Num\xe9ro de t\xe9l\xe9phone invalide"},
+gaF0(){return"Format de nombre invalide"}}
+A.dRy.prototype={
+ga8(d){return"ID"}}
+A.dRn.prototype={
+ga8(d){return"Nom client"}}
+A.dRr.prototype={
+ga8(d){return"T\xe9l\xe9phone client"}}
+A.dRp.prototype={
+ga8(d){return"Note du client"}}
+A.dRK.prototype={
+ga8(d){return"Note livraison"}}
+A.dRE.prototype={
+ga8(d){return"Note priv\xe9e"}}
+A.dRG.prototype={
+ga8(d){return"Adresse de livraison"}}
+A.dRI.prototype={
+ga8(d){return"Ville"}}
+A.dRO.prototype={
+ga8(d){return"R\xe9gion"}}
+A.dRQ.prototype={
+ga8(d){return"Type de livraison"},
+gdA(d){var w=this.b
+return w===$?this.b=new A.dRS():w}}
+A.dRA.prototype={
+ga8(d){return"Articles"}}
+A.dRY.prototype={
+ga8(d){return"Sous-total"}}
+A.dRM.prototype={
+ga8(d){return"Frais de livraison"}}
+A.dRv.prototype={
+ga8(d){return"Remise"}}
+A.dRW.prototype={
+ga8(d){return"ID magasin"}}
+A.dRU.prototype={
+ga8(d){return"Statut commande"}}
+A.dRC.prototype={
+ga8(d){return"Statut paiement"}}
+A.dRt.prototype={
+ga8(d){return"Statut livraison"}}
+A.dRl.prototype={
+ga8(d){return"Cr\xe9\xe9 le"}}
+A.dS1.prototype={
+ga8(d){return"Mis \xe0 jour le"}}
+A.dS_.prototype={
+ga8(d){return"Total"}}
+A.dTl.prototype={
+gU(d){return"Payer le montant d\xfb"},
+gaCI(){return"Montant d\xfb"},
+gAO(d){return"points"},
+gaIf(){return"Montant \xe0 payer"},
+gaIr(){return"{points} points seront d\xe9duits"},
+gaJk(){return y.hs},
+gFK(){var w=this.b
+return w===$?this.b=new A.dTn():w},
+gl0(){var w=this.c
+return w===$?this.c=new A.dTp():w},
+gl9(d){var w=this.d
+return w===$?this.d=new A.dTj():w},
 ghJ(){return y.kU}}
-A.dR6.prototype={
-gM2(){return"Jour"},
-gMV(){return"Heure"},
-gNo(){return"Minute"},
-gJN(){return"Seconde"},
-gak9(){var w=this.b
-return w===$?this.b=new A.dR8():w},
-gazI(){return"Points utilis\xe9s"},
-gAK(d){return"points"},
-aCG(d){return"D\xe9pass\xe9 de "+d+" points"},
-aIA(d){return"Restant "+d+" points"},
-gadQ(){return"Acheter un forfait"},
-gzY(){return"Recharger"}}
-A.dQX.prototype={
-ga6(d){return"Nom"},
-go3(d){return"Entrer le nom du magasin"},
+A.dTG.prototype={
+gMc(){return"Jour"},
+gN4(){return"Heure"},
+gNz(){return"Minute"},
+gJV(){return"Seconde"},
+gakE(){var w=this.b
+return w===$?this.b=new A.dTI():w},
+gaAh(){return"Points utilis\xe9s"},
+gAO(d){return"points"},
+aDk(d){return"D\xe9pass\xe9 de "+d+" points"},
+aJj(d){return"Restant "+d+" points"},
+gaek(){return"Acheter un forfait"},
+gA2(){return"Recharger"}}
+A.dTw.prototype={
+ga8(d){return"Nom"},
+go8(d){return"Entrer le nom du magasin"},
 giV(){return"Nom de votre magasin"}}
-A.dQU.prototype={}
-A.dQZ.prototype={
-ga6(d){return"Slug"},
+A.dTt.prototype={}
+A.dTy.prototype={
+ga8(d){return"Slug"},
 giV(){return"Le slug est le sous-domaine du magasin"},
-gkZ(){return y.b}}
-A.dRb.prototype={
-gX(d){return"Outils IA"},
-gaCh(){return"Modifier les images"},
-galy(){return"G\xe9n\xe9rer des images"},
-gaiN(){return"Ma galerie d'images"}}
-A.dRf.prototype={
-gX(d){return"Programme Partenaire"},
-gbh(d){return y.I}}
-A.dMN.prototype={
-ga6(d){return"Aper\xe7u"},
-gJ3(){var w=this.b
-return w===$?this.b=new A.dMP():w}}
-A.dN0.prototype={
-gaHf(){return"Distribution des commandes"},
-gamE(){return y.dO},
-gamI(){return"\xc9tat s\xe9lectionn\xe9 : {state}"},
-gIF(){var w=this.b
-return w===$?this.b=new A.dN4():w},
-ga8(){var w=this.c
-return w===$?this.c=new A.dN6():w},
-gvh(){var w=this.d
-return w===$?this.d=new A.dN8():w},
-gaAR(){var w=this.e
-return w===$?this.e=new A.dN_():w},
-gMZ(){var w=this.r
-return w===$?this.r=new A.dN2():w}}
-A.dML.prototype={
-ga6(d){return"Commandes"},
-gpY(d){return"Rechercher des commandes"}}
-A.dMR.prototype={
-ga6(d){return"Produits"},
-gpY(d){return"Rechercher des produits"},
-gx0(){return"Ajouter un produit"},
-gFB(d){return"Produit"},
+gl0(){return y.b}}
+A.dTL.prototype={
+gU(d){return"Outils IA"},
+gaCW(){return"Modifier les images"},
+gam3(){return"G\xe9n\xe9rer des images"},
+gajh(){return"Ma galerie d'images"}}
+A.dTP.prototype={
+gU(d){return"Programme Partenaire"},
+gb8(d){return y.I}}
+A.dPm.prototype={
+ga8(d){return"Aper\xe7u"},
+gJb(){var w=this.b
+return w===$?this.b=new A.dPo():w}}
+A.dPA.prototype={
+gaHW(){return"Distribution des commandes"},
+gan7(){return y.dO},
+ganb(){return"\xc9tat s\xe9lectionn\xe9 : {state}"},
+gIN(){var w=this.b
+return w===$?this.b=new A.dPE():w},
+ga9(){var w=this.c
+return w===$?this.c=new A.dPG():w},
+gvk(){var w=this.d
+return w===$?this.d=new A.dPI():w},
+gaBv(){var w=this.e
+return w===$?this.e=new A.dPz():w},
+gN8(){var w=this.r
+return w===$?this.r=new A.dPC():w}}
+A.dPk.prototype={
+ga8(d){return"Commandes"},
+gn3(d){return"Rechercher des commandes"}}
+A.dPq.prototype={
+ga8(d){return"Produits"},
+gn3(d){return"Rechercher des produits"},
+gx6(){return"Ajouter un produit"},
+gFI(d){return"Produit"},
 gdi(){return"Prix"},
 ghQ(){return"Quantit\xe9"},
-gh2(){return"Images"}}
-A.dMV.prototype={
-ga6(d){return"Exp\xe9dition"},
-gl3(){return"Prix d'exp\xe9dition"},
-gt0(){var w=this.b
-return w===$?this.b=new A.dMX():w},
-gCU(){return"Au bureau"},
-gCV(){return"\xc0 domicile"},
+gfV(){return"Images"}}
+A.dPu.prototype={
+ga8(d){return"Exp\xe9dition"},
+gl5(){return"Prix d'exp\xe9dition"},
+gt6(){var w=this.b
+return w===$?this.b=new A.dPw():w},
+gD_(){return"Au bureau"},
+gD0(){return"\xc0 domicile"},
 gdl(d){return"\xc9tat"},
-gaJT(){return"Prix mis \xe0 jour avec succ\xe8s"},
-gaJM(){return y.oQ},
-gaCM(){return"Exporter les donn\xe9es vers un fichier CSV"},
-aD3(d){return"Fichier enregistr\xe9 \xe0 "+d},
-gaE2(){return y.iH},
-gMW(){return"Donn\xe9es import\xe9es avec succ\xe8s"},
-gaC8(){return"Modifier tous les prix"},
-gagh(){return"Modifier les prix pour tous les \xc9tats"},
-gaC9(){return y.n},
-gaJa(){return"Au bureau"},
-gaJc(){return"\xc0 domicile"}}
-A.dMJ.prototype={
-ga6(d){return"Int\xe9grations"}}
-A.dMT.prototype={
-ga6(d){return"Param\xe8tres"}}
-A.dO1.prototype={
-gX(d){return"S\xe9curit\xe9"},
-gbh(d){return y.ll},
-gnV(){return"Configurer la s\xe9curit\xe9"},
-gmn(d){return"D\xe9connecter"}}
-A.dO3.prototype={
-gan3(){return"Configurer l'int\xe9gration de s\xe9curit\xe9"},
-gan1(){return y.oO},
-gnV(){return"Configurer"},
-gan2(){return y.ej},
-go_(){return y.mB}}
-A.dO6.prototype={
-gX(d){return"Int\xe9gration de s\xe9curit\xe9"},
-gbh(d){return y.b8},
-gaJo(){return"Activer la s\xe9curit\xe9"},
-gaJn(){return y.d},
-giw(d){return"S\xe9curit\xe9 activ\xe9e avec succ\xe8s"},
-gaBL(d){return"S\xe9curit\xe9 d\xe9sactiv\xe9e avec succ\xe8s"},
-gfA(d){return y.eG}}
-A.dO8.prototype={
-gX(d){return"Protection des commandes"},
-gcX(){return y.lJ},
-gaDn(){return"Activer la protection sur l'interface"},
-gaDm(){return y.t},
-gaym(){return"Activer la protection c\xf4t\xe9 serveur"},
-gayl(){return y.n2},
-gaBK(){return"Bloquer les commandes directes"},
-gaBJ(){return y.h},
-gaxI(){return y.B},
-gaxH(){return y.mS},
-gaC6(){return"Dur\xe9es de blocage"},
-gaC5(){return y.z},
-gaEu(){return"Blocage IP"},
-gaEt(){return"Exemple : 24 heures"},
-gaHH(){return"Blocage num\xe9ro de t\xe9l\xe9phone"},
-gaHG(){return"Exemple : 3 jours"},
-gaJx(){return"Unit\xe9"},
-ghE(d){return"Enregistrer la protection des commandes"},
-gama(){return"Enregistrement..."},
-ghJ(){return"Protection des commandes enregistr\xe9e"},
-gfA(d){return y.iJ},
-gkZ(){var w=this.b
-return w===$?this.b=new A.dOa():w}}
-A.dOc.prototype={
-gJN(){return"Secondes"},
-gNo(){return"Minutes"},
-gMV(){return"Heures"},
-gM2(){return"Jours"}}
-A.dNw.prototype={
-gX(d){return"Param\xe8tres Ecotrack"}}
-A.dNt.prototype={
-gX(d){return"R\xe9sum\xe9 financier"},
-gxA(){return"Chargement des donn\xe9es financi\xe8res..."},
-gfA(d){return y.iM},
-guc(d){return"Rafra\xeechir"},
-ga3V(){return"Total encaiss\xe9"},
-gV9(){return"Non encaiss\xe9"},
-gakU(){return"Paiement pr\xeat"},
-gakf(){return"Fonds re\xe7us"},
-gazo(){return"Taux de recouvrement"},
-gaBn(){return"Taux de livraison"},
-gaIR(){return"Taux de retour"},
-gaJk(){return"Succ\xe8s d'aujourd'hui"},
-gaxS(){return"Montants"},
-gaCT(){return"Frais"},
-gaGh(){return"Net"},
-gmm(){return"DZD"},
-gpI(){return"Aucune donn\xe9e financi\xe8re disponible"}}
-A.dNy.prototype={
-gX(d){return"Statistiques"},
-gxA(){return"Chargement des statistiques..."},
-gfA(d){return"\xc9chec du chargement des statistiques"},
-guc(d){return"Rafra\xeechir"},
-gpI(){return"Aucune statistique disponible"},
-gaJj(){return"Activit\xe9 du jour"},
-gam3(){return"Statistiques globales"},
-gaCL(){return"Exp\xe9di\xe9"},
-guN(){return"Livr\xe9"},
-gvg(){return"Retourn\xe9"},
-gaos(){return"Suspendu"},
-gagp(){return"En traitement"},
-ga2o(){return"Livr\xe9"},
-ga3D(){return"Retours"},
-geu(d){return"Total"}}
-A.dOk.prototype={
-gX(d){return y.T},
-gbh(d){return y.ma},
-gay_(){return"ID de l'application APP ID"},
-gaxZ(){return"737001705622XXXXXXXX"},
-gaxY(){return y.k_},
-gaxV(){return"Cl\xe9 API"},
-gLw(){return"ETfCW1W8mtxa..."},
-gaxU(){return y.bH},
-gOx(){return"Cl\xe9 secr\xe8te du Webhook (Optionnel)"},
-gaKC(){return"webhook_secret_key_123..."},
-gaKB(){return y.ck},
-gaxM(){return"Agent"},
-ganA(){return"\xc9tat de d\xe9part"},
-gaxh(){return"Activer le service"},
-gaDc(){return"Forcer la livraison gratuite"},
-gaDb(){return y.nU}}
-A.dNH.prototype={
-gX(d){return"Param\xe8tres Meta Pixel"},
-gbD(d){return"Actif"},
-gLp(){return y.i}}
-A.dOg.prototype={
-gX(d){return"Param\xe8tres TikTok Pixel"},
-gbD(d){return"Actif"},
-gLp(){return y.i}}
-A.dNV.prototype={
-gHS(){var w=this.b
-return w===$?this.b=new A.dNS():w},
-gagy(){var w=this.c
-return w===$?this.c=new A.dNU():w},
-gIX(){var w=this.d
-return w===$?this.d=new A.dNX():w}}
-A.dNM.prototype={
-gIj(){var w=this.b
-return w===$?this.b=new A.dNO():w},
-gafN(){var w=this.c
-return w===$?this.c=new A.dNL():w}}
-A.dMc.prototype={
-gX(d){return"\xc9tiquette de l'image de r\xe9f\xe9rence"},
-gbh(d){return y.C},
-go3(d){return"Exemple : Logo de l'entreprise"},
-gx9(d){return"Effacer"},
-gcA(d){return"Annuler"},
-ghE(d){return"Enregistrer"}}
-A.dRN.prototype={
-gpe(){var w=this.b
-return w===$?this.b=new A.dRT():w},
-gCt(){var w=this.c
-return w===$?this.c=new A.dRR():w},
-gpj(){var w=this.d
-return w===$?this.d=new A.dRV():w},
-gp0(){var w=this.e
-return w===$?this.e=new A.dRL():w},
-gpb(){var w=this.f
-return w===$?this.f=new A.dRP():w}}
-A.dS8.prototype={
-gpe(){var w=this.b
-return w===$?this.b=new A.dSe():w},
-gCF(){var w=this.c
-return w===$?this.c=new A.dSc():w},
-gpj(){var w=this.d
-return w===$?this.d=new A.dSi():w},
-gBG(){var w=this.e
-return w===$?this.e=new A.dS4():w},
-gpY(d){var w=this.f
-return w===$?this.f=new A.dSg():w},
-gBF(){var w=this.r
-return w===$?this.r=new A.dS0():w},
-gp0(){var w=this.w
-return w===$?this.w=new A.dS2():w},
-gpb(){var w=this.x
-return w===$?this.x=new A.dSa():w},
-gBV(){var w=this.y
-return w===$?this.y=new A.dS7():w}}
-A.dMt.prototype={
-ghJ(){return"Photo mise \xe0 jour avec succ\xe8s"},
-gfA(d){return y.ob}}
-A.dQ3.prototype={
-gX(d){return"Avertissement"},
-gcX(){return y.e}}
-A.dQp.prototype={
-gbC(d){return"Texte"},
-gfa(d){return"Image"},
-ga7(d){return"Couleur"}}
-A.dQr.prototype={
-gaFe(d){return"Liste"},
-gaC2(){return"Menu d\xe9roulant"},
-gaz4(){return"Boutons"}}
+gaKD(){return"Prix mis \xe0 jour avec succ\xe8s"},
+gaKw(){return y.oQ},
+gaDq(){return"Exporter les donn\xe9es vers un fichier CSV"},
+aDI(d){return"Fichier enregistr\xe9 \xe0 "+d},
+gaEH(){return y.iH},
+gN5(){return"Donn\xe9es import\xe9es avec succ\xe8s"},
+gaCN(){return"Modifier tous les prix"},
+gagM(){return"Modifier les prix pour tous les \xc9tats"},
+gaCO(){return y.n},
+gaJV(){return"Au bureau"},
+gaJX(){return"\xc0 domicile"}}
 A.dPi.prototype={
-gIj(){return"Domicile"},
-gIX(){return"Retrait"},
-gPt(d){return"Magasin"}}
-A.dQO.prototype={
-gaHw(){return"Payer le montant complet"},
-gaHx(){return"Payer la moiti\xe9"},
-gaHy(){return"Payer le quart"}}
+ga8(d){return"Int\xe9grations"}}
+A.dPs.prototype={
+ga8(d){return"Param\xe8tres"}}
+A.dQB.prototype={
+gU(d){return"S\xe9curit\xe9"},
+gb8(d){return y.ll},
+go_(){return"Configurer la s\xe9curit\xe9"},
+gmq(d){return"D\xe9connecter"}}
+A.dQD.prototype={
+ganx(){return"Configurer l'int\xe9gration de s\xe9curit\xe9"},
+ganv(){return y.oO},
+go_(){return"Configurer"},
+ganw(){return y.ej},
+go4(){return y.mB}}
+A.dQG.prototype={
+gU(d){return"Int\xe9gration de s\xe9curit\xe9"},
+gb8(d){return y.b8},
+gaK8(){return"Activer la s\xe9curit\xe9"},
+gaK7(){return y.d},
+giw(d){return"S\xe9curit\xe9 activ\xe9e avec succ\xe8s"},
+gaCp(d){return"S\xe9curit\xe9 d\xe9sactiv\xe9e avec succ\xe8s"},
+geZ(d){return y.eG}}
+A.dQI.prototype={
+gU(d){return"Protection des commandes"},
+gcj(){return y.lJ},
+gaE1(){return"Activer la protection sur l'interface"},
+gaE0(){return y.t},
+gayW(){return"Activer la protection c\xf4t\xe9 serveur"},
+gayV(){return y.n2},
+gaCo(){return"Bloquer les commandes directes"},
+gaCn(){return y.h},
+gayh(){return y.B},
+gayg(){return y.mS},
+gaCL(){return"Dur\xe9es de blocage"},
+gaCK(){return y.z},
+gaF8(){return"Blocage IP"},
+gaF7(){return"Exemple : 24 heures"},
+gaIn(){return"Blocage num\xe9ro de t\xe9l\xe9phone"},
+gaIm(){return"Exemple : 3 jours"},
+gaKh(){return"Unit\xe9"},
+ghE(d){return"Enregistrer la protection des commandes"},
+gamH(){return"Enregistrement..."},
+ghJ(){return"Protection des commandes enregistr\xe9e"},
+geZ(d){return y.iJ},
+gl0(){var w=this.b
+return w===$?this.b=new A.dQK():w}}
+A.dQM.prototype={
+gJV(){return"Secondes"},
+gNz(){return"Minutes"},
+gN4(){return"Heures"},
+gMc(){return"Jours"}}
+A.dQ5.prototype={
+gU(d){return"Param\xe8tres Ecotrack"}}
+A.dQ2.prototype={
+gU(d){return"R\xe9sum\xe9 financier"},
+gxF(){return"Chargement des donn\xe9es financi\xe8res..."},
+geZ(d){return y.iM},
+gui(d){return"Rafra\xeechir"},
+ga4d(){return"Total encaiss\xe9"},
+gVp(){return"Non encaiss\xe9"},
+galq(){return"Paiement pr\xeat"},
+gakK(){return"Fonds re\xe7us"},
+gazY(){return"Taux de recouvrement"},
+gaC1(){return"Taux de livraison"},
+gaJC(){return"Taux de retour"},
+gaK4(){return"Succ\xe8s d'aujourd'hui"},
+gayr(){return"Montants"},
+gaDx(){return"Frais"},
+gaGW(){return"Net"},
+gmp(){return"DZD"},
+gpQ(){return"Aucune donn\xe9e financi\xe8re disponible"}}
+A.dQ7.prototype={
+gU(d){return"Statistiques"},
+gxF(){return"Chargement des statistiques..."},
+geZ(d){return"\xc9chec du chargement des statistiques"},
+gui(d){return"Rafra\xeechir"},
+gpQ(){return"Aucune statistique disponible"},
+gaK3(){return"Activit\xe9 du jour"},
+gamA(){return"Statistiques globales"},
+gaDp(){return"Exp\xe9di\xe9"},
+guS(){return"Livr\xe9"},
+gvj(){return"Retourn\xe9"},
+gaoX(){return"Suspendu"},
+gagU(){return"En traitement"},
+ga2I(){return"Livr\xe9"},
+ga3W(){return"Retours"},
+gew(d){return"Total"}}
+A.dQU.prototype={
+gU(d){return y.g6},
+gb8(d){return y.ma},
+gayz(){return"ID de l'application APP ID"},
+gayy(){return"737001705622XXXXXXXX"},
+gayx(){return y.k_},
+gayu(){return"Cl\xe9 API"},
+gLG(){return"ETfCW1W8mtxa..."},
+gayt(){return y.bH},
+gOJ(){return"Cl\xe9 secr\xe8te du Webhook (Optionnel)"},
+gaLm(){return"webhook_secret_key_123..."},
+gaLl(){return y.ck},
+gayl(){return"Agent"},
+gao4(){return"\xc9tat de d\xe9part"},
+gaxP(){return"Activer le service"},
+gaDR(){return"Forcer la livraison gratuite"},
+gaDQ(){return y.nU}}
+A.dQg.prototype={
+gU(d){return"Param\xe8tres Meta Pixel"},
+gbE(d){return"Actif"},
+gLy(){return y.i}}
 A.dQQ.prototype={
-gno(d){return"Veuillez saisir le montant"},
-gaEk(d){return"Veuillez saisir un montant valide"},
-gaCH(){return y.kc},
-gaGB(){return y.eN}}
+gU(d){return"Param\xe8tres TikTok Pixel"},
+gbE(d){return"Actif"},
+gLy(){return y.i}}
+A.dQu.prototype={
+gI_(){var w=this.b
+return w===$?this.b=new A.dQr():w},
+gah2(){var w=this.c
+return w===$?this.c=new A.dQt():w},
+gJ4(){var w=this.d
+return w===$?this.d=new A.dQw():w}}
+A.dQl.prototype={
+gIr(){var w=this.b
+return w===$?this.b=new A.dQn():w},
+gagh(){var w=this.c
+return w===$?this.c=new A.dQk():w}}
+A.dOM.prototype={
+gU(d){return"\xc9tiquette de l'image de r\xe9f\xe9rence"},
+gb8(d){return y.C},
+go8(d){return"Exemple : Logo de l'entreprise"},
+gxd(d){return"Effacer"},
+gcB(d){return"Annuler"},
+ghE(d){return"Enregistrer"}}
+A.dUm.prototype={
+gpl(){var w=this.b
+return w===$?this.b=new A.dUs():w},
+gCy(){var w=this.c
+return w===$?this.c=new A.dUq():w},
+gpq(){var w=this.d
+return w===$?this.d=new A.dUu():w},
+gpa(){var w=this.e
+return w===$?this.e=new A.dUk():w},
+gpi(){var w=this.f
+return w===$?this.f=new A.dUo():w}}
+A.dUI.prototype={
+gpl(){var w=this.b
+return w===$?this.b=new A.dUO():w},
+gCK(){var w=this.c
+return w===$?this.c=new A.dUM():w},
+gpq(){var w=this.d
+return w===$?this.d=new A.dUS():w},
+gBL(){var w=this.e
+return w===$?this.e=new A.dUE():w},
+gn3(d){var w=this.f
+return w===$?this.f=new A.dUQ():w},
+gBK(){var w=this.r
+return w===$?this.r=new A.dUA():w},
+gpa(){var w=this.w
+return w===$?this.w=new A.dUC():w},
+gpi(){var w=this.x
+return w===$?this.x=new A.dUK():w},
+gC_(){var w=this.y
+return w===$?this.y=new A.dUH():w}}
+A.dP2.prototype={
+ghJ(){return"Photo mise \xe0 jour avec succ\xe8s"},
+geZ(d){return y.ob}}
+A.dSD.prototype={
+gU(d){return"Avertissement"},
+gcj(){return y.kO}}
+A.dSZ.prototype={
+gbD(d){return"Texte"},
+gfb(d){return"Image"},
+ga7(d){return"Couleur"}}
+A.dT0.prototype={
+gaFT(d){return"Liste"},
+gaCH(){return"Menu d\xe9roulant"},
+gazE(){return"Boutons"}}
+A.dRS.prototype={
+gIr(){return"Domicile"},
+gJ4(){return"Retrait"},
+gPF(d){return"Magasin"}}
+A.dTn.prototype={
+gaIc(){return"Payer le montant complet"},
+gaId(){return"Payer la moiti\xe9"},
+gaIe(){return"Payer le quart"}}
+A.dTp.prototype={
+gns(d){return"Veuillez saisir le montant"},
+gaEZ(d){return"Veuillez saisir un montant valide"},
+gaDl(){return y.kc},
+gaHg(){return y.eN}}
+A.dTj.prototype={
+gaIa(){return"Payer"}}
+A.dTI.prototype={
+gU(d){return"Limite de points d\xe9pass\xe9e"},
+ghk(d){return y.jH}}
+A.dPo.prototype={
+ga8(d){return"Liens rapides"},
+gx6(){return"Ajouter un produit"},
+gaxG(){return"Paniers abandonn\xe9s"},
+gazy(){return"Changer de th\xe8me"},
+gaog(){return"Param\xe8tres de la boutique"}}
+A.dPE.prototype={
+ga8(d){return"Indicateurs cl\xe9s"},
+gjE(){return"Aujourd'hui"},
+gAW(){return"Cette semaine"},
+gAV(){return"Ce mois-ci"},
+gNk(){return"Le mois dernier"},
+gaBs(){return"Plage personnalis\xe9e"}}
+A.dPG.prototype={
+ga8(d){return"Commandes"}}
+A.dPI.prototype={
+ga8(d){return"Revenu"}}
+A.dPz.prototype={
+ga8(d){return"Clients"}}
+A.dPC.prototype={
+ga8(d){return"Statistiques"},
+gaKf(){return"Produits tendance"},
+gaIi(){return"Heures de pointe d'achat"},
+gaIs(){return"\xc9tats populaires"}}
+A.dPw.prototype={
+gU(d){return"Directives de prix"},
+gcj(){return y.o_}}
 A.dQK.prototype={
-gaHu(){return"Payer"}}
-A.dR8.prototype={
-gX(d){return"Limite de points d\xe9pass\xe9e"},
-ghj(d){return y.jH}}
-A.dMP.prototype={
-ga6(d){return"Liens rapides"},
-gx0(){return"Ajouter un produit"},
-gax8(){return"Paniers abandonn\xe9s"},
-gayZ(){return"Changer de th\xe8me"},
-ganM(){return"Param\xe8tres de la boutique"}}
-A.dN4.prototype={
-ga6(d){return"Indicateurs cl\xe9s"},
-gjD(){return"Aujourd'hui"},
-gAS(){return"Cette semaine"},
-gAR(){return"Ce mois-ci"},
-gNa(){return"Le mois dernier"},
-gaAO(){return"Plage personnalis\xe9e"}}
-A.dN6.prototype={
-ga6(d){return"Commandes"}}
-A.dN8.prototype={
-ga6(d){return"Revenu"}}
-A.dN_.prototype={
-ga6(d){return"Clients"}}
-A.dN2.prototype={
-ga6(d){return"Statistiques"},
-gaJv(){return"Produits tendance"},
-gaHC(){return"Heures de pointe d'achat"},
-gaHM(){return"\xc9tats populaires"}}
-A.dMX.prototype={
-gX(d){return"Directives de prix"},
-gcX(){return y.o_}}
-A.dOa.prototype={
-gno(d){return"Veuillez saisir une dur\xe9e"},
-gaHO(){return"Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"}}
-A.dNS.prototype={
-gX(d){return"Livraison"},
-gbh(d){return"Effectuer une livraison"}}
-A.dNU.prototype={
-gX(d){return"\xc9change"},
-gbh(d){return"\xc9changer le colis avec le client final"}}
-A.dNX.prototype={
-gX(d){return"Ramassage"},
-gbh(d){return y.m9}}
-A.dNO.prototype={
-gX(d){return"Livraison \xe0 domicile"},
-gbh(d){return"Livrer directement \xe0 l\u2019adresse du client"}}
-A.dNL.prototype={
-gX(d){return"Point relais"},
-gbh(d){return"Livrer au bureau Noest le plus proche"}}
-A.dRT.prototype={
-gX(d){return"Achat"},
-gcX(){return"Envoyer un achat"}}
-A.dRR.prototype={
-gX(d){return"Lead"},
-gcX(){return"Envoyer un lead"}}
-A.dRV.prototype={
-gX(d){return"Voir contenu"},
-gcX(){return"Envoyer vue contenu"}}
-A.dRL.prototype={
-gX(d){return"Ajouter au panier"},
-gcX(){return"Envoyer ajout panier"}}
-A.dRP.prototype={
-gX(d){return"D\xe9but commande"},
-gcX(){return"Envoyer d\xe9but commande"}}
-A.dSe.prototype={
-gX(d){return"Achat"},
-gcX(){return"Envoyer un achat"}}
-A.dSc.prototype={
-gX(d){return"Commander"},
-gcX(){return"Envoyer une commande"}}
-A.dSi.prototype={
-gX(d){return"Voir contenu"},
-gcX(){return"Envoyer vue contenu"}}
-A.dS4.prototype={
-gX(d){return"Liste de souhaits"},
-gcX(){return"Envoyer ajout \xe0 la liste"}}
-A.dSg.prototype={
-gX(d){return"Recherche"},
-gcX(){return"Envoyer recherche"}}
-A.dS0.prototype={
-gX(d){return"Paiement"},
-gcX(){return"Envoyer infos paiement"}}
-A.dS2.prototype={
-gX(d){return"Ajouter au panier"},
-gcX(){return"Envoyer ajout panier"}}
-A.dSa.prototype={
-gX(d){return"D\xe9but commande"},
-gcX(){return"Envoyer d\xe9but commande"}}
-A.dS7.prototype={
-gX(d){return"Inscription"},
-gcX(){return"Envoyer inscription"}}
-A.bmr.prototype={}
+gns(d){return"Veuillez saisir une dur\xe9e"},
+gaIu(){return"Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"}}
+A.dQr.prototype={
+gU(d){return"Livraison"},
+gb8(d){return"Effectuer une livraison"}}
+A.dQt.prototype={
+gU(d){return"\xc9change"},
+gb8(d){return"\xc9changer le colis avec le client final"}}
+A.dQw.prototype={
+gU(d){return"Ramassage"},
+gb8(d){return y.m9}}
+A.dQn.prototype={
+gU(d){return"Livraison \xe0 domicile"},
+gb8(d){return"Livrer directement \xe0 l\u2019adresse du client"}}
+A.dQk.prototype={
+gU(d){return"Point relais"},
+gb8(d){return"Livrer au bureau Noest le plus proche"}}
+A.dUs.prototype={
+gU(d){return"Achat"},
+gcj(){return"Envoyer un achat"}}
+A.dUq.prototype={
+gU(d){return"Lead"},
+gcj(){return"Envoyer un lead"}}
+A.dUu.prototype={
+gU(d){return"Voir contenu"},
+gcj(){return"Envoyer vue contenu"}}
+A.dUk.prototype={
+gU(d){return"Ajouter au panier"},
+gcj(){return"Envoyer ajout panier"}}
+A.dUo.prototype={
+gU(d){return"D\xe9but commande"},
+gcj(){return"Envoyer d\xe9but commande"}}
+A.dUO.prototype={
+gU(d){return"Achat"},
+gcj(){return"Envoyer un achat"}}
+A.dUM.prototype={
+gU(d){return"Commander"},
+gcj(){return"Envoyer une commande"}}
+A.dUS.prototype={
+gU(d){return"Voir contenu"},
+gcj(){return"Envoyer vue contenu"}}
+A.dUE.prototype={
+gU(d){return"Liste de souhaits"},
+gcj(){return"Envoyer ajout \xe0 la liste"}}
+A.dUQ.prototype={
+gU(d){return"Recherche"},
+gcj(){return"Envoyer recherche"}}
+A.dUA.prototype={
+gU(d){return"Paiement"},
+gcj(){return"Envoyer infos paiement"}}
+A.dUC.prototype={
+gU(d){return"Ajouter au panier"},
+gcj(){return"Envoyer ajout panier"}}
+A.dUK.prototype={
+gU(d){return"D\xe9but commande"},
+gcj(){return"Envoyer d\xe9but commande"}}
+A.dUH.prototype={
+gU(d){return"Inscription"},
+gcj(){return"Envoyer inscription"}}
+A.bn6.prototype={}
 var z=a.updateTypes([])
-A.e0P.prototype={
-$1(d){return A.f8B(this.a,d)},
-$S:206}
-A.e_Q.prototype={
+A.e3E.prototype={
+$1(d){return A.fbo(this.a,d)},
+$S:215}
+A.e2F.prototype={
 $1$count(d){return"Maximum "+B.f(d)+" fichiers"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e_R.prototype={
+A.e2G.prototype={
 $1$count(d){return B.f(d)+" fichier s\xe9lectionn\xe9"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e_S.prototype={
+A.e2H.prototype={
 $1$count(d){return B.f(d)+" fichiers s\xe9lectionn\xe9s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e02.prototype={
+A.e2S.prototype={
 $1$message(d){return y.pb+B.f(d)},
 $C:"$1$message",
 $R:0,
-$D(){return{message:C.ab}},
-$S:313}
-A.e0d.prototype={
+$D(){return{message:C.ac}},
+$S:361}
+A.e32.prototype={
 $1$count(d){return"\xcates-vous s\xfbr de vouloir importer "+B.f(d)+" produits ?"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e0o.prototype={
+A.e3d.prototype={
 $1$count(d){return B.f(d)+" produits import\xe9s avec succ\xe8s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e0z.prototype={
+A.e3o.prototype={
 $1$count(d){return"Confirmer la s\xe9lection ("+B.f(d)+")"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e0J.prototype={
+A.e3y.prototype={
 $1$count(d){return B.f(d)+" produits trouv\xe9s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e0K.prototype={
+A.e3z.prototype={
 $2$imported$total(d,e){return B.f(d)+" sur "+B.f(e)+" produits import\xe9s"},
 $C:"$2$imported$total",
 $R:0,
-$D(){return{imported:C.ab,total:C.ab}},
-$S:316}
-A.e0L.prototype={
+$D(){return{imported:C.ac,total:C.ac}},
+$S:364}
+A.e3A.prototype={
 $1$count(d){return B.f(d)+" produits import\xe9s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e0M.prototype={
+A.e3B.prototype={
 $1$count(d){return B.f(d)+" produits s\xe9lectionn\xe9s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e_T.prototype={
+A.e2I.prototype={
 $2$balance$currency(d,e){return"Solde : "+B.f(d)+" "+B.f(e)},
 $C:"$2$balance$currency",
 $R:0,
-$D(){return{balance:C.ab,currency:C.ab}},
-$S:319}
-A.e_U.prototype={
+$D(){return{balance:C.ac,currency:C.ac}},
+$S:388}
+A.e2J.prototype={
 $1$amount(d){return"D\xe9pass\xe9 de "+B.f(d)+" points"},
 $C:"$1$amount",
 $R:0,
-$D(){return{amount:C.ab}},
-$S:88}
-A.e_V.prototype={
+$D(){return{amount:C.ac}},
+$S:89}
+A.e2K.prototype={
 $1$amount(d){return"Restant "+B.f(d)+" points"},
 $C:"$1$amount",
 $R:0,
-$D(){return{amount:C.ab}},
-$S:88}
-A.e_W.prototype={
+$D(){return{amount:C.ac}},
+$S:89}
+A.e2L.prototype={
 $1$count(d){return B.f(d)+" magasins charg\xe9s avec succ\xe8s"},
 $C:"$1$count",
 $R:0,
-$D(){return{count:C.ab}},
+$D(){return{count:C.ac}},
 $S:33}
-A.e_X.prototype={
+A.e2M.prototype={
 $1$appName(d){return"Autoriser "+B.f(d)+" \xe0 suivre votre activit\xe9 sur les applications et sites Web d'autres entreprises ?"},
 $C:"$1$appName",
 $R:0,
-$D(){return{appName:C.ab}},
-$S:332}
-A.e_Y.prototype={
+$D(){return{appName:C.ac}},
+$S:392}
+A.e2N.prototype={
 $1$path(d){return"Fichier enregistr\xe9 \xe0 "+B.f(d)},
 $C:"$1$path",
 $R:0,
-$D(){return{path:C.ab}},
-$S:341}
-A.e_Z.prototype={
+$D(){return{path:C.ac}},
+$S:397}
+A.e2O.prototype={
 $1$name(d){return"D\xe9tails du Pixel : "+B.f(d)},
 $C:"$1$name",
 $R:0,
-$D(){return{name:C.ab}},
-$S:116}
-A.e0_.prototype={
+$D(){return{name:C.ac}},
+$S:128}
+A.e2P.prototype={
 $1$pixelName(d){return y.u+B.f(d)+" ?"},
 $C:"$1$pixelName",
 $R:0,
-$D(){return{pixelName:C.ab}},
-$S:167}
-A.e00.prototype={
+$D(){return{pixelName:C.ac}},
+$S:186}
+A.e2Q.prototype={
 $1$pixelName(d){return y.u+B.f(d)+" ?"},
 $C:"$1$pixelName",
 $R:0,
-$D(){return{pixelName:C.ab}},
-$S:167}
-A.e01.prototype={
+$D(){return{pixelName:C.ac}},
+$S:186}
+A.e2R.prototype={
 $1$error(d){return"\xc9chec du chargement des donn\xe9es : "+B.f(d)},
 $C:"$1$error",
 $R:0,
-$D(){return{error:C.ab}},
-$S:124}
-A.e03.prototype={
+$D(){return{error:C.ac}},
+$S:118}
+A.e2T.prototype={
 $1$error(d){return"Une erreur s'est produite : "+B.f(d)},
 $C:"$1$error",
 $R:0,
-$D(){return{error:C.ab}},
-$S:124}
-A.e04.prototype={
+$D(){return{error:C.ac}},
+$S:118}
+A.e2U.prototype={
 $1$currency(d){return"Montant requis ("+B.f(d)+")"},
 $C:"$1$currency",
 $R:0,
-$D(){return{currency:C.ab}},
-$S:450}
-A.e05.prototype={
+$D(){return{currency:C.ac}},
+$S:405}
+A.e2V.prototype={
 $1$status(d){return"Statut: "+B.f(d)+" \u2022 D\xe9fini par d\xe9faut"},
 $C:"$1$status",
 $R:0,
-$D(){return{status:C.ab}},
-$S:165}
-A.e06.prototype={
+$D(){return{status:C.ac}},
+$S:184}
+A.e2W.prototype={
 $1$status(d){return"Statut: "+B.f(d)},
 $C:"$1$status",
 $R:0,
-$D(){return{status:C.ab}},
-$S:165}
-A.e07.prototype={
+$D(){return{status:C.ac}},
+$S:184}
+A.e2X.prototype={
 $1$name(d){return'D\xe9fini "'+B.f(d)+"\" comme prix d'exp\xe9dition par d\xe9faut"},
 $C:"$1$name",
 $R:0,
-$D(){return{name:C.ab}},
-$S:116}
-A.e08.prototype={
+$D(){return{name:C.ac}},
+$S:128}
+A.e2Y.prototype={
 $1$name(d){return'D\xe9s\xe9lectionn\xe9 "'+B.f(d)+"\" comme prix d'exp\xe9dition par d\xe9faut"},
 $C:"$1$name",
 $R:0,
-$D(){return{name:C.ab}},
-$S:116}
-A.e09.prototype={
+$D(){return{name:C.ac}},
+$S:128}
+A.e2Z.prototype={
 $1$error(d){return"Erreur lors de la mise \xe0 jour: "+B.f(d)},
 $C:"$1$error",
 $R:0,
-$D(){return{error:C.ab}},
-$S:124}
-A.e0a.prototype={
+$D(){return{error:C.ac}},
+$S:118}
+A.e3_.prototype={
 $1$amount(d){return"D\xe9pass\xe9 de "+B.f(d)+" points"},
 $C:"$1$amount",
 $R:0,
-$D(){return{amount:C.ab}},
-$S:88}
-A.e0b.prototype={
+$D(){return{amount:C.ac}},
+$S:89}
+A.e30.prototype={
 $1$amount(d){return B.f(d)+" points restants"},
 $C:"$1$amount",
 $R:0,
-$D(){return{amount:C.ab}},
-$S:88};(function inheritance(){var w=a.mixin,v=a.inheritMany,u=a.inherit
-v(B.Z,[A.bmr,A.dNb,A.dMx,A.dRz,A.dRD,A.dRH,A.dSm,A.dSI,A.dT1,A.dTr,A.dTV,A.dU4,A.dUs,A.dUU,A.dUY,A.dV3,A.dOs,A.dNa,A.dNf,A.dMj,A.dQs,A.dRr,A.dPB,A.dR1,A.dMF,A.dPL,A.dNz,A.dMg,A.dM6,A.dRv,A.dMz,A.dMB,A.dMD,A.dRB,A.dRF,A.dRX,A.dSk,A.dSo,A.dSq,A.dSY,A.dSW,A.dSz,A.dSB,A.dSw,A.dSK,A.dSU,A.dSu,A.dSS,A.dT0,A.dT3,A.dTa,A.dT6,A.dTv,A.dTc,A.dTB,A.dTq,A.dTF,A.dT8,A.dTt,A.dTD,A.dTi,A.dTP,A.dU0,A.dTZ,A.dTX,A.dU8,A.dU3,A.dU6,A.dUw,A.dUu,A.dUr,A.dUQ,A.dUG,A.dUf,A.dUb,A.dUh,A.dUl,A.dUn,A.dUd,A.dUO,A.dUj,A.dUC,A.dUE,A.dUp,A.dUM,A.dUK,A.dUI,A.dUS,A.dUW,A.dV_,A.dV2,A.dV5,A.dOp,A.dNe,A.dNh,A.dNn,A.dMp,A.dMl,A.dPY,A.dQA,A.dRk,A.dOv,A.dOJ,A.dOB,A.dPH,A.dPF,A.dPD,A.dOx,A.dPw,A.dOX,A.dR3,A.dQR,A.dR9,A.dR0,A.dQV,A.dRd,A.dMH,A.dPN,A.dPK,A.dO4,A.dNu,A.dOi,A.dNZ,A.dNF,A.dOe,A.dNP,A.dND,A.dNB,A.dNp,A.dM8,A.dM3,A.dMa,A.dM5,A.dMe,A.dM1,A.dRx,A.dRu,A.dRW,A.dSj,A.dSF,A.dSH,A.dSD,A.dSO,A.dSQ,A.dSM,A.dSt,A.dTx,A.dTz,A.dTH,A.dTh,A.dTo,A.dTf,A.dTk,A.dTm,A.dTO,A.dTK,A.dTM,A.dTT,A.dTR,A.dUy,A.dUA,A.dOr,A.dOo,A.dNl,A.dNj,A.dMv,A.dMr,A.dMn,A.dQf,A.dQl,A.dQ_,A.dPX,A.dQ5,A.dPV,A.dQn,A.dQ1,A.dQj,A.dQ7,A.dQ9,A.dQd,A.dPR,A.dQh,A.dPT,A.dQb,A.dQx,A.dQE,A.dQz,A.dQu,A.dQC,A.dQG,A.dRm,A.dRj,A.dRq,A.dRo,A.dOA,A.dOF,A.dOH,A.dOD,A.dPy,A.dPu,A.dPA,A.dOZ,A.dOO,A.dOS,A.dOQ,A.dPa,A.dP4,A.dP6,A.dP8,A.dPe,A.dPg,A.dP0,A.dPo,A.dPc,A.dOW,A.dPm,A.dPk,A.dP2,A.dOU,A.dOM,A.dPs,A.dPq,A.dQM,A.dR6,A.dQX,A.dQU,A.dQZ,A.dRb,A.dRf,A.dMN,A.dN0,A.dML,A.dMR,A.dMV,A.dMJ,A.dMT,A.dO1,A.dO3,A.dO6,A.dO8,A.dOc,A.dNw,A.dNt,A.dNy,A.dOk,A.dNH,A.dOg,A.dNV,A.dNM,A.dMc,A.dRN,A.dS8,A.dMt,A.dQ3,A.dQp,A.dQr,A.dPi,A.dQO,A.dQQ,A.dQK,A.dR8,A.dMP,A.dN4,A.dN6,A.dN8,A.dN_,A.dN2,A.dMX,A.dOa,A.dNS,A.dNU,A.dNX,A.dNO,A.dNL,A.dRT,A.dRR,A.dRV,A.dRL,A.dRP,A.dSe,A.dSc,A.dSi,A.dS4,A.dSg,A.dS0,A.dS2,A.dSa,A.dS7])
-u(A.b_1,A.bmr)
-v(B.zs,[A.e0P,A.e_Q,A.e_R,A.e_S,A.e02,A.e0d,A.e0o,A.e0z,A.e0J,A.e0K,A.e0L,A.e0M,A.e_T,A.e_U,A.e_V,A.e_W,A.e_X,A.e_Y,A.e_Z,A.e0_,A.e00,A.e01,A.e03,A.e04,A.e05,A.e06,A.e07,A.e08,A.e09,A.e0a,A.e0b])
-w(A.bmr,B.tR)})()
-B.epS(b.typeUniverse,JSON.parse('{"b_1":{"ox":[],"tR":["oM","ox"]}}'))
-var y={I:"Abonnez-vous au Programme Partenaire et obtenez une commission sur chaque transaction marketing",B:"Accepter uniquement les commandes issues de publicit\xe9s",d:"Activer la protection de s\xe9curit\xe9 pour votre boutique",i:"Activez ou d\xe9sactivez cette int\xe9gration sur votre boutique.",t:"Ajoute des v\xe9rifications imm\xe9diates au formulaire public",y:"Ajoutez des fonds \xe0 votre portefeuille en utilisant les m\xe9thodes de paiement disponibles",W:"Ajoutez des points directement \xe0 un magasin depuis votre solde",Y:"Ajoutez une URL (optionnelle) pour r\xe9cup\xe9rer son contenu",C:"Ajoutez une \xe9tiquette pour aider \xe0 identifier cette image (ex. : logo, style, couleurs)",E:"Annuler le lien supprimera d\xe9finitivement la commande d'ecotrack",O:"Annuler le lien supprimera d\xe9finitivement la commande de Noest",_:'Appuyez sur "Ajouter" pour ajouter un nouveau prix d\'exp\xe9dition',w:"Aucun contenu pour le moment, cliquez sur le bouton de modification pour ajouter des informations d\xe9taill\xe9es sur le produit",Z:"Aucun num\xe9ro de t\xe9l\xe9phone disponible pour v\xe9rifier le risque de retour",r:"Aucun pixel configur\xe9 pour le moment. Cliquez sur \xab Ajouter un Pixel \xbb pour commencer.",x:"Aucun prix d'exp\xe9dition ajout\xe9 pour le moment",N:"Aucun statut personnalis\xe9 ajout\xe9 pour le moment",M:"Aucune commande li\xe9e \xe0 Ecotrack pour l'impression",Q:"Aucune information sur le risque de retour trouv\xe9e pour les num\xe9ros s\xe9lectionn\xe9s",c:"Aucune m\xe9thode d'exp\xe9dition ajout\xe9e pour le moment",G:"Changez votre mot de passe pour s\xe9curiser votre compte.",z:"Choisissez la dur\xe9e de gel des IP et num\xe9ros r\xe9p\xe9t\xe9s",J:"Choisissez les devises que votre boutique accepte. Vous pouvez s\xe9lectionner plusieurs devises et en d\xe9finir une par d\xe9faut pour la tarification.",je:"Cl\xe9s d'acc\xe8s pour le d\xe9veloppement et l'int\xe9gration",fq:"Cochez cette option si votre boutique WooCommerce est install\xe9e dans un sous-r\xe9pertoire (comme /store)",H:"Commandes synchronis\xe9es avec Ecotrack avec succ\xe8s",fH:"Commandes s\xe9lectionn\xe9es supprim\xe9es avec succ\xe8s",j:"Commencez votre parcours e-commerce en cr\xe9ant votre premier magasin.\nVous pouvez facilement ajouter des produits et g\xe9rer les commandes.",b0:"Commencez \xe0 confirmer des commandes pour appara\xeetre ici!",l:"Compl\xe9ments optionnels que les clients peuvent ajouter au produit",k_:"Compos\xe9 de 20 chiffres, vous pouvez\n l'obtenir depuis la page d\xe9veloppeur",lJ:"Configurer les r\xe8gles de protection pour les commandes entrantes",oO:"Configurez les fonctionnalit\xe9s de s\xe9curit\xe9 pour prot\xe9ger votre boutique contre le spam, les abus et les activit\xe9s frauduleuses. Vous pourrez configurer les r\xe8gles de protection apr\xe8s la configuration.",T:"Connectez votre boutique au service de livraison GuepEX / Yalidine",p9:"Connectez votre boutique au service de livraison Procolis\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",lP:"Connectez votre boutique au service de livraison Yalidine Express\nFournit les tarifs de livraison et l'envoi direct des commandes",D:"Connectez votre boutique au service de livraison rapide Ecotrack\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",hR:"Connectez votre boutique au service de livraison rapide Noest\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",eQ:"Connectez votre boutique au service de publicit\xe9 et marketing Meta Pixel\nSuivez les visiteurs et clients et optimisez vos publicit\xe9s",nt:"Connectez votre boutique au service de publicit\xe9 et marketing TikTok Pixel\nSuivez les visiteurs et clients pour am\xe9liorer vos publicit\xe9s",ms:"Connectez votre boutique \xe0 divers services",L:"Copiez les tarifs de livraison de votre compte Procolis vers votre boutique",f:"Description de la boutique, utilis\xe9e pour la recherche et le r\xe9f\xe9rencement",on:"Description du plus beau magasin sur la lune",b:"Doit \xeatre en anglais, minuscules, chiffres et tirets uniquement",mH:"En vous inscrivant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialit\xe9.",ma:"Entrez l'ID de l'application APP ID et la cl\xe9 API, vous pouvez les trouver dans la page d\xe9veloppeur",A:"Entrez le lien de la boutique pour commencer",v:"Entrez les donn\xe9es du produit au format JSON",a:"Entrez votre cl\xe9 API depuis aistudio.google.com",j4:"Envoyer des \xe9v\xe9nements {eventName} pour {count} commande(s)",X:"Envoyer un \xe9v\xe9nement test avec votre pixel ?",lW:"Envoyer un \xe9v\xe9nement test avec votre pixel TikTok ?",S:"Envoyez de l'argent \xe0 un autre utilisateur facilement et en toute s\xe9curit\xe9",gU:"Erreur lors de l'annulation du lien : {error}",ox:"Erreur lors de l'assignation de la commande : {error}",P:"Erreur lors de l'assignation des commandes : {error}",F:"Erreur lors de l'envoi des \xe9v\xe9nements {eventName} : {error}",fz:"Erreur lors de la synchronisation des en-t\xeates",oy:"Erreur lors du chargement des prix d'exp\xe9dition",n9:"Erreur lors du chargement des transactions",c6:"Exemple : Ajoutez des couleurs (noir, blanc) chaque couleur avec des tailles S,M,L\nR\xe9\xe9crivez la description de mani\xe8re marketing...",K:"G\xe9rer les images et ic\xf4nes de la boutique",hM:"G\xe9rer les statuts de commande personnalis\xe9s",fS:"G\xe9rer les \xe9tiquettes personnalis\xe9es des commandes",mc:"Image carr\xe9e utilis\xe9e comme ic\xf4ne de la boutique (100\xd7100)",V:"Image large utilis\xe9e comme logo de la boutique (300\xd7100)",iH:"Importer des donn\xe9es depuis un fichier CSV ou une entreprise de transport",lH:"Importer des produits depuis une boutique Foorweb",o:"Importer des produits depuis une boutique Lightfunnels",jP:"Importer des produits depuis une boutique Storeino",q:"Importer des produits depuis une boutique WooCommerce",a1:"Importer des produits depuis une boutique YouCan",iJ:"Impossible d'enregistrer la protection des commandes",i6:"Impossible de lancer l'appel t\xe9l\xe9phonique",eG:"Impossible de mettre \xe0 jour les param\xe8tres de s\xe9curit\xe9",R:"Indiquez si la commande est livr\xe9e \xe0 domicile ou en agence",aF:"Indiquez si la commande sera pr\xe9par\xe9e du stock",n_:"Int\xe9gration avec Google AI Studio pour des fonctionnalit\xe9s IA avanc\xe9es",ej:"Int\xe9gration de s\xe9curit\xe9 configur\xe9e avec succ\xe8s",ck:"La cl\xe9 secr\xe8te pour s\xe9curiser le webhook, vous pouvez l'obtenir depuis le panneau de contr\xf4le du webhook",dC:"La colonne Actions est toujours \xe9pingl\xe9e \xe0 droite",o_:"Laisser le champ vide signifie que la livraison n'est pas disponible, et entrer z\xe9ro 0 signifie que la livraison est gratuite.",eN:"Le montant doit \xeatre un multiple de {multiple}",kc:"Le montant d\xe9passe le montant d\xfb ({amount} DZD)",nV:"Les commandes appara\xeetront ici lorsque vous en ajouterez",bP:"Les donn\xe9es de lien Ecomanager seront supprim\xe9es de la commande",lA:"Les modifications de l'IA ont \xe9t\xe9 appliqu\xe9es.",iR:"Les paniers abandonn\xe9s ne seront pas sauvegard\xe9s",cV:"Les produits s\xe9lectionn\xe9s seront ajout\xe9s \xe0 votre boutique",k:"Les tarifs seront copi\xe9s dans votre boutique actuelle\nContinuer signifie supprimer les tarifs actuels, nous vous recommandons de faire une sauvegarde avant de continuer",nU:"Lorsqu'elle est activ\xe9e, la livraison gratuite sera automatiquement activ\xe9e pour toutes les commandes envoy\xe9es via Yalidine",mY:"Modifications de la ligne {row} enregistr\xe9es avec succ\xe8s",eJ:"Modifications enregistr\xe9es. Vous pouvez continuer \xe0 modifier ou g\xe9n\xe9rer",nu:"Nous nous engageons \xe0 prot\xe9ger la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations.",jG:"Nous nous engageons \xe0 respecter la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations",fu:"Nous utilisons l'authentification locale pour masquer les donn\xe9es sensibles\n\nSi vous n'utilisez pas l'empreinte digitale, veuillez l'ajouter pour activer l'option",mS:"N\xe9cessite un fbclid valide pour chaque commande",kU:"Paiement r\xe9ussi ! Montant pay\xe9 : {amount} DZD",pd:"Payez les dettes accumul\xe9es du magasin depuis votre solde actuel",l5:"Personnaliser les couleurs de la boutique",fC:"Personnaliser les couleurs en mode sombre",fY:"Pour toute demande ou probl\xe8me, vous pouvez nous contacter par email ou par t\xe9l\xe9phone.",U:"Pour une protection suppl\xe9mentaire, il est recommand\xe9 d'ajouter une cl\xe9 secr\xe8te dans les param\xe8tres de connexion",b8:"Prot\xe9gez votre boutique contre le spam, les abus et les activit\xe9s frauduleuses",ll:"Prot\xe9gez votre boutique contre le spam, les abus et les commandes frauduleuses",k1:"Recherchez un magasin et achetez un plan d'abonnement pour celui-ci",h:"Refuser toute commande dont la source est marqu\xe9e comme directe",hs:"Reste apr\xe8s paiement : {points} points ({amount} DZD)",m9:"R\xe9cup\xe9rer un colis aupr\xe8s du client final",e:"Si s\xe9lectionn\xe9, le prix de l\u2019offre sera le prix final \xd7 la quantit\xe9",kj:"Si vous avez des probl\xe8mes, vous pouvez nous contacter",bM:"Slogan publicitaire (affich\xe9 en haut du site)",jN:"Statut modifi\xe9 avec succ\xe8s pour {count} commande(s)",jA:"Supprimer les r\xe9glages Google Sheets pour ce produit ?",g:"Supprimer les r\xe9glages Meta Pixel pour ce produit ?",d2:"Supprimer les r\xe9glages TikTok Pixel pour ce produit ?",jF:"S\xe9lectionner le magasin pour acheter un abonnement",it:"S\xe9lectionner le magasin pour recharger des points",s:"S\xe9lectionnez la plateforme depuis laquelle vous voulez importer des produits",c2:"S\xe9lectionnez le membre auquel vous voulez assigner la commande :",ea:"S\xe9lectionnez le membre auquel vous voulez assigner les commandes :",la:"S\xe9lectionnez les produits que vous souhaitez importer",dO:"S\xe9lectionnez un \xe9tat pour afficher les statistiques",p:"Tarifs copi\xe9s depuis Procolis avec succ\xe8s",lb:"Titre de la boutique, utilis\xe9 pour la recherche et le logo",jW:"Toutes les op\xe9rations sont effectu\xe9es \xe0 votre demande pour le compte des magasins. Veuillez v\xe9rifier l'identit\xe9 du magasin avant d'effectuer tout paiement. Des conditions suppl\xe9mentaires peuvent s'appliquer selon la m\xe9thode de paiement utilis\xe9e.",cK:"Un moyen simple de suivre et g\xe9rer vos commandes avec Google Sheets",lo:"Une erreur est survenue lors de l'importation",pb:"Une erreur est survenue lors de l'importation : ",ob:"Une erreur est survenue lors de la mise \xe0 jour de la photo",oQ:"Une erreur est survenue lors de la mise \xe0 jour des prix",hw:"Une erreur s'est produite lors de la v\xe9rification du risque de retour",j5:"Une erreur s'est produite lors du chargement des magasins. Veuillez v\xe9rifier votre connexion Internet et r\xe9essayer.",lc:"Utilisez cette URL pour configurer le webhook dans le panneau de contr\xf4le Yalidine/GuepEX :",gp:"Utilisez le bouton \"Ajouter\" dans la barre d'application pour ajouter une m\xe9thode d'exp\xe9dition",i5:"Utilis\xe9e pour les \xe9l\xe9ments principaux en mode sombre",pm:"Utilis\xe9e pour les \xe9l\xe9ments principaux, les boutons et les autres \xe9l\xe9ments interactifs",b2:"Utilis\xe9e pour les \xe9l\xe9ments secondaires en mode sombre",iK:"Utilis\xe9e pour les \xe9l\xe9ments secondaires et les textes importants",cx:"Veuillez cr\xe9er un magasin d'abord pour acc\xe9der aux outils IA",n7:"Veuillez entrer une description ou s\xe9lectionner une image \xe0 modifier",hC:"Veuillez patienter pendant que nous vous d\xe9connectons en toute s\xe9curit\xe9",ld:"Veuillez s\xe9lectionner au moins une devise",k0:"Veuillez s\xe9lectionner une devise par d\xe9faut",aL:"Votre compte partenaire est en cours d'examen. Contactez-nous via WhatsApp pour activer les permissions.",mB:"Voulez-vous d\xe9connecter l'int\xe9gration de s\xe9curit\xe9 de votre boutique ?",m:"Voulez-vous d\xe9connecter le service Meta Pixel de votre boutique ?",f6:"Voulez-vous d\xe9connecter le service Noest de votre boutique ?",gA:"Voulez-vous d\xe9connecter le service Procolis de votre boutique ?",mv:"Voulez-vous d\xe9connecter le service TikTok Pixel de votre boutique ?",gq:"Voulez-vous d\xe9connecter le service Yalidine Express de votre boutique ?",fN:"Voulez-vous importer les produits s\xe9lectionn\xe9s ?",jH:"Vous avez d\xe9pass\xe9 la limite. Achetez des points suppl\xe9mentaires ou changez de forfait.",l9:"Vous avez d\xe9pass\xe9 le montant d\xfb autoris\xe9. Veuillez payer le montant pour acc\xe9der \xe0 ce contenu.",d_:"Vous avez {due} points dus \xe0 payer. Veuillez payer le montant pour maintenir votre service actif.",ol:"Vous devez accepter les conditions g\xe9n\xe9rales.",bH:"Vous pouvez l'obtenir depuis la page d\xe9veloppeur dans votre compte Yalidine",n:"Vous pouvez modifier les prix pour tous les \xc9tats en m\xeame temps",n2:"V\xe9rifie la source et limite les tentatives r\xe9p\xe9t\xe9es",aI:"V\xe9rifiez et confirmez le processus d'importation",iX:"{count} commande(s) assign\xe9e(s) avec succ\xe8s",iv:"{count} num\xe9ro(s) de t\xe9l\xe9phone v\xe9rifi\xe9(s)",nW:"{count} \xe9v\xe9nement(s) seront envoy\xe9s \xe0 {pixelCount} pixel(s)",oa:"{successfulEvents} \xe9v\xe9nement(s) envoy\xe9(s) avec succ\xe8s, {failedEvents} \xe9v\xe9nement(s) ont \xe9chou\xe9 sur {totalOrders} commandes",nY:"\xc9chec de l'enregistrement des modifications : {error}",lR:"\xc9chec de l'ouverture de l'\xe9diteur d'images",da:"\xc9chec de la r\xe9cup\xe9ration du contenu depuis l'URL : {error}",di:"\xc9chec de la synchronisation des commandes : {error}",iM:"\xc9chec du chargement des donn\xe9es financi\xe8res",kB:"\xc9crivez ce que vous voulez cr\xe9er ou modifier",fK:"\xc9tiquettes personnalis\xe9es pour les commandes",hu:"\xc9v\xe9nements {eventName} envoy\xe9s avec succ\xe8s pour toutes les commandes ({successfulEvents} \xe9v\xe9nement(s))",d1:"\xcates-vous s\xfbr de vouloir annuler le lien ?",m6:"\xcates-vous s\xfbr de vouloir d\xe9connecter l'int\xe9gration IA de votre boutique ?",i7:"\xcates-vous s\xfbr de vouloir envoyer des \xe9v\xe9nements {eventName} pour toutes les commandes s\xe9lectionn\xe9es \xe0 {pixelType} ?",b3:"\xcates-vous s\xfbr de vouloir importer ce produit ?",kG:"\xcates-vous s\xfbr de vouloir supprimer ce domaine ?",kN:"\xcates-vous s\xfbr de vouloir supprimer ce fichier ?",u:"\xcates-vous s\xfbr de vouloir supprimer ce pixel : ",eu:"\xcates-vous s\xfbr de vouloir supprimer la commande {id} ?",hi:"\xcates-vous s\xfbr de vouloir supprimer les commandes s\xe9lectionn\xe9es ?\nCette action est permanente et ne peut pas \xeatre annul\xe9e.",dg:"\xcates-vous s\xfbr de vouloir supprimer tous les compl\xe9ments ?",k3:"\xcates-vous s\xfbr de vouloir vous d\xe9connecter ?"}
-var x={g:B.as("P<V<j>>"),h:B.as("P<j>"),c:B.as("E1<oM,ox>")}};
-(a=>{a["j7nMVAPDgWxXE9mhGLo+t4i3D+c="]=a.current})($__dart_deferred_initializers__);
+$D(){return{amount:C.ac}},
+$S:89};(function inheritance(){var w=a.mixin,v=a.inheritMany,u=a.inherit
+v(B.Z,[A.bn6,A.dPL,A.dP6,A.dU8,A.dUc,A.dUg,A.dUW,A.dVh,A.dVB,A.dW0,A.dWu,A.dWE,A.dX3,A.dXJ,A.dXN,A.dXT,A.dR1,A.dPK,A.dPP,A.dOT,A.dT1,A.dU0,A.dSa,A.dTB,A.dPe,A.dSk,A.dQ8,A.dOQ,A.dOG,A.dU4,A.dP8,A.dPa,A.dPc,A.dUa,A.dUe,A.dUw,A.dUU,A.dUY,A.dV_,A.dVx,A.dVv,A.dV8,A.dVa,A.dV5,A.dVj,A.dVt,A.dV3,A.dVr,A.dVA,A.dVD,A.dVK,A.dVG,A.dW4,A.dVM,A.dWa,A.dW_,A.dWe,A.dVI,A.dW2,A.dWc,A.dVS,A.dWo,A.dWA,A.dWy,A.dWw,A.dWI,A.dWD,A.dWG,A.dX7,A.dX5,A.dX2,A.dXF,A.dXv,A.dWP,A.dWL,A.dWR,A.dWX,A.dWZ,A.dWN,A.dXD,A.dWV,A.dWT,A.dXf,A.dXh,A.dX0,A.dXB,A.dXz,A.dXx,A.dXH,A.dXd,A.dXl,A.dXL,A.dXP,A.dXS,A.dXV,A.dQZ,A.dPO,A.dPR,A.dPX,A.dOZ,A.dOV,A.dSx,A.dT9,A.dTU,A.dR4,A.dRi,A.dRa,A.dSg,A.dSe,A.dSc,A.dR6,A.dS5,A.dRw,A.dTD,A.dTq,A.dTJ,A.dTA,A.dTu,A.dTN,A.dPg,A.dSm,A.dSj,A.dQE,A.dQ3,A.dQS,A.dQy,A.dQe,A.dQO,A.dQo,A.dQc,A.dQa,A.dPZ,A.dOI,A.dOD,A.dOK,A.dOF,A.dOO,A.dOB,A.dU6,A.dU3,A.dUv,A.dUT,A.dVe,A.dVg,A.dVc,A.dVn,A.dVp,A.dVl,A.dV2,A.dW6,A.dW8,A.dWg,A.dVR,A.dVY,A.dVP,A.dVU,A.dVW,A.dWn,A.dWj,A.dWl,A.dWs,A.dWq,A.dX9,A.dXb,A.dXn,A.dXt,A.dXp,A.dXr,A.dXk,A.dR0,A.dQY,A.dPV,A.dPT,A.dP4,A.dP0,A.dOX,A.dSP,A.dSV,A.dSz,A.dSw,A.dSF,A.dSu,A.dSX,A.dSB,A.dST,A.dSH,A.dSJ,A.dSN,A.dSq,A.dSR,A.dSs,A.dSL,A.dT6,A.dTd,A.dT8,A.dT3,A.dTb,A.dTf,A.dTW,A.dTT,A.dU_,A.dTY,A.dR9,A.dRe,A.dRg,A.dRc,A.dS7,A.dS3,A.dS9,A.dRy,A.dRn,A.dRr,A.dRp,A.dRK,A.dRE,A.dRG,A.dRI,A.dRO,A.dRQ,A.dRA,A.dRY,A.dRM,A.dRv,A.dRW,A.dRU,A.dRC,A.dRt,A.dRl,A.dS1,A.dS_,A.dTl,A.dTG,A.dTw,A.dTt,A.dTy,A.dTL,A.dTP,A.dPm,A.dPA,A.dPk,A.dPq,A.dPu,A.dPi,A.dPs,A.dQB,A.dQD,A.dQG,A.dQI,A.dQM,A.dQ5,A.dQ2,A.dQ7,A.dQU,A.dQg,A.dQQ,A.dQu,A.dQl,A.dOM,A.dUm,A.dUI,A.dP2,A.dSD,A.dSZ,A.dT0,A.dRS,A.dTn,A.dTp,A.dTj,A.dTI,A.dPo,A.dPE,A.dPG,A.dPI,A.dPz,A.dPC,A.dPw,A.dQK,A.dQr,A.dQt,A.dQw,A.dQn,A.dQk,A.dUs,A.dUq,A.dUu,A.dUk,A.dUo,A.dUO,A.dUM,A.dUS,A.dUE,A.dUQ,A.dUA,A.dUC,A.dUK,A.dUH])
+u(A.b_m,A.bn6)
+v(B.zu,[A.e3E,A.e2F,A.e2G,A.e2H,A.e2S,A.e32,A.e3d,A.e3o,A.e3y,A.e3z,A.e3A,A.e3B,A.e2I,A.e2J,A.e2K,A.e2L,A.e2M,A.e2N,A.e2O,A.e2P,A.e2Q,A.e2R,A.e2T,A.e2U,A.e2V,A.e2W,A.e2X,A.e2Y,A.e2Z,A.e3_,A.e30])
+w(A.bn6,B.tR)})()
+B.esF(b.typeUniverse,JSON.parse('{"b_m":{"oB":[],"tR":["oP","oB"]}}'))
+var y={I:"Abonnez-vous au Programme Partenaire et obtenez une commission sur chaque transaction marketing",B:"Accepter uniquement les commandes issues de publicit\xe9s",d:"Activer la protection de s\xe9curit\xe9 pour votre boutique",i:"Activez ou d\xe9sactivez cette int\xe9gration sur votre boutique.",t:"Ajoute des v\xe9rifications imm\xe9diates au formulaire public",y:"Ajoutez des fonds \xe0 votre portefeuille en utilisant les m\xe9thodes de paiement disponibles",W:"Ajoutez des points directement \xe0 un magasin depuis votre solde",Y:"Ajoutez une URL (optionnelle) pour r\xe9cup\xe9rer son contenu",C:"Ajoutez une \xe9tiquette pour aider \xe0 identifier cette image (ex. : logo, style, couleurs)",K:"Ajoutez votre logo et ic\xf4ne pour un look professionnel",S:"Ajoutez votre premier produit \xe0 la boutique",E:"Annuler le lien supprimera d\xe9finitivement la commande d'ecotrack",O:"Annuler le lien supprimera d\xe9finitivement la commande de Noest",_:'Appuyez sur "Ajouter" pour ajouter un nouveau prix d\'exp\xe9dition',w:"Aucun contenu pour le moment, cliquez sur le bouton de modification pour ajouter des informations d\xe9taill\xe9es sur le produit",Z:"Aucun num\xe9ro de t\xe9l\xe9phone disponible pour v\xe9rifier le risque de retour",r:"Aucun pixel configur\xe9 pour le moment. Cliquez sur \xab Ajouter un Pixel \xbb pour commencer.",x:"Aucun prix d'exp\xe9dition ajout\xe9 pour le moment",ho:"Aucun statut personnalis\xe9 ajout\xe9 pour le moment",M:"Aucune commande li\xe9e \xe0 Ecotrack pour l'impression",Q:"Aucune information sur le risque de retour trouv\xe9e pour les num\xe9ros s\xe9lectionn\xe9s",c:"Aucune m\xe9thode d'exp\xe9dition ajout\xe9e pour le moment",G:"Changez votre mot de passe pour s\xe9curiser votre compte.",T:"Choisissez la devise par d\xe9faut de votre boutique",z:"Choisissez la dur\xe9e de gel des IP et num\xe9ros r\xe9p\xe9t\xe9s",e:"Choisissez la langue par d\xe9faut de votre boutique",o:"Choisissez le pays dans lequel votre boutique op\xe8re",J:"Choisissez les devises que votre boutique accepte. Vous pouvez s\xe9lectionner plusieurs devises et en d\xe9finir une par d\xe9faut pour la tarification.",je:"Cl\xe9s d'acc\xe8s pour le d\xe9veloppement et l'int\xe9gration",fq:"Cochez cette option si votre boutique WooCommerce est install\xe9e dans un sous-r\xe9pertoire (comme /store)",H:"Commandes synchronis\xe9es avec Ecotrack avec succ\xe8s",fH:"Commandes s\xe9lectionn\xe9es supprim\xe9es avec succ\xe8s",j:"Commencez votre parcours e-commerce en cr\xe9ant votre premier magasin.\nVous pouvez facilement ajouter des produits et g\xe9rer les commandes.",b0:"Commencez \xe0 confirmer des commandes pour appara\xeetre ici!",l:"Compl\xe9ments optionnels que les clients peuvent ajouter au produit",k_:"Compos\xe9 de 20 chiffres, vous pouvez\n l'obtenir depuis la page d\xe9veloppeur",lJ:"Configurer les r\xe8gles de protection pour les commandes entrantes",oO:"Configurez les fonctionnalit\xe9s de s\xe9curit\xe9 pour prot\xe9ger votre boutique contre le spam, les abus et les activit\xe9s frauduleuses. Vous pourrez configurer les r\xe8gles de protection apr\xe8s la configuration.",g6:"Connectez votre boutique au service de livraison GuepEX / Yalidine",p9:"Connectez votre boutique au service de livraison Procolis\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",lP:"Connectez votre boutique au service de livraison Yalidine Express\nFournit les tarifs de livraison et l'envoi direct des commandes",D:"Connectez votre boutique au service de livraison rapide Ecotrack\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",hR:"Connectez votre boutique au service de livraison rapide Noest\nFournit les tarifs de livraison et l\u2019envoi direct des commandes",eQ:"Connectez votre boutique au service de publicit\xe9 et marketing Meta Pixel\nSuivez les visiteurs et clients et optimisez vos publicit\xe9s",nt:"Connectez votre boutique au service de publicit\xe9 et marketing TikTok Pixel\nSuivez les visiteurs et clients pour am\xe9liorer vos publicit\xe9s",ms:"Connectez votre boutique \xe0 divers services",L:"Copiez les tarifs de livraison de votre compte Procolis vers votre boutique",f:"Description de la boutique, utilis\xe9e pour la recherche et le r\xe9f\xe9rencement",on:"Description du plus beau magasin sur la lune",b:"Doit \xeatre en anglais, minuscules, chiffres et tirets uniquement",mH:"En vous inscrivant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialit\xe9.",ma:"Entrez l'ID de l'application APP ID et la cl\xe9 API, vous pouvez les trouver dans la page d\xe9veloppeur",A:"Entrez le lien de la boutique pour commencer",v:"Entrez les donn\xe9es du produit au format JSON",a:"Entrez votre cl\xe9 API depuis aistudio.google.com",j4:"Envoyer des \xe9v\xe9nements {eventName} pour {count} commande(s)",X:"Envoyer un \xe9v\xe9nement test avec votre pixel ?",lW:"Envoyer un \xe9v\xe9nement test avec votre pixel TikTok ?",hM:"Envoyez de l'argent \xe0 un autre utilisateur facilement et en toute s\xe9curit\xe9",gU:"Erreur lors de l'annulation du lien : {error}",ox:"Erreur lors de l'assignation de la commande : {error}",P:"Erreur lors de l'assignation des commandes : {error}",F:"Erreur lors de l'envoi des \xe9v\xe9nements {eventName} : {error}",fz:"Erreur lors de la synchronisation des en-t\xeates",oy:"Erreur lors du chargement des prix d'exp\xe9dition",n9:"Erreur lors du chargement des transactions",c6:"Exemple : Ajoutez des couleurs (noir, blanc) chaque couleur avec des tailles S,M,L\nR\xe9\xe9crivez la description de mani\xe8re marketing...",ic:"F\xe9licitations ! Votre boutique est configur\xe9e",mh:"G\xe9rer les images et ic\xf4nes de la boutique",N:"G\xe9rer les langues prises en charge dans la boutique",i6:"G\xe9rer les statuts de commande personnalis\xe9s",fS:"G\xe9rer les \xe9tiquettes personnalis\xe9es des commandes",mc:"Image carr\xe9e utilis\xe9e comme ic\xf4ne de la boutique (100\xd7100)",V:"Image large utilis\xe9e comme logo de la boutique (300\xd7100)",iH:"Importer des donn\xe9es depuis un fichier CSV ou une entreprise de transport",lH:"Importer des produits depuis une boutique Foorweb",iQ:"Importer des produits depuis une boutique Lightfunnels",jP:"Importer des produits depuis une boutique Storeino",q:"Importer des produits depuis une boutique WooCommerce",a1:"Importer des produits depuis une boutique YouCan",iJ:"Impossible d'enregistrer la protection des commandes",i7:"Impossible de lancer l'appel t\xe9l\xe9phonique",eG:"Impossible de mettre \xe0 jour les param\xe8tres de s\xe9curit\xe9",R:"Indiquez si la commande est livr\xe9e \xe0 domicile ou en agence",aF:"Indiquez si la commande sera pr\xe9par\xe9e du stock",n_:"Int\xe9gration avec Google AI Studio pour des fonctionnalit\xe9s IA avanc\xe9es",ej:"Int\xe9gration de s\xe9curit\xe9 configur\xe9e avec succ\xe8s",ck:"La cl\xe9 secr\xe8te pour s\xe9curiser le webhook, vous pouvez l'obtenir depuis le panneau de contr\xf4le du webhook",dC:"La colonne Actions est toujours \xe9pingl\xe9e \xe0 droite",o_:"Laisser le champ vide signifie que la livraison n'est pas disponible, et entrer z\xe9ro 0 signifie que la livraison est gratuite.",eN:"Le montant doit \xeatre un multiple de {multiple}",kc:"Le montant d\xe9passe le montant d\xfb ({amount} DZD)",nV:"Les commandes appara\xeetront ici lorsque vous en ajouterez",bP:"Les donn\xe9es de lien Ecomanager seront supprim\xe9es de la commande",lA:"Les modifications de l'IA ont \xe9t\xe9 appliqu\xe9es.",iR:"Les paniers abandonn\xe9s ne seront pas sauvegard\xe9s",cV:"Les produits s\xe9lectionn\xe9s seront ajout\xe9s \xe0 votre boutique",k:"Les tarifs seront copi\xe9s dans votre boutique actuelle\nContinuer signifie supprimer les tarifs actuels, nous vous recommandons de faire une sauvegarde avant de continuer",nU:"Lorsqu'elle est activ\xe9e, la livraison gratuite sera automatiquement activ\xe9e pour toutes les commandes envoy\xe9es via Yalidine",mY:"Modifications de la ligne {row} enregistr\xe9es avec succ\xe8s",eJ:"Modifications enregistr\xe9es. Vous pouvez continuer \xe0 modifier ou g\xe9n\xe9rer",nu:"Nous nous engageons \xe0 prot\xe9ger la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations.",jG:"Nous nous engageons \xe0 respecter la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations",fu:"Nous utilisons l'authentification locale pour masquer les donn\xe9es sensibles\n\nSi vous n'utilisez pas l'empreinte digitale, veuillez l'ajouter pour activer l'option",mS:"N\xe9cessite un fbclid valide pour chaque commande",kU:"Paiement r\xe9ussi ! Montant pay\xe9 : {amount} DZD",pd:"Payez les dettes accumul\xe9es du magasin depuis votre solde actuel",l5:"Personnaliser les couleurs de la boutique",fC:"Personnaliser les couleurs en mode sombre",fY:"Pour toute demande ou probl\xe8me, vous pouvez nous contacter par email ou par t\xe9l\xe9phone.",U:"Pour une protection suppl\xe9mentaire, il est recommand\xe9 d'ajouter une cl\xe9 secr\xe8te dans les param\xe8tres de connexion",b8:"Prot\xe9gez votre boutique contre le spam, les abus et les activit\xe9s frauduleuses",ll:"Prot\xe9gez votre boutique contre le spam, les abus et les commandes frauduleuses",k1:"Recherchez un magasin et achetez un plan d'abonnement pour celui-ci",p:"Red\xe9marrer la configuration de la boutique",db:"Red\xe9marrer le guide de configuration de la boutique",h:"Refuser toute commande dont la source est marqu\xe9e comme directe",hs:"Reste apr\xe8s paiement : {points} points ({amount} DZD)",m9:"R\xe9cup\xe9rer un colis aupr\xe8s du client final",kO:"Si s\xe9lectionn\xe9, le prix de l\u2019offre sera le prix final \xd7 la quantit\xe9",kj:"Si vous avez des probl\xe8mes, vous pouvez nous contacter",bM:"Slogan publicitaire (affich\xe9 en haut du site)",jN:"Statut modifi\xe9 avec succ\xe8s pour {count} commande(s)",g_:"Suivre les visiteurs avec Facebook, Google, etc.",jA:"Supprimer les r\xe9glages Google Sheets pour ce produit ?",g:"Supprimer les r\xe9glages Meta Pixel pour ce produit ?",d2:"Supprimer les r\xe9glages TikTok Pixel pour ce produit ?",jF:"S\xe9lectionner le magasin pour acheter un abonnement",it:"S\xe9lectionner le magasin pour recharger des points",s:"S\xe9lectionnez la plateforme depuis laquelle vous voulez importer des produits",c2:"S\xe9lectionnez le membre auquel vous voulez assigner la commande :",ea:"S\xe9lectionnez le membre auquel vous voulez assigner les commandes :",la:"S\xe9lectionnez les produits que vous souhaitez importer",dO:"S\xe9lectionnez un \xe9tat pour afficher les statistiques",jn:"Tarifs copi\xe9s depuis Procolis avec succ\xe8s",lb:"Titre de la boutique, utilis\xe9 pour la recherche et le logo",jW:"Toutes les op\xe9rations sont effectu\xe9es \xe0 votre demande pour le compte des magasins. Veuillez v\xe9rifier l'identit\xe9 du magasin avant d'effectuer tout paiement. Des conditions suppl\xe9mentaires peuvent s'appliquer selon la m\xe9thode de paiement utilis\xe9e.",cK:"Un moyen simple de suivre et g\xe9rer vos commandes avec Google Sheets",lo:"Une erreur est survenue lors de l'importation",pb:"Une erreur est survenue lors de l'importation : ",ob:"Une erreur est survenue lors de la mise \xe0 jour de la photo",oQ:"Une erreur est survenue lors de la mise \xe0 jour des prix",hw:"Une erreur s'est produite lors de la v\xe9rification du risque de retour",j5:"Une erreur s'est produite lors du chargement des magasins. Veuillez v\xe9rifier votre connexion Internet et r\xe9essayer.",lc:"Utilisez cette URL pour configurer le webhook dans le panneau de contr\xf4le Yalidine/GuepEX :",gp:"Utilisez le bouton \"Ajouter\" dans la barre d'application pour ajouter une m\xe9thode d'exp\xe9dition",i5:"Utilis\xe9e pour les \xe9l\xe9ments principaux en mode sombre",pm:"Utilis\xe9e pour les \xe9l\xe9ments principaux, les boutons et les autres \xe9l\xe9ments interactifs",b2:"Utilis\xe9e pour les \xe9l\xe9ments secondaires en mode sombre",iK:"Utilis\xe9e pour les \xe9l\xe9ments secondaires et les textes importants",cx:"Veuillez cr\xe9er un magasin d'abord pour acc\xe9der aux outils IA",n7:"Veuillez entrer une description ou s\xe9lectionner une image \xe0 modifier",hC:"Veuillez patienter pendant que nous vous d\xe9connectons en toute s\xe9curit\xe9",ld:"Veuillez s\xe9lectionner au moins une devise",k0:"Veuillez s\xe9lectionner une devise par d\xe9faut",fN:"Veuillez s\xe9lectionner une langue par d\xe9faut",et:"Voir comment votre boutique appara\xeet aux clients",aL:"Votre compte partenaire est en cours d'examen. Contactez-nous via WhatsApp pour activer les permissions.",mB:"Voulez-vous d\xe9connecter l'int\xe9gration de s\xe9curit\xe9 de votre boutique ?",m:"Voulez-vous d\xe9connecter le service Meta Pixel de votre boutique ?",f6:"Voulez-vous d\xe9connecter le service Noest de votre boutique ?",gA:"Voulez-vous d\xe9connecter le service Procolis de votre boutique ?",mv:"Voulez-vous d\xe9connecter le service TikTok Pixel de votre boutique ?",gq:"Voulez-vous d\xe9connecter le service Yalidine Express de votre boutique ?",nB:"Voulez-vous importer les produits s\xe9lectionn\xe9s ?",jH:"Vous avez d\xe9pass\xe9 la limite. Achetez des points suppl\xe9mentaires ou changez de forfait.",l9:"Vous avez d\xe9pass\xe9 le montant d\xfb autoris\xe9. Veuillez payer le montant pour acc\xe9der \xe0 ce contenu.",d_:"Vous avez {due} points dus \xe0 payer. Veuillez payer le montant pour maintenir votre service actif.",ol:"Vous devez accepter les conditions g\xe9n\xe9rales.",bH:"Vous pouvez l'obtenir depuis la page d\xe9veloppeur dans votre compte Yalidine",nG:"Vous pouvez maintenant commencer \xe0 g\xe9rer votre boutique",n:"Vous pouvez modifier les prix pour tous les \xc9tats en m\xeame temps",n2:"V\xe9rifie la source et limite les tentatives r\xe9p\xe9t\xe9es",aI:"V\xe9rifiez et confirmez le processus d'importation",iX:"{count} commande(s) assign\xe9e(s) avec succ\xe8s",iv:"{count} num\xe9ro(s) de t\xe9l\xe9phone v\xe9rifi\xe9(s)",nW:"{count} \xe9v\xe9nement(s) seront envoy\xe9s \xe0 {pixelCount} pixel(s)",oa:"{successfulEvents} \xe9v\xe9nement(s) envoy\xe9(s) avec succ\xe8s, {failedEvents} \xe9v\xe9nement(s) ont \xe9chou\xe9 sur {totalOrders} commandes",nY:"\xc9chec de l'enregistrement des modifications : {error}",lR:"\xc9chec de l'ouverture de l'\xe9diteur d'images",da:"\xc9chec de la r\xe9cup\xe9ration du contenu depuis l'URL : {error}",di:"\xc9chec de la synchronisation des commandes : {error}",iM:"\xc9chec du chargement des donn\xe9es financi\xe8res",kB:"\xc9crivez ce que vous voulez cr\xe9er ou modifier",fK:"\xc9tiquettes personnalis\xe9es pour les commandes",hu:"\xc9v\xe9nements {eventName} envoy\xe9s avec succ\xe8s pour toutes les commandes ({successfulEvents} \xe9v\xe9nement(s))",d1:"\xcates-vous s\xfbr de vouloir annuler le lien ?",m6:"\xcates-vous s\xfbr de vouloir d\xe9connecter l'int\xe9gration IA de votre boutique ?",i8:"\xcates-vous s\xfbr de vouloir envoyer des \xe9v\xe9nements {eventName} pour toutes les commandes s\xe9lectionn\xe9es \xe0 {pixelType} ?",b3:"\xcates-vous s\xfbr de vouloir importer ce produit ?",kG:"\xcates-vous s\xfbr de vouloir supprimer ce domaine ?",kN:"\xcates-vous s\xfbr de vouloir supprimer ce fichier ?",u:"\xcates-vous s\xfbr de vouloir supprimer ce pixel : ",eu:"\xcates-vous s\xfbr de vouloir supprimer la commande {id} ?",hi:"\xcates-vous s\xfbr de vouloir supprimer les commandes s\xe9lectionn\xe9es ?\nCette action est permanente et ne peut pas \xeatre annul\xe9e.",dg:"\xcates-vous s\xfbr de vouloir supprimer tous les compl\xe9ments ?",k3:"\xcates-vous s\xfbr de vouloir vous d\xe9connecter ?"}
+var x={g:B.as("Q<V<k>>"),h:B.as("Q<k>"),c:B.as("E3<oP,oB>")}};
+(a=>{a["MseC4zc865qSqabujP4rmwOyHuY="]=a.current})($__dart_deferred_initializers__);
