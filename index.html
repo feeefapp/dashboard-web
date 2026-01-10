@@ -1,50 +1,40 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html><html><head>
+  <base href="/">
 
-<head>
-  <base href="/" />
-
-  <meta charset="UTF-8" />
-  <meta flt-viewport="" name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
-  <meta name="description" content="feeef e-commerce web platform" />
+  <meta charset="UTF-8">
+  <meta flt-viewport="" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="feeef e-commerce web platform">
   <!-- SEO -->
-  <meta name="keywords" content="feeef, e-commerce, shop, shopfy" />
-  <meta name="author" content="feeef net" />
-  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="feeef, e-commerce, shop, shopfy">
+  <meta name="author" content="feeef net">
+  <meta name="robots" content="index, follow">
   <meta name="google-signin-client_id" content="24740023407-bmcb0stao9lbjdqbjsbebm7aju2rtcac.apps.googleusercontent.com">
-  <meta name="googlebot" content="index, follow" />
-  <meta name="description"
-    content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
-  <meta property="og:title" content="feeef | E-Commerce Platform" />
-  <meta property="og:description"
-    content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
-  <meta property="og:image" content="https://web.feeef.org/icons/Icon-192.png" />
-  <meta property="og:url" content="https://web.feeef.org" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="feeef" />
-  <meta name="twitter:title" content="feeef | E-Commerce Platform" />
-  <meta name="twitter:description"
-    content="feeef is an e-commerce platform that allows users to create and manage their own shops." />
-  <meta name="twitter:image" content="https://web.feeef.org/icons/Icon-192.png" />
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="googlebot" content="index, follow">
+  <meta name="description" content="feeef is an e-commerce platform that allows users to create and manage their own shops.">
+  <meta property="og:title" content="feeef | E-Commerce Platform">
+  <meta property="og:description" content="feeef is an e-commerce platform that allows users to create and manage their own shops.">
+  <meta property="og:image" content="https://web.feeef.org/icons/Icon-192.png">
+  <meta property="og:url" content="https://web.feeef.org">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="feeef">
+  <meta name="twitter:title" content="feeef | E-Commerce Platform">
+  <meta name="twitter:description" content="feeef is an e-commerce platform that allows users to create and manage their own shops.">
+  <meta name="twitter:image" content="https://web.feeef.org/icons/Icon-192.png">
+  <meta name="twitter:card" content="summary_large_image">
 
   <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  <meta name="apple-mobile-web-app-title" content="fash" />
-  <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="fash">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="icon" type="image/png" href="favicon.png">
 
   <title>feeef web</title>
-  <link rel="manifest" href="manifest.json" />
-  <script
-  src="https://github.com/corbado/flutter-passkeys/releases/download/2.4.0/bundle.js"
-  type="application/javascript"
-></script>
+  <link rel="manifest" href="manifest.json">
+  <script src="https://github.com/corbado/flutter-passkeys/releases/download/2.4.0/bundle.js" type="application/javascript"></script>
   <!-- // loading Style -->
   <style>
     /* html {
@@ -170,6 +160,81 @@
       justify-content: center;
     }
   </style>
+  
+  
+  
+  
+  <style id="splash-screen-style">
+    html {
+      height: 100%
+    }
+
+    body {
+      margin: 0;
+      min-height: 100%;
+      background-color: #ffffff;
+          background-size: 100% 100%;
+    }
+
+    .center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .contain {
+      display:block;
+      width:100%; height:100%;
+      object-fit: contain;
+    }
+
+    .stretch {
+      display:block;
+      width:100%; height:100%;
+    }
+
+    .cover {
+      display:block;
+      width:100%; height:100%;
+      object-fit: cover;
+    }
+
+    .bottom {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      -ms-transform: translate(-50%, 0);
+      transform: translate(-50%, 0);
+    }
+
+    .bottomLeft {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
+
+    .bottomRight {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #121212;
+          }
+    }
+  </style>
+  <script id="splash-screen-script">
+    function removeSplashFromWeb() {
+      document.getElementById("splash")?.remove();
+      document.getElementById("splash-branding")?.remove();
+      document.body.style.background = "transparent";
+    }
+  </script>
 </head>
 
 <body id="feeef-3" style="
@@ -181,6 +246,13 @@
       user-select: none;
       touch-action: none;
     ">
+  <picture id="splash">
+      <source srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x" media="(prefers-color-scheme: light)">
+      <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
+      <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
+  </picture>
+  
+  
   <!-- <div
       id="loading"
       class="loading"
@@ -1131,8 +1203,7 @@
         <div style="position: absolute; inset: 13px"></div>
       </div>
     </div> -->
-  <div id="loading" class="loading" 
-  style="background: white; xconic-gradient(from -45deg,#00ffdb,#00800000);text-align: center;position: relative;background-repeat: no-repeat;background-size: cover;height: 100vh;width: 100vw;">
+  <div id="loading" class="loading" style="background: white; xconic-gradient(from -45deg,#00ffdb,#00800000);text-align: center;position: relative;background-repeat: no-repeat;background-size: cover;height: 100vh;width: 100vw;">
     <div style="
           text-align: center;
           /* color: #fff; */
@@ -1194,14 +1265,13 @@
 
     <div style="position: absolute; inset: 10px">
 
-      <div
-        style="position: absolute; inset: -100px;background: black;background-size: cover;z-index: -1;filterx: blur(30px);">
+      <div style="position: absolute; inset: -100px;background: black;background-size: cover;z-index: -1;filterx: blur(30px);">
         <!-- url(https://i.pinimg.com/originals/0a/0e/68/0a0e687ae35c4464fb52919de028cc39.gif); -->
       </div>
     </div>
   </div>
   <!-- Google Sign-In API -->
-  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="https://accounts.google.com/gsi/client" async="" defer=""></script>
   <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
   <script>
     const loadingBar = document.body;
@@ -1229,7 +1299,7 @@
       });
     }
   </script>
-  <script src='flutter_bootstrap.js?v="3906041604" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */' async></script>
-</body>
+  <script src="flutter_bootstrap.js?v="184212036" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */" async=""></script>
 
-</html>
+
+</body></html>
