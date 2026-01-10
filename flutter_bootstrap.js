@@ -42,16 +42,16 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"2258955543" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+    build.mainJsPath += "?v="+"2009986333" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "2258955543" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    mainJsPath: "main.dart.js?v=" + "2009986333" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "2258955543" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "2009986333" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
   onEntrypointLoaded: function (engineInitializer) {
     engineInitializer.initializeEngine({
