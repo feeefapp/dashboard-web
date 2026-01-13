@@ -33,7 +33,7 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"b9afb03275c7cf04906cb5b94faa60005561fc83","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"9828a8bf3fe26ba43a8aecf7e8eb1033ac285808","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
 
 const searchParams = new URLSearchParams(window.location.search);
@@ -42,16 +42,16 @@ const userConfig = renderer ? {'renderer': renderer} : {};
 
 // addversion to mainJsPath
 _flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"184212036" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+    build.mainJsPath += "?v="+"720302848" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
 });
     
 _flutter.loader.load({
   config: {
     ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "184212036" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    mainJsPath: "main.dart.js?v=" + "720302848" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
   serviceWorkerSettings: {
-    serviceWorkerVersion: "184212036" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "720302848" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
   onEntrypointLoaded: function (engineInitializer) {
     engineInitializer.initializeEngine({
