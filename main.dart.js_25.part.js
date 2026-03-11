@@ -1,24 +1,24 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,D,B={
-h1k(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){return new B.Dq(m,q,x,j,s,o,a2,u,v,h,g,a3,k,f,w,e,t,i,l,a1,a5,r,d,n,a0,a4,p)},
-cXN(d){var x,w,v,u,t,s,r=null,q=d.ghU(),p=d.z
-p=p==null?r:A.bkh(p)
+h1s(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){return new B.Dr(m,q,x,j,s,o,a2,u,v,h,g,a3,k,f,w,e,t,i,l,a1,a5,r,d,n,a0,a4,p)},
+cXN(d){var x,w,v,u,t,s,r=null,q=d.ghV(),p=d.z
+p=p==null?r:A.bkg(p)
 x=d.db
-x=x==null?r:A.aEa(x)
-w=d.gib()
+x=x==null?r:A.aEd(x)
+w=d.gic()
 if(w==null)w=r
 else{w=J.aw(w,new B.cXO(),y.y)
 w=A.B(w,w.$ti.j("Z.E"))}v=d.giQ()
 if(v==null)v=r
 else{v=J.aw(v,new B.cXP(),y.y)
 v=A.B(v,v.$ti.j("Z.E"))}u=d.fr
-u=u==null?r:A.fcF(u)
-t=D.SI.h(0,d.fx)
+u=u==null?r:A.fcM(u)
+t=D.SK.h(0,d.fx)
 t.toString
-s=D.SL.h(0,d.fy)
+s=D.SN.h(0,d.fy)
 s.toString
 return A.A(["id",d.a,"name",d.b,"slug",d.c,"decoration",d.d,"photoUrl",d.e,"media",q,"storeId",d.r,"shippingMethodId",d.w,"shippingPriceId",d.x,"categoryId",d.y,"category",p,"title",d.Q,"description",d.as,"body",d.at,"sku",d.ax,"barcode",d.ay,"price",d.ch,"cost",d.CW,"discount",d.cx,"stock",d.cy,"variant",x,"offers",w,"addons",v,"integrationsData",u,"status",t,"type",s,"metadata",d.gY()],y.w,y.m)},
-Dq:function Dq(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){var _=this
+Dr:function Dr(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -58,17 +58,17 @@ _.c=d
 _.d=e
 _.a=f
 _.b=g},
-flz(d,e,f,g,h){return new A.Ng(e,h,d,D.aby,g,!0,D.aXr,f,null)}},C
+flG(d,e,f,g,h){return new A.Nh(e,h,d,D.abC,g,!0,D.aXx,f,null)}},C
 J=c[1]
 A=c[0]
 D=c[2]
 B=a.updateHolder(c[30],B)
 C=c[91]
-B.Dq.prototype={
-ghU(){var x=this.f
+B.Dr.prototype={
+ghV(){var x=this.f
 if(x instanceof A.aY)return x
 return new A.aY(x,x,y.A)},
-gib(){var x=this.dx
+gic(){var x=this.dx
 if(x==null)return null
 if(x instanceof A.aY)return x
 return new A.aY(x,x,y.j)},
@@ -79,11 +79,11 @@ return new A.aY(x,x,y.b)},
 gY(){var x=this.go
 if(x instanceof A.b9)return x
 return new A.b9(x,x,y.C)},
-ap(){return B.cXN(this)},
+aq(){return B.cXN(this)},
 l(d,e){var x,w,v,u=this
 if(e==null)return!1
 if(u!==e){x=!1
-if(J.ab(e)===A.y(u))if(e instanceof B.Dq){w=e.a==u.a
+if(J.ab(e)===A.y(u))if(e instanceof B.Dr){w=e.a==u.a
 if(w||w){w=e.b===u.b
 if(w||w){w=e.c===u.c
 if(w||w)if(D.w.a3(e.d,u.d)){w=e.e==u.e
@@ -113,8 +113,8 @@ return x},
 gv(d){var x=this
 return A.b1([A.y(x),x.a,x.b,x.c,D.w.a9(x.d),x.e,D.w.a9(x.f),x.r,x.w,x.x,x.y,x.z,x.Q,x.as,x.at,x.ax,x.ay,x.ch,x.CW,x.cx,x.cy,x.db,D.w.a9(x.dx),D.w.a9(x.dy),x.fr,x.fx,x.fy,D.w.a9(x.go)])},
 k(d){var x=this
-return"ProductCreate(id: "+A.h(x.a)+", name: "+x.b+", slug: "+x.c+", decoration: "+A.h(x.d)+", photoUrl: "+A.h(x.e)+", media: "+A.h(x.ghU())+", storeId: "+x.r+", shippingMethodId: "+A.h(x.w)+", shippingPriceId: "+A.h(x.x)+", categoryId: "+A.h(x.y)+", category: "+A.h(x.z)+", title: "+A.h(x.Q)+", description: "+A.h(x.as)+", body: "+A.h(x.at)+", sku: "+A.h(x.ax)+", barcode: "+A.h(x.ay)+", price: "+A.h(x.ch)+", cost: "+A.h(x.CW)+", discount: "+A.h(x.cx)+", stock: "+A.h(x.cy)+", variant: "+A.h(x.db)+", offers: "+A.h(x.gib())+", addons: "+A.h(x.giQ())+", integrationsData: "+A.h(x.fr)+", status: "+x.fx.k(0)+", type: "+x.fy.k(0)+", metadata: "+x.gY().k(0)+")"},
-$iars:1,
+return"ProductCreate(id: "+A.h(x.a)+", name: "+x.b+", slug: "+x.c+", decoration: "+A.h(x.d)+", photoUrl: "+A.h(x.e)+", media: "+A.h(x.ghV())+", storeId: "+x.r+", shippingMethodId: "+A.h(x.w)+", shippingPriceId: "+A.h(x.x)+", categoryId: "+A.h(x.y)+", category: "+A.h(x.z)+", title: "+A.h(x.Q)+", description: "+A.h(x.as)+", body: "+A.h(x.at)+", sku: "+A.h(x.ax)+", barcode: "+A.h(x.ay)+", price: "+A.h(x.ch)+", cost: "+A.h(x.CW)+", discount: "+A.h(x.cx)+", stock: "+A.h(x.cy)+", variant: "+A.h(x.db)+", offers: "+A.h(x.gic())+", addons: "+A.h(x.giQ())+", integrationsData: "+A.h(x.fr)+", status: "+x.fx.k(0)+", type: "+x.fy.k(0)+", metadata: "+x.gY().k(0)+")"},
+$iaru:1,
 gaS(){return this.b}}
 B.vU.prototype={
 M(){return"ImageOutputSize."+this.b}}
@@ -122,27 +122,27 @@ B.qy.prototype={
 M(){return"ImageResolution."+this.b}}
 var z=a.updateTypes([])
 B.cXO.prototype={
-$1(d){return A.fcP(d)},
-$S:382}
+$1(d){return A.fcW(d)},
+$S:348}
 B.cXP.prototype={
-$1(d){return A.fcL(d)},
-$S:391};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.Dq,A.a1)
+$1(d){return A.fcS(d)},
+$S:355};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.Dr,A.a1)
 w(A.iZ,[B.cXO,B.cXP])
 w(A.ob,[B.vU,B.qy])})()
-A.j3(b.typeUniverse,JSON.parse('{"Dq":{"ars":[]}}'))
-var y={b:A.a6("aY<p4>"),j:A.a6("aY<mx>"),A:A.a6("aY<i>"),C:A.a6("b9<i,@>"),y:A.a6("F<i,@>"),w:A.a6("i"),m:A.a6("@")};(function constants(){var x=a.makeConstList
-C.a0f=new A.av(61748,"MaterialIcons",null,!1)
-C.aMJ=new A.bb(59062,"PhosphorThin","phosphor_flutter",!0)
-C.a14=new A.aj(D.TY,null,null,null,null,null)
-C.alK=new B.vU("1K","1K",0,"k1")
-C.a19=new B.vU("4K","4K",2,"k4")
-C.xA=new B.vU("2K","2K",1,"k2")
-C.xB=new B.qy("MEDIA_RESOLUTION_HIGH","High",2,"high")
-C.alL=new B.qy("MEDIA_RESOLUTION_LOW","Low",0,"low")
-C.P6=x(["image/jpeg","image/png","image/webp"],A.a6("G<i>"))
-C.eLz=new B.qy("MEDIA_RESOLUTION_MEDIUM","Medium",1,"medium")
-C.Fd=x([C.alL,C.eLz,C.xB],A.a6("G<qy>"))
-C.RX=x([C.alK,C.xA,C.a19],A.a6("G<vU>"))
-C.V6=new A.a9(null,14,null,null)})()};
-(a=>{a["/N2b9kxd90zNY+Wdris7gug/rgQ="]=a.current})($__dart_deferred_initializers__);
+A.j3(b.typeUniverse,JSON.parse('{"Dr":{"aru":[]}}'))
+var y={b:A.a6("aY<p3>"),j:A.a6("aY<mx>"),A:A.a6("aY<i>"),C:A.a6("b9<i,@>"),y:A.a6("F<i,@>"),w:A.a6("i"),m:A.a6("@")};(function constants(){var x=a.makeConstList
+C.a0j=new A.av(61748,"MaterialIcons",null,!1)
+C.aMP=new A.bb(59062,"PhosphorThin","phosphor_flutter",!0)
+C.a18=new A.aj(D.U0,null,null,null,null,null)
+C.alP=new B.vU("1K","1K",0,"k1")
+C.a1d=new B.vU("4K","4K",2,"k4")
+C.xz=new B.vU("2K","2K",1,"k2")
+C.xA=new B.qy("MEDIA_RESOLUTION_HIGH","High",2,"high")
+C.alQ=new B.qy("MEDIA_RESOLUTION_LOW","Low",0,"low")
+C.P8=x(["image/jpeg","image/png","image/webp"],A.a6("G<i>"))
+C.eLE=new B.qy("MEDIA_RESOLUTION_MEDIUM","Medium",1,"medium")
+C.Fe=x([C.alQ,C.eLE,C.xA],A.a6("G<qy>"))
+C.RZ=x([C.alP,C.xz,C.a1d],A.a6("G<vU>"))
+C.V9=new A.a9(null,14,null,null)})()};
+(a=>{a["YM+KXugFfVqVNn9+g5kJY+x2Ock="]=a.current})($__dart_deferred_initializers__);

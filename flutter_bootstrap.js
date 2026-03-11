@@ -33,32 +33,16 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"3543c00c801c49c78a0d4e7ceafbe278c9c26f1e","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"94ad32791f07d59fefc62ddc8e34a6a73f56cc4c","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
 
-const searchParams = new URLSearchParams(window.location.search);
-const renderer = searchParams.get('renderer');
-const userConfig = renderer ? {'renderer': renderer} : {};
-
-// addversion to mainJsPath
-_flutter.buildConfig.builds.forEach(build => {
-    build.mainJsPath += "?v="+"3637731618" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
-});
-    
+// Customize the app initialization process
 _flutter.loader.load({
-  config: {
-    ...userConfig,
-    mainJsPath: "main.dart.js?v=" + "3637731618" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
-  },
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "3637731618" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
-  },
-  onEntrypointLoaded: function (engineInitializer) {
-    engineInitializer.initializeEngine({
-      useColorEmoji: true, // add this parameter
-      renderer: 'canvaskit'
-    }).then(function (appRunner) {
-      appRunner.runApp();
+  onEntrypointLoaded: async function (engineInitializer) {
+    const appRunner = await engineInitializer.initializeEngine({
+      useColorEmoji: true,
     });
+
+    await appRunner.runApp();
   },
 });
