@@ -1,24 +1,24 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,D,B={
-h1s(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){return new B.Dr(m,q,x,j,s,o,a2,u,v,h,g,a3,k,f,w,e,t,i,l,a1,a5,r,d,n,a0,a4,p)},
-cXN(d){var x,w,v,u,t,s,r=null,q=d.ghV(),p=d.z
-p=p==null?r:A.bkg(p)
+h1u(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){return new B.Ds(m,q,x,j,s,o,a2,u,v,h,g,a3,k,f,w,e,t,i,l,a1,a5,r,d,n,a0,a4,p)},
+cXM(d){var x,w,v,u,t,s,r=null,q=d.ghV(),p=d.z
+p=p==null?r:A.bkh(p)
 x=d.db
 x=x==null?r:A.aEd(x)
 w=d.gic()
 if(w==null)w=r
-else{w=J.aw(w,new B.cXO(),y.y)
+else{w=J.aw(w,new B.cXN(),y.y)
 w=A.B(w,w.$ti.j("Z.E"))}v=d.giQ()
 if(v==null)v=r
-else{v=J.aw(v,new B.cXP(),y.y)
+else{v=J.aw(v,new B.cXO(),y.y)
 v=A.B(v,v.$ti.j("Z.E"))}u=d.fr
-u=u==null?r:A.fcM(u)
+u=u==null?r:A.fcN(u)
 t=D.SK.h(0,d.fx)
 t.toString
 s=D.SN.h(0,d.fy)
 s.toString
 return A.A(["id",d.a,"name",d.b,"slug",d.c,"decoration",d.d,"photoUrl",d.e,"media",q,"storeId",d.r,"shippingMethodId",d.w,"shippingPriceId",d.x,"categoryId",d.y,"category",p,"title",d.Q,"description",d.as,"body",d.at,"sku",d.ax,"barcode",d.ay,"price",d.ch,"cost",d.CW,"discount",d.cx,"stock",d.cy,"variant",x,"offers",w,"addons",v,"integrationsData",u,"status",t,"type",s,"metadata",d.gY()],y.w,y.m)},
-Dr:function Dr(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){var _=this
+Ds:function Ds(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,a0,a1,a2,a3,a4,a5){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -46,8 +46,8 @@ _.fr=a2
 _.fx=a3
 _.fy=a4
 _.go=a5},
+cXN:function cXN(){},
 cXO:function cXO(){},
-cXP:function cXP(){},
 vU:function vU(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -58,13 +58,13 @@ _.c=d
 _.d=e
 _.a=f
 _.b=g},
-flG(d,e,f,g,h){return new A.Nh(e,h,d,D.abC,g,!0,D.aXx,f,null)}},C
+flI(d,e,f,g,h){return new A.Ni(e,h,d,D.abC,g,!0,D.aXx,f,null)}},C
 J=c[1]
 A=c[0]
 D=c[2]
 B=a.updateHolder(c[30],B)
 C=c[91]
-B.Dr.prototype={
+B.Ds.prototype={
 ghV(){var x=this.f
 if(x instanceof A.aY)return x
 return new A.aY(x,x,y.A)},
@@ -79,11 +79,11 @@ return new A.aY(x,x,y.b)},
 gY(){var x=this.go
 if(x instanceof A.b9)return x
 return new A.b9(x,x,y.C)},
-aq(){return B.cXN(this)},
+aq(){return B.cXM(this)},
 l(d,e){var x,w,v,u=this
 if(e==null)return!1
 if(u!==e){x=!1
-if(J.ab(e)===A.y(u))if(e instanceof B.Dr){w=e.a==u.a
+if(J.ac(e)===A.y(u))if(e instanceof B.Ds){w=e.a==u.a
 if(w||w){w=e.b===u.b
 if(w||w){w=e.c===u.c
 if(w||w)if(D.w.a3(e.d,u.d)){w=e.e==u.e
@@ -114,24 +114,24 @@ gv(d){var x=this
 return A.b1([A.y(x),x.a,x.b,x.c,D.w.a9(x.d),x.e,D.w.a9(x.f),x.r,x.w,x.x,x.y,x.z,x.Q,x.as,x.at,x.ax,x.ay,x.ch,x.CW,x.cx,x.cy,x.db,D.w.a9(x.dx),D.w.a9(x.dy),x.fr,x.fx,x.fy,D.w.a9(x.go)])},
 k(d){var x=this
 return"ProductCreate(id: "+A.h(x.a)+", name: "+x.b+", slug: "+x.c+", decoration: "+A.h(x.d)+", photoUrl: "+A.h(x.e)+", media: "+A.h(x.ghV())+", storeId: "+x.r+", shippingMethodId: "+A.h(x.w)+", shippingPriceId: "+A.h(x.x)+", categoryId: "+A.h(x.y)+", category: "+A.h(x.z)+", title: "+A.h(x.Q)+", description: "+A.h(x.as)+", body: "+A.h(x.at)+", sku: "+A.h(x.ax)+", barcode: "+A.h(x.ay)+", price: "+A.h(x.ch)+", cost: "+A.h(x.CW)+", discount: "+A.h(x.cx)+", stock: "+A.h(x.cy)+", variant: "+A.h(x.db)+", offers: "+A.h(x.gic())+", addons: "+A.h(x.giQ())+", integrationsData: "+A.h(x.fr)+", status: "+x.fx.k(0)+", type: "+x.fy.k(0)+", metadata: "+x.gY().k(0)+")"},
-$iaru:1,
+$iarv:1,
 gaS(){return this.b}}
 B.vU.prototype={
 M(){return"ImageOutputSize."+this.b}}
 B.qy.prototype={
 M(){return"ImageResolution."+this.b}}
 var z=a.updateTypes([])
-B.cXO.prototype={
-$1(d){return A.fcW(d)},
+B.cXN.prototype={
+$1(d){return A.fcX(d)},
 $S:348}
-B.cXP.prototype={
-$1(d){return A.fcS(d)},
-$S:355};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.Dr,A.a1)
-w(A.iZ,[B.cXO,B.cXP])
+B.cXO.prototype={
+$1(d){return A.fcT(d)},
+$S:349};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.Ds,A.a1)
+w(A.iZ,[B.cXN,B.cXO])
 w(A.ob,[B.vU,B.qy])})()
-A.j3(b.typeUniverse,JSON.parse('{"Dr":{"aru":[]}}'))
-var y={b:A.a6("aY<p3>"),j:A.a6("aY<mx>"),A:A.a6("aY<i>"),C:A.a6("b9<i,@>"),y:A.a6("F<i,@>"),w:A.a6("i"),m:A.a6("@")};(function constants(){var x=a.makeConstList
+A.j3(b.typeUniverse,JSON.parse('{"Ds":{"arv":[]}}'))
+var y={b:A.a6("aY<p3>"),j:A.a6("aY<my>"),A:A.a6("aY<i>"),C:A.a6("b9<i,@>"),y:A.a6("F<i,@>"),w:A.a6("i"),m:A.a6("@")};(function constants(){var x=a.makeConstList
 C.a0j=new A.av(61748,"MaterialIcons",null,!1)
 C.aMP=new A.bb(59062,"PhosphorThin","phosphor_flutter",!0)
 C.a18=new A.aj(D.U0,null,null,null,null,null)
@@ -145,4 +145,4 @@ C.eLE=new B.qy("MEDIA_RESOLUTION_MEDIUM","Medium",1,"medium")
 C.Fe=x([C.alQ,C.eLE,C.xA],A.a6("G<qy>"))
 C.RZ=x([C.alP,C.xz,C.a1d],A.a6("G<vU>"))
 C.V9=new A.a9(null,14,null,null)})()};
-(a=>{a["YM+KXugFfVqVNn9+g5kJY+x2Ock="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["yTIBOXbACxNZL3umHC6yF70YtOg="]=a.current})($__dart_deferred_initializers__);
