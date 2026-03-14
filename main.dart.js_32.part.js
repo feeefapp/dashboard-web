@@ -1,6 +1,20 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+bJG(d){return A.iG($.fHZ(),new B.eSa(d))},
+f75:function f75(){},
+eSa:function eSa(d){this.a=d}}
 A=c[0]
-B=c[85]
-var z=a.updateTypes([]);(function constants(){B.KN=new A.av(62335,"MaterialIcons",null,!1)})()};
-(a=>{a["Sgp9LVnqVqDgjgxE4OVcwif5YZU="]=a.current})($__dart_deferred_initializers__);
+C=c[2]
+B=a.updateHolder(c[6],B)
+var z=a.updateTypes([])
+B.f75.prototype={
+$1(d){var y=A.bD(d.h(0,"id")),x=A.a6(d.h(0,"name")),w=A.bD(d.h(0,"zone"))
+return new A.byp([y,A.bD(d.h(0,"is_deliverable")),x,w])},
+$S:2644}
+B.eSa.prototype={
+$1(d){return d.a[0]===this.a},
+$S:2645};(function inheritance(){var y=a.inheritMany
+y(A.q4,[B.f75,B.eSa])})();(function lazyInitializers(){var y=a.lazyFinal
+y($,"hw_","fHZ",()=>{var x=A.aj("j"),w=A.aj("a5")
+return C.d.h4(A.b([A.A(["id",1,"name","Adrar","zone",4,"is_deliverable",1],x,w),A.A(["id",2,"name","Chlef","zone",2,"is_deliverable",1],x,w),A.A(["id",3,"name","Laghouat","zone",3,"is_deliverable",1],x,w),A.A(["id",4,"name","Oum El Bouaghi","zone",2,"is_deliverable",1],x,w),A.A(["id",5,"name","Batna","zone",2,"is_deliverable",1],x,w),A.A(["id",6,"name","B\xe9ja\xefa","zone",2,"is_deliverable",1],x,w),A.A(["id",7,"name","Biskra","zone",3,"is_deliverable",1],x,w),A.A(["id",8,"name","B\xe9char","zone",4,"is_deliverable",1],x,w),A.A(["id",9,"name","Blida","zone",1,"is_deliverable",1],x,w),A.A(["id",10,"name","Bouira","zone",2,"is_deliverable",1],x,w),A.A(["id",11,"name","Tamanrasset","zone",4,"is_deliverable",1],x,w),A.A(["id",12,"name","T\xe9bessa","zone",3,"is_deliverable",1],x,w),A.A(["id",13,"name","Tlemcen","zone",2,"is_deliverable",1],x,w),A.A(["id",14,"name","Tiaret","zone",2,"is_deliverable",1],x,w),A.A(["id",15,"name","Tizi Ouzou","zone",2,"is_deliverable",1],x,w),A.A(["id",16,"name","Alger","zone",1,"is_deliverable",1],x,w),A.A(["id",17,"name","Djelfa","zone",3,"is_deliverable",1],x,w),A.A(["id",18,"name","Jijel","zone",2,"is_deliverable",1],x,w),A.A(["id",19,"name","S\xe9tif","zone",2,"is_deliverable",1],x,w),A.A(["id",20,"name","Sa\xefda","zone",2,"is_deliverable",1],x,w),A.A(["id",21,"name","Skikda","zone",2,"is_deliverable",1],x,w),A.A(["id",22,"name","Sidi Bel Abb\xe8s","zone",2,"is_deliverable",1],x,w),A.A(["id",23,"name","Annaba","zone",2,"is_deliverable",1],x,w),A.A(["id",24,"name","Guelma","zone",2,"is_deliverable",1],x,w),A.A(["id",25,"name","Constantine","zone",2,"is_deliverable",1],x,w),A.A(["id",26,"name","M\xe9d\xe9a","zone",2,"is_deliverable",1],x,w),A.A(["id",27,"name","Mostaganem","zone",2,"is_deliverable",1],x,w),A.A(["id",28,"name","M'Sila","zone",2,"is_deliverable",1],x,w),A.A(["id",29,"name","Mascara","zone",2,"is_deliverable",1],x,w),A.A(["id",30,"name","Ouargla","zone",3,"is_deliverable",1],x,w),A.A(["id",31,"name","Oran","zone",2,"is_deliverable",1],x,w),A.A(["id",32,"name","El Bayadh","zone",4,"is_deliverable",1],x,w),A.A(["id",33,"name","Illizi","zone",4,"is_deliverable",1],x,w),A.A(["id",34,"name","Bordj Bou Arreridj","zone",2,"is_deliverable",1],x,w),A.A(["id",35,"name","Boumerd\xe8s","zone",1,"is_deliverable",1],x,w),A.A(["id",36,"name","El Tarf","zone",2,"is_deliverable",1],x,w),A.A(["id",37,"name","Tindouf","zone",4,"is_deliverable",1],x,w),A.A(["id",38,"name","Tissemsilt","zone",2,"is_deliverable",1],x,w),A.A(["id",39,"name","El Oued","zone",3,"is_deliverable",1],x,w),A.A(["id",40,"name","Khenchela","zone",2,"is_deliverable",1],x,w),A.A(["id",41,"name","Souk Ahras","zone",2,"is_deliverable",1],x,w),A.A(["id",42,"name","Tipaza","zone",2,"is_deliverable",1],x,w),A.A(["id",43,"name","Mila","zone",2,"is_deliverable",1],x,w),A.A(["id",44,"name","A\xefn Defla","zone",2,"is_deliverable",1],x,w),A.A(["id",45,"name","Na\xe2ma","zone",4,"is_deliverable",1],x,w),A.A(["id",46,"name","A\xefn T\xe9mouchent","zone",2,"is_deliverable",1],x,w),A.A(["id",47,"name","Gharda\xefa","zone",3,"is_deliverable",1],x,w),A.A(["id",48,"name","Relizane","zone",2,"is_deliverable",1],x,w)],A.aj("J<F<j,a5>>")),new B.f75(),A.aj("+id,isDeliverable,name,zone(t,t,j,t)")).fH(0)})})()};
+(a=>{a["KnFTkH6/MRMTHRwcXqaJ4x4OVsI="]=a.current})($__dart_deferred_initializers__);
