@@ -54,6 +54,6 @@ var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
 x(B.a1,[C.aNh,C.H6])})()
 B.j4(b.typeUniverse,JSON.parse('{"aNh":{"fr1":[]},"H6":{"l0":[]}}'))
 var y={i:B.a6("aY<O<by?>?>"),m:B.a6("b9<i,@>"),g:B.a6("i"),b:B.a6("@")};(function constants(){D.a60=new B.bb(58534,"PhosphorThin","phosphor_flutter",!0)
-D.aN4=new B.bb(59224,"PhosphorThin","phosphor_flutter",!0)
-D.aTN=new B.a9(null,80,null,null)})()};
-(a=>{a["hP7Li1BOWsHXOtRkF7EY1/1pGeM="]=a.current})($__dart_deferred_initializers__);
+D.aN2=new B.bb(59224,"PhosphorThin","phosphor_flutter",!0)
+D.aTL=new B.a9(null,80,null,null)})()};
+(a=>{a["roB0gmRcfFXueK+fWuBzZBBBt6E="]=a.current})($__dart_deferred_initializers__);
