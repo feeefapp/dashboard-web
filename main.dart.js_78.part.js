@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,C={
-I5(d){var x="customOrderTags"
+I4(d){var x="customOrderTags"
 if(d.gY().h(0,x)==null)return A.b([],y.p)
 return A.bt(J.M1(d.gY().h(0,x),new C.bWa()),!0,y.o)},
-ft7(d){return new C.L7(A.U(d.h(0,"userId")),A.a8(d.h(0,"name")),A.U(d.h(0,"note")),B.k.L(A.cD(d.h(0,"color"))))},
+ft3(d){return new C.L7(A.U(d.h(0,"userId")),A.a8(d.h(0,"name")),A.U(d.h(0,"note")),B.k.L(A.cD(d.h(0,"color"))))},
 aEi(d){return A.A(["userId",d.a,"name",d.b,"note",d.c,"color",d.d],y.g,y.b)},
 bWa:function bWa(){},
 L7:function L7(d,e,f,g){var _=this
@@ -35,10 +35,10 @@ $ith:1,
 gaR(){return this.b}}
 var z=a.updateTypes(["th(@)"])
 C.bWa.prototype={
-$1(d){return C.ft7(d)},
+$1(d){return C.ft3(d)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.bWa,A.j_)
 x(C.L7,A.a1)})()
 A.j4(b.typeUniverse,JSON.parse('{"L7":{"th":[]}}'))
 var y={o:A.a6("th"),p:A.a6("G<th>"),g:A.a6("i"),b:A.a6("@")}};
-(a=>{a["j36NgbrqyVGZZE5c8oRlzNAe/bQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Kf3/mkUXcKh7pi7LDMsWo0UQuyo="]=a.current})($__dart_deferred_initializers__);
