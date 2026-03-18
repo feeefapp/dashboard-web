@@ -1,11 +1,15 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "dz.feeef.marcahnt",
       "sha256_cert_fingerprints": [
-        "10:FE:D0:E9:35:B6:9C:38:EC:E9:C5:76:DA:95:70:1D:65:DA:5B:DC:CD:E6:45:01:BC:26:B5:C1:6A:7B:33:7E"
+        "10:FE:D0:E9:35:B6:9C:38:EC:E9:C5:76:DA:95:70:1D:65:DA:5B:DC:CD:E6:45:01:BC:26:B5:C1:6A:7B:33:7E",
+        "09:CC:C4:2D:AF:1A:9A:1D:F6:EA:67:55:BA:74:D4:97:1F:6E:75:28:18:1A:2D:46:E6:D8:BE:64:90:C8:DD:A4"
       ]
     }
   }
