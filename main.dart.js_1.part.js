@@ -811,118 +811,118 @@ bEE:function bEE(){}}
 B=c[0]
 A=a.updateHolder(c[3],A)
 A.bh4.prototype={
-gna(){var w=this.p3
+gn9(){var w=this.p3
 return w===$?this.p3=this:w},
 gt(){var w,v=this,u=v.p4
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.p4!==$&&B.aW()
 u=v.p4=new A.et9(w,w)}return u},
 glq(){var w,v=this,u=v.R8
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.R8!==$&&B.aW()
 u=v.R8=new A.eso(w,w)}return u},
 gmU(){var w,v=this,u=v.rx
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.rx!==$&&B.aW()
 u=v.rx=new A.exr(w,w)}return u},
 gAN(){var w,v=this,u=v.ry
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.ry!==$&&B.aW()
 u=v.ry=new A.exN(w,w)}return u},
 gj8(){var w,v=this,u=v.to
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.to!==$&&B.aW()
 u=v.to=new A.exV(w,w)}return u},
 gaH(){var w=this,v=w.x1
-if(v===$){w.gna()
+if(v===$){w.gn9()
 w.x1!==$&&B.aW()
 v=w.x1=new A.exZ()}return v},
 gkr(){var w,v=this,u=v.x2
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.x2!==$&&B.aW()
 u=v.x2=new A.ey2(w,w)}return u},
 gk7(){var w,v=this,u=v.xr
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.xr!==$&&B.aW()
 u=v.xr=new A.eye(w,w)}return u},
 giG(){var w,v=this,u=v.y1
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.y1!==$&&B.aW()
 u=v.y1=new A.eyw(w,w)}return u},
 gaf(){var w,v=this,u=v.y2
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.y2!==$&&B.aW()
 u=v.y2=new A.eyG(w,w)}return u},
 gtN(){var w,v=this,u=v.bF
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bF!==$&&B.aW()
 u=v.bF=new A.ezl(w,w)}return u},
 gbl(){var w,v=this,u=v.bw
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bw!==$&&B.aW()
 u=v.bw=new A.ezH(w,w)}return u},
 gauM(){var w,v=this,u=v.D
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.D!==$&&B.aW()
 u=v.D=new A.eA6(w,w)}return u},
 gV(){var w,v=this,u=v.ae
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.ae!==$&&B.aW()
 u=v.ae=new A.eAw(w,w)}return u},
 glK(){var w,v=this,u=v.ao
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.ao!==$&&B.aW()
 u=v.ao=new A.eBn(w,w)}return u},
 gIW(){var w,v=this,u=v.az
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.az!==$&&B.aW()
 u=v.az=new A.eBx(w,w)}return u},
 gIZ(){var w,v=this,u=v.aA
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.aA!==$&&B.aW()
 u=v.aA=new A.eBD(w,w)}return u},
 gjb(){var w,v=this,u=v.bb
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bb!==$&&B.aW()
 u=v.bb=new A.eBH(w,w)}return u},
 gcD(){var w,v=this,u=v.aW
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.aW!==$&&B.aW()
 u=v.aW=new A.eCa(w,w)}return u},
 gam(){var w,v=this,u=v.bk
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bk!==$&&B.aW()
 u=v.bk=new A.eCM(w,w)}return u},
 gkt(){var w,v=this,u=v.bM
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bM!==$&&B.aW()
 u=v.bM=new A.eDz(w,w)}return u},
 gcK(){var w=this,v=w.bE
-if(v===$){w.gna()
+if(v===$){w.gn9()
 w.bE!==$&&B.aW()
 v=w.bE=new A.eDD()}return v},
 gn6(){var w,v=this,u=v.by
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.by!==$&&B.aW()
 u=v.by=new A.eDF(w,w)}return u},
 ghT(){var w=this,v=w.f3
-if(v===$){w.gna()
+if(v===$){w.gn9()
 w.f3!==$&&B.aW()
 v=w.f3=new A.eDP()}return v},
 gzL(){var w,v=this,u=v.bj
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bj!==$&&B.aW()
 u=v.bj=new A.eDT(w,w)}return u},
 gjl(){var w,v=this,u=v.b9
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.b9!==$&&B.aW()
 u=v.b9=new A.eE2(w,w)}return u},
 gh3(){var w,v=this,u=v.b6
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.b6!==$&&B.aW()
 u=v.b6=new A.eEk(w,w)}return u},
 gc_(){var w,v=this,u=v.bi
-if(u===$){w=v.gna()
+if(u===$){w=v.gn9()
 v.bi!==$&&B.aW()
 u=v.bi=new A.eEA(w,w)}return u}}
 A.et9.prototype={
@@ -962,7 +962,7 @@ if(v===$){w=this.ch
 v=this.id=new A.etx(w,w)}return v},
 glq(){var w=this.k1
 return w===$?this.k1=new A.es8():w},
-gHI(){var w=this.k2
+gHH(){var w=this.k2
 return w===$?this.k2=new A.es6():w},
 gio(){var w,v=this.k3
 if(v===$){w=this.ch
@@ -1768,7 +1768,7 @@ return w===$?this.f=new A.exL():w},
 guW(){var w,v=this.r
 if(v===$){w=this.e
 v=this.r=new A.exP(w,w)}return v},
-gFF(){var w=this.w
+gFE(){var w=this.w
 return w===$?this.w=new A.exT():w},
 gLV(){return"Do you want to disable orders dispatch?"}}
 A.exV.prototype={
@@ -1777,7 +1777,7 @@ gLZ(){return"Edit Filter"},
 gaV9(){return"Filter Name"},
 gaV8(){return"e.g., Unpaid orders from Algiers"},
 gaYm(){return"Main Condition:"},
-ga6y(){return"AND"},
+ga6x(){return"AND"},
 gaan(){return"OR"},
 gaM0(){return"Add Condition"},
 gaM7(){return"Add Group"},
@@ -1789,7 +1789,7 @@ gTU(){return"Value"},
 gb5a(){return"Values (comma separated)"},
 gb59(){return"e.g., value1, value2, value3"},
 gar9(){return"Please enter a value"},
-ga0L(){return"Save"},
+ga0K(){return"Save"},
 gb4G(){return"Update"},
 gaVa(){return"Filter name is required"},
 gXm(){return"At least one condition is required"},
@@ -1806,7 +1806,7 @@ gd4(){return"Delete"},
 gfg(){return"Save"},
 gqf(){return"Send"},
 gCi(){return"Apply"},
-gI7(){return"Data error"},
+gI6(){return"Data error"},
 gkk(){return"Next"},
 glr(){return"Back"},
 gol(){return"Active"},
@@ -1822,7 +1822,7 @@ return w===$?this.w=new A.ey3():w}}
 A.eye.prototype={
 gN(){return"Image Landing Page Generator"},
 gaXE(){return"Landing Page"},
-gIg(){var w=this.at
+gIf(){var w=this.at
 return w===$?this.at=new A.eyc():w},
 gaP(){var w=this.ay
 return w===$?this.ay=new A.eym():w},
@@ -1867,10 +1867,10 @@ v=this.r=new A.eyY(w,w)}return v}}
 A.ezl.prototype={
 gN(){return"Leaderboard"},
 gt1(){return"Refresh"},
-gwS(){return"No data yet"},
+gwR(){return"No data yet"},
 gaZF(){return"Start confirming orders to appear here!"},
 gaVB(){return"Full Ranking"},
-ga_h(){var w=this.r
+ga_g(){var w=this.r
 return w===$?this.r=new A.ezn():w},
 gUx(){var w=this.w
 return w===$?this.w=new A.ezp():w},
@@ -1883,7 +1883,7 @@ return w===$?this.CW=new A.eA0():w},
 gQz(){var w=this.cx
 return w===$?this.cx=new A.ezx():w},
 gMW(){return"Open product page"},
-gxE(){var w,v=this.cy
+gxD(){var w,v=this.cy
 if(v===$){w=this.ay
 v=this.cy=new A.ezz(w,w)}return v},
 glg(){var w=this.db
@@ -1902,7 +1902,7 @@ gbh(){var w=this.go
 return w===$?this.go=new A.ezZ():w},
 gij(){var w=this.id
 return w===$?this.id=new A.ezT():w},
-gFH(){var w=this.k1
+gFG(){var w=this.k1
 return w===$?this.k1=new A.ezV():w},
 gcz(){var w=this.k2
 return w===$?this.k2=new A.ezI():w},
@@ -1910,7 +1910,7 @@ gb1P(){return"Product template editor"}}
 A.eA6.prototype={
 geY(){var w=this.e
 return w===$?this.e=new A.eA7():w},
-gwS(){var w=this.f
+gwR(){var w=this.f
 return w===$?this.f=new A.eAa():w}}
 A.eAw.prototype={
 gb0b(){return"Order Label"},
@@ -1972,7 +1972,7 @@ if(v===$){w=this.ay
 v=this.dy=new A.eB5(w,w)}return v},
 gCz(){var w=this.fr
 return w===$?this.fr=new A.eAe():w},
-gwU(){var w,v=this.fx
+gwT(){var w,v=this.fx
 if(v===$){w=this.ay
 v=this.fx=new A.eAS(w,w)}return v},
 guQ(){var w=this.fy
@@ -2024,10 +2024,10 @@ ghX(){var w=this.Q
 return w===$?this.Q=new A.eBB():w},
 gpm(){var w=this.as
 return w===$?this.as=new A.eBv():w},
-gnY(){var w=this.ay
+gnX(){var w=this.ay
 return w===$?this.ay=new A.eBz():w}}
 A.eBD.prototype={
-gGH(){var w=this.d
+gGG(){var w=this.d
 return w===$?this.d=new A.eBF():w}}
 A.eBH.prototype={
 gaZp(){return"Previous"},
@@ -2088,9 +2088,9 @@ gOv(){var w=this.k2
 return w===$?this.k2=new A.eDv():w},
 gaN(){var w=this.k3
 return w===$?this.k3=new A.eDj():w},
-gxA(){var w=this.k4
+gxz(){var w=this.k4
 return w===$?this.k4=new A.eCw():w},
-gHR(){var w=this.ok
+gHQ(){var w=this.ok
 return w===$?this.ok=new A.eCs():w},
 gls(){var w=this.p1
 return w===$?this.p1=new A.eCy():w},
@@ -2133,7 +2133,7 @@ gaMi(){return"Add new shipping price"},
 gt1(){return"Refresh"},
 aAL(d){return"Status: "+d+" \u2022 Set as default"},
 aAF(d){return"Status: "+d},
-gGq(){return"Selected"},
+gGp(){return"Selected"},
 gO4(){return"Select"},
 gjR(){return"Edit"},
 gd4(){return"Delete"},
@@ -2173,7 +2173,7 @@ gzJ(){var w=this.r
 return w===$?this.r=new A.eDJ():w},
 gara(){var w=this.w
 return w===$?this.w=new A.eDG():w},
-ga15(){var w=this.x
+ga14(){var w=this.x
 return w===$?this.x=new A.eDL():w},
 gaP(){var w=this.y
 return w===$?this.y=new A.eDN():w}}
@@ -2192,7 +2192,7 @@ gb3s(){return"Template reset to defaults"},
 Rw(d){return"Failed to reset template: "+d},
 gayf(){return"Search components\u2026"},
 gayA(){return"Select a component to edit its properties"},
-ga77(){return"Component not found"},
+ga76(){return"Component not found"},
 gaPs(){return"Component schema not found"},
 gaPt(){return"Component title"},
 gb_1(){return"No properties to configure"},
@@ -2210,12 +2210,12 @@ gaw9(){return"Theme Settings"},
 gb_5(){return"No theme configuration options available."},
 gaPy(){return"Configure global theme properties for your template"},
 gdi(){return"Components"},
-ga_o(){return"Properties"},
+ga_n(){return"Properties"},
 gp9(){return"Theme"},
 gaSf(){return"Delete component"},
 gaoU(){return"Collapse slots"},
 gare(){return"Expand slots"},
-gYM(){return"Drop here"},
+gYL(){return"Drop here"},
 gaTo(){return"Drag components here"},
 gik(){return"Slots"},
 gfm(){return"items"}}
@@ -2230,7 +2230,7 @@ gaP(){var w=this.CW
 return w===$?this.CW=new A.eDX():w}}
 A.eE2.prototype={
 gN(){return"Voice Over"},
-gIg(){var w=this.as
+gIf(){var w=this.as
 return w===$?this.as=new A.eE0():w},
 gu_(){var w=this.at
 return w===$?this.at=new A.eEe():w},
@@ -2280,7 +2280,7 @@ gcz(){var w=this.cy
 return w===$?this.cy=new A.eEB():w},
 gbR(){var w=this.db
 return w===$?this.db=new A.eED():w},
-gwT(){var w=this.dx
+gwS(){var w=this.dx
 return w===$?this.dx=new A.eEI():w}}
 A.euy.prototype={
 gon(){var w,v=this.d
@@ -2293,14 +2293,14 @@ gDC(){return"This Week"},
 gDB(){return"This Month"},
 gLF(){return"Custom"}}
 A.etd.prototype={
-gI3(){return"Copy"},
+gI2(){return"Copy"},
 gaXK(){return"Later"},
 gSv(){return"No information available"},
 gaeG(){return"Syncs"},
-ga6N(){var w=this.r
+ga6M(){var w=this.r
 return w===$?this.r=new A.etb():w},
 goa(){return"History"},
-ga_7(){return"Optional"},
+ga_6(){return"Optional"},
 gM4(){return"Expired"},
 gaSy(){return"Deleting..."},
 glr(){return"Back"},
@@ -2310,7 +2310,7 @@ gw4(){return"Reset"},
 go7(){return"Enabled"},
 gog(){return"Search"},
 geB(){return"Close"},
-ga09(){return"You"},
+ga08(){return"You"},
 gatA(){return"we use local authentication to hide sensitive data\n\nIf you are not using fingerprint, please add it to enable the option"},
 gcU(){var w,v=this.x
 if(v===$){w=this.f
@@ -2325,7 +2325,7 @@ gd4(){return"Delete"},
 gfJ(d){return"Add"},
 gkW(){return"Link"},
 geY(){return"Error"},
-gGr(){var w=this.y
+gGq(){var w=this.y
 return w===$?this.y=new A.etl():w},
 gpM(){return"Confirm"},
 giz(){return"operation successful"},
@@ -2343,7 +2343,7 @@ gq8(){var w,v=this.e
 if(v===$){w=this.d
 v=this.e=new A.esg(w,w)}return v},
 gaw_(){return"Reset Password"},
-ga13(){return"Sign In"},
+ga12(){return"Sign In"},
 gUq(){return"Sign Up"},
 gaLL(){return"By signing up, you agree to our Terms of Service and Privacy Policy."},
 ganb(){return"You must accept the terms and conditions."},
@@ -2351,7 +2351,7 @@ gaTn(){return"Don't have an account?"},
 gaMW(){return"Already have an account?"},
 gb1D(){return"Privacy Policy"},
 gb3A(){return"Terms of Use"},
-gIM(){var w=this.f
+gIL(){var w=this.f
 return w===$?this.f=new A.esc():w}}
 A.evJ.prototype={
 gbR(){var w,v=this.r
@@ -2365,7 +2365,7 @@ gbR(){var w,v=this.f
 if(v===$){w=this.d
 v=this.f=new A.ex4(w,w)}return v}}
 A.euW.prototype={
-gnz(){var w=this.at
+gny(){var w=this.at
 return w===$?this.at=new A.euA():w},
 gqx(){var w=this.ax
 return w===$?this.ax=new A.euU():w},
@@ -2388,7 +2388,7 @@ return w===$?this.y=new A.ewM():w},
 gpn(){var w,v=this.z
 if(v===$){w=this.x
 v=this.z=new A.ewA(w,w)}return v},
-gn7(){var w,v=this.Q
+gnY(){var w,v=this.Q
 if(v===$){w=this.x
 v=this.Q=new A.ewS(w,w)}return v},
 gvQ(){var w=this.as
@@ -2494,25 +2494,25 @@ gaUi(){return"Error loading transfers"},
 gaUh(){return"Error loading deposits"},
 gBB(){var w=this.e
 return w===$?this.e=new A.exh():w},
-gYy(){var w=this.f
+gYx(){var w=this.f
 return w===$?this.f=new A.exd():w},
 gpm(){return"DZD"},
 gaNG(){return"Your Balance"},
 gaA6(){return"Show Receive QR Code"}}
 A.esq.prototype={
 gaF(){return"Language"},
-ga6I(){return"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},
+ga6H(){return"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},
 ga8d(){return"English"},
 ga8I(){return"Fran\xe7ais"}}
 A.ess.prototype={
-gYj(){return"Dark"},
+gYi(){return"Dark"},
 gUU(){return"System"},
-gZC(){return"Light"}}
+gZB(){return"Light"}}
 A.esu.prototype={
 gaWF(){return"Increase zoom"},
 gaS4(){return"Decrease zoom"}}
 A.exH.prototype={
-gwZ(){return"Shipping price"},
+gwY(){return"Shipping price"},
 gb1l(){return"Select shipping price to determine available countries and states"},
 gayM(){return"Please select the state first"}}
 A.exB.prototype={
@@ -2572,7 +2572,7 @@ A.exX.prototype={
 gM2(){return"Equals"},
 gb_8(){return"Not Equals"},
 grI(d){return"Contains"},
-gGF(d){return"Starts With"},
+gGE(d){return"Starts With"},
 ga8c(d){return"Ends With"},
 gaxZ(){return"Greater Than"},
 gaxY(){return"Greater Than or Equal"},
@@ -2582,7 +2582,7 @@ gaWA(){return"In List"},
 gb_9(){return"Not In"},
 gaXm(){return"Is Null"},
 gaXl(){return"Is Not Null"},
-bm(d,e){return this.gGF(this).$1(e)}}
+bm(d,e){return this.gGE(this).$1(e)}}
 A.ey0.prototype={
 gaU1(){return"Enable export to Google Sheets"},
 gaU2(){return"Disabling this option means this product will not be exported to Google Sheets"},
@@ -2694,7 +2694,7 @@ A.eyA.prototype={
 gaUC(){return"Preview generation failed"},
 gb5A(){return"Generating your professional image..."}}
 A.eyC.prototype={
-gHL(){return"Generated image applied."}}
+gHK(){return"Generated image applied."}}
 A.eyx.prototype={
 gaWY(){return"The AI service returned an invalid response."},
 gJk(){return"Image generation failed."},
@@ -2710,7 +2710,7 @@ v=this.d=new A.eyZ(w,w)}return v}}
 A.ezn.prototype={
 gqN(){return"Today"},
 gJj(){return"This Week"},
-gwO(){return"This Month"},
+gxV(){return"This Month"},
 grC(){return"All Time"}}
 A.ezp.prototype={
 gey(){return"Success"},
@@ -2764,12 +2764,12 @@ A.ezt.prototype={
 gN(){return"Addons"},
 gaqd(){var w=this.d
 return w===$?this.d=new A.ezr():w},
-ga6s(){return"Add New"},
+ga6r(){return"Add New"},
 gjR(){return"Edit Addon"},
 gfL(){return"Addon Image"},
 gBy(){return"Addon Title"},
 gCE(){return"Addon Description"},
-gwZ(){return"Addon Price"},
+gwY(){return"Addon Price"},
 gaAO(){return"Stock"},
 gaZ3(){return"Minimum"},
 gaYN(){return"Maximum"},
@@ -2797,7 +2797,7 @@ gb09(){return"Option type"},
 gn(){return"Value"},
 gb1r(){return"Pricing & Stock"},
 gA_(){return"SKU"},
-gxF(){return"Discount"},
+gxE(){return"Discount"},
 gb26(){return"Quantity"},
 gaP(){return"Status"},
 ga8S(){return"Hidden"},
@@ -2815,7 +2815,7 @@ gaSa(){return"Item 1"},
 gaTD(){return"Edit attribute"},
 gaMh(){return"Add new attribute"},
 b58(d){return""+d+" values"},
-ga_E(){return"Text"},
+ga_D(){return"Text"},
 gaPp(){return"Color value (decimal)"},
 gaNx(){return"Attribute name"},
 gaNw(){return"e.g. Color, Size..."},
@@ -2855,7 +2855,7 @@ gOl(){return"Offer code"},
 gBy(){return"Offer title"},
 gb3I(){return"Shown to customer"},
 gays(){return"Price and terms"},
-gwZ(){return"Offer price"},
+gwY(){return"Offer price"},
 gb2W(){return"Please enter offer code"},
 gb2X(){return"Please enter offer title"},
 gaYO(){return"Must not exceed 100 characters"},
@@ -2896,7 +2896,7 @@ gaNt(){return"Assign order to member"},
 gayG(){return"Select the member you want to assign the orders to:"},
 gayI(){return"Select the member you want to assign the order to:"},
 gayH(){return"Select member"},
-ga6L(){return"Successfully assigned {count} order(s)"},
+ga6K(){return"Successfully assigned {count} order(s)"},
 gaNu(){return"Order assigned successfully"},
 gaNr(){return"Error assigning orders: {error}"},
 gaNs(){return"Error assigning order: {error}"},
@@ -2933,9 +2933,9 @@ gaOl(){return"Ecomanager link data will be removed from the order"},
 gaok(){return"Ecomanager link cancelled successfully"},
 gaoj(){return"Error cancelling link: {error}"},
 gaol(){return"Are you sure you want to cancel the link?"},
-ga6V(){return"Link cancelled successfully"},
+ga6U(){return"Link cancelled successfully"},
 gaOs(){return"Cancel Link"},
-gHU(){return"Cancel Sending"},
+gHT(){return"Cancel Sending"},
 gaqW(){return"Ecotrack service is not available"},
 gaOo(){return"Cancelling the link will permanently delete the order from ecotrack"},
 gaOu(){return"Cancelling the link will permanently delete the order from Noest"},
@@ -2958,7 +2958,7 @@ gq5(){return"Return Risk"},
 gN(){return"Return Risk ({count} number(s))"},
 gaZZ(){return"No phone numbers available to check return risk"},
 geY(){return"An error occurred while checking return risk"},
-gwS(){return"No data available"},
+gwR(){return"No data available"},
 gaZE(){return"No return risk information found for the selected numbers"},
 gaOY(){return"Checked {count} phone number(s)"},
 gaVs(){return"Found data for {count} number(s)"},
@@ -3004,7 +3004,7 @@ gQq(){return"Change Status"},
 gR0(){return"Delete Selected"},
 gXC(){return"Cancel Selection"},
 gML(){return"More"},
-gGq(){return"Selected {count}"},
+gGp(){return"Selected {count}"},
 gaC_(){return"Sync Orders"},
 gaC0(){return"Orders synced with Ecotrack successfully"},
 gaBU(){return"Failed to sync orders: {error}"},
@@ -3012,7 +3012,7 @@ gb0d(){return"Order number copied"},
 gaSn(){return"Order deleted successfully"},
 gaOT(){return"Successfully changed status for {count} order(s)"},
 gaOS(){return"Change status for {count} order(s)"},
-ga1u(){var w=this.d
+ga1t(){var w=this.d
 return w===$?this.d=new A.eB7():w},
 gJx(){return"Example: phone number.."},
 gaYY(){return"Enter message text"},
@@ -3049,7 +3049,7 @@ gbR(){var w=this.w
 return w===$?this.w=new A.eAA():w},
 gJH(){var w=this.x
 return w===$?this.x=new A.eAH():w},
-gYw(){var w=this.y
+gYv(){var w=this.y
 return w===$?this.y=new A.eAx():w},
 gaav(){var w=this.z
 return w===$?this.z=new A.eAD():w},
@@ -3058,7 +3058,7 @@ return w===$?this.Q=new A.eAF():w}}
 A.eAU.prototype={
 gaRu(){return"Create Payment Link"},
 gaRE(){return"Creating payment link..."},
-gI3(){return"Copy"},
+gI2(){return"Copy"},
 gb_W(){return"Open Link"},
 gaRv(){return"Failed to create payment link"},
 gaUj(){return"An error occurred: {error}"},
@@ -3077,13 +3077,13 @@ gaRO(){return"Customer:"},
 gSQ(){return"Phone:"},
 ganA(){return"Address:"},
 gQs(){return"City:"},
-gGG(){return"State:"},
+gGF(){return"State:"},
 gb1X(){return"Products:"},
 gSG(){return"Order details"},
 gDj(){return"Not specified"},
-gYi(){return"Customer"},
+gYh(){return"Customer"},
 gAr(){return"Add product"},
-gwZ(){return"Price"},
+gwY(){return"Price"},
 gb4c(){return"Total amount"},
 gazZ(){return"Shipping price"},
 gaS2(){return"Declared value must be less than or equal to 150000"},
@@ -3095,9 +3095,9 @@ gax9(){return"Weight (kg)"},
 gb5I(){return"Weight must be greater than or equal to 0"},
 gaN0(){return"Amount must be greater than or equal to 0"},
 gaN_(){return"Amount must be less than or equal to 150000"},
-gZA(){return"Length (cm)"},
-ga01(){return"Width (cm)"},
-gZf(){return"Height (cm)"},
+gZz(){return"Length (cm)"},
+ga00(){return"Width (cm)"},
+gZe(){return"Height (cm)"},
 gb0v(){return"Parcel information"},
 gaWV(){return"Insurance"},
 gaWW(){return"If insured, a 1% fee of the declared value will be applied"},
@@ -3111,7 +3111,7 @@ gMZ(){var w=this.x
 return w===$?this.x=new A.eAs():w},
 gpR(){var w=this.y
 return w===$?this.y=new A.eAm():w},
-gxy(){var w=this.z
+gxx(){var w=this.z
 return w===$?this.z=new A.eAk():w},
 gt6(){var w=this.Q
 return w===$?this.Q=new A.eAu():w}}
@@ -3128,7 +3128,7 @@ v=this.z=new A.eBl(w,w)}return v},
 gaat(){var w=this.Q
 return w===$?this.Q=new A.eBh():w}}
 A.eBt.prototype={
-gnk(){return"Search for store by name or slug"}}
+gnj(){return"Search for store by name or slug"}}
 A.eBr.prototype={
 gja(){return"Your partner account is under review. Contact us via WhatsApp to activate permissions."},
 gb5O(){return"Contact via WhatsApp"}}
@@ -3269,7 +3269,7 @@ gSi(){return"Last 2 hours"},
 gSh(){return"Last 24 hours"},
 gaXH(){return"Last 7 days"}}
 A.eC0.prototype={
-ga70(){return"Clear selection"},
+ga7_(){return"Clear selection"},
 gayT(){return"{count} product(s) selected"},
 gR0(){return"Delete selected products"},
 gQq(){return"Change status"},
@@ -3280,16 +3280,16 @@ gaSj(){return"Failed to delete products: {error}"},
 gaAJ(){return"Product status updated to {status}"},
 gaAI(){return"Failed to update product status: {error}"}}
 A.eCq.prototype={
-gnk(){return"Search products..."},
+gnj(){return"Search products..."},
 gabl(){return"Search"}}
 A.eCm.prototype={
 gbU(){return"Cancel"},
 gd4(){return"Delete"}}
 A.eCQ.prototype={
 gTM(){return"Update Images"},
-ga1g(){var w=this.e
+ga1f(){var w=this.e
 return w===$?this.e=new A.eCS():w},
-ga1h(){var w=this.f
+ga1g(){var w=this.f
 return w===$?this.f=new A.eCU():w},
 gaOO(){return"Change Images"}}
 A.eCO.prototype={
@@ -3313,7 +3313,7 @@ gaS8(){return"Algeria"}}
 A.eCK.prototype={
 gN(){return"Your Website Domain"},
 gatX(){return"Domain name"},
-ga_Z(){return"Verified"},
+ga_Y(){return"Verified"},
 gaqg(){return"Delete Domain"},
 gap2(){return"Are you sure you want to delete this domain?"},
 gatj(){return"Error opening link"}}
@@ -3368,7 +3368,7 @@ gaoT(){return"Code (optional)"},
 gBf(){return"e.g. No response to phone"},
 gQt(){return"e.g. no_response"},
 gatl(){return"Link to system statuses:"},
-gwU(){return"Order status"},
+gwT(){return"Order status"},
 gpP(){return"Delivery status"},
 gq2(){return"Payment status"},
 aPE(d){return'Are you sure you want to delete status "'+d+'"?'},
@@ -3424,7 +3424,7 @@ gacI(){return"Select Currencies"},
 gayB(){return"Choose which currencies your store accepts. You can select multiple currencies and set one as the default for pricing."},
 gacH(){return"Please select at least one currency"},
 gacJ(){return"Please select a default currency"},
-gYq(){return"Default"},
+gYp(){return"Default"},
 gBP(){return"Set as Default"},
 ganj(){return"Add Currency"},
 gQ8(){return"All currencies have been added"}}
@@ -3533,7 +3533,7 @@ gae8(){var w=this.Q
 return w===$?this.Q=new A.eD9():w},
 gae9(){var w=this.as
 return w===$?this.as=new A.eDb():w},
-ga1d(){var w=this.at
+ga1c(){var w=this.at
 return w===$?this.at=new A.eDh():w},
 gaea(){var w=this.ax
 return w===$?this.ax=new A.eDd():w},
@@ -3588,7 +3588,7 @@ gMK(){return"{mins}m"},
 gMo(){return"{hours}h"},
 gza(){return"{days}d"},
 gax8(){return"{weeks}w"},
-gFB(){return"{months}mo"}}
+gIO(){return"{months}mo"}}
 A.eEa.prototype={
 gn2(){return"Processing\u2026"},
 giz(){return"Done"},
@@ -3692,7 +3692,7 @@ glI(){return"Copy Rates"},
 gr2(){return"Copy ZR Express Rates"},
 goP(){return"Shipping rates from ZR Express will be copied to your shipping settings"},
 gmS(){return"Rates copied successfully"},
-gGA(){return"Setup Webhook"},
+gGz(){return"Setup Webhook"},
 gDL(){return"Setup webhook to receive order updates from ZR Express"},
 gDM(){return"Webhook URL"},
 gDK(){return"Copy URL"},
@@ -3769,13 +3769,13 @@ gaPW(){return"Connection timeout"},
 gb2n(){return"Receive timeout"},
 gaPU(){return"Connection error - check your internet"},
 gJC(){return"Server connection error"},
-gI7(){return"Data error"}}
+gI6(){return"Data error"}}
 A.eED.prototype={
 gj5(){return"Customer Name"},
 gkZ(){return"Phone Number"},
 gBm(){return"Phone Number 2"},
 glT(){return"Address"},
-gni(){return"City"},
+gnh(){return"City"},
 gcK(){return"State"},
 gbe(){return"Description"},
 gaMX(){return"Amount"}}
@@ -3789,7 +3789,7 @@ gacv(){return"Switch to Grid Mode"},
 gNz(){var w=this.e
 return w===$?this.e=new A.euw():w},
 gaZJ(){return"No files found"},
-gYI(){return"Drag and drop files here"},
+gYH(){return"Drag and drop files here"},
 gaNW(){return"Browse"},
 acR(d){return""+d+" file selected"},
 ayU(d){return""+d+" files selected"},
@@ -3812,14 +3812,14 @@ gaVg(){return"Import products from Foorweb store"},
 gaB1(){return"Import products from Storeino store"},
 gb62(){return"Import products from YouCan store"},
 gaXZ(){return"Import products from Lightfunnels store"},
-gnY(){var w=this.e
+gnX(){var w=this.e
 return w===$?this.e=new A.etj():w},
-gZO(){var w=this.f
+gZN(){var w=this.f
 return w===$?this.f=new A.eth():w},
 gzV(){return"Select All"},
 gAL(){return"Deselect All"},
 gasG(){return"An error occurred during import"},
-ga7_(){return"Checking..."},
+ga6Z(){return"Checking..."},
 gaoz(){return"Check Store"},
 gaPI(){return"Are you sure you want to import"},
 gavr(){return"product"},
@@ -3845,7 +3845,7 @@ gasL(){return"Products imported successfully"},
 asM(d){return""+d+" products imported"},
 acS(d){return""+d+" products selected"},
 gap3(){return"Do you want to import the selected products?"},
-gZp(){return"Import Products"},
+gZo(){return"Import Products"},
 glr(){return"Back"}}
 A.etl.prototype={
 gaoS(){return"DZD"},
@@ -3883,7 +3883,7 @@ gfe(){var w=this.dy
 return w===$?this.dy=new A.ewb():w},
 ghW(){var w=this.fr
 return w===$?this.fr=new A.evU():w},
-gxF(){var w=this.fx
+gxE(){var w=this.fx
 return w===$?this.fx=new A.evQ():w},
 gij(){var w=this.fy
 return w===$?this.fy=new A.evY():w},
@@ -3916,19 +3916,19 @@ gaMG(){var w=this.Q
 return w===$?this.Q=new A.ewg():w},
 gaX2(){var w=this.as
 return w===$?this.as=new A.ewm():w},
-ga0Y(){var w=this.at
+ga0X(){var w=this.at
 return w===$?this.at=new A.ewq():w}}
 A.ex4.prototype={
 gaQ(){var w=this.r
 return w===$?this.r=new A.ex6():w},
-gYO(){var w=this.w
+gYN(){var w=this.w
 return w===$?this.w=new A.ex2():w},
 gkZ(){var w=this.x
 return w===$?this.x=new A.exa():w},
 gauS(){var w=this.y
 return w===$?this.y=new A.ex8():w}}
 A.euA.prototype={
-gwT(){return"Order"},
+gwS(){return"Order"},
 gz9(){return"Date"},
 gtw(){return"Cart"},
 gjt(){return"Total"},
@@ -3980,11 +3980,11 @@ gmM(){var w=this.ry
 return w===$?this.ry=new A.eve():w},
 gkG(){var w=this.to
 return w===$?this.to=new A.evi():w},
-gGB(){var w=this.x2
+gGA(){var w=this.x2
 return w===$?this.x2=new A.evk():w},
 gJK(){var w=this.y2
 return w===$?this.y2=new A.evo():w},
-gxF(){var w=this.bw
+gxE(){var w=this.bw
 return w===$?this.bw=new A.ev6():w},
 gaP(){var w=this.az
 return w===$?this.az=new A.evm():w},
@@ -4016,12 +4016,12 @@ gb2M(){return"Renew Subscription"},
 gavv(){return"Promo code"},
 gaW3(){return"Have a promo code?"},
 gb20(){return"Promo applied"},
-gHL(){return"Applied"},
+gHK(){return"Applied"},
 gb21(){return"e.g. SAVE20"},
 gb4C(){return"Up to {percent}% off"},
 gaWg(){return"100% off"},
-gwO(){return"month"},
-gFB(){return"months"},
+gxV(){return"month"},
+gIO(){return"months"},
 gaTy(){return"Subscription duration"},
 gCi(){return"Apply"},
 gaX_(){return"Invalid or expired code"},
@@ -4053,7 +4053,7 @@ gb5C(){return"Watch tutorial video"},
 gaS5(){return"Comprehensive offers and discounts"},
 gaS9(){return"Description for the most beautiful store on the moon"},
 gb_Z(){return"Open My Store"},
-gng(){var w,v=this.r
+gnf(){var w,v=this.r
 if(v===$){w=this.e
 v=this.r=new A.ewU(w,w)}return v},
 gauR(){var w=this.w
@@ -4146,7 +4146,7 @@ gbe(){return"Connect your store to the Meta Pixel advertising and marketing serv
 gi8(){return"Connect My Store"},
 ghL(){return"Disconnect"},
 gip(){return"Do you want to disconnect the Meta Pixel service from your store?"},
-gHD(){return"Add Pixel"},
+gHC(){return"Add Pixel"},
 gSU(){return"Pixel ID"},
 gSx(){return y.e},
 gSV(){return"e.g., Main Website Pixel"},
@@ -4156,7 +4156,7 @@ gRk(){return"Edit Pixel"},
 R_(d){return y.F+d+"?"},
 gQp(){return"Product Catalog"},
 gBN(){return"Send test event"},
-gGu(){return"Send test event with your pixel?"},
+gGt(){return"Send test event with your pixel?"},
 gTr(){return"Test code"},
 gTs(){return"Test event sent successfully"}}
 A.eui.prototype={
@@ -4165,7 +4165,7 @@ gbe(){return"Connect your store to TikTok Pixel advertising and marketing servic
 gi8(){return"Connect My Store"},
 ghL(){return"Disconnect"},
 gip(){return"Do you want to disconnect TikTok Pixel service from your store?"},
-gHD(){return"Add Pixel"},
+gHC(){return"Add Pixel"},
 gRk(){return"Edit Pixel"},
 gSU(){return"Pixel ID"},
 gSV(){return"e.g., Main Website Pixel"},
@@ -4176,7 +4176,7 @@ gcc(){var w=this.d
 return w===$?this.d=new A.euk():w},
 gQp(){return"Product Catalog"},
 gBN(){return"Send test event"},
-gGu(){return"Send test event with your TikTok pixel?"},
+gGt(){return"Send test event with your TikTok pixel?"},
 gTr(){return"Test code"},
 gTs(){return"Test event sent successfully"}}
 A.etH.prototype={
@@ -4190,7 +4190,7 @@ gr2(){return"Copy Rates"},
 goP(){return"Maystro rates will be copied to your store. Continuing replaces current rates; we recommend a backup first."},
 gmS(){return"Rates copied successfully"},
 gcc(){return"Settings"},
-gGA(){return"Setup Webhook"},
+gGz(){return"Setup Webhook"},
 gOd(){return"Webhook registered with Maystro successfully"},
 gDL(){return'Copy the link below to set up the webhook manually in Maystro, or use "Setup automatically" to register it.'},
 gDM(){return"Webhook URL"},
@@ -4214,7 +4214,7 @@ gaSC(){return"Delivery Type"},
 gMY(){var w,v=this.r
 if(v===$){w=this.e
 v=this.r=new A.etX(w,w)}return v},
-gYx(){var w,v=this.w
+gYw(){var w,v=this.w
 if(v===$){w=this.e
 v=this.w=new A.etP(w,w)}return v}}
 A.etD.prototype={
@@ -4223,7 +4223,7 @@ gbe(){return"Export orders and customers data to Google Sheets automatically"},
 gi8(){return"Connect"},
 ghL(){return"Disconnect"},
 gip(){return"Do you want to disconnect Google Sheets service from your store?"},
-gGz(){return"Settings"},
+gGy(){return"Settings"},
 gzX(){return"Link a sheet, customize columns, and export"},
 gaBY(){return"Syncing headers..."},
 gaBZ(){return"Headers synced successfully"},
@@ -4242,7 +4242,7 @@ gbe(){return"Connect your store to Google Analytics to track visitors and analyz
 gi8(){return"Connect My Store"},
 ghL(){return"Disconnect"},
 gip(){return"Do you want to disconnect Google Analytics service from your store?"},
-gGz(){return"Settings"},
+gGy(){return"Settings"},
 gzX(){return"Enable Google Analytics service"},
 gwA(){return"Enable service"},
 gcc(){var w=this.d
@@ -4298,7 +4298,7 @@ gaB2(){return"Story"},
 gate(){return"Landscape"}}
 A.exh.prototype={
 gtC(){return"Deposit"},
-gn7(){return"Subscription"},
+gnY(){return"Subscription"},
 gSW(){return"Points"},
 gaAX(){return"Store Payment"},
 gqf(){return"Send"},
@@ -4322,7 +4322,7 @@ A.exl.prototype={
 gxX(){return"Note"}}
 A.exR.prototype={
 gaVd(){return"First update (default)"},
-ga_q(){return"Random"},
+ga_p(){return"Random"},
 gaxa(){return"Weighted random"},
 gaw4(){return"Round Robin"},
 gaYy(){return"Manual only"},
@@ -4375,7 +4375,7 @@ gN(){return"Addons"},
 grJ(){return"Are you sure you want to delete all addons?"}}
 A.eAY.prototype={
 gt_(){return"Purchase"},
-gII(){return"Lead"},
+gIH(){return"Lead"},
 gt5(){return"View Content"},
 grA(){return"Add to Cart"},
 grU(){return"Initiate Checkout"}}
@@ -4383,12 +4383,12 @@ A.eB_.prototype={
 gt_(){return"Purchase"},
 gIX(){return"Place an Order"},
 gt5(){return"View Content"},
-gHH(){return"Add to Wishlist"},
+gHG(){return"Add to Wishlist"},
 gog(){return"Search"},
-gHC(){return"Add Payment Info"},
+gHB(){return"Add Payment Info"},
 grA(){return"Add to Cart"},
 grU(){return"Initiate Checkout"},
-gI0(){return"Complete Registration"}}
+gI_(){return"Complete Registration"}}
 A.eAJ.prototype={
 gh3(){return"Yalidine"},
 gbO(){return"Ecotrack"},
@@ -5386,8 +5386,8 @@ gJy(){return"Select Store"},
 gacP(){return"Enter store link to start"},
 gacN(){return"Select Products"},
 gacO(){return"Select the products you want to import"},
-gI1(){return"Confirm Import"},
-ga7a(){return"Review and confirm the import process"},
+gI0(){return"Confirm Import"},
+ga79(){return"Review and confirm the import process"},
 gT0(){return"Product Link"},
 gb1L(){return"Enter product link to start"}}
 A.eth.prototype={
@@ -5419,14 +5419,14 @@ gaF(){return"Discount"},
 gkx(){return"The discount of the product"}}
 A.evY.prototype={
 gaF(){return"Offers"},
-gnk(){return"Add product offers"},
+gnj(){return"Add product offers"},
 gfJ(d){return"Add Offer"}}
 A.evO.prototype={
 gaF(){return"Description"},
 gkx(){return"The description of the product"}}
 A.ewd.prototype={
 gaF(){return"Variants"},
-gnk(){return"Add product variants"}}
+gnj(){return"Add product variants"}}
 A.evW.prototype={
 gaF(){return"Name"},
 gkx(){return"The name of the product"}}
@@ -5476,7 +5476,7 @@ gkZ(){return"Customer Phone"},
 gBm(){return"Additional Phone"},
 glT(){return"Customer Address"},
 gcK(){return"State"},
-gni(){return"City"},
+gnh(){return"City"},
 gn5(){return"Select City"},
 gDk(){return"Notes"},
 gDN(){return"Weight (kg)"},
@@ -5501,7 +5501,7 @@ gj5(){return"Customer Name"},
 gkZ(){return"Customer Phone"},
 glT(){return"Customer Address"},
 gcK(){return"State"},
-gni(){return"City"},
+gnh(){return"City"},
 gn5(){return"Select City"}}
 A.euM.prototype={
 gN(){return"Send to Noest"},
@@ -5510,7 +5510,7 @@ gkZ(){return"Customer Phone"},
 gBm(){return"Additional Phone"},
 glT(){return"Customer Address"},
 gcK(){return"State"},
-gni(){return"City"},
+gnh(){return"City"},
 gn5(){return"Select City"},
 gDN(){return"Weight (kg)"},
 gjt(){return"Total Amount"},
@@ -5538,7 +5538,7 @@ gj5(){return"Customer Name"},
 gkZ(){return"Customer Phone"},
 glT(){return"Customer Address"},
 gcK(){return"State"},
-gni(){return"City"},
+gnh(){return"City"},
 gn5(){return"Select City"},
 gDk(){return"Notes"},
 gjt(){return"Total Amount"},
@@ -5552,7 +5552,7 @@ gj5(){return"Customer Name"},
 gkZ(){return"Customer Phone"},
 glT(){return"Customer Address"},
 gcK(){return"Wilaya"},
-gni(){return"Commune"},
+gnh(){return"Commune"},
 gn5(){return"Select Commune"},
 gDk(){return"Notes"},
 gjt(){return"Total Amount"},
@@ -5622,7 +5622,7 @@ gXv(){return"Buy plan"},
 gas6(){return"Free plan"}}
 A.ewF.prototype={
 gaF(){return"Name"},
-gnk(){return"Enter store name"},
+gnj(){return"Enter store name"},
 gkx(){return"The name of your store"}}
 A.ewH.prototype={
 gaF(){return"Slug"},
@@ -5650,7 +5650,7 @@ gMJ(){var w=this.x
 return w===$?this.x=new A.et1():w},
 gaN(){var w=this.y
 return w===$?this.y=new A.et3():w},
-gx3(){var w=this.z
+gx0(){var w=this.z
 return w===$?this.z=new A.et5():w},
 gaRS(){var w=this.Q
 return w===$?this.Q=new A.esW():w},
@@ -5669,8 +5669,8 @@ gaF(){return"Shipping"},
 gkt(){return"Shipping Prices"},
 gxX(){var w=this.d
 return w===$?this.d=new A.esU():w},
-gFX(){return"To Desk"},
-gFY(){return"To Home"},
+gFW(){return"To Desk"},
+gFX(){return"To Home"},
 gcK(){return"State"},
 gb4S(){return"Prices updated successfully"},
 gb4L(){return"An error occurred while updating prices"},
@@ -5687,7 +5687,7 @@ A.esC.prototype={
 gaF(){return"Integrations"}}
 A.esO.prototype={
 gaF(){return"Settings"},
-ga1f(){var w=this.d
+ga1e(){var w=this.d
 return w===$?this.d=new A.esQ():w}}
 A.esK.prototype={
 gaF(){return"Landing Pages"}}
@@ -5749,8 +5749,8 @@ gN(){return"Financial Summary"},
 gzz(){return"Loading financial data..."},
 geY(){return"Failed to load financial data"},
 gt1(){return"Refresh"},
-ga_P(){return"Total Collected"},
-ga_Q(){return"Not Collected"},
+ga_O(){return"Total Collected"},
+ga_P(){return"Not Collected"},
 gawr(){return"Payment Ready"},
 gb2o(){return"Received Funds"},
 gaPn(){return"Collection Rate"},
@@ -5761,7 +5761,7 @@ gaN2(){return"Amounts"},
 gaUK(){return"Fees"},
 gaZs(){return"Net"},
 gpm(){return"DZD"},
-gwS(){return"No financial data available"}}
+gwR(){return"No financial data available"}}
 A.etv.prototype={
 gN(){return"Statistics"},
 gaTY(){return"In Processing"},
@@ -5781,14 +5781,14 @@ gTV(){return"Webhook Secret Key (Optional)"},
 gb5F(){return"webhook_secret_key_123..."},
 gb5E(){return"The secret key to secure the webhook, you can get it from the webhook control panel"},
 gaMM(){return"Agent"},
-gGG(){return"Departure State"},
+gGF(){return"Departure State"},
 gaLT(){return"Enable Service"},
 gaVm(){return"Force Free Shipping"},
 gaVl(){return"When enabled, free shipping will be automatically enabled for all orders sent via Yalidine"}}
 A.etL.prototype={
 gN(){return"Meta Pixel Settings"},
 gol(){return"Active"},
-gHx(){return y.p},
+gHw(){return y.p},
 gTb(){return"Report mode"},
 gTc(){return"Where to send conversion events: server (CAPI), client (store frontend), or both."},
 gJ6(){return"Default (auto)"},
@@ -5798,7 +5798,7 @@ gJ7(){return"Both (server + client)"}}
 A.euk.prototype={
 gN(){return"TikTok Pixel Settings"},
 gol(){return"Active"},
-gHx(){return y.p},
+gHw(){return y.p},
 gTb(){return"Report mode"},
 gTc(){return"Where to send conversion events: server, client, or both."},
 gJ6(){return"Default (auto)"},
@@ -5835,7 +5835,7 @@ gaYU(){return"UA-XXXXXXXXX-X"}}
 A.es0.prototype={
 gN(){return"Reference Image Label"},
 gbe(){return"Add a label to help identify this image (e.g., logo, style, colors)"},
-gnk(){return"Example: Company logo"},
+gnj(){return"Example: Company logo"},
 gz2(d){return"Clear"},
 gbU(){return"Cancel"},
 gfg(){return"Save"}}
@@ -5847,7 +5847,7 @@ gMT(){return"Now"}}
 A.eyM.prototype={
 gt_(){var w=this.w
 return w===$?this.w=new A.eyS():w},
-gII(){var w=this.x
+gIH(){var w=this.x
 return w===$?this.x=new A.eyQ():w},
 gt5(){var w=this.y
 return w===$?this.y=new A.eyU():w},
@@ -5862,17 +5862,17 @@ gIX(){var w=this.as
 return w===$?this.as=new A.ezb():w},
 gt5(){var w=this.at
 return w===$?this.at=new A.ezh():w},
-gHH(){var w=this.ax
+gHG(){var w=this.ax
 return w===$?this.ax=new A.ez3():w},
 gog(){var w=this.ay
 return w===$?this.ay=new A.ezf():w},
-gHC(){var w=this.ch
+gHB(){var w=this.ch
 return w===$?this.ch=new A.ez_():w},
 grA(){var w=this.CW
 return w===$?this.CW=new A.ez1():w},
 grU(){var w=this.cx
 return w===$?this.cx=new A.ez9():w},
-gI0(){var w=this.cy
+gI_(){var w=this.cy
 return w===$?this.cy=new A.ez5():w}}
 A.eBj.prototype={
 gaP0(){return"Choose recipient"},
@@ -6460,4 +6460,4 @@ w(A.bEE,B.vh)})()
 B.wE(b.typeUniverse,JSON.parse('{"bh4":{"mn":[],"vh":["mv","mn"]}}'))
 var y={F:"Are you sure you want to delete this pixel: ",p:"Enable or disable this integration across your store.",e:'No pixels configured yet. Click "Add Pixel" to get started.',D:"Rates will be copied to your current store\nContinuing means deleting current rates, we recommend taking a backup before continuing",d:"Specify if the order will be delivered to office or home",g:"You can reorder columns by dragging and dropping"}
 var x={g:B.ah("J<R<j>>"),h:B.ah("J<j>")}};
-(a=>{a["JzOJacET8M/cH+Hc+S0c3yWivWo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZCvWmytBf/H7EXvW9fUS4K17LX8="]=a.current})($__dart_deferred_initializers__);
