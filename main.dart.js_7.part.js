@@ -1,1015 +1,1015 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-fxo(d,e,f){return new A.bhR()},
-bhR:function bhR(){var _=this
-_.b=_.bj=_.b6=_.b9=_.bi=_.f3=_.by=_.bE=_.bN=_.bl=_.aW=_.bb=_.aD=_.aA=_.an=_.ag=_.D=_.bw=_.bG=_.y2=_.y1=_.xr=_.x2=_.x1=_.to=_.ry=_.rx=_.R8=_.p4=_.p3=$
+fxy(d,e,f){return new A.bhV()},
+bhV:function bhV(){var _=this
+_.b=_.bj=_.b6=_.b9=_.bi=_.f4=_.by=_.bE=_.bN=_.bl=_.aW=_.bb=_.aD=_.aA=_.an=_.ag=_.D=_.bw=_.bG=_.y2=_.y1=_.xr=_.x2=_.x1=_.to=_.ry=_.rx=_.R8=_.p4=_.p3=$
 _.p1=_.ok=_.k2=_.k1=_.id=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.d=_.c=$},
-ewj:function ewj(d,e){var _=this
+ewq:function ewq(d,e){var _=this
 _.CW=d
 _.p1=_.ok=_.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=$
 _.a=e
 _.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-evw:function evw(d,e){var _=this
+evD:function evD(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-eAH:function eAH(d,e){var _=this
+eAO:function eAO(d,e){var _=this
 _.ax=d
 _.id=_.fy=_.fr=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=$
 _.a=e
 _.at=_.Q=_.y=_.w=_.r=_.f=_.e=_.d=_.c=$},
-eB0:function eB0(d,e){var _=this
+eB7:function eB7(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-eB8:function eB8(d,e){var _=this
+eBf:function eBf(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eBc:function eBc(){},
-eBi:function eBi(d,e){var _=this
+eBj:function eBj(){},
+eBp:function eBp(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-eBu:function eBu(d,e){var _=this
+eBB:function eBB(d,e){var _=this
 _.as=d
 _.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.at=$
 _.a=e
 _.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.b=$},
-eBM:function eBM(d,e){var _=this
+eBT:function eBT(d,e){var _=this
 _.x=d
 _.ay=_.ax=_.as=_.Q=_.z=_.y=$
 _.a=e
 _.w=_.r=_.e=_.d=_.c=_.b=$},
-eBU:function eBU(d,e){var _=this
+eC0:function eC0(d,e){var _=this
 _.e=d
 _.r=_.f=$
 _.a=e
 _.c=_.b=$},
-eCz:function eCz(d,e){var _=this
+eCG:function eCG(d,e){var _=this
 _.f=d
 _.w=_.r=$
 _.a=e
 _.c=_.b=$},
-eCX:function eCX(d,e){var _=this
+eD3:function eD3(d,e){var _=this
 _.ay=d
 _.k2=_.k1=_.id=_.go=_.fy=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=$
 _.a=e
 _.ax=_.at=_.as=_.Q=_.z=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eDm:function eDm(d,e){var _=this
+eDt:function eDt(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-eE_:function eE_(d,e){var _=this
+eE6:function eE6(d,e){var _=this
 _.ay=d
 _.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=$
 _.a=e
 _.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eEB:function eEB(d,e){var _=this
+eEI:function eEI(d,e){var _=this
 _.f=d
 _.y=_.x=_.w=_.r=$
 _.a=e
 _.e=_.d=_.c=_.b=$},
-eEL:function eEL(d,e){var _=this
+eES:function eES(d,e){var _=this
 _.z=d
 _.ay=_.as=_.Q=$
 _.a=e
 _.f=_.c=_.b=$},
-eER:function eER(d,e){var _=this
+eEY:function eEY(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eEX:function eEX(d,e){var _=this
+eF3:function eF3(d,e){var _=this
 _.y=d
 _.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=$
 _.a=e
 _.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eFy:function eFy(d,e){var _=this
+eFF:function eFF(d,e){var _=this
 _.ch=d
 _.k4=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=$
 _.a=e
 _.ay=_.at=_.as=_.Q=_.z=_.y=_.x=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eG1:function eG1(d,e){var _=this
+eG8:function eG8(d,e){var _=this
 _.fy=d
 _.D=_.bw=_.bG=_.y2=_.y1=_.xr=_.x2=_.x1=_.to=_.ry=_.rx=_.RG=_.R8=_.p4=_.p3=_.p2=_.p1=_.ok=_.k4=_.k3=_.k2=_.k1=_.id=_.go=$
 _.a=e
 _.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eGP:function eGP(d,e){var _=this
+eGW:function eGW(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eGT:function eGT(){},
-eGX:function eGX(d,e){var _=this
+eH_:function eH_(){},
+eH3:function eH3(d,e){var _=this
 _.f=d
 _.y=_.x=_.w=_.r=$
 _.a=e
 _.e=_.d=_.c=_.b=$},
-eH4:function eH4(){},
-eHa:function eHa(d,e){var _=this
+eHb:function eHb(){},
+eHh:function eHh(d,e){var _=this
 _.at=d
 _.CW=_.ch=_.ay=$
 _.a=e
 _.e=_.d=_.c=$},
-eHk:function eHk(d,e){var _=this
+eHr:function eHr(d,e){var _=this
 _.Q=d
 _.db=_.cy=_.CW=_.ch=_.ay=_.ax=_.at=_.as=$
 _.a=e
 _.y=_.x=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eHA:function eHA(d,e){var _=this
+eHH:function eHH(d,e){var _=this
 _.as=d
 _.db=_.cy=_.CW=_.ch=_.ay=_.ax=_.at=$
 _.a=e
 _.x=_.w=_.f=_.e=_.d=_.c=_.b=$},
-eHU:function eHU(d,e){var _=this
+eI0:function eI0(d,e){var _=this
 _.Q=d
 _.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=$
 _.a=e
 _.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-exK:function exK(d,e){var _=this
+exR:function exR(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-ewf:function ewf(){},
-ewn:function ewn(d,e){var _=this
+ewm:function ewm(){},
+ewu:function ewu(d,e){var _=this
 _.f=d
 _.y=_.x=_.r=$
 _.a=e
 _.e=_.d=_.b=$},
-ewh:function ewh(){},
-evi:function evi(d,e){var _=this
+ewo:function ewo(){},
+evp:function evp(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-ezs:function ezs(d,e){var _=this
+ezz:function ezz(d,e){var _=this
 _.e=d
 _.w=_.r=$
 _.a=e
 _.d=_.c=$},
-eAp:function eAp(d,e){var _=this
+eAw:function eAw(d,e){var _=this
 _.d=d
 _.f=$
 _.a=e
 _.c=$},
-eyN:function eyN(d,e){var _=this
+eyU:function eyU(d,e){var _=this
 _.as=d
 _.fr=_.dy=_.cy=_.ch=_.ax=_.at=$
 _.a=e
 _.Q=_.z=_.w=_.e=_.c=_.b=$},
-ezY:function ezY(d,e){var _=this
+eA4:function eA4(d,e){var _=this
 _.x=d
 _.ax=_.at=_.as=_.Q=_.z=_.y=$
 _.a=e
 _.r=_.f=_.e=_.d=_.c=_.b=$},
-evE:function evE(d,e){var _=this
+evL:function evL(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eyT:function eyT(d,e){var _=this
+ez_:function ez_(d,e){var _=this
 _.r=d
 _.z=_.w=$
 _.a=e
 _.e=_.b=$},
-ewJ:function ewJ(d,e){var _=this
+ewQ:function ewQ(d,e){var _=this
 _.ay=d
 _.k2=_.k1=_.id=_.go=_.fx=_.fr=_.dy=_.dx=_.cy=_.cx=_.CW=_.ch=$
 _.a=e
 _.ax=_.at=_.as=_.Q=_.y=_.x=_.w=_.r=_.e=_.d=_.c=_.b=$},
-evg:function evg(){},
-eve:function eve(){},
-ev2:function ev2(d,e){var _=this
+evn:function evn(){},
+evl:function evl(){},
+ev9:function ev9(d,e){var _=this
 _.z=d
 _.cy=_.cx=_.CW=_.ch=_.ax=_.at=_.Q=$
 _.a=e
 _.y=_.x=_.w=_.r=_.e=_.d=_.b=$},
-eAt:function eAt(d,e){var _=this
+eAA:function eAA(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-evy:function evy(){},
-evA:function evA(){},
-evC:function evC(){},
-eAV:function eAV(){},
-eAP:function eAP(d,e){var _=this
+evF:function evF(){},
+evH:function evH(){},
+evJ:function evJ(){},
+eB1:function eB1(){},
+eAW:function eAW(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eAJ:function eAJ(d,e){var _=this
+eAQ:function eAQ(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eAx:function eAx(d,e){var _=this
+eAE:function eAE(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eAB:function eAB(){},
-eAT:function eAT(){},
-eAD:function eAD(){},
-eAG:function eAG(){},
-eAX:function eAX(){},
-eAZ:function eAZ(){},
-eB2:function eB2(d,e){var _=this
+eAI:function eAI(){},
+eB_:function eB_(){},
+eAK:function eAK(){},
+eAN:function eAN(){},
+eB3:function eB3(){},
+eB5:function eB5(){},
+eB9:function eB9(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eB6:function eB6(){},
-eBa:function eBa(){},
-eBe:function eBe(){},
-eBk:function eBk(){},
+eBd:function eBd(){},
 eBh:function eBh(){},
-eBq:function eBq(){},
-eBA:function eBA(){},
-eBm:function eBm(){},
-eBw:function eBw(){},
+eBl:function eBl(){},
+eBr:function eBr(){},
 eBo:function eBo(){},
-eBy:function eBy(){},
+eBx:function eBx(){},
+eBH:function eBH(){},
 eBt:function eBt(){},
-eBC:function eBC(){},
-eBE:function eBE(){},
-eBG:function eBG(){},
-eBS:function eBS(){},
-eBI:function eBI(){},
-eBO:function eBO(){},
-eBQ:function eBQ(){},
+eBD:function eBD(){},
+eBv:function eBv(){},
+eBF:function eBF(){},
+eBA:function eBA(){},
+eBJ:function eBJ(){},
 eBL:function eBL(){},
-eC9:function eC9(d,e){var _=this
+eBN:function eBN(){},
+eBZ:function eBZ(){},
+eBP:function eBP(){},
+eBV:function eBV(){},
+eBX:function eBX(){},
+eBS:function eBS(){},
+eCg:function eCg(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eCx:function eCx(d,e){var _=this
+eCE:function eCE(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eCB:function eCB(){},
-eCD:function eCD(){},
-eDg:function eDg(){},
-eDe:function eDe(){},
-eCL:function eCL(){},
-eCN:function eCN(d,e){var _=this
-_.e=d
-_.w=_.r=_.f=$
-_.a=e
-_.d=_.c=_.b=$},
-eCJ:function eCJ(){},
-eCZ:function eCZ(d,e){var _=this
-_.e=d
-_.w=_.r=_.f=$
-_.a=e
-_.d=_.c=_.b=$},
-eDa:function eDa(){},
-eCH:function eCH(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eDi:function eDi(){},
-eDc:function eDc(){},
-eD6:function eD6(){},
-eD8:function eD8(){},
-eCW:function eCW(){},
+eCI:function eCI(){},
+eCK:function eCK(){},
+eDn:function eDn(){},
 eDl:function eDl(){},
-eDo:function eDo(){},
-eDu:function eDu(){},
-eDq:function eDq(){},
-eE9:function eE9(d,e){var _=this
+eCS:function eCS(){},
+eCU:function eCU(d,e){var _=this
+_.e=d
+_.w=_.r=_.f=$
+_.a=e
+_.d=_.c=_.b=$},
+eCQ:function eCQ(){},
+eD5:function eD5(d,e){var _=this
+_.e=d
+_.w=_.r=_.f=$
+_.a=e
+_.d=_.c=_.b=$},
+eDh:function eDh(){},
+eCO:function eCO(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eDp:function eDp(){},
+eDj:function eDj(){},
+eDd:function eDd(){},
+eDf:function eDf(){},
+eD2:function eD2(){},
+eDs:function eDs(){},
+eDv:function eDv(){},
+eDB:function eDB(){},
+eDx:function eDx(){},
+eEg:function eEg(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-eDw:function eDw(){},
-eEf:function eEf(){},
-eDZ:function eDZ(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eEj:function eEj(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eDs:function eDs(){},
+eDD:function eDD(){},
+eEm:function eEm(){},
 eE5:function eE5(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eE1:function eE1(){},
-eEh:function eEh(){},
-eDP:function eDP(d,e){var _=this
-_.r=d
-_.Q=_.z=_.y=_.x=_.w=$
-_.a=e
-_.f=_.e=_.d=_.c=_.b=$},
-eE7:function eE7(){},
-eDE:function eDE(d,e){var _=this
-_.r=d
-_.Q=_.z=_.y=_.x=_.w=$
-_.a=e
-_.f=_.e=_.d=_.c=_.b=$},
-eEt:function eEt(d,e){var _=this
-_.r=d
-_.Q=_.z=_.y=_.x=_.w=$
-_.a=e
-_.f=_.e=_.d=_.c=_.b=$},
-eEH:function eEH(){},
-eEF:function eEF(){},
-eED:function eED(){},
-eEP:function eEP(){},
-eEJ:function eEJ(){},
-eEN:function eEN(){},
-eET:function eET(){},
-eEZ:function eEZ(){},
-eF0:function eF0(){},
-eF4:function eF4(){},
-eF6:function eF6(){},
-eEW:function eEW(){},
-eF2:function eF2(){},
-eF8:function eF8(){},
-eFa:function eFa(){},
-eFE:function eFE(){},
-eFx:function eFx(){},
-eFr:function eFr(d,e){var _=this
-_.d=d
-_.f=_.e=$
-_.a=e
-_.c=_.b=$},
-eFk:function eFk(){},
-eFp:function eFp(){},
-eFm:function eFm(){},
-eFg:function eFg(){},
-eFc:function eFc(){},
-eFi:function eFi(){},
-eFe:function eFe(){},
-eFG:function eFG(){},
-eFA:function eFA(){},
-eFC:function eFC(){},
-eG5:function eG5(d,e){var _=this
-_.d=d
-_.f=_.e=$
-_.a=e
-_.c=_.b=$},
-eG3:function eG3(){},
-eG_:function eG_(){},
-eGL:function eGL(){},
-eGz:function eGz(){},
-eFM:function eFM(){},
-eFI:function eFI(){},
-eFO:function eFO(){},
-eFU:function eFU(){},
-eFW:function eFW(){},
-eFK:function eFK(){},
-eGH:function eGH(){},
-eGJ:function eGJ(){},
-eFS:function eFS(){},
-eFQ:function eFQ(){},
-eGd:function eGd(d,e){var _=this
+eEq:function eEq(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eGh:function eGh(){},
-eFY:function eFY(){},
-eGF:function eGF(){},
-eGD:function eGD(){},
-eGB:function eGB(){},
-eGN:function eGN(){},
-eGb:function eGb(){},
-eGl:function eGl(d,e){var _=this
+eDz:function eDz(){},
+eEc:function eEc(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eE8:function eE8(){},
+eEo:function eEo(){},
+eDW:function eDW(d,e){var _=this
+_.r=d
+_.Q=_.z=_.y=_.x=_.w=$
+_.a=e
+_.f=_.e=_.d=_.c=_.b=$},
+eEe:function eEe(){},
+eDL:function eDL(d,e){var _=this
+_.r=d
+_.Q=_.z=_.y=_.x=_.w=$
+_.a=e
+_.f=_.e=_.d=_.c=_.b=$},
+eEA:function eEA(d,e){var _=this
+_.r=d
+_.Q=_.z=_.y=_.x=_.w=$
+_.a=e
+_.f=_.e=_.d=_.c=_.b=$},
+eEO:function eEO(){},
+eEM:function eEM(){},
+eEK:function eEK(){},
+eEW:function eEW(){},
+eEQ:function eEQ(){},
+eEU:function eEU(){},
+eF_:function eF_(){},
+eF5:function eF5(){},
+eF7:function eF7(){},
+eFb:function eFb(){},
+eFd:function eFd(){},
+eF2:function eF2(){},
+eF9:function eF9(){},
+eFf:function eFf(){},
+eFh:function eFh(){},
+eFL:function eFL(){},
+eFE:function eFE(){},
+eFy:function eFy(d,e){var _=this
+_.d=d
+_.f=_.e=$
+_.a=e
+_.c=_.b=$},
+eFr:function eFr(){},
+eFw:function eFw(){},
+eFt:function eFt(){},
+eFn:function eFn(){},
+eFj:function eFj(){},
+eFp:function eFp(){},
+eFl:function eFl(){},
+eFN:function eFN(){},
+eFH:function eFH(){},
+eFJ:function eFJ(){},
+eGc:function eGc(d,e){var _=this
+_.d=d
+_.f=_.e=$
+_.a=e
+_.c=_.b=$},
+eGa:function eGa(){},
+eG6:function eG6(){},
+eGS:function eGS(){},
+eGG:function eGG(){},
+eFT:function eFT(){},
+eFP:function eFP(){},
+eFV:function eFV(){},
+eG0:function eG0(){},
+eG2:function eG2(){},
+eFR:function eFR(){},
+eGO:function eGO(){},
+eGQ:function eGQ(){},
+eFZ:function eFZ(){},
+eFX:function eFX(){},
+eGk:function eGk(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eGo:function eGo(){},
+eG4:function eG4(){},
+eGM:function eGM(){},
+eGK:function eGK(){},
+eGI:function eGI(){},
+eGU:function eGU(){},
+eGi:function eGi(){},
+eGs:function eGs(d,e){var _=this
 _.x=d
 _.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=$
 _.a=e
 _.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eGR:function eGR(){},
-eGZ:function eGZ(){},
-eGW:function eGW(){},
-eH0:function eH0(){},
+eGY:function eGY(){},
+eH5:function eH5(){},
 eH2:function eH2(){},
-eH6:function eH6(){},
+eH7:function eH7(){},
 eH9:function eH9(){},
-eHc:function eHc(){},
+eHd:function eHd(){},
 eHg:function eHg(){},
-eHu:function eHu(){},
-eHq:function eHq(){},
-eHe:function eHe(){},
-eHo:function eHo(){},
-eHm:function eHm(){},
 eHj:function eHj(){},
-eHs:function eHs(){},
-eHC:function eHC(){},
-eHG:function eHG(){},
-eHy:function eHy(){},
-eHw:function eHw(){},
-eHI:function eHI(){},
-eHE:function eHE(){},
-eHK:function eHK(){},
-eHW:function eHW(){},
-eHO:function eHO(){},
-eHM:function eHM(){},
-eI1:function eI1(){},
-eI3:function eI3(){},
-eI_:function eI_(){},
-eI5:function eI5(){},
+eHn:function eHn(){},
+eHB:function eHB(){},
+eHx:function eHx(){},
+eHl:function eHl(){},
+eHv:function eHv(){},
+eHt:function eHt(){},
+eHq:function eHq(){},
+eHz:function eHz(){},
+eHJ:function eHJ(){},
+eHN:function eHN(){},
+eHF:function eHF(){},
+eHD:function eHD(){},
+eHP:function eHP(){},
+eHL:function eHL(){},
 eHR:function eHR(){},
+eI2:function eI2(){},
+eHV:function eHV(){},
 eHT:function eHT(){},
+eI8:function eI8(){},
+eIa:function eIa(){},
+eI6:function eI6(){},
+eIc:function eIc(){},
 eHY:function eHY(){},
-exG:function exG(d,e){var _=this
+eI_:function eI_(){},
+eI4:function eI4(){},
+exN:function exN(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-ewl:function ewl(){},
-ewp:function ewp(d,e){var _=this
+ews:function ews(){},
+eww:function eww(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-ewv:function ewv(){},
-evo:function evo(d,e){var _=this
+ewC:function ewC(){},
+evv:function evv(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-evk:function evk(){},
-ez5:function ez5(d,e){var _=this
+evr:function evr(){},
+ezc:function ezc(d,e){var _=this
 _.db=d
 _.rx=_.RG=_.R8=_.p4=_.p3=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=$
 _.a=e
 _.cy=_.cx=_.CW=_.ch=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-ezy:function ezy(d,e){var _=this
+ezF:function ezF(d,e){var _=this
 _.w=d
 _.at=_.as=_.Q=_.z=_.y=$
 _.a=e
 _.r=_.f=_.e=_.d=_.c=$},
-eAi:function eAi(d,e){var _=this
+eAp:function eAp(d,e){var _=this
 _.f=d
 _.y=_.x=_.w=_.r=$
 _.a=e
 _.e=_.d=_.c=_.b=$},
-exM:function exM(){},
-ey5:function ey5(){},
-exQ:function exQ(d,e){var _=this
+exT:function exT(){},
+eyc:function eyc(){},
+exX:function exX(d,e){var _=this
 _.w=d
 _.at=_.as=_.Q=_.z=_.y=_.x=$
 _.a=e
 _.r=_.f=_.e=_.d=_.c=_.b=$},
-eyP:function eyP(){},
-eyI:function eyI(d,e){var _=this
+eyW:function eyW(){},
+eyP:function eyP(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-eyk:function eyk(d,e){var _=this
+eyr:function eyr(d,e){var _=this
 _.k3=d
 _.by=_.aW=_.bb=_.aD=_.aA=_.an=_.bw=_.y2=_.x2=_.to=_.ry=_.rx=_.R8=_.p4=_.p2=_.p1=_.k4=$
 _.a=e
 _.k2=_.fy=_.fx=_.fr=_.dy=_.dx=_.cx=_.ch=_.at=_.as=_.z=_.y=_.x=_.r=_.e=_.d=_.b=$},
-eA_:function eA_(){},
-ezO:function ezO(d,e){var _=this
+eA6:function eA6(){},
+ezV:function ezV(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eA5:function eA5(d,e){var _=this
+eAc:function eAc(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-ezX:function ezX(){},
-ezR:function ezR(d,e){var _=this
+eA3:function eA3(){},
+ezY:function ezY(d,e){var _=this
 _.r=d
 _.Q=_.y=_.x=_.w=$
 _.a=e
 _.f=_.d=_.c=_.b=$},
-eAb:function eAb(d,e){var _=this
+eAi:function eAi(d,e){var _=this
 _.e=d
 _.w=_.r=$
 _.a=e
 _.d=_.c=$},
-evI:function evI(d,e){var _=this
+evP:function evP(d,e){var _=this
 _.at=d
 _.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cx=_.ch=_.ay=_.ax=$
 _.a=e
 _.as=_.Q=_.z=_.y=_.x=_.w=_.f=_.d=_.c=_.b=$},
-eyV:function eyV(){},
-eyR:function eyR(){},
-exk:function exk(d,e){var _=this
+ez1:function ez1(){},
+eyY:function eyY(){},
+exr:function exr(d,e){var _=this
 _.r=d
 _.Q=_.z=_.y=_.x=_.w=$
 _.a=e
 _.f=_.e=_.d=_.c=_.b=$},
-ewD:function ewD(d,e){var _=this
+ewK:function ewK(d,e){var _=this
 _.f=d
 _.y=_.x=_.w=_.r=$
 _.a=e
 _.e=_.d=_.c=_.b=$},
-exA:function exA(d,e){var _=this
+exH:function exH(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-exe:function exe(){},
-ewV:function ewV(d,e){var _=this
+exl:function exl(){},
+ex1:function ex1(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-exu:function exu(d,e){var _=this
+exB:function exB(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-ewT:function ewT(d,e){var _=this
+ex_:function ex_(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-ex4:function ex4(d,e){var _=this
+exb:function exb(d,e){var _=this
 _.e=d
 _.w=_.r=$
 _.a=e
 _.d=_.c=$},
-ewP:function ewP(){},
-exy:function exy(){},
-ewL:function ewL(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-ewx:function ewx(){},
-eva:function eva(){},
-ev4:function ev4(){},
-euZ:function euZ(){},
-ev6:function ev6(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-ev1:function ev1(){},
-evc:function evc(){},
-euX:function euX(){},
-eAv:function eAv(){},
-eAr:function eAr(){},
-eAR:function eAR(){},
-eAL:function eAL(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eAz:function eAz(){},
-eB4:function eB4(){},
-eC8:function eC8(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eCw:function eCw(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eCR:function eCR(){},
-eCT:function eCT(){},
-eCP:function eCP(){},
-eD2:function eD2(){},
-eD4:function eD4(){},
-eD0:function eD0(){},
-eCF:function eCF(){},
-eEb:function eEb(){},
-eEd:function eEd(){},
-eDX:function eDX(){},
-eEl:function eEl(){},
-eE3:function eE3(){},
-eDO:function eDO(){},
-eDV:function eDV(){},
-eDL:function eDL(){},
-eDR:function eDR(){},
-eDT:function eDT(){},
-eDC:function eDC(){},
-eDG:function eDG(){},
-eDA:function eDA(){},
-eDy:function eDy(){},
-eDI:function eDI(){},
-eEr:function eEr(){},
-eEn:function eEn(){},
-eEp:function eEp(){},
-eEz:function eEz(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-eEv:function eEv(){},
-eFt:function eFt(){},
-eFv:function eFv(){},
-eG7:function eG7(){},
-eG9:function eG9(){},
-eGf:function eGf(){},
-eGn:function eGn(){},
-eGv:function eGv(){},
-eGp:function eGp(){},
-eGr:function eGr(){},
-eGx:function eGx(){},
-eGt:function eGt(){},
-eGj:function eGj(){},
-exI:function exI(){},
+ewW:function ewW(){},
 exF:function exF(){},
-ewt:function ewt(){},
-ewr:function ewr(){},
-evu:function evu(){},
-evq:function evq(d,e){var _=this
+ewS:function ewS(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-evm:function evm(){},
-ezj:function ezj(){},
-ezp:function ezp(){},
-ez7:function ez7(){},
-ez3:function ez3(){},
-ezb:function ezb(){},
-ez1:function ez1(){},
-ezr:function ezr(){},
-ez9:function ez9(){},
-ezn:function ezn(){},
-ezd:function ezd(){},
-ezh:function ezh(){},
-eyY:function eyY(){},
-ezl:function ezl(){},
-ez_:function ez_(){},
-ezf:function ezf(){},
-ezC:function ezC(){},
+ewE:function ewE(){},
+evh:function evh(){},
+evb:function evb(){},
+ev5:function ev5(){},
+evd:function evd(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+ev8:function ev8(){},
+evj:function evj(){},
+ev3:function ev3(){},
+eAC:function eAC(){},
+eAy:function eAy(){},
+eAY:function eAY(){},
+eAS:function eAS(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eAG:function eAG(){},
+eBb:function eBb(){},
+eCf:function eCf(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eCD:function eCD(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eCY:function eCY(){},
+eD_:function eD_(){},
+eCW:function eCW(){},
+eD9:function eD9(){},
+eDb:function eDb(){},
+eD7:function eD7(){},
+eCM:function eCM(){},
+eEi:function eEi(){},
+eEk:function eEk(){},
+eE3:function eE3(){},
+eEs:function eEs(){},
+eEa:function eEa(){},
+eDV:function eDV(){},
+eE1:function eE1(){},
+eDS:function eDS(){},
+eDY:function eDY(){},
+eE_:function eE_(){},
+eDJ:function eDJ(){},
+eDN:function eDN(){},
+eDH:function eDH(){},
+eDF:function eDF(){},
+eDP:function eDP(){},
+eEy:function eEy(){},
+eEu:function eEu(){},
+eEw:function eEw(){},
+eEG:function eEG(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+eEC:function eEC(){},
+eFA:function eFA(){},
+eFC:function eFC(){},
+eGe:function eGe(){},
+eGg:function eGg(){},
+eGm:function eGm(){},
+eGu:function eGu(){},
+eGC:function eGC(){},
+eGw:function eGw(){},
+eGy:function eGy(){},
+eGE:function eGE(){},
+eGA:function eGA(){},
+eGq:function eGq(){},
+exP:function exP(){},
+exM:function exM(){},
+ewA:function ewA(){},
+ewy:function ewy(){},
+evB:function evB(){},
+evx:function evx(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+evt:function evt(){},
+ezq:function ezq(){},
 ezw:function ezw(){},
+eze:function eze(){},
+eza:function eza(){},
+ezi:function ezi(){},
+ez8:function ez8(){},
+ezy:function ezy(){},
+ezg:function ezg(){},
 ezu:function ezu(){},
-ezA:function ezA(){},
-ezE:function ezE(){},
-eAk:function eAk(){},
-eAg:function eAg(){},
-eAo:function eAo(){},
-eAm:function eAm(){},
-exO:function exO(){},
-ey_:function ey_(){},
-ey1:function ey1(){},
-exY:function exY(){},
-ey3:function ey3(){},
-exU:function exU(d,e){var _=this
+ezk:function ezk(){},
+ezo:function ezo(){},
+ez4:function ez4(){},
+ezs:function ezs(){},
+ez6:function ez6(){},
+ezm:function ezm(){},
+ezJ:function ezJ(){},
+ezD:function ezD(){},
+ezB:function ezB(){},
+ezH:function ezH(){},
+ezL:function ezL(){},
+eAr:function eAr(){},
+eAn:function eAn(){},
+eAv:function eAv(){},
+eAt:function eAt(){},
+exV:function exV(){},
+ey6:function ey6(){},
+ey8:function ey8(){},
+ey4:function ey4(){},
+eya:function eya(){},
+ey0:function ey0(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-eyK:function eyK(){},
-eyG:function eyG(){},
-eyM:function eyM(){},
-eya:function eya(){},
-eye:function eye(){},
-eyc:function eyc(){},
-eyu:function eyu(){},
-eyq:function eyq(){},
-eys:function eys(){},
-eyw:function eyw(){},
-eyy:function eyy(){},
-eyC:function eyC(){},
-eyi:function eyi(){},
-eym:function eym(){},
-eyA:function eyA(){},
-eyo:function eyo(){},
-eyg:function eyg(){},
-ey8:function ey8(){},
-eyE:function eyE(){},
-ezI:function ezI(d,e){var _=this
+eyR:function eyR(){},
+eyN:function eyN(){},
+eyT:function eyT(){},
+eyh:function eyh(){},
+eyl:function eyl(){},
+eyj:function eyj(){},
+eyB:function eyB(){},
+eyx:function eyx(){},
+eyz:function eyz(){},
+eyD:function eyD(){},
+eyF:function eyF(){},
+eyJ:function eyJ(){},
+eyp:function eyp(){},
+eyt:function eyt(){},
+eyH:function eyH(){},
+eyv:function eyv(){},
+eyn:function eyn(){},
+eyf:function eyf(){},
+eyL:function eyL(){},
+ezP:function ezP(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-eA1:function eA1(d,e){var _=this
+eA8:function eA8(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-ezT:function ezT(){},
-ezV:function ezV(){},
-eA7:function eA7(d,e){var _=this
+eA_:function eA_(){},
+eA1:function eA1(){},
+eAe:function eAe(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-eAd:function eAd(){},
-evO:function evO(d,e){var _=this
+eAk:function eAk(){},
+evV:function evV(d,e){var _=this
 _.e=d
 _.f=$
 _.a=e
 _.b=$},
-ew5:function ew5(d,e){var _=this
+ewc:function ewc(d,e){var _=this
 _.w=d
 _.at=_.Q=_.z=_.y=_.x=$
 _.a=e
 _.r=_.e=_.d=_.c=_.b=$},
-evM:function evM(){},
-evU:function evU(){},
-ew_:function ew_(d,e){var _=this
+evT:function evT(){},
+ew0:function ew0(){},
+ew6:function ew6(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-evK:function evK(){},
-evW:function evW(d,e){var _=this
+evR:function evR(){},
+ew2:function ew2(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-evS:function evS(){},
-evG:function evG(){},
-exg:function exg(){},
-exi:function exi(){},
-exm:function exm(){},
-exo:function exo(d,e){var _=this
+evZ:function evZ(){},
+evN:function evN(){},
+exn:function exn(){},
+exp:function exp(){},
+ext:function ext(){},
+exv:function exv(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
-exs:function exs(){},
-ewF:function ewF(){},
-ewz:function ewz(){},
-ewC:function ewC(){},
-ewH:function ewH(){},
-exC:function exC(){},
-ewX:function ewX(){},
-exw:function exw(){},
-ewR:function ewR(){},
-exa:function exa(d,e){var _=this
+exz:function exz(){},
+ewM:function ewM(){},
+ewG:function ewG(){},
+ewJ:function ewJ(){},
+ewO:function ewO(){},
+exJ:function exJ(){},
+ex3:function ex3(){},
+exD:function exD(){},
+ewY:function ewY(){},
+exh:function exh(d,e){var _=this
 _.e=d
 _.w=_.r=_.f=$
 _.a=e
 _.d=_.c=_.b=$},
-ex0:function ex0(d,e){var _=this
+ex7:function ex7(d,e){var _=this
 _.d=d
 _.f=_.e=$
 _.a=e
 _.c=_.b=$},
-ewN:function ewN(){},
-ev8:function ev8(){},
-eAN:function eAN(){},
-eC_:function eC_(d,e){var _=this
+ewU:function ewU(){},
+evf:function evf(){},
+eAU:function eAU(){},
+eC6:function eC6(d,e){var _=this
 _.r=d
 _.Q=_.z=_.y=_.x=_.w=$
 _.a=e
 _.f=_.e=_.d=_.c=_.b=$},
-eCl:function eCl(d,e){var _=this
+eCs:function eCs(d,e){var _=this
 _.z=d
 _.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=$
 _.a=e
 _.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=$},
-eEx:function eEx(){},
-evs:function evs(){},
-exW:function exW(){},
-exT:function exT(){},
-ezK:function ezK(){},
-ezM:function ezM(){},
-ezG:function ezG(){},
-eA3:function eA3(){},
-eA9:function eA9(){},
-evQ:function evQ(){},
-ew9:function ew9(){},
-ewb:function ewb(){},
-ewd:function ewd(){},
-ew3:function ew3(){},
-ew7:function ew7(){},
-ew1:function ew1(){},
-evY:function evY(){},
-exq:function exq(){},
-ex6:function ex6(){},
+eEE:function eEE(){},
+evz:function evz(){},
+ey2:function ey2(){},
+ey_:function ey_(){},
+ezR:function ezR(){},
+ezT:function ezT(){},
+ezN:function ezN(){},
+eAa:function eAa(){},
+eAg:function eAg(){},
+evX:function evX(){},
+ewg:function ewg(){},
+ewi:function ewi(){},
+ewk:function ewk(){},
+ewa:function ewa(){},
+ewe:function ewe(){},
+ew8:function ew8(){},
+ew4:function ew4(){},
+exx:function exx(){},
+exd:function exd(){},
+exg:function exg(){},
+exj:function exj(){},
 ex9:function ex9(){},
-exc:function exc(){},
-ex2:function ex2(){},
-ewZ:function ewZ(){},
-eC5:function eC5(){},
-eC3:function eC3(){},
-eC7:function eC7(){},
-eBY:function eBY(){},
-eC1:function eC1(){},
-eCr:function eCr(){},
-eCp:function eCp(){},
-eCv:function eCv(){},
-eCh:function eCh(){},
-eCt:function eCt(){},
-eCd:function eCd(){},
-eCf:function eCf(){},
-eCn:function eCn(){},
-eCj:function eCj(){},
-bFJ:function bFJ(){}}
+ex5:function ex5(){},
+eCc:function eCc(){},
+eCa:function eCa(){},
+eCe:function eCe(){},
+eC4:function eC4(){},
+eC8:function eC8(){},
+eCy:function eCy(){},
+eCw:function eCw(){},
+eCC:function eCC(){},
+eCo:function eCo(){},
+eCA:function eCA(){},
+eCk:function eCk(){},
+eCm:function eCm(){},
+eCu:function eCu(){},
+eCq:function eCq(){},
+bFO:function bFO(){}}
 B=c[0]
 A=a.updateHolder(c[4],A)
-A.bhR.prototype={
+A.bhV.prototype={
 gn9(){var w=this.p3
 return w===$?this.p3=this:w},
 gt(){var w,v=this,u=v.p4
 if(u===$){w=v.gn9()
 v.p4!==$&&B.aW()
-u=v.p4=new A.ewj(w,w)}return u},
+u=v.p4=new A.ewq(w,w)}return u},
 glp(){var w,v=this,u=v.R8
 if(u===$){w=v.gn9()
 v.R8!==$&&B.aW()
-u=v.R8=new A.evw(w,w)}return u},
+u=v.R8=new A.evD(w,w)}return u},
 gmU(){var w,v=this,u=v.rx
 if(u===$){w=v.gn9()
 v.rx!==$&&B.aW()
-u=v.rx=new A.eAH(w,w)}return u},
-gAO(){var w,v=this,u=v.ry
+u=v.rx=new A.eAO(w,w)}return u},
+gAP(){var w,v=this,u=v.ry
 if(u===$){w=v.gn9()
 v.ry!==$&&B.aW()
-u=v.ry=new A.eB0(w,w)}return u},
+u=v.ry=new A.eB7(w,w)}return u},
 gj7(){var w,v=this,u=v.to
 if(u===$){w=v.gn9()
 v.to!==$&&B.aW()
-u=v.to=new A.eB8(w,w)}return u},
+u=v.to=new A.eBf(w,w)}return u},
 gaH(){var w=this,v=w.x1
 if(v===$){w.gn9()
 w.x1!==$&&B.aW()
-v=w.x1=new A.eBc()}return v},
+v=w.x1=new A.eBj()}return v},
 gko(){var w,v=this,u=v.x2
 if(u===$){w=v.gn9()
 v.x2!==$&&B.aW()
-u=v.x2=new A.eBi(w,w)}return u},
-gk5(){var w,v=this,u=v.xr
+u=v.x2=new A.eBp(w,w)}return u},
+gk6(){var w,v=this,u=v.xr
 if(u===$){w=v.gn9()
 v.xr!==$&&B.aW()
-u=v.xr=new A.eBu(w,w)}return u},
+u=v.xr=new A.eBB(w,w)}return u},
 ghh(){var w,v=this,u=v.y1
 if(u===$){w=v.gn9()
 v.y1!==$&&B.aW()
-u=v.y1=new A.eBM(w,w)}return u},
+u=v.y1=new A.eBT(w,w)}return u},
 gad(){var w,v=this,u=v.y2
 if(u===$){w=v.gn9()
 v.y2!==$&&B.aW()
-u=v.y2=new A.eBU(w,w)}return u},
+u=v.y2=new A.eC0(w,w)}return u},
 gtP(){var w,v=this,u=v.bG
 if(u===$){w=v.gn9()
 v.bG!==$&&B.aW()
-u=v.bG=new A.eCz(w,w)}return u},
+u=v.bG=new A.eCG(w,w)}return u},
 gbm(){var w,v=this,u=v.bw
 if(u===$){w=v.gn9()
 v.bw!==$&&B.aW()
-u=v.bw=new A.eCX(w,w)}return u},
-gavl(){var w,v=this,u=v.D
+u=v.bw=new A.eD3(w,w)}return u},
+gavn(){var w,v=this,u=v.D
 if(u===$){w=v.gn9()
 v.D!==$&&B.aW()
-u=v.D=new A.eDm(w,w)}return u},
+u=v.D=new A.eDt(w,w)}return u},
 gW(){var w,v=this,u=v.ag
 if(u===$){w=v.gn9()
 v.ag!==$&&B.aW()
-u=v.ag=new A.eE_(w,w)}return u},
+u=v.ag=new A.eE6(w,w)}return u},
 glK(){var w,v=this,u=v.an
 if(u===$){w=v.gn9()
 v.an!==$&&B.aW()
-u=v.an=new A.eEB(w,w)}return u},
-gJ8(){var w,v=this,u=v.aA
+u=v.an=new A.eEI(w,w)}return u},
+gJ9(){var w,v=this,u=v.aA
 if(u===$){w=v.gn9()
 v.aA!==$&&B.aW()
-u=v.aA=new A.eEL(w,w)}return u},
-gJb(){var w,v=this,u=v.aD
+u=v.aA=new A.eES(w,w)}return u},
+gJc(){var w,v=this,u=v.aD
 if(u===$){w=v.gn9()
 v.aD!==$&&B.aW()
-u=v.aD=new A.eER(w,w)}return u},
+u=v.aD=new A.eEY(w,w)}return u},
 gj9(){var w,v=this,u=v.bb
 if(u===$){w=v.gn9()
 v.bb!==$&&B.aW()
-u=v.bb=new A.eEX(w,w)}return u},
+u=v.bb=new A.eF3(w,w)}return u},
 gcl(){var w,v=this,u=v.aW
 if(u===$){w=v.gn9()
 v.aW!==$&&B.aW()
-u=v.aW=new A.eFy(w,w)}return u},
+u=v.aW=new A.eFF(w,w)}return u},
 gao(){var w,v=this,u=v.bl
 if(u===$){w=v.gn9()
 v.bl!==$&&B.aW()
-u=v.bl=new A.eG1(w,w)}return u},
+u=v.bl=new A.eG8(w,w)}return u},
 gkq(){var w,v=this,u=v.bN
 if(u===$){w=v.gn9()
 v.bN!==$&&B.aW()
-u=v.bN=new A.eGP(w,w)}return u},
+u=v.bN=new A.eGW(w,w)}return u},
 gcK(){var w=this,v=w.bE
 if(v===$){w.gn9()
 w.bE!==$&&B.aW()
-v=w.bE=new A.eGT()}return v},
+v=w.bE=new A.eH_()}return v},
 gn5(){var w,v=this,u=v.by
 if(u===$){w=v.gn9()
 v.by!==$&&B.aW()
-u=v.by=new A.eGX(w,w)}return u},
-ghW(){var w=this,v=w.f3
+u=v.by=new A.eH3(w,w)}return u},
+ghW(){var w=this,v=w.f4
 if(v===$){w.gn9()
-w.f3!==$&&B.aW()
-v=w.f3=new A.eH4()}return v},
-gzN(){var w,v=this,u=v.bi
+w.f4!==$&&B.aW()
+v=w.f4=new A.eHb()}return v},
+gzO(){var w,v=this,u=v.bi
 if(u===$){w=v.gn9()
 v.bi!==$&&B.aW()
-u=v.bi=new A.eHa(w,w)}return u},
+u=v.bi=new A.eHh(w,w)}return u},
 gjm(){var w,v=this,u=v.b9
 if(u===$){w=v.gn9()
 v.b9!==$&&B.aW()
-u=v.b9=new A.eHk(w,w)}return u},
-gh2(){var w,v=this,u=v.b6
+u=v.b9=new A.eHr(w,w)}return u},
+gh3(){var w,v=this,u=v.b6
 if(u===$){w=v.gn9()
 v.b6!==$&&B.aW()
-u=v.b6=new A.eHA(w,w)}return u},
+u=v.b6=new A.eHH(w,w)}return u},
 gbY(){var w,v=this,u=v.bj
 if(u===$){w=v.gn9()
 v.bj!==$&&B.aW()
-u=v.bj=new A.eHU(w,w)}return u}}
-A.ewj.prototype={
-gao7(){return"feeef marchand"},
+u=v.bj=new A.eI0(w,w)}return u}}
+A.ewq.prototype={
+gao9(){return"feeef marchand"},
 gpk(){return"Tout"},
 gBe(){return"Charger plus"},
 gi_(){var w,v=this.cx
 if(v===$){w=this.CW
-v=this.cx=new A.exK(w,w)}return v},
+v=this.cx=new A.exR(w,w)}return v},
 gLX(){var w=this.cy
-return w===$?this.cy=new A.ewf():w},
+return w===$?this.cy=new A.ewm():w},
 gV(){var w,v=this.db
 if(v===$){w=this.CW
-v=this.db=new A.ewn(w,w)}return v},
+v=this.db=new A.ewu(w,w)}return v},
 guH(){var w=this.dx
-return w===$?this.dx=new A.ewh():w},
+return w===$?this.dx=new A.ewo():w},
 ghw(){var w,v=this.dy
 if(v===$){w=this.CW
-v=this.dy=new A.evi(w,w)}return v},
+v=this.dy=new A.evp(w,w)}return v},
 gdz(){var w,v=this.fr
 if(v===$){w=this.CW
-v=this.fr=new A.ezs(w,w)}return v},
+v=this.fr=new A.ezz(w,w)}return v},
 gDM(){var w,v=this.fx
 if(v===$){w=this.CW
-v=this.fx=new A.eAp(w,w)}return v},
+v=this.fx=new A.eAw(w,w)}return v},
 gaM(){var w,v=this.fy
 if(v===$){w=this.CW
-v=this.fy=new A.eyN(w,w)}return v},
+v=this.fy=new A.eyU(w,w)}return v},
 gcB(){var w,v=this.go
 if(v===$){w=this.CW
-v=this.go=new A.ezY(w,w)}return v},
+v=this.go=new A.eA4(w,w)}return v},
 gdP(){var w,v=this.id
 if(v===$){w=this.CW
-v=this.id=new A.evE(w,w)}return v},
+v=this.id=new A.evL(w,w)}return v},
 goz(){var w,v=this.k1
 if(v===$){w=this.CW
-v=this.k1=new A.eyT(w,w)}return v},
+v=this.k1=new A.ez_(w,w)}return v},
 gad(){var w,v=this.k2
 if(v===$){w=this.CW
-v=this.k2=new A.ewJ(w,w)}return v},
+v=this.k2=new A.ewQ(w,w)}return v},
 glp(){var w=this.k3
-return w===$?this.k3=new A.evg():w},
-gHQ(){var w=this.k4
-return w===$?this.k4=new A.eve():w},
-giz(){var w,v=this.ok
+return w===$?this.k3=new A.evn():w},
+gHR(){var w=this.k4
+return w===$?this.k4=new A.evl():w},
+giA(){var w,v=this.ok
 if(v===$){w=this.CW
-v=this.ok=new A.ev2(w,w)}return v},
-gjv(){var w,v=this.p1
+v=this.ok=new A.ev9(w,w)}return v},
+gjw(){var w,v=this.p1
 if(v===$){w=this.CW
-v=this.p1=new A.eAt(w,w)}return v}}
-A.evw.prototype={
+v=this.p1=new A.eAA(w,w)}return v}}
+A.evD.prototype={
 gvZ(){var w=this.f
-return w===$?this.f=new A.evy():w},
+return w===$?this.f=new A.evF():w},
 gp8(){var w=this.r
-return w===$?this.r=new A.evA():w},
+return w===$?this.r=new A.evH():w},
 gqR(){var w=this.w
-return w===$?this.w=new A.evC():w},
-gJc(){return"Profil"},
-gaVY(){return"Retour"}}
-A.eAH.prototype={
-gh8(){var w=this.ch
-return w===$?this.ch=new A.eAV():w},
+return w===$?this.w=new A.evJ():w},
+gJd(){return"Profil"},
+gaW0(){return"Retour"}}
+A.eAO.prototype={
+gh9(){var w=this.ch
+return w===$?this.ch=new A.eB1():w},
 gfF(){var w,v=this.CW
 if(v===$){w=this.ax
-v=this.CW=new A.eAP(w,w)}return v},
+v=this.CW=new A.eAW(w,w)}return v},
 go7(){var w,v=this.cx
 if(v===$){w=this.ax
-v=this.cx=new A.eAJ(w,w)}return v},
-gQQ(){var w,v=this.cy
+v=this.cx=new A.eAQ(w,w)}return v},
+gQR(){var w,v=this.cy
 if(v===$){w=this.ax
-v=this.cy=new A.eAx(w,w)}return v},
+v=this.cy=new A.eAE(w,w)}return v},
 glW(){var w=this.db
-return w===$?this.db=new A.eAB():w},
+return w===$?this.db=new A.eAI():w},
 gNj(){var w=this.dx
-return w===$?this.dx=new A.eAT():w},
+return w===$?this.dx=new A.eB_():w},
 gzd(){var w=this.fr
-return w===$?this.fr=new A.eAD():w},
+return w===$?this.fr=new A.eAK():w},
 gi(){return"Appeler"},
-gir(){return"Message"},
+gis(){return"Message"},
 gcn(){var w=this.fy
-return w===$?this.fy=new A.eAG():w},
+return w===$?this.fy=new A.eAN():w},
 ger(){var w=this.id
-return w===$?this.id=new A.eAX():w},
+return w===$?this.id=new A.eB3():w},
 $0(){return this.gi().$0()},
 $1(d){return this.gi().$1(d)},
 $2(d,e){return this.gi().$2(d,e)},
@@ -1702,6 +1702,7 @@ $1$maxExtent(d){return this.gi().$1$maxExtent(d)},
 $1$members(d){return this.gi().$1$members(d)},
 $2$imported$total(d,e){return this.gi().$2$imported$total(d,e)},
 $2$fontWeight$height(d,e){return this.gi().$2$fontWeight$height(d,e)},
+$4$color$fontWeight$height$letterSpacing(d,e,f,g){return this.gi().$4$color$fontWeight$height$letterSpacing(d,e,f,g)},
 $6$oldLayer(d,e,f,g,h,i){return this.gi().$6$oldLayer(d,e,f,g,h,i)},
 $2$radius(d,e){return this.gi().$2$radius(d,e)},
 $1$source(d){return this.gi().$1$source(d)},
@@ -1763,6 +1764,7 @@ $6$error$errorMessage$shippingMethods$status$store$stores(d,e,f,g,h,i){return th
 $4$error$errorMessage$store$stores(d,e,f,g){return this.gi().$4$error$errorMessage$store$stores(d,e,f,g)},
 $2$error$errorMessage(d,e){return this.gi().$2$error$errorMessage(d,e)},
 $3$error$errorMessage$store(d,e,f){return this.gi().$3$error$errorMessage$store(d,e,f)},
+$7$error$errorMessage$shippingMethods$status$store$stores$summary(d,e,f,g,h,i,j){return this.gi().$7$error$errorMessage$shippingMethods$status$store$stores$summary(d,e,f,g,h,i,j)},
 $4$error$errorMessage$status$stores(d,e,f,g){return this.gi().$4$error$errorMessage$status$stores(d,e,f,g)},
 $2$params$userId(d,e){return this.gi().$2$params$userId(d,e)},
 $1$summary(d){return this.gi().$1$summary(d)},
@@ -1777,41 +1779,41 @@ $2$accept$capture(d,e){return this.gi().$2$accept$capture(d,e)},
 $1$fragment(d){return this.gi().$1$fragment(d)},
 $2$test(d,e){return this.gi().$2$test(d,e)},
 $2$filterToEdit(d,e){return this.gi().$2$filterToEdit(d,e)}}
-A.eB0.prototype={
+A.eB7.prototype={
 gpJ(){var w=this.f
-return w===$?this.f=new A.eAZ():w},
+return w===$?this.f=new A.eB5():w},
 guZ(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.eB2(w,w)}return v},
+v=this.r=new A.eB9(w,w)}return v},
 gFM(){var w=this.w
-return w===$?this.w=new A.eB6():w},
+return w===$?this.w=new A.eBd():w},
 gMa(){return"Voulez-vous d\xe9sactiver la distribution des commandes ?"}}
-A.eB8.prototype={
+A.eBf.prototype={
 gzg(){return"Cr\xe9er un filtre avanc\xe9"},
 gMe(){return"Modifier le filtre"},
-gaWr(){return"Nom du filtre"},
-gaWq(){return"ex: Commandes non pay\xe9es d'Alger"},
-gaZR(){return"Condition principale:"},
-ga6H(){return"ET"},
-gaaG(){return"OU"},
-gaN6(){return"Ajouter une condition"},
-gaNd(){return"Ajouter un groupe"},
-gaqD(){return"Supprimer la condition"},
-gaTy(){return"Supprimer le groupe"},
-gazf(){return"S\xe9lectionner le champ"},
-gazl(){return"S\xe9lectionner l'op\xe9ration"},
-gU6(){return"Valeur"},
-gb6R(){return"Valeurs (s\xe9par\xe9es par des virgules)"},
-gb6Q(){return"ex: valeur1, valeur2, valeur3"},
-garC(){return"Veuillez entrer une valeur"},
-ga0V(){return"Enregistrer"},
-gb6j(){return"Mettre \xe0 jour"},
-gaWs(){return"Le nom du filtre est requis"},
-gXD(){return"Au moins une condition est requise"},
-gb1y(){var w=this.d
-return w===$?this.d=new A.eBa():w}}
-A.eBc.prototype={
-gzA(){return"Chargement..."},
+gaWu(){return"Nom du filtre"},
+gaWt(){return"ex: Commandes non pay\xe9es d'Alger"},
+gaZV(){return"Condition principale:"},
+ga6I(){return"ET"},
+gaaH(){return"OU"},
+gaN9(){return"Ajouter une condition"},
+gaNg(){return"Ajouter un groupe"},
+gaqF(){return"Supprimer la condition"},
+gaTB(){return"Supprimer le groupe"},
+gazi(){return"S\xe9lectionner le champ"},
+gazo(){return"S\xe9lectionner l'op\xe9ration"},
+gU8(){return"Valeur"},
+gb6V(){return"Valeurs (s\xe9par\xe9es par des virgules)"},
+gb6U(){return"ex: valeur1, valeur2, valeur3"},
+garE(){return"Veuillez entrer une valeur"},
+ga0W(){return"Enregistrer"},
+gb6n(){return"Mettre \xe0 jour"},
+gaWv(){return"Le nom du filtre est requis"},
+gXF(){return"Au moins une condition est requise"},
+gb1C(){var w=this.d
+return w===$?this.d=new A.eBh():w}}
+A.eBj.prototype={
+gzB(){return"Chargement..."},
 gvl(){return"Source"},
 go9(){return"Aper\xe7u"},
 gkH(){return"Modifier"},
@@ -1827,501 +1829,501 @@ gFa(){return"Erreur de donn\xe9es"},
 gj0(){return"Suivant"},
 gld(){return"Retour"},
 goh(){return"Actif"},
-gb7n(){return"Avertissement"},
-gaeh(){return"Une erreur s'est produite, veuillez r\xe9essayer."}}
-A.eBi.prototype={
+gb7r(){return"Avertissement"},
+gaei(){return"Une erreur s'est produite, veuillez r\xe9essayer."}}
+A.eBp.prototype={
 gci(){var w=this.f
-return w===$?this.f=new A.eBe():w},
+return w===$?this.f=new A.eBl():w},
 gc9(){var w=this.r
-return w===$?this.r=new A.eBk():w},
+return w===$?this.r=new A.eBr():w},
 gwL(){var w=this.w
-return w===$?this.w=new A.eBh():w}}
-A.eBu.prototype={
+return w===$?this.w=new A.eBo():w}}
+A.eBB.prototype={
 gN(){return"G\xe9n\xe9rateur d'images de page d'accueil"},
-gaZ8(){return"Page Landing"},
-gIm(){var w=this.at
-return w===$?this.at=new A.eBq():w},
+gaZc(){return"Page Landing"},
+gIn(){var w=this.at
+return w===$?this.at=new A.eBx():w},
 gaP(){var w=this.ay
-return w===$?this.ay=new A.eBA():w},
+return w===$?this.ay=new A.eBH():w},
 gfU(){var w=this.ch
-return w===$?this.ch=new A.eBm():w},
-gSg(){var w=this.CW
-return w===$?this.CW=new A.eBw():w},
+return w===$?this.ch=new A.eBt():w},
+gSh(){var w=this.CW
+return w===$?this.CW=new A.eBD():w},
 ghD(){var w=this.cx
-return w===$?this.cx=new A.eBo():w},
+return w===$?this.cx=new A.eBv():w},
 go9(){var w=this.cy
-return w===$?this.cy=new A.eBy():w},
+return w===$?this.cy=new A.eBF():w},
 gcn(){var w=this.db
-return w===$?this.db=new A.eBt():w},
+return w===$?this.db=new A.eBA():w},
 ger(){var w=this.dx
-return w===$?this.dx=new A.eBC():w},
-gzN(){var w=this.fr
-return w===$?this.fr=new A.eBE():w}}
-A.eBM.prototype={
-gaa3(){return"Generer avec l'IA"},
-gaB8(){return"Image principale"},
-aB7(d){return"Image galerie "+d},
-gaw5(){return"Variables du modele"},
+return w===$?this.dx=new A.eBJ():w},
+gzO(){var w=this.fr
+return w===$?this.fr=new A.eBL():w}}
+A.eBT.prototype={
+gaa4(){return"Generer avec l'IA"},
+gaBb(){return"Image principale"},
+aBa(d){return"Image galerie "+d},
+gaw7(){return"Variables du modele"},
 gfU(){var w=this.y
-return w===$?this.y=new A.eBG():w},
-gzM(){var w=this.z
-return w===$?this.z=new A.eBS():w},
+return w===$?this.y=new A.eBN():w},
+gzN(){var w=this.z
+return w===$?this.z=new A.eBZ():w},
 gpO(){var w=this.Q
-return w===$?this.Q=new A.eBI():w},
-gavR(){var w=this.as
-return w===$?this.as=new A.eBO():w},
+return w===$?this.Q=new A.eBP():w},
+gavT(){var w=this.as
+return w===$?this.as=new A.eBV():w},
 ger(){var w=this.ax
-return w===$?this.ax=new A.eBQ():w},
+return w===$?this.ax=new A.eBX():w},
 gcn(){var w=this.ay
-return w===$?this.ay=new A.eBL():w}}
-A.eBU.prototype={
+return w===$?this.ay=new A.eBS():w}}
+A.eC0.prototype={
 gdU(){var w,v=this.f
 if(v===$){w=this.e
-v=this.f=new A.eC9(w,w)}return v},
+v=this.f=new A.eCg(w,w)}return v},
 gcH(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.eCx(w,w)}return v}}
-A.eCz.prototype={
+v=this.r=new A.eCE(w,w)}return v}}
+A.eCG.prototype={
 gN(){return"Classement"},
 gt1(){return"Actualiser"},
 grX(){return"Pas encore de donn\xe9es"},
-gb0c(){return"Commencez \xe0 confirmer des commandes pour appara\xeetre ici!"},
-gaWU(){return"Classement complet"},
-ga_s(){var w=this.r
-return w===$?this.r=new A.eCB():w},
-gUK(){var w=this.w
-return w===$?this.w=new A.eCD():w},
-gaVB(){return"Erreur : {error}"}}
-A.eCX.prototype={
+gb0g(){return"Commencez \xe0 confirmer des commandes pour appara\xeetre ici!"},
+gaWX(){return"Classement complet"},
+ga_u(){var w=this.r
+return w===$?this.r=new A.eCI():w},
+gUM(){var w=this.w
+return w===$?this.w=new A.eCK():w},
+gaVE(){return"Erreur : {error}"}}
+A.eD3.prototype={
 gi0(){var w=this.ch
-return w===$?this.ch=new A.eDg():w},
+return w===$?this.ch=new A.eDn():w},
 ger(){var w=this.CW
-return w===$?this.CW=new A.eDe():w},
-gQK(){var w=this.cx
-return w===$?this.cx=new A.eCL():w},
+return w===$?this.CW=new A.eDl():w},
+gQL(){var w=this.cx
+return w===$?this.cx=new A.eCS():w},
 gN8(){return"Ouvrir la page produit"},
 gxI(){var w,v=this.cy
 if(v===$){w=this.ay
-v=this.cy=new A.eCN(w,w)}return v},
+v=this.cy=new A.eCU(w,w)}return v},
 glc(){var w=this.db
-return w===$?this.db=new A.eCJ():w},
+return w===$?this.db=new A.eCQ():w},
 gad(){var w,v=this.dx
 if(v===$){w=this.ay
-v=this.dx=new A.eCZ(w,w)}return v},
-gJa(){var w=this.dy
-return w===$?this.dy=new A.eDa():w},
+v=this.dx=new A.eD5(w,w)}return v},
+gJb(){var w=this.dy
+return w===$?this.dy=new A.eDh():w},
 giX(){var w,v=this.fr
 if(v===$){w=this.ay
-v=this.fr=new A.eCH(w,w)}return v},
+v=this.fr=new A.eCO(w,w)}return v},
 gfH(){var w=this.fy
-return w===$?this.fy=new A.eDi():w},
+return w===$?this.fy=new A.eDp():w},
 gbg(){var w=this.go
-return w===$?this.go=new A.eDc():w},
+return w===$?this.go=new A.eDj():w},
 gij(){var w=this.id
-return w===$?this.id=new A.eD6():w},
+return w===$?this.id=new A.eDd():w},
 gFO(){var w=this.k1
-return w===$?this.k1=new A.eD8():w},
+return w===$?this.k1=new A.eDf():w},
 gcn(){var w=this.k2
-return w===$?this.k2=new A.eCW():w},
-gb3n(){return"\xc9diteur de mod\xe8le de produit"}}
-A.eDm.prototype={
+return w===$?this.k2=new A.eD2():w},
+gb3r(){return"\xc9diteur de mod\xe8le de produit"}}
+A.eDt.prototype={
 gel(){var w=this.e
-return w===$?this.e=new A.eDl():w},
+return w===$?this.e=new A.eDs():w},
 grX(){var w=this.f
-return w===$?this.f=new A.eDo():w}}
-A.eE_.prototype={
-gb1J(){return"Nom commande"},
-aQQ(d){return'Cette commande est en cours de r\xe9vision par "'+d+'". Voulez-vous continuer ?'},
-gazM(){return"Envoyer SMS"},
-gadw(){return"Envoyer SMS"},
-gaVt(){return"\xc9crire le texte du message"},
-gb_u(){return"Texte trop long"},
+return w===$?this.f=new A.eDv():w}}
+A.eE6.prototype={
+gb1N(){return"Nom commande"},
+aQT(d){return'Cette commande est en cours de r\xe9vision par "'+d+'". Voulez-vous continuer ?'},
+gazP(){return"Envoyer SMS"},
+gadx(){return"Envoyer SMS"},
+gaVw(){return"\xc9crire le texte du message"},
+gb_y(){return"Texte trop long"},
 gqf(){return"Envoyer"},
-gaPn(){return"Appeler client"},
-gaRq(){return"Copier num\xe9ro"},
-gb2u(){return"Num\xe9ro copi\xe9 avec succ\xe8s"},
-gazH(){return"Envoyer event Meta Pixel"},
-gazQ(){return"Envoyer event TikTok Pixel"},
-gadE(){return"Envoyer vers Yalidine"},
-gadz(){return"Envoyer vers Ecotrack"},
-gadD(){return"Envoyer vers Procolis"},
-gadB(){return"Envoyer vers Noest"},
-gadC(){return"Envoyer vers OrderDZ"},
-gb37(){return"Imprimer \xe9tiquette (Yalidine)"},
-gaPH(){return"Annuler lien (Yalidine)"},
-gaPI(){return"Annuler lien avec Yalidine"},
-gb34(){return"Imprimer \xe9tiquette (Ecotrack)"},
-gb1s(){return"Ouvrir (Ecotrack)"},
+gaPq(){return"Appeler client"},
+gaRt(){return"Copier num\xe9ro"},
+gb2y(){return"Num\xe9ro copi\xe9 avec succ\xe8s"},
+gazK(){return"Envoyer event Meta Pixel"},
+gazT(){return"Envoyer event TikTok Pixel"},
+gadF(){return"Envoyer vers Yalidine"},
+gadA(){return"Envoyer vers Ecotrack"},
+gadE(){return"Envoyer vers Procolis"},
+gadC(){return"Envoyer vers Noest"},
+gadD(){return"Envoyer vers OrderDZ"},
+gb3b(){return"Imprimer \xe9tiquette (Yalidine)"},
+gaPK(){return"Annuler lien (Yalidine)"},
+gaPL(){return"Annuler lien avec Yalidine"},
+gb38(){return"Imprimer \xe9tiquette (Ecotrack)"},
+gb1w(){return"Ouvrir (Ecotrack)"},
 ge5(){return"Fermer"},
-gaoK(){return"Annuler lien (Ecotrack)"},
-gaoL(){return"Annuler lien avec Ecotrack"},
-gaPF(){return"Annuler lien (Procolis)"},
-gaPG(){return"Annuler lien avec Procolis"},
-gb36(){return"Imprimer \xe9tiquette (Noest)"},
-gb1u(){return"Ouvrir (Noest)"},
-gaPC(){return"Annuler lien (Noest)"},
-gaPD(){return"Annuler lien avec Noest"},
-gaoR(){return"Annuler lien (ZR Express)"},
-gaoS(){return"Annuler lien avec ZR Express"},
+gaoM(){return"Annuler lien (Ecotrack)"},
+gaoN(){return"Annuler lien avec Ecotrack"},
+gaPI(){return"Annuler lien (Procolis)"},
+gaPJ(){return"Annuler lien avec Procolis"},
+gb3a(){return"Imprimer \xe9tiquette (Noest)"},
+gb1y(){return"Ouvrir (Noest)"},
+gaPF(){return"Annuler lien (Noest)"},
+gaPG(){return"Annuler lien avec Noest"},
+gaoT(){return"Annuler lien (ZR Express)"},
+gaoU(){return"Annuler lien avec ZR Express"},
 gkH(){return"Modifier"},
 gd3(){return"Supprimer"},
-gaTA(){return"Supprimer commande"},
-gaRp(){return"Copier num\xe9ro commande"},
+gaTD(){return"Supprimer commande"},
+gaRs(){return"Copier num\xe9ro commande"},
 guz(d){return"Effacer"},
 gCm(){return"Appliquer"},
 gbU(){return"Annuler"},
 gCF(){var w=this.ch
-return w===$?this.ch=new A.eDu():w},
+return w===$?this.ch=new A.eDB():w},
 gkh(){var w=this.CW
-return w===$?this.CW=new A.eDq():w},
+return w===$?this.CW=new A.eDx():w},
 gm_(){var w,v=this.cx
 if(v===$){w=this.ay
-v=this.cx=new A.eE9(w,w)}return v},
+v=this.cx=new A.eEg(w,w)}return v},
 ghm(){var w=this.cy
-return w===$?this.cy=new A.eDw():w},
+return w===$?this.cy=new A.eDD():w},
 gq5(){var w=this.db
-return w===$?this.db=new A.eEf():w},
+return w===$?this.db=new A.eEm():w},
 ghn(){var w,v=this.dx
 if(v===$){w=this.ay
-v=this.dx=new A.eDZ(w,w)}return v},
+v=this.dx=new A.eE5(w,w)}return v},
 gm2(){var w,v=this.dy
 if(v===$){w=this.ay
-v=this.dy=new A.eEj(w,w)}return v},
+v=this.dy=new A.eEq(w,w)}return v},
 gCE(){var w=this.fr
-return w===$?this.fr=new A.eDs():w},
+return w===$?this.fr=new A.eDz():w},
 gy6(){var w,v=this.fx
 if(v===$){w=this.ay
-v=this.fx=new A.eE5(w,w)}return v},
+v=this.fx=new A.eEc(w,w)}return v},
 guT(){var w=this.fy
-return w===$?this.fy=new A.eE1():w},
-gb4Y(){var w=this.go
-return w===$?this.go=new A.eEh():w},
+return w===$?this.fy=new A.eE8():w},
+gb51(){var w=this.go
+return w===$?this.go=new A.eEo():w},
 gj7(){var w,v=this.id
 if(v===$){w=this.ay
-v=this.id=new A.eDP(w,w)}return v},
+v=this.id=new A.eDW(w,w)}return v},
 gDv(){var w=this.k1
-return w===$?this.k1=new A.eE7():w},
-ga9V(){return"Chargement de l'\xe9tiquette..."},
-gb39(){return"Imprimer les \xe9tiquettes ZR Express"},
-gb7S(){return"Le service ZR Express n'est pas activ\xe9"},
-ga__(){return"Aucun num\xe9ro de suivi pour l'impression"},
-gaPT(){return"Modifier"},
+return w===$?this.k1=new A.eEe():w},
+ga9W(){return"Chargement de l'\xe9tiquette..."},
+gb3d(){return"Imprimer les \xe9tiquettes ZR Express"},
+gb7W(){return"Le service ZR Express n'est pas activ\xe9"},
+ga_1(){return"Aucun num\xe9ro de suivi pour l'impression"},
+gaPW(){return"Modifier"},
 gdU(){return"Meta Pixel"},
 gcH(){return"TikTok Pixel"},
-gadv(){return"Envoyer les \xe9v\xe9nements d'achat"},
-gazG(){return"Envoyer les \xe9v\xe9nements de lead"},
-gadH(){return"Envoyer les \xe9v\xe9nements de visualisation"},
-gb38(){return"Imprimer \xe9tiquette (ZR Express)"},
-gb35(){return"Imprimer \xe9tiquette (Maystro)"},
-gazC(){return"Envoyer les \xe9v\xe9nements d'inscription compl\xe8te"},
-gadg(){return"Envoyer les \xe9v\xe9nements d'ajout au panier"},
-gadt(){return"Envoyer les \xe9v\xe9nements d'initiation du paiement"},
-gazK(){return"Envoyer les \xe9v\xe9nements de passation de commande"},
-gazA(){return"Envoyer les \xe9v\xe9nements d'ajout \xe0 la liste de souhaits"},
-gazL(){return"Envoyer les \xe9v\xe9nements de recherche"},
-gazz(){return"Envoyer les \xe9v\xe9nements d'ajout des informations de paiement"},
+gadw(){return"Envoyer les \xe9v\xe9nements d'achat"},
+gazJ(){return"Envoyer les \xe9v\xe9nements de lead"},
+gadI(){return"Envoyer les \xe9v\xe9nements de visualisation"},
+gb3c(){return"Imprimer \xe9tiquette (ZR Express)"},
+gb39(){return"Imprimer \xe9tiquette (Maystro)"},
+gazF(){return"Envoyer les \xe9v\xe9nements d'inscription compl\xe8te"},
+gadh(){return"Envoyer les \xe9v\xe9nements d'ajout au panier"},
+gadu(){return"Envoyer les \xe9v\xe9nements d'initiation du paiement"},
+gazN(){return"Envoyer les \xe9v\xe9nements de passation de commande"},
+gazD(){return"Envoyer les \xe9v\xe9nements d'ajout \xe0 la liste de souhaits"},
+gazO(){return"Envoyer les \xe9v\xe9nements de recherche"},
+gazC(){return"Envoyer les \xe9v\xe9nements d'ajout des informations de paiement"},
 gaC(){var w,v=this.k2
 if(v===$){w=this.ay
-v=this.k2=new A.eDE(w,w)}return v}}
-A.eEB.prototype={
+v=this.k2=new A.eDL(w,w)}return v}}
+A.eEI.prototype={
 gN(){return"Programme Partenaire"},
-gb7z(){return"WhatsApp"},
-RC(d){return"Une erreur s'est produite : "+B.h(d)},
+gb7D(){return"WhatsApp"},
+RD(d){return"Une erreur s'est produite : "+B.h(d)},
 gfU(){var w,v=this.r
 if(v===$){w=this.f
-v=this.r=new A.eEt(w,w)}return v},
-gaBV(){var w=this.w
-return w===$?this.w=new A.eEH():w},
-gavt(){var w=this.x
-return w===$?this.x=new A.eEF():w},
-ga9G(){var w=this.y
-return w===$?this.y=new A.eED():w}}
-A.eEL.prototype={
+v=this.r=new A.eEA(w,w)}return v},
+gaBY(){var w=this.w
+return w===$?this.w=new A.eEO():w},
+gavv(){var w=this.x
+return w===$?this.x=new A.eEM():w},
+ga9H(){var w=this.y
+return w===$?this.y=new A.eEK():w}}
+A.eES.prototype={
 gi0(){var w=this.Q
-return w===$?this.Q=new A.eEP():w},
+return w===$?this.Q=new A.eEW():w},
 gmV(){var w=this.as
-return w===$?this.as=new A.eEJ():w},
+return w===$?this.as=new A.eEQ():w},
 gnX(){var w=this.ay
-return w===$?this.ay=new A.eEN():w}}
-A.eER.prototype={
-gGO(){var w=this.d
-return w===$?this.d=new A.eET():w}}
-A.eEX.prototype={
-gb_V(){return"Pr\xe9c\xe9dent"},
-gaBy(){var w=this.z
-return w===$?this.z=new A.eEZ():w},
+return w===$?this.ay=new A.eEU():w}}
+A.eEY.prototype={
+gGP(){var w=this.d
+return w===$?this.d=new A.eF_():w}}
+A.eF3.prototype={
+gb_Z(){return"Pr\xe9c\xe9dent"},
+gaBB(){var w=this.z
+return w===$?this.z=new A.eF5():w},
 gyu(){var w=this.Q
-return w===$?this.Q=new A.eF0():w},
-gaBz(){var w=this.as
-return w===$?this.as=new A.eF4():w},
-gA3(){var w=this.at
-return w===$?this.at=new A.eF6():w},
+return w===$?this.Q=new A.eF7():w},
+gaBC(){var w=this.as
+return w===$?this.as=new A.eFb():w},
+gA4(){var w=this.at
+return w===$?this.at=new A.eFd():w},
 gcn(){var w=this.ax
-return w===$?this.ax=new A.eEW():w},
+return w===$?this.ax=new A.eF2():w},
 gOA(){var w=this.ay
-return w===$?this.ay=new A.eF2():w},
+return w===$?this.ay=new A.eF9():w},
 gOB(){var w=this.ch
-return w===$?this.ch=new A.eF8():w},
+return w===$?this.ch=new A.eFf():w},
 gEi(){var w=this.CW
-return w===$?this.CW=new A.eFa():w}}
-A.eFy.prototype={
-gzC(){var w=this.CW
-return w===$?this.CW=new A.eFE():w},
+return w===$?this.CW=new A.eFh():w}}
+A.eFF.prototype={
+gzD(){var w=this.CW
+return w===$?this.CW=new A.eFL():w},
 ghn(){var w=this.cx
-return w===$?this.cx=new A.eFx():w},
+return w===$?this.cx=new A.eFE():w},
 gmj(){var w,v=this.cy
 if(v===$){w=this.ch
-v=this.cy=new A.eFr(w,w)}return v},
-ga7T(){var w=this.db
-return w===$?this.db=new A.eFk():w},
+v=this.cy=new A.eFy(w,w)}return v},
+ga7U(){var w=this.db
+return w===$?this.db=new A.eFr():w},
 gcn(){var w=this.dx
-return w===$?this.dx=new A.eFp():w},
-gRw(){var w=this.dy
-return w===$?this.dy=new A.eFm():w},
+return w===$?this.dx=new A.eFw():w},
+gRx(){var w=this.dy
+return w===$?this.dy=new A.eFt():w},
 gvH(){var w=this.fx
-return w===$?this.fx=new A.eFg():w},
+return w===$?this.fx=new A.eFn():w},
 gfU(){var w=this.fy
-return w===$?this.fy=new A.eFc():w},
+return w===$?this.fy=new A.eFj():w},
 gFb(){var w=this.go
-return w===$?this.go=new A.eFi():w},
+return w===$?this.go=new A.eFp():w},
 gkh(){var w=this.id
-return w===$?this.id=new A.eFe():w},
+return w===$?this.id=new A.eFl():w},
 goc(){var w=this.k1
-return w===$?this.k1=new A.eFG():w},
+return w===$?this.k1=new A.eFN():w},
 gV(){var w=this.k2
-return w===$?this.k2=new A.eFA():w},
-gb06(){return"Aucune cat\xe9gorie disponible"},
-gaBw(){return"Statut mis \xe0 jour vers {status}"},
+return w===$?this.k2=new A.eFH():w},
+gb0a(){return"Aucune cat\xe9gorie disponible"},
+gaBz(){return"Statut mis \xe0 jour vers {status}"},
 gFF(){var w=this.k4
-return w===$?this.k4=new A.eFC():w}}
-A.eG1.prototype={
+return w===$?this.k4=new A.eFJ():w}}
+A.eG8.prototype={
 gN(){return"Param\xe8tres de la boutique"},
 gj8(){var w,v=this.go
 if(v===$){w=this.fy
-v=this.go=new A.eG5(w,w)}return v},
+v=this.go=new A.eGc(w,w)}return v},
 gV(){var w=this.id
-return w===$?this.id=new A.eG3():w},
+return w===$?this.id=new A.eGa():w},
 guF(){var w=this.k1
-return w===$?this.k1=new A.eG_():w},
+return w===$?this.k1=new A.eG6():w},
 gOI(){var w=this.k2
-return w===$?this.k2=new A.eGL():w},
+return w===$?this.k2=new A.eGS():w},
 gaM(){var w=this.k3
-return w===$?this.k3=new A.eGz():w},
+return w===$?this.k3=new A.eGG():w},
 gxE(){var w=this.k4
-return w===$?this.k4=new A.eFM():w},
-gHZ(){var w=this.ok
-return w===$?this.ok=new A.eFI():w},
+return w===$?this.k4=new A.eFT():w},
+gI_(){var w=this.ok
+return w===$?this.ok=new A.eFP():w},
 glq(){var w=this.p1
-return w===$?this.p1=new A.eFO():w},
+return w===$?this.p1=new A.eFV():w},
 gCD(){var w=this.p2
-return w===$?this.p2=new A.eFU():w},
+return w===$?this.p2=new A.eG0():w},
 gpN(){var w=this.p3
-return w===$?this.p3=new A.eFW():w},
+return w===$?this.p3=new A.eG2():w},
 gmR(){var w=this.p4
-return w===$?this.p4=new A.eFK():w},
-gh8(){var w=this.R8
-return w===$?this.R8=new A.eGH():w},
+return w===$?this.p4=new A.eFR():w},
+gh9(){var w=this.R8
+return w===$?this.R8=new A.eGO():w},
 gj3(){var w=this.RG
-return w===$?this.RG=new A.eGJ():w},
+return w===$?this.RG=new A.eGQ():w},
 gme(){var w=this.rx
-return w===$?this.rx=new A.eFS():w},
+return w===$?this.rx=new A.eFZ():w},
 gmy(){var w=this.ry
-return w===$?this.ry=new A.eFQ():w},
+return w===$?this.ry=new A.eFX():w},
 gfv(){var w,v=this.to
 if(v===$){w=this.fy
-v=this.to=new A.eGd(w,w)}return v},
+v=this.to=new A.eGk(w,w)}return v},
 grd(){var w=this.x1
-return w===$?this.x1=new A.eGh():w},
+return w===$?this.x1=new A.eGo():w},
 gr5(){var w=this.x2
-return w===$?this.x2=new A.eFY():w},
+return w===$?this.x2=new A.eG4():w},
 gqe(){var w=this.xr
-return w===$?this.xr=new A.eGF():w},
+return w===$?this.xr=new A.eGM():w},
 gbg(){var w=this.y1
-return w===$?this.y1=new A.eGD():w},
+return w===$?this.y1=new A.eGK():w},
 gwe(){var w=this.y2
-return w===$?this.y2=new A.eGB():w},
-gabv(){var w=this.bG
-return w===$?this.bG=new A.eGN():w},
+return w===$?this.y2=new A.eGI():w},
+gabw(){var w=this.bG
+return w===$?this.bG=new A.eGU():w},
 gjC(){var w=this.bw
-return w===$?this.bw=new A.eGb():w},
+return w===$?this.bw=new A.eGi():w},
 gmC(){var w,v=this.D
 if(v===$){w=this.fy
-v=this.D=new A.eGl(w,w)}return v}}
-A.eGP.prototype={
-gaNp(){return"Ajouter un nouveau prix d'exp\xe9dition"},
+v=this.D=new A.eGs(w,w)}return v}}
+A.eGW.prototype={
+gaNs(){return"Ajouter un nouveau prix d'exp\xe9dition"},
 gt1(){return"Actualiser"},
-aBx(d){return"Statut: "+d+" \u2022 D\xe9fini par d\xe9faut"},
-aBr(d){return"Statut: "+d},
-gGx(){return"S\xe9lectionn\xe9"},
+aBA(d){return"Statut: "+d+" \u2022 D\xe9fini par d\xe9faut"},
+aBu(d){return"Statut: "+d},
+gGy(){return"S\xe9lectionn\xe9"},
 gOh(){return"S\xe9lectionner"},
 gkH(){return"Modifier"},
 gd3(){return"Supprimer"},
-gaZp(){return"M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"},
-gatM(){return"M\xe9thodes d'exp\xe9dition traditionnelles"},
+gaZt(){return"M\xe9thodes d'exp\xe9dition (Ancien syst\xe8me)"},
+gatO(){return"M\xe9thodes d'exp\xe9dition traditionnelles"},
 gCO(){return"Aucun prix d'exp\xe9dition ajout\xe9 pour le moment"},
-gaVa(){return'Appuyez sur "Ajouter" pour ajouter un nouveau prix d\'exp\xe9dition'},
-gaVz(){return"Erreur lors du chargement des prix d'exp\xe9dition"},
+gaVd(){return'Appuyez sur "Ajouter" pour ajouter un nouveau prix d\'exp\xe9dition'},
+gaVC(){return"Erreur lors du chargement des prix d'exp\xe9dition"},
 gjl(){return"R\xe9essayer"},
-gaZo(){return"Aucune m\xe9thode d'exp\xe9dition ajout\xe9e pour le moment"},
-gaZn(){return"Utilisez le bouton \"Ajouter\" dans la barre d'application pour ajouter une m\xe9thode d'exp\xe9dition"},
-azr(d){return'D\xe9fini "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
-aU4(d){return'D\xe9s\xe9lectionn\xe9 "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
-b6p(d){return"Erreur lors de la mise \xe0 jour: "+d},
+gaZs(){return"Aucune m\xe9thode d'exp\xe9dition ajout\xe9e pour le moment"},
+gaZr(){return"Utilisez le bouton \"Ajouter\" dans la barre d'application pour ajouter une m\xe9thode d'exp\xe9dition"},
+azu(d){return'D\xe9fini "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
+aU7(d){return'D\xe9s\xe9lectionn\xe9 "'+d+"\" comme prix d'exp\xe9dition par d\xe9faut"},
+b6t(d){return"Erreur lors de la mise \xe0 jour: "+d},
 gM5(){return"Livraison"},
-gaTG(){return"Supprimer le prix d'exp\xe9dition"},
-gaTE(){return"Voulez-vous supprimer ce prix ?"},
-gaTF(){return"Prix d'exp\xe9dition supprim\xe9"},
+gaTJ(){return"Supprimer le prix d'exp\xe9dition"},
+gaTH(){return"Voulez-vous supprimer ce prix ?"},
+gaTI(){return"Prix d'exp\xe9dition supprim\xe9"},
 gaP(){var w=this.d
-return w===$?this.d=new A.eGR():w},
-gaWA(){return"Domicile"},
-gaWB(){return"Bureau"},
-gb2Z(){return"Prix mis \xe0 jour"},
-gb2Y(){return"Erreur lors de la mise \xe0 jour des prix"},
-gaNA(){return"Ajouter des \xe9tats"}}
-A.eGT.prototype={
+return w===$?this.d=new A.eGY():w},
+gaWD(){return"Domicile"},
+gaWE(){return"Bureau"},
+gb32(){return"Prix mis \xe0 jour"},
+gb31(){return"Erreur lors de la mise \xe0 jour des prix"},
+gaND(){return"Ajouter des \xe9tats"}}
+A.eH_.prototype={
 ghs(){return B.b(["Adrar","Chlef","Laghouat","Oum el bouaghi","Batna","Bejaia","Biskra","Bechar","Blida","Bouira","Tamanrasset","Tebessa","Tlemcen","Tiaret","Tizi ouzou","Alger","Djelfa","Jijel","Setif","Saida","Skikda","Sidi bel abbes","Annaba","Guelma","Constantine","Medea","Mostaganem","Msila","Mascara","Ouargla","Oran","El bayadh","Illizi","Bordj bou arreridj","Boumerdes","El tarf","Tindouf","Tissemsilt","El oued","Khenchela","Souk ahras","Tipaza","Mila","Ain defla","Naama","Ain temouchent","Ghardaia","Relizane","Timimoun","Bordj badji mokhtar","Ouled djellal","Beni abbes","In salah","In guezzam","Touggourt","Djanet","El meghaier","El menia"],x.h)},
-gap4(){var w="Sidi Abderrahmane",v="Ouled Sidi Brahim",u=x.h
+gap6(){var w="Sidi Abderrahmane",v="Ouled Sidi Brahim",u=x.h
 return B.b([B.b(["Adrar","Akabli","Aoulef","Bouda","Fenoughil","In Zghmir","Ouled Ahmed Timmi","Reggane","Sali","Sebaa","Tamantit","Tamest","Timekten","Tit","Tsabit","Zaouiet Kounta"],u),B.b(["Abou El Hassan","Ain Merane","Benairia","Beni Bouattab","Beni Haoua","Beni Rached","Boukadir","Bouzeghaia","Breira","Chettia","Chlef","Dahra","El Hadjadj","El Karimia","El Marsa","Harchoun","Herenfa","Labiod Medjadja","Moussadek","Oued Fodda","Oued Goussine","Oued Sly","Ouled Abbes","Ouled Ben Abdelkader","Ouled Fares","Oum Drou","Sendjas",w,"Sidi Akkacha","Sobha","Tadjena","Talassa","Taougrite","Tenes","Zeboudja"],u),B.b(["Aflou","Ain Mahdi","Ain Sidi Ali","Beidha","Benacer Benchohra","Brida","El Assafia","El Ghicha","El Haouaita","Gueltat Sidi Saad","Hadj Mechri","Hassi Delaa","Hassi R'mel","Kheneg","Ksar El Hirane","Laghouat","Oued M'zi","Oued Morra","Sebgag","Sidi Bouzid","Sidi Makhlouf","Tadjemout","Tadjrouna","Taouiala"],u),B.b(["Ain Babouche","Ain Beida","Ain Diss","Ain Fekroune","Ain Kercha","Ain M'lila","Ain Zitoun","Behir Chergui","Berriche","Bir Chouhada","Dhala","El Amiria","El Belala","El Djazia","El Fedjoudj Boughrara Sa","El Harmilia","Fkirina","Hanchir Toumghani","Ksar Sbahi","Meskiana","Oued Nini","Ouled Gacem","Ouled Hamla","Ouled Zouai","Oum El Bouaghi","Rahia","Sigus","Souk Naamane","Zorg"],u),B.b(["Ain Djasser","Ain Touta","Ain Yagout","Arris","Azil Abedelkader","Barika","Batna","Beni Foudhala El Hakania","Bitam","Boulhilat","Boumagueur","Boumia","Bouzina","Chemora","Chir","Djerma","Djezzar","El Hassi","El Madher","Fesdis","Foum Toub","Ghassira","Gosbat","Guigba","Hidoussa","Ichmoul","Inoughissen","Kimmel","Ksar Bellezma","Larbaa","Lazrou","Lemsane","M Doukal","Maafa","Menaa","Merouana","N Gaous","Oued Chaaba","Oued El Ma","Oued Taga","Ouled Ammar","Ouled Aouf","Ouled Fadel","Ouled Sellem","Ouled Si Slimane","Ouyoun El Assafir","Rahbat","Ras El Aioun","Sefiane","Seggana","Seriana","T Kout","Talkhamt","Taxlent","Tazoult","Teniet El Abed","Tighanimine","Tigharghar","Tilatou","Timgad","Zanet El Beida"],u),B.b(["Adekar","Ait R'zine","Ait Smail","Akbou","Akfadou","Amalou","Amizour","Aokas","Barbacha","Bejaia","Beni Dejllil","Beni K'sila","Beni Mallikeche","Benimaouche","Boudjellil","Bouhamza","Boukhelifa","Chellata","Chemini","Darghina","Dra El Caid","El Kseur","Fenaia Il Maten","Feraoun","Ighil Ali","Ighram","Kendira","Kherrata","Leflaye","M'cisna","Melbou","Oued Ghir","Ouzellaguene","Seddouk","Sidi Aich","Sidi Ayad","Smaoun","Souk El Tenine","Souk Oufella","Tala Hamza","Tamokra","Tamridjet","Taourit Ighil","Taskriout","Tazmalt","Tibane","Tichy","Tifra","Timezrit","Tinebdar","Tizi N'berber","Toudja"],u),B.b(["Ain Naga","Ain Zaatout","Biskra","Bordj Ben Azzouz","Bouchagroun","Branis","Chetma","Djemorah","El Feidh","El Ghrous","El Hadjab","El Haouch","El Kantara","El Outaya","Foughala","Khenguet Sidi Nadji","Lichana","Lioua","M'chouneche","M'lili","Mekhadma","Meziraa","Oumache","Ourlal","Sidi Okba","Tolga","Zeribet El Oued"],u),B.b(["Abadla","Bechar","Beni Ounif","Boukais","Erg Ferradj","Kenadsa","Lahmar","Mechraa H.boumediene","Meridja","Mogheul","Taghit"],u),B.b(["Ain Romana","Beni Mered","Beni Tamou","Benkhelil","Blida","Bouarfa","Boufarik","Bougara","Bouinan","Chebli","Chiffa","Chrea","Djebabra","El Affroun","Guerrouaou","Hammam Melouane","Larbaa","Meftah","Mouzaia","Oued Djer","Oued El Alleug","Ouled Slama","Ouled Yaich","Souhane","Souma"],u),B.b(["Aghbalou","Ahl El Ksar","Ain Bessem","Ain El Hadjar","Ain Laloui","Ain Turk","Ait Laaziz","Aomar","Bechloul","Bir Ghbalou","Bordj Okhriss","Bouderbala","Bouira","Boukram","Chorfa","Dechmia","Dirah","Djebahia","El Adjiba","El Asnam","El Hachimia","El Hakimia","El Khabouzia","El Mokrani","Guerrouma","Hadjera Zerga","Haizer","Hanif","Kadiria","Lakhdaria","M Chedallah","Maala","Mamora","Mezdour","Oued El Berdi","Ouled Rached","Raouraoua","Ridane","Saharidj","Souk El Khemis","Sour El Ghozlane","Taghzout","Taguedite","Taourirt","Z'barbar"],u),B.b(["Abalessa","Ain Amguel","Idles","Tamanrasset","Tazrouk"],u),B.b(["Ain Zerga","Bedjene","Bekkaria","Bir Dheheb","Bir El Ater","Bir Mokkadem","Boukhadra","Boulhaf Dyr","Cheria","El Aouinet","El Houidjbet","El Kouif","El Malabiod","El Meridj","El Mezeraa","El Ogla","El Ogla El Malha","Ferkane","Guorriguer","Hammamet","Morssot","Negrine","Ouenza","Oum Ali","Saf Saf El Ouesra","Stah Guentis","Tebessa","Telidjen"],u),B.b(["Ain Fettah","Ain Fezza","Ain Ghoraba","Ain Kebira","Ain Nehala","Ain Tallout","Ain Youcef","Amieur","Azails","Bab El Assa","Beni Bahdel","Beni Boussaid","Beni Khaled","Beni Mester","Beni Ouarsous","Beni Smiel","Beni Snous","Bensekrane","Bouhlou","Bouihi","Chetouane","Dar Yaghmouracene","Djebala","El Aricha","El Fehoul","El Gor","Fellaoucene","Ghazaouet","Hammam Boughrara","Hennaya","Honaine","Maghnia","Mansourah","Marsa Ben M'hidi","Msirda Fouaga","Nedroma","Oued Chouly","Ouled Mimoun","Ouled Riyah","Remchi","Sabra","Sebbaa Chioukh","Sebdou","Sidi Abdelli","Sidi Djilali","Sidi Medjahed","Souahlia","Souani","Souk Tleta","Terny Beni Hediel","Tianet","Tlemcen","Zenata"],u),B.b(["Ain Bouchekif","Ain Deheb","Ain El Hadid","Ain Kermes","Ain Zarit","Bougara","Chehaima","Dahmouni","Djebilet Rosfa","Djillali Ben Amar","Faidja","Frenda","Guertoufa","Hamadia","Ksar Chellala","Madna","Mahdia","Mechraa Safa","Medrissa","Medroussa","Meghila","Mellakou","Nadorah","Naima","Oued Lilli","Rahouia","Rechaiga","Sebaine","Sebt","Serghine","Si Abdelghani",w,"Sidi Ali Mellal","Sidi Bakhti","Sidi Hosni","Sougueur","Tagdemt","Takhemaret","Tiaret","Tidda","Tousnina","Zmalet El Emir Abdelkade"],u),B.b(["Abi Youcef","Aghribs","Agouni Gueghrane","Ain El Hammam","Ain Zaouia","Ait Aggouacha","Ait Bouaddou","Ait Boumehdi","Ait Chafaa","Ait Khellili","Ait Mahmoud","Ait Oumalou","Ait Toudert","Ait Yahia","Ait Yahia Moussa","Akbil","Akerrou","Assi Youcef","Azazga","Azeffoun","Beni Aissi","Beni Douala","Beni Yenni","Beni Zikki","Beni Zmenzer","Boghni","Boudjima","Bounouh","Bouzeguene","Djebel Aissa Mimoun","Draa Ben Khedda","Draa El Mizan","Freha","Frikat","Iboudrarene","Idjeur","Iferhounene","Ifigha","Iflissen","Illilten","Illoula Oumalou","Imsouhal","Irdjen","Larba Nath Irathen","Larbaa Nath Irathen","M'kira","Maatkas","Makouda","Mechtras","Mekla","Mizrana","Ouacif","Ouadhias","Ouaguenoune","Sidi Naamane","Souamaa","Souk El Thenine","Tadmait","Tigzirt","Timizart","Tirmitine","Tizi Ghenif","Tizi N'tleta","Tizi Ouzou","Tizi Rached","Yakourene","Yatafene","Zekri"],u),B.b(["Ain Benian","Ain Taya","Alger Centre","Bab El Oued","Bab Ezzouar","Baba Hesen","Bachedjerah","Bains Romains","Baraki","Ben Aknoun","Beni Messous","Bir Mourad Rais","Bir Touta","Birkhadem","Bologhine Ibnou Ziri","Bordj El Bahri","Bordj El Kiffan","Bourouba","Bouzareah","Casbah","Cheraga","Dar El Beida","Dely Ibrahim","Djasr Kasentina","Douira","Draria","El Achour","El Biar","El Harrach","El Madania","El Magharia","El Merssa","El Mouradia","Herraoua","Hussein Dey","Hydra","Kheraisia","Kouba","Les Eucalyptus","Maalma","Mohamed Belouzdad","Mohammadia","Oued Koriche","Oued Smar","Ouled Chebel","Ouled Fayet","Rahmania","Rais Hamidou","Reghaia","Rouiba","Sehaoula","Setaouali","Sidi M'hamed","Sidi Moussa","Souidania","Tessala El Merdja","Zeralda"],u),B.b(["Ain Chouhada","Ain El Ibel","Ain Fekka","Ain Maabed","Ain Oussera","Amourah","Benhar","Benyagoub","Birine","Bouira Lahdab","Charef","Dar Chioukh","Deldoul","Djelfa","Douis","El Guedid","El Idrissia","El Khemis","Faidh El Botma","Guernini","Guettara","Had Sahary","Hassi Bahbah","Hassi El Euch","Hassi Fedoul","M Liliha","Messaad","Moudjebara","Oum Laadham","Sed Rahal","Selmana","Sidi Baizid","Sidi Ladjel","Tadmit","Zaafrane","Zaccar"],u),B.b(["Bordj Tahar","Boudria Beniyadjis","Bouraoui Belhadef","Boussif Ouled Askeur","Chahna","Chekfa","Djemaa Beni Habibi","Djimla","El Ancer","El Aouana","El Kennar Nouchfi","El Milia","Emir Abdelkader","Erraguene","Ghebala","Jijel","Khiri Oued Adjoul","Kouas","Oudjana","Ouled Rabah","Ouled Yahia Khadrouch","Selma Benziada","Settara","Sidi Abdelaziz","Sidi Marouf","Taher","Texena","Ziama Mansouria"],u),B.b(["Ain Abessa","Ain Arnat","Ain Azel","Ain El Kebira","Ain Lahdjar","Ain Legradj","Ain Oulmane","Ain Roua","Ain Sebt","Ait Naoual Mezada","Ait Tizi","Amoucha","Babor","Bazer Sakra","Beidha Bordj","Bellaa","Beni Aziz","Beni Chebana","Beni Fouda","Beni Mouhli","Beni Ouartilane","Beni Oussine","Bir El Arch","Bir Haddada","Bouandas","Bougaa","Bousselam","Boutaleb","Dehamcha","Djemila","Draa Kebila","El Eulma","El Ouldja","El Ouricia","Guellal","Guelta Zerka","Guenzet","Guidjel","Hamam Soukhna","Hamma","Hammam Guergour","Harbil","Ksar El Abtal","Maaouia","Maouaklane","Mezloug","Oued El Barad","Ouled Addouane","Ouled Sabor","Ouled Si Ahmed","Ouled Tebben","Rosfa","Salah Bey","Serdj El Ghoul","Setif","Tachouda","Tala Ifacene","Taya","Tella","Tizi N'bechar"],u),B.b(["Ain El Hadjar","Ain Sekhouna","Ain Soltane","Doui Thabet","El Hassasna","Hounet","Maamora","Moulay Larbi","Ouled Brahim","Ouled Khaled","Saida","Sidi Ahmed","Sidi Amar","Sidi Boubekeur","Tircine","Youb"],u),B.b(["Ain Bouziane","Ain Charchar","Ain Kechera","Ain Zouit","Azzaba","Bekkouche Lakhdar","Ben Azzouz","Beni Bechir","Beni Oulbane","Beni Zid","Bin El Ouiden","Bouchetata","Cheraia","Collo","Djendel Saadi Mohamed","El Arrouch","El Ghedir","El Hadaiek","El Marsa","Emjez Edchich","Es Sebt","Filfila","Hamadi Krouma","Kanoua","Kerkera","Khenag Mayoum","Oued Zhour","Ouldja Boulbalout","Ouled Attia","Ouled Habbeba","Oum Toub","Ramdane Djamel","Salah Bouchaour","Sidi Mezghiche","Skikda","Tamalous","Zerdezas","Zitouna"],u),B.b(["Ain Adden","Ain El Berd","Ain Kada","Ain Thrid","Ain Tindamine","Amarnas","Badredine El Mokrani","Belarbi","Ben Badis","Benachiba Chelia","Bir El Hammam","Boudjebaa El Bordj","Boukhanafis","Chetouane Belaila","Dhaya","El Hacaiba","Hassi Dahou","Hassi Zahana","Lamtar","M'cid","Makedra","Marhoum","Merine","Mezaourou","Mostefa Ben Brahim","Moulay Slissen","Oued Sebaa","Oued Sefioun","Oued Taourira","Ras El Ma","Redjem Demouche","Sehala Thaoura","Sfissef","Sidi Ali Benyoub","Sidi Ali Boussidi","Sidi Bel Abbes","Sidi Brahim","Sidi Chaib","Sidi Dahou Zairs","Sidi Hamadouche","Sidi Khaled","Sidi Lahcene","Sidi Yacoub","Tabia","Tafissour","Taoudmout","Teghalimet","Telagh","Tenira","Tessala","Tilmouni","Zerouala"],u),B.b(["Ain Berda","Annaba","Berrahel","Chetaibi","Cheurfa","El Bouni","El Hadjar","Eulma","Oued El Aneb","Seraidi","Sidi Amar","Treat"],u),B.b(["Ain Ben Beida","Ain Hessania","Ain Larbi","Ain Makhlouf","Ain Reggada","Belkheir","Ben Djarah","Beni Mezline","Bordj Sabat","Bou Hachana","Bou Hamdane","Bouati Mahmoud","Bouchegouf","Bouhamra Ahmed","Dahouara","Djeballah Khemissi","El Fedjoudj","Guelaat Bou Sbaa","Guelma","Hamam Debagh","Hammam N'bail","Heliopolis","Khezara","Medjez Amar","Medjez Sfa","Nechmaya","Oued Cheham","Oued Fragha","Oued Zenati","Ras El Agba","Roknia","Sellaoua Announa","Sidi Sandel","Tamlouka"],u),B.b(["Ain Abid","Ain Smara","Ben Badis","Beni Hamidene","Constantine","Didouche Mourad","El Khroub","Hamma Bouziane","Ibn Ziad","Messaoud Boujeriou","Ouled Rahmouni","Zighoud Youcef"],u),B.b(["Ain Boucif","Ain Ouksir","Aissaouia","Aziz","Baata","Ben Chicao","Beni Slimane","Berrouaghia","Bir Ben Laabed","Boghar","Bouaiche","Bouaichoune","Bouchrahil","Boughzoul","Bouskene","Chabounia","Chelalet El Adhaoura","Cheniguel","Damiat","Derrag","Deux Bassins","Djouab","Draa Essamar","El Azizia","El Guelbelkebir","El Hamdania","El Omaria","El Ouinet","Hannacha","Kef Lakhdar","Khams Djouamaa","Ksar El Boukhari","Maghraoua","Medea","Medjebar","Meftaha","Mezerana","Mihoub","Ouamri","Oued Harbil","Ouled Antar","Ouled Bouachra","Ouled Brahim","Ouled Deid","Ouled Hellal","Ouled Maaref","Oum El Djellil","Ouzera","Rebaia","Saneg","Sedraya","Seghouane","Si Mahdjoub","Sidi Demed","Sidi Naamane","Sidi Rabie","Sidi Zahar","Sidi Ziane","Souagui","Tablat","Tafraout","Tamesguida","Tletat Ed Douair","Zoubiria"],u),B.b(["Achaacha","Ain Boudinar","Ain Nouissy","Ain Sidi Cherif","Ain Tedles","Benabdelmalek Ramdane","Bouguirat","Fornaka","Hadjadj","Hassi Mameche","Hassiane","Khadra","Kheir Eddine","Mansourah","Mazagran","Mesra","Mostaganem","Nekmaria","Oued El Kheir","Ouled Boughalem","Ouled Maalah","Safsaf","Sayada","Sidi Ali","Sidi Belaattar","Sidi Lakhdar","Sirat","Souaflia","Sour","Stidia","Tazgait","Touahria"],u),B.b(["Ain El Hadjel","Ain El Melh","Ain Fares","Ain Khadra","Ain Rich","Belaiba","Ben Srour","Beni Ilmane","Benzouh","Berhoum","Bir Foda","Bou Saada","Bouti Sayeh","Chellal","Dehahna","Djebel Messaad","El Hamel","El Houamed","Hammam Dalaa","Khettouti Sed El Jir","Khoubana","M'cif","M'sila","M'tarfa","Maadid","Maarif","Magra","Medjedel","Menaa","Mohamed Boudiaf","Ouanougha","Ouled Addi Guebala","Ouled Derradj","Ouled Madhi","Ouled Mansour",v,"Ouled Slimane","Oulteme","Sidi Aissa","Sidi Ameur","Sidi Hadjeres","Sidi M'hamed","Slim","Souamaa","Tamsa","Tarmount","Zarzour"],u),B.b(["Ain Fares","Ain Fekan","Ain Ferah","Ain Frass","Alaimia","Aouf","Benian","Bou Henni","Bouhanifia","Chorfa","El Bordj","El Gaada","El Ghomri","El Gueitena","El Hachem","El Keurt","El Mamounia","El Menaouer","Ferraguig","Froha","Gharrous","Ghriss","Guerdjoum","Hacine","Khalouia","Makhda","Maoussa","Mascara","Matemore","Mocta Douz","Mohammadia","Nesmot","Oggaz","Oued El Abtal","Oued Taria","Ras El Ain Amirouche","Sedjerara","Sehailia","Sidi Abdeldjebar","Sidi Abdelmoumene","Sidi Boussaid","Sidi Kada","Sig","Tighennif","Tizi","Zahana","Zelamta"],u),B.b(["Ain Beida","El Borma","Hassi Ben Abdellah","Hassi Messaoud","N'goussa","Ouargla","Rouissat","Sidi Khouiled"],u),B.b(["Ain Biya","Ain Kerma","Ain Turk","Arzew","Ben Freha","Bethioua","Bir El Djir","Boufatis","Bousfer","Boutlelis","El Ancar","El Braya","El Kerma","Es Senia","Gdyel","Hassi Ben Okba","Hassi Bounif","Hassi Mefsoukh","Marsat El Hadjadj","Mers El Kebir","Messerghin","Oran","Oued Tlelat","Sidi Ben Yebka","Sidi Chami","Tafraoui"],u),B.b(["Ain El Orak","Arbaouat","Boualem","Bougtoub","Boussemghoun","Brezina","Cheguig","Chellala","El Bayadh","El Biodh Sidi Cheikh","El Bnoud","El Kheither","El Mehara","Ghassoul","Kef El Ahmar","Krakda","Rogassa","Sidi Ameur","Sidi Slimane","Sidi Tifour","Stitten","Tousmouline"],u),B.b(["Bordj Omar Driss","Debdeb","Illizi","In Amenas"],u),B.b(["Ain Taghrout","Ain Tesra","Belimour","Ben Daoud","Bir Kasdali","Bordj Bou Arreridj","Bordj Ghdir","Bordj Zemora","Colla","Djaafra","El Ach","El Achir","El Anseur","El Hamadia","El M'hir","El Main","Ghilassa","Haraza","Hasnaoua","Khelil","Ksour","Mansoura","Medjana","Ouled Brahem","Ouled Dahmane",v,"Rabta","Ras El Oued","Sidi Embarek","Tafreg","Taglait","Teniet En Nasr","Tesmart","Tixter"],u),B.b(["Afir","Ammal","Baghlia","Ben Choud","Beni Amrane","Bordj Menaiel","Boudouaou","Boudouaou El Bahri","Boumerdes","Bouzegza Keddara","Chabet El Ameur","Corso","Dellys","Djinet","El Kharrouba","Hammedi","Isser","Khemis El Khechna","Larbatache","Leghata","Naciria","Ouled Aissa","Ouled Hedadj","Ouled Moussa","Si Mustapha","Sidi Daoud","Souk El Haad","Taourga","Thenia","Tidjelabine","Timezrit","Zemmouri"],u),B.b(["Ain El Assel","Ain Kerma","Asfour","Ben M Hidi","Berrihane","Besbes","Bougous","Bouhadjar","Bouteldja","Chebaita Mokhtar","Chefia","Chihani","Drean","Echatt","El Aioun","El Kala","El Tarf","Hammam Beni Salah","Lac Des Oiseaux","Oued Zitoun","Raml Souk","Souarekh","Zerizer","Zitouna"],u),B.b(["Oum El Assel","Tindouf"],u),B.b(["Ammari","Beni Chaib","Beni Lahcene","Bordj Bounaama","Bordj El Emir Abdelkader","Bou Caid","Khemisti","Larbaa","Lardjem","Layoune","Lazharia","Maacem","Melaab","Ouled Bessem","Sidi Abed","Sidi Boutouchent","Sidi Lantri","Sidi Slimane","Tamellalet","Theniet El Had","Tissemsilt","Youssoufia"],u),B.b(["Bayadha","Ben Guecha","Debila","Douar El Maa","El Ogla","El Oued","Guemar","Hamraia","Hassani Abdelkrim","Hassi Khalifa","Kouinine","Magrane","Mih Ouansa","Nakhla","Oued El Alenda","Ourmes","Reguiba","Robbah","Sidi Aoun","Taghzout","Taleb Larbi","Trifaoui"],u),B.b(["Ain Touila","Babar","Baghai","Bouhmama","Chelia","Cherchar","Djellal","El Hamma","El Mahmal","El Oueldja","Ensigha","Kais","Khenchela","Khirane","M'sara","M'toussa","Ouled Rechache","Remila","Tamza","Taouzianat","Yabous"],u),B.b(["Ain Soltane","Ain Zana","Bir Bouhouche","Drea","Haddada","Hanencha","Khedara","Khemissa","M'daourouche","Machroha","Merahna","Oued Kebrit","Ouled Driss","Ouled Moumen","Oum El Adhaim","Quillen","Ragouba","Safel El Ouiden","Sedrata","Sidi Fredj","Souk Ahras","Taoura","Terraguelt","Tiffech","Zaarouria","Zouabi"],u),B.b(["Aghbal","Ahmer El Ain","Ain Tagourait","Attatba","Beni Mileuk","Bou Haroun","Bou Ismail","Bourkika","Chaiba","Cherchell","Damous","Douaouda","Fouka","Gouraya","Hadjout","Hadjret Ennous","Khemisti","Kolea","Larhat","Menaceur","Merad","Messelmoun","Nador","Sidi Amar","Sidi Ghiles","Sidi Rached","Sidi Semiane","Tipaza"],u),B.b(["Ahmed Rachedi","Ain Beida Harriche","Ain Mellouk","Ain Tine","Amira Arres","Benyahia Abderrahmane","Bouhatem","Chelghoum Laid","Chigara","Derrahi Bousselah","El Mechira","Elayadi Barbes","Ferdjioua","Grarem Gouga","Hamala","Mila","Minar Zarza","Oued Athmenia","Oued Endja","Oued Seguen","Ouled Khalouf","Rouached","Sidi Khelifa","Sidi Merouane","Tadjenanet","Tassadane Haddada","Teleghma","Terrai Bainem","Tessala","Tiberguent","Yahia Beniguecha","Zeghaia"],u),B.b(["Ain Benian","Ain Bouyahia","Ain Defla","Ain Lechiakh","Ain Soltane","Ain Tork","Arib","Barbouche","Bathia","Belaas","Ben Allal","Bir Ould Khelifa","Bordj Emir Khaled","Boumedfaa","Bourached","Djelida","Djemaa Ouled Cheikh","Djendel","El Abadia","El Amra","El Attaf","El Maine","Hammam Righa","Hassania","Hoceinia","Khemis Miliana","Mekhatria","Miliana","Oued Chorfa","Oued Djemaa","Rouina","Sidi Lakhdar","Tacheta Zegagha","Tarik Ibn Ziad","Tiberkanine","Zeddine"],u),B.b(["Ain Ben Khelil","Ain Safra","Assela","Djeniane Bourzeg","El Biod","Kasdir","Makman Ben Amer","Mecheria","Moghrar","Naama","Sfissifa","Tiout"],u),B.b(["Aghlal","Ain El Arbaa","Ain Kihal","Ain Temouchent","Ain Tolba","Aoubellil","Beni Saf","Bouzedjar","Chaabat El Ham","Chentouf","El Amria","El Malah","El Messaid","Emir Abdelkader","Hammam Bouhadjar","Hassasna","Hassi El Ghella","Oued Berkeche","Oued Sebbah","Ouled Boudjemaa","Ouled Kihal","Oulhaca El Gheraba","Sidi Ben Adda","Sidi Boumediene","Sidi Ouriache","Sidi Safi","Tamzoura","Terga"],u),B.b(["Berriane","Bounoura","Dhayet Bendhahoua","El Atteuf","El Guerrara","Ghardaia","Mansoura","Metlili","Sebseb","Zelfana"],u),B.b(["Ain Rahma","Ain Tarek","Ammi Moussa","Belaassel Bouzagza","Bendaoud","Beni Dergoun","Beni Zentis","Dar Ben Abdelah","Djidiouia","El Guettar","El H'madna","El Hassi","El Matmar","El Ouldja","Had Echkalla","Hamri","Kalaa","Lahlef","Mazouna","Mediouna","Mendes","Merdja Sidi Abed","Ouarizane","Oued El Djemaa","Oued Essalem","Oued Rhiou","Ouled Aiche","Ouled Sidi Mihoub","Ramka","Relizane","Sidi Khettab","Sidi Lazreg","Sidi M'hamed Benali","Sidi M'hamed Benaouda","Sidi Saada","Souk El Had","Yellel","Zemmoura"],u),B.b(["Aougrout","Charouine","Deldoul","Ksar Kaddour","Metarfa","Ouled Aissa","Ouled Said","Talmine","Timimoun","Tinerkouk"],u),B.b(["Bordj Badji Mokhtar","Timiaouine"],u),B.b(["Besbes","Chaiba","Doucen","Ouled Djellal","Ras El Miad","Sidi Khaled"],u),B.b(["Beni Abbes","Beni Ikhlef","El Ouata","Igli","Kerzaz","Ksabi","Ouled Khoudir","Tabelbala","Tamtert","Timoudi"],u),B.b(["Foggaret Azzaouia","In Ghar","In Salah"],u),B.b(["In Guezzam","Tin Zouatine"],u),B.b(["Benaceur","Blidet Amor","El Alia","El Hadjira","Megarine","Mnaguer","Nezla","Sidi Slimane","Taibet","Tebesbest","Temacine","Touggourt","Zaouia El Abidia"],u),B.b(["Bordj El Haouasse","Djanet"],u),B.b(["Djamaa","El M'ghair","Mrara","Oum Touyour","Sidi Amrane","Sidi Khelil","Still","Tenedla"],u),B.b(["El Meniaa","Hassi Fehal","Hassi Gara"],u)],x.g)}}
-A.eGX.prototype={
-gb4o(){return"Signaler un probl\xe8me"},
-gb4p(){return"Signaler un bug ou un probl\xe8me"},
-gaZG(){return"Chargement des informations de version..."},
-gb73(){return"Informations de version copi\xe9es"},
-b74(d,e){return"Version de l'app : "+e+"\nNum\xe9ro de build : "+d+"\nCliquez pour copier les infos de version"},
-gzK(){var w=this.r
-return w===$?this.r=new A.eGZ():w},
-garD(){var w=this.w
-return w===$?this.w=new A.eGW():w},
-ga1f(){var w=this.x
-return w===$?this.x=new A.eH0():w},
+A.eH3.prototype={
+gb4s(){return"Signaler un probl\xe8me"},
+gb4t(){return"Signaler un bug ou un probl\xe8me"},
+gaZK(){return"Chargement des informations de version..."},
+gb77(){return"Informations de version copi\xe9es"},
+b78(d,e){return"Version de l'app : "+e+"\nNum\xe9ro de build : "+d+"\nCliquez pour copier les infos de version"},
+gzL(){var w=this.r
+return w===$?this.r=new A.eH5():w},
+garF(){var w=this.w
+return w===$?this.w=new A.eH2():w},
+ga1g(){var w=this.x
+return w===$?this.x=new A.eH7():w},
 gaP(){var w=this.y
-return w===$?this.y=new A.eH2():w}}
-A.eH4.prototype={
-gaZF(){return"Chargement du mod\xe8le..."},
-gaVV(){return"\xc9chec du chargement du mod\xe8le"},
+return w===$?this.y=new A.eH9():w}}
+A.eHb.prototype={
+gaZJ(){return"Chargement du mod\xe8le..."},
+gaVY(){return"\xc9chec du chargement du mod\xe8le"},
 gjl(){return"R\xe9essayer"},
 gfh(){return"Enregistrer"},
-gb4B(){return"R\xe9initialisation..."},
+gb4F(){return"R\xe9initialisation..."},
 gw8(){return"R\xe9initialiser"},
-gb52(){return"Mod\xe8le enregistr\xe9"},
-gb4y(){return"R\xe9initialiser le mod\xe8le"},
-gb4z(){return"\xcates-vous s\xfbr de vouloir r\xe9initialiser le mod\xe8le aux valeurs par d\xe9faut ? Cela supprimera toutes vos modifications actuelles."},
+gb56(){return"Mod\xe8le enregistr\xe9"},
+gb4C(){return"R\xe9initialiser le mod\xe8le"},
+gb4D(){return"\xcates-vous s\xfbr de vouloir r\xe9initialiser le mod\xe8le aux valeurs par d\xe9faut ? Cela supprimera toutes vos modifications actuelles."},
 gbU(){return"Annuler"},
-gb51(){return"Mod\xe8le r\xe9initialis\xe9 aux valeurs par d\xe9faut"},
-RI(d){return y.h+d},
-gayS(){return"Rechercher des composants..."},
-gazc(){return"S\xe9lectionnez un composant pour modifier ses propri\xe9t\xe9s"},
-ga7i(){return"Composant introuvable"},
-gaQC(){return"Sch\xe9ma du composant introuvable"},
-gaQD(){return"Titre du composant"},
-gb0z(){return"Aucune propri\xe9t\xe9 \xe0 configurer"},
-gb2x(){return"Choisir une valeur"},
-arB(d){return"Entrer "+B.h(d)},
-gauB(){return"Aucun \xe9l\xe9ment"},
+gb55(){return"Mod\xe8le r\xe9initialis\xe9 aux valeurs par d\xe9faut"},
+RJ(d){return y.h+d},
+gayV(){return"Rechercher des composants..."},
+gazf(){return"S\xe9lectionnez un composant pour modifier ses propri\xe9t\xe9s"},
+ga7j(){return"Composant introuvable"},
+gaQF(){return"Sch\xe9ma du composant introuvable"},
+gaQG(){return"Titre du composant"},
+gb0D(){return"Aucune propri\xe9t\xe9 \xe0 configurer"},
+gb2B(){return"Choisir une valeur"},
+arD(d){return"Entrer "+B.h(d)},
+gauD(){return"Aucun \xe9l\xe9ment"},
 gtZ(d){return"Supprimer"},
 gfL(d){return"Ajouter"},
-gaci(){return"G\xe9n\xe9rer avec l'IA"},
-gaQv(){return"Tout r\xe9duire"},
-gaVJ(){return"Tout d\xe9velopper"},
-gaNh(){return"Ajouter un \xe9l\xe9ment"},
-aYV(d){return"\xc9l\xe9ment "+d},
-gawK(){return"Param\xe8tres du th\xe8me"},
-gb0D(){return"Aucune option de configuration de th\xe8me disponible."},
-gaQI(){return"Configurer les propri\xe9t\xe9s de th\xe8me globales pour votre mod\xe8le"},
+gacj(){return"G\xe9n\xe9rer avec l'IA"},
+gaQy(){return"Tout r\xe9duire"},
+gaVM(){return"Tout d\xe9velopper"},
+gaNk(){return"Ajouter un \xe9l\xe9ment"},
+aYY(d){return"\xc9l\xe9ment "+d},
+gawM(){return"Param\xe8tres du th\xe8me"},
+gb0H(){return"Aucune option de configuration de th\xe8me disponible."},
+gaQL(){return"Configurer les propri\xe9t\xe9s de th\xe8me globales pour votre mod\xe8le"},
 gdh(){return"Composants"},
-ga_z(){return"Propri\xe9t\xe9s"},
+ga_B(){return"Propri\xe9t\xe9s"},
 gp8(){return"Th\xe8me"},
-gaTu(){return"Supprimer le composant"},
-gapg(){return"R\xe9duire les emplacements"},
-garF(){return"D\xe9velopper les emplacements"},
-gZ_(){return"D\xe9poser ici"},
-gaUD(){return"Glisser les composants ici"},
+gaTx(){return"Supprimer le composant"},
+gapi(){return"R\xe9duire les emplacements"},
+garH(){return"D\xe9velopper les emplacements"},
+gZ1(){return"D\xe9poser ici"},
+gaUG(){return"Glisser les composants ici"},
 gik(){return"Emplacements"},
 gfF(){return"\xe9l\xe9ments"}}
-A.eHa.prototype={
-ga5(){return"Mod\xe8les"},
+A.eHh.prototype={
+ga4(){return"Mod\xe8les"},
 gN(){return"Mod\xe8les de boutique"},
 gfU(){var w=this.ay
-return w===$?this.ay=new A.eH6():w},
-gRK(){var w=this.ch
-return w===$?this.ch=new A.eH9():w},
+return w===$?this.ay=new A.eHd():w},
+gRL(){var w=this.ch
+return w===$?this.ch=new A.eHg():w},
 gaP(){var w=this.CW
-return w===$?this.CW=new A.eHc():w}}
-A.eHk.prototype={
+return w===$?this.CW=new A.eHj():w}}
+A.eHr.prototype={
 gN(){return"Voix off"},
-gIm(){var w=this.as
-return w===$?this.as=new A.eHg():w},
+gIn(){var w=this.as
+return w===$?this.as=new A.eHn():w},
 gu1(){var w=this.at
-return w===$?this.at=new A.eHu():w},
+return w===$?this.at=new A.eHB():w},
 gaP(){var w=this.ax
-return w===$?this.ax=new A.eHq():w},
+return w===$?this.ax=new A.eHx():w},
 gfU(){var w=this.ay
-return w===$?this.ay=new A.eHe():w},
-gavF(){var w=this.ch
-return w===$?this.ch=new A.eHo():w},
-gSg(){var w=this.CW
-return w===$?this.CW=new A.eHm():w},
+return w===$?this.ay=new A.eHl():w},
+gavH(){var w=this.ch
+return w===$?this.ch=new A.eHv():w},
+gSh(){var w=this.CW
+return w===$?this.CW=new A.eHt():w},
 gcn(){var w=this.cy
-return w===$?this.cy=new A.eHj():w},
+return w===$?this.cy=new A.eHq():w},
 ger(){var w=this.db
-return w===$?this.db=new A.eHs():w}}
-A.eHA.prototype={
+return w===$?this.db=new A.eHz():w}}
+A.eHH.prototype={
 gjB(){var w=this.at
-return w===$?this.at=new A.eHC():w},
+return w===$?this.at=new A.eHJ():w},
 gc9(){var w=this.ax
-return w===$?this.ax=new A.eHG():w},
+return w===$?this.ax=new A.eHN():w},
 gci(){var w=this.ay
-return w===$?this.ay=new A.eHy():w},
+return w===$?this.ay=new A.eHF():w},
 gmQ(){var w=this.ch
-return w===$?this.ch=new A.eHw():w},
+return w===$?this.ch=new A.eHD():w},
 gaP(){var w=this.CW
-return w===$?this.CW=new A.eHI():w},
-gJo(){var w=this.cy
-return w===$?this.cy=new A.eHE():w},
+return w===$?this.CW=new A.eHP():w},
+gJp(){var w=this.cy
+return w===$?this.cy=new A.eHL():w},
 gi0(){var w=this.db
-return w===$?this.db=new A.eHK():w}}
-A.eHU.prototype={
+return w===$?this.db=new A.eHR():w}}
+A.eI0.prototype={
 gjB(){var w=this.as
-return w===$?this.as=new A.eHW():w},
+return w===$?this.as=new A.eI2():w},
 gci(){var w=this.at
-return w===$?this.at=new A.eHO():w},
+return w===$?this.at=new A.eHV():w},
 gmQ(){var w=this.ax
-return w===$?this.ax=new A.eHM():w},
+return w===$?this.ax=new A.eHT():w},
 gaP(){var w=this.ay
-return w===$?this.ay=new A.eI1():w},
+return w===$?this.ay=new A.eI8():w},
 goe(){var w=this.ch
-return w===$?this.ch=new A.eI3():w},
-gJo(){var w=this.CW
-return w===$?this.CW=new A.eI_():w},
+return w===$?this.ch=new A.eIa():w},
+gJp(){var w=this.CW
+return w===$?this.CW=new A.eI6():w},
 gi0(){var w=this.cx
-return w===$?this.cx=new A.eI5():w},
+return w===$?this.cx=new A.eIc():w},
 gcn(){var w=this.cy
-return w===$?this.cy=new A.eHR():w},
+return w===$?this.cy=new A.eHY():w},
 gbR(){var w=this.db
-return w===$?this.db=new A.eHT():w},
+return w===$?this.db=new A.eI_():w},
 gwY(){var w=this.dx
-return w===$?this.dx=new A.eHY():w}}
-A.exK.prototype={
+return w===$?this.dx=new A.eI4():w}}
+A.exR.prototype={
 goj(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.exG(w,w)}return v}}
-A.ewf.prototype={
+v=this.d=new A.exN(w,w)}return v}}
+A.ewm.prototype={
 gqP(){return"Aujourd'hui"},
-gzS(){return"Hier"},
+gzT(){return"Hier"},
 gDG(){return"Cette semaine"},
 gDF(){return"Ce mois-ci"},
 gLV(){return"Personnalis\xe9"}}
-A.ewn.prototype={
-gIa(){return"copi\xe9"},
-gaZe(){return"Plus tard"},
-gSI(){return"Aucune information disponible"},
-gaeX(){return"Synchronisations"},
-ga6W(){var w=this.r
-return w===$?this.r=new A.ewl():w},
+A.ewu.prototype={
+gIb(){return"copi\xe9"},
+gaZi(){return"Plus tard"},
+gSJ(){return"Aucune information disponible"},
+gaeY(){return"Synchronisations"},
+ga6X(){var w=this.r
+return w===$?this.r=new A.ews():w},
 go7(){return"Historique"},
-ga_i(){return"Optionnel"},
+ga_k(){return"Optionnel"},
 gMk(){return"Expir\xe9"},
-gaTM(){return"Suppression..."},
+gaTP(){return"Suppression..."},
 gld(){return"Retour"},
 gjl(){return"R\xe9essayer"},
 gDl(){return"Aucun r\xe9sultat trouv\xe9"},
@@ -2329,12 +2331,12 @@ gw8(){return"R\xe9initialiser"},
 gnB(){return"Activ\xe9"},
 goc(){return"Rechercher"},
 ge5(){return"Fermer"},
-ga0k(){return"Vous"},
-gau6(){return"Nous utilisons l'authentification locale pour masquer les donn\xe9es sensibles\n\nSi vous n'utilisez pas l'empreinte digitale, veuillez l'ajouter pour activer l'option"},
+ga0l(){return"Vous"},
+gau8(){return"Nous utilisons l'authentification locale pour masquer les donn\xe9es sensibles\n\nSi vous n'utilisez pas l'empreinte digitale, veuillez l'ajouter pour activer l'option"},
 gcU(){var w,v=this.x
 if(v===$){w=this.f
-v=this.x=new A.ewp(w,w)}return v},
-gac9(){return"Exporter"},
+v=this.x=new A.eww(w,w)}return v},
+gaca(){return"Exporter"},
 gfh(){return"Enregistrer"},
 gbU(){return"Annuler"},
 gkH(){return"\xc9diter"},
@@ -2344,1412 +2346,1414 @@ gd3(){return"Supprimer"},
 gfL(d){return"Ajouter"},
 gkW(){return"Lien"},
 gel(){return"Erreur"},
-gGy(){var w=this.y
-return w===$?this.y=new A.ewv():w},
+gGz(){var w=this.y
+return w===$?this.y=new A.ewC():w},
 gpL(){return"Confirmer"},
-giB(){return"Op\xe9ration r\xe9ussie"},
+giC(){return"Op\xe9ration r\xe9ussie"},
 gkt(){return"\xc9chec de l'op\xe9ration"},
-gh8(){return"Exp\xe9dition"},
-gju(){return"Total"},
-gQQ(){return"Contr\xf4le"},
+gh9(){return"Exp\xe9dition"},
+gjv(){return"Total"},
+gQR(){return"Contr\xf4le"},
 gpS(){return"Vide"},
-gapA(){return"Copi\xe9 avec succ\xe8s"},
+gapC(){return"Copi\xe9 avec succ\xe8s"},
 gMY(){return"Plus"},
-gzQ(){return"Annuler"},
+gzR(){return"Annuler"},
 gpk(){return"Tout"}}
-A.ewh.prototype={
-gir(){return"V\xe9rifiez votre e-mail maintenant et recevez 100 DZD de cr\xe9dit gratuit."},
-gb6X(){return"V\xe9rifier"},
-gb70(){return"V\xe9rifier votre e-mail"},
-gb7_(){return"Saisissez le code de v\xe9rification re\xe7u par e-mail."},
-gb6Y(){return"Code de v\xe9rification"},
-gb6Z(){return"Confirmer la v\xe9rification"},
-gb71(){return"Votre e-mail a \xe9t\xe9 v\xe9rifi\xe9 avec succ\xe8s."},
-axE(d){return"\xc9chec de la v\xe9rification de l'e-mail : "+d},
-gb4v(){return"Renvoyer l'e-mail de v\xe9rification"},
-b4w(d){return"Renvoyer dans "+d},
-gaA1(){return"E-mail de v\xe9rification envoy\xe9. V\xe9rifiez votre bo\xeete de r\xe9ception."},
-gaRi(){return"Vous pourrez demander un nouvel e-mail apr\xe8s 10 minutes."},
-adJ(d){return"\xc9chec de l'envoi de l'e-mail de v\xe9rification : "+d}}
-A.evi.prototype={
+A.ewo.prototype={
+gis(){return"V\xe9rifiez votre e-mail maintenant et recevez 100 DZD de cr\xe9dit gratuit."},
+gb70(){return"V\xe9rifier"},
+gb74(){return"V\xe9rifier votre e-mail"},
+gb73(){return"Saisissez le code de v\xe9rification re\xe7u par e-mail."},
+gb71(){return"Code de v\xe9rification"},
+gb72(){return"Confirmer la v\xe9rification"},
+gb75(){return"Votre e-mail a \xe9t\xe9 v\xe9rifi\xe9 avec succ\xe8s."},
+axH(d){return"\xc9chec de la v\xe9rification de l'e-mail : "+d},
+gb4z(){return"Renvoyer l'e-mail de v\xe9rification"},
+b4A(d){return"Renvoyer dans "+d},
+gaA4(){return"E-mail de v\xe9rification envoy\xe9. V\xe9rifiez votre bo\xeete de r\xe9ception."},
+gaRl(){return"Vous pourrez demander un nouvel e-mail apr\xe8s 10 minutes."},
+adK(d){return"\xc9chec de l'envoi de l'e-mail de v\xe9rification : "+d}}
+A.evp.prototype={
 gq8(){var w,v=this.e
 if(v===$){w=this.d
-v=this.e=new A.evo(w,w)}return v},
-gawA(){return"R\xe9initialiser le mot de passe"},
-ga1d(){return"Se connecter"},
-gUD(){return"S'inscrire"},
-gaMM(){return"En vous inscrivant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialit\xe9."},
-ganA(){return"Vous devez accepter les conditions g\xe9n\xe9rales."},
-gaUB(){return"Vous n\u2019avez pas de compte ?"},
-gaO1(){return"Vous avez d\xe9j\xe0 un compte ?"},
-gb3b(){return"Politique de confidentialit\xe9"},
-gb59(){return"Conditions d'utilisation"},
-gIY(){var w=this.f
-return w===$?this.f=new A.evk():w}}
-A.ezs.prototype={
-ga5(){return"Produits"},
+v=this.e=new A.evv(w,w)}return v},
+gawC(){return"R\xe9initialiser le mot de passe"},
+ga1e(){return"Se connecter"},
+gUF(){return"S'inscrire"},
+gaMP(){return"En vous inscrivant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialit\xe9."},
+ganC(){return"Vous devez accepter les conditions g\xe9n\xe9rales."},
+gaUE(){return"Vous n\u2019avez pas de compte ?"},
+gaO4(){return"Vous avez d\xe9j\xe0 un compte ?"},
+gb3f(){return"Politique de confidentialit\xe9"},
+gb5d(){return"Conditions d'utilisation"},
+gIZ(){var w=this.f
+return w===$?this.f=new A.evr():w}}
+A.ezz.prototype={
+ga4(){return"Produits"},
 gbR(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.ez5(w,w)}return v},
+v=this.r=new A.ezc(w,w)}return v},
 gbg(){var w,v=this.w
 if(v===$){w=this.e
-v=this.w=new A.ezy(w,w)}return v}}
-A.eAp.prototype={
-ga5(){return"Utilisateurs"},
+v=this.w=new A.ezF(w,w)}return v}}
+A.eAw.prototype={
+ga4(){return"Utilisateurs"},
 gbR(){var w,v=this.f
 if(v===$){w=this.d
-v=this.f=new A.eAi(w,w)}return v}}
-A.eyN.prototype={
+v=this.f=new A.eAp(w,w)}return v}}
+A.eyU.prototype={
 gny(){var w=this.at
-return w===$?this.at=new A.exM():w},
+return w===$?this.at=new A.exT():w},
 gpS(){var w=this.ax
-return w===$?this.ax=new A.ey5():w},
+return w===$?this.ax=new A.eyc():w},
 gaC(){var w,v=this.ch
 if(v===$){w=this.as
-v=this.ch=new A.exQ(w,w)}return v},
+v=this.ch=new A.exX(w,w)}return v},
 gaP(){var w=this.cy
-return w===$?this.cy=new A.eyP():w},
-ga5(){return"Commandes"},
+return w===$?this.cy=new A.eyW():w},
+ga4(){return"Commandes"},
 gF7(){return"Cr\xe9er une commande"},
 gmn(){return"Modifier la commande"},
 gvT(){var w,v=this.dy
 if(v===$){w=this.as
-v=this.dy=new A.eyI(w,w)}return v},
+v=this.dy=new A.eyP(w,w)}return v},
 gbR(){var w,v=this.fr
 if(v===$){w=this.as
-v=this.fr=new A.eyk(w,w)}return v}}
-A.ezY.prototype={
-ga9X(){var w=this.y
-return w===$?this.y=new A.eA_():w},
+v=this.fr=new A.eyr(w,w)}return v}}
+A.eA4.prototype={
+ga9Y(){var w=this.y
+return w===$?this.y=new A.eA6():w},
 gpo(){var w,v=this.z
 if(v===$){w=this.x
-v=this.z=new A.ezO(w,w)}return v},
+v=this.z=new A.ezV(w,w)}return v},
 gnY(){var w,v=this.Q
 if(v===$){w=this.x
-v=this.Q=new A.eA5(w,w)}return v},
-ga5(){return"Magasins"},
+v=this.Q=new A.eAc(w,w)}return v},
+ga4(){return"Magasins"},
 gvT(){var w=this.as
-return w===$?this.as=new A.ezX():w},
+return w===$?this.as=new A.eA3():w},
 gbR(){var w,v=this.at
 if(v===$){w=this.x
-v=this.at=new A.ezR(w,w)}return v},
-gjZ(){var w,v=this.ax
+v=this.at=new A.ezY(w,w)}return v},
+gk_(){var w,v=this.ax
 if(v===$){w=this.x
-v=this.ax=new A.eAb(w,w)}return v}}
-A.evE.prototype={
-gb7x(){return"Bienvenue, "},
+v=this.ax=new A.eAi(w,w)}return v}}
+A.evL.prototype={
+gb7B(){return"Bienvenue, "},
 gbg(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.evI(w,w)}return v}}
-A.eyT.prototype={
-gTK(){var w=this.w
-return w===$?this.w=new A.eyV():w},
-gb0x(){return"Aucun produit trouv\xe9 avec ce SKU"},
-gayK(){return"Erreur de scan"},
-gb42(){return"Actualiser les produits"},
+v=this.d=new A.evP(w,w)}return v}}
+A.ez_.prototype={
+gTL(){var w=this.w
+return w===$?this.w=new A.ez1():w},
+gb0B(){return"Aucun produit trouv\xe9 avec ce SKU"},
+gayN(){return"Erreur de scan"},
+gb46(){return"Actualiser les produits"},
 gDl(){return"Aucun r\xe9sultat trouv\xe9"},
-gaVs(){return"Scanner ou entrer un code-barres/SKU"},
-gayM(){return"Scanner pour ajouter un produit"},
+gaVv(){return"Scanner ou entrer un code-barres/SKU"},
+gayP(){return"Scanner pour ajouter un produit"},
 gtw(){var w=this.z
-return w===$?this.z=new A.eyR():w}}
-A.ewJ.prototype={
+return w===$?this.z=new A.eyY():w}}
+A.ewQ.prototype={
 gN(){return"Int\xe9grations"},
 gbh(){return"Connectez votre boutique \xe0 divers services"},
-gaNR(){return"Services de publicit\xe9 et de marketing"},
-gaAG(){return"Services de livraison"},
+gaNU(){return"Services de publicit\xe9 et de marketing"},
+gaAJ(){return"Services de livraison"},
 gqe(){var w,v=this.ch
 if(v===$){w=this.ay
-v=this.ch=new A.exk(w,w)}return v},
+v=this.ch=new A.exr(w,w)}return v},
 gbJ(){var w,v=this.CW
 if(v===$){w=this.ay
-v=this.CW=new A.ewD(w,w)}return v},
-gh2(){var w,v=this.cx
+v=this.CW=new A.ewK(w,w)}return v},
+gh3(){var w,v=this.cx
 if(v===$){w=this.ay
-v=this.cx=new A.exA(w,w)}return v},
+v=this.cx=new A.exH(w,w)}return v},
 gmD(){var w=this.cy
-return w===$?this.cy=new A.exe():w},
+return w===$?this.cy=new A.exl():w},
 gdU(){var w,v=this.dx
 if(v===$){w=this.ay
-v=this.dx=new A.ewV(w,w)}return v},
+v=this.dx=new A.ex1(w,w)}return v},
 gcH(){var w,v=this.dy
 if(v===$){w=this.ay
-v=this.dy=new A.exu(w,w)}return v},
+v=this.dy=new A.exB(w,w)}return v},
 gfT(){var w,v=this.fr
 if(v===$){w=this.ay
-v=this.fr=new A.ewT(w,w)}return v},
+v=this.fr=new A.ex_(w,w)}return v},
 gfK(){var w,v=this.fx
 if(v===$){w=this.ay
-v=this.fx=new A.ex4(w,w)}return v},
-giw(){var w=this.go
-return w===$?this.go=new A.ewP():w},
+v=this.fx=new A.exb(w,w)}return v},
+gix(){var w=this.go
+return w===$?this.go=new A.ewW():w},
 gqa(){var w=this.id
-return w===$?this.id=new A.exy():w},
+return w===$?this.id=new A.exF():w},
 gyo(){var w,v=this.k1
 if(v===$){w=this.ay
-v=this.k1=new A.ewL(w,w)}return v},
+v=this.k1=new A.ewS(w,w)}return v},
 gqs(){var w=this.k2
-return w===$?this.k2=new A.ewx():w}}
-A.evg.prototype={
-gb0L(){return"Notifications"}}
-A.eve.prototype={
+return w===$?this.k2=new A.ewE():w}}
+A.evn.prototype={
+gb0P(){return"Notifications"}}
+A.evl.prototype={
 gN(){return"Les fonctionnalit\xe9s IA utilisent un service tiers"},
-gb7y(){return"Lorsque vous utilisez les outils d'images ou de voix IA, nous n'envoyons que le contenu que vous fournissez (vos instructions, images, audio et infos produit/magasin) pour traiter votre demande."},
-gb7B(){return"Ces donn\xe9es sont envoy\xe9es \xe0 Google (Google Cloud / Gemini) pour g\xe9n\xe9rer les images ou la voix. La politique de confidentialit\xe9 de Google s'applique \xe0 leur traitement."},
-gaXC(){return"Nous utilisons les r\xe9sultats uniquement pour fournir la fonctionnalit\xe9 demand\xe9e. Nous n'utilisons pas votre contenu pour entra\xeener nos mod\xe8les."},
-gaZm(){return"Politique de confidentialit\xe9"},
-gaNU(){return"Accepter"},
-gR6(){return"Refuser"}}
-A.ev2.prototype={
+gb7C(){return"Lorsque vous utilisez les outils d'images ou de voix IA, nous n'envoyons que le contenu que vous fournissez (vos instructions, images, audio et infos produit/magasin) pour traiter votre demande."},
+gb7F(){return"Ces donn\xe9es sont envoy\xe9es \xe0 Google (Google Cloud / Gemini) pour g\xe9n\xe9rer les images ou la voix. La politique de confidentialit\xe9 de Google s'applique \xe0 leur traitement."},
+gaXF(){return"Nous utilisons les r\xe9sultats uniquement pour fournir la fonctionnalit\xe9 demand\xe9e. Nous n'utilisons pas votre contenu pour entra\xeener nos mod\xe8les."},
+gaZq(){return"Politique de confidentialit\xe9"},
+gaNX(){return"Accepter"},
+gR7(){return"Refuser"}}
+A.ev9.prototype={
 gN(){return"Studio d'images IA"},
-gaee(){var w=this.Q
-return w===$?this.Q=new A.eva():w},
-gaw4(){var w=this.at
-return w===$?this.at=new A.ev4():w},
+gaef(){var w=this.Q
+return w===$?this.Q=new A.evh():w},
+gaw6(){var w=this.at
+return w===$?this.at=new A.evb():w},
 ghD(){var w=this.ax
-return w===$?this.ax=new A.euZ():w},
+return w===$?this.ax=new A.ev5():w},
 gNt(){var w,v=this.ch
 if(v===$){w=this.z
-v=this.ch=new A.ev6(w,w)}return v},
+v=this.ch=new A.evd(w,w)}return v},
 gcn(){var w=this.CW
-return w===$?this.CW=new A.ev1():w},
+return w===$?this.CW=new A.ev8():w},
 ger(){var w=this.cx
-return w===$?this.cx=new A.evc():w},
+return w===$?this.cx=new A.evj():w},
 gLh(){var w=this.cy
-return w===$?this.cy=new A.euX():w}}
-A.eAt.prototype={
+return w===$?this.cy=new A.ev3():w}}
+A.eAA.prototype={
 gtD(){return"D\xe9p\xf4t"},
 gqf(){return"Envoyer"},
-gb5X(){return"Transactions"},
-gaTY(){return"D\xe9p\xf4ts"},
-gb0E(){return"Aucune transaction pour le moment"},
-gb0F(){return"Toutes vos transactions appara\xeetront ici"},
-gb0d(){return"Aucun d\xe9p\xf4t pour le moment"},
-gb0e(){return"Tous vos d\xe9p\xf4ts appara\xeetront ici"},
-gzA(){return"Chargement..."},
+gb60(){return"Transactions"},
+gaU0(){return"D\xe9p\xf4ts"},
+gb0I(){return"Aucune transaction pour le moment"},
+gb0J(){return"Toutes vos transactions appara\xeetront ici"},
+gb0h(){return"Aucun d\xe9p\xf4t pour le moment"},
+gb0i(){return"Tous vos d\xe9p\xf4ts appara\xeetront ici"},
+gzB(){return"Chargement..."},
 gBe(){return"Charger plus"},
-gaVx(){return"Erreur lors du chargement des transactions"},
-gaVw(){return"Erreur lors du chargement des d\xe9p\xf4ts"},
+gaVA(){return"Erreur lors du chargement des transactions"},
+gaVz(){return"Erreur lors du chargement des d\xe9p\xf4ts"},
 gBE(){var w=this.e
-return w===$?this.e=new A.eAv():w},
-gYM(){var w=this.f
-return w===$?this.f=new A.eAr():w},
+return w===$?this.e=new A.eAC():w},
+gYO(){var w=this.f
+return w===$?this.f=new A.eAy():w},
 gmV(){return"DZD"},
-gaOQ(){return"Votre solde"},
-gaAM(){return"Afficher le code QR de r\xe9ception"}}
-A.evy.prototype={
-ga5(){return"Langue"},
-ga6R(){return"\u0639\u0631\u0628\u064a"},
-ga8o(){return"Anglais"},
-ga8V(){return"Fran\xe7ais"}}
-A.evA.prototype={
-ga5(){return"Th\xe8me"},
-gYx(){return"Sombre"},
-gV6(){return"Syst\xe8me"},
-gZM(){return"Clair"}}
-A.evC.prototype={
-ga5(){return"Zoom"},
-gaY2(){return"Augmenter le zoom"},
-gaTj(){return"R\xe9duire le zoom"}}
-A.eAV.prototype={
+gaOT(){return"Votre solde"},
+gaAP(){return"Afficher le code QR de r\xe9ception"}}
+A.evF.prototype={
+ga4(){return"Langue"},
+ga6S(){return"\u0639\u0631\u0628\u064a"},
+ga8p(){return"Anglais"},
+ga8W(){return"Fran\xe7ais"}}
+A.evH.prototype={
+ga4(){return"Th\xe8me"},
+gYz(){return"Sombre"},
+gV8(){return"Syst\xe8me"},
+gZO(){return"Clair"}}
+A.evJ.prototype={
+ga4(){return"Zoom"},
+gaY5(){return"Augmenter le zoom"},
+gaTm(){return"R\xe9duire le zoom"}}
+A.eB1.prototype={
 gx4(){return"Prix de livraison"},
-gb2U(){return"S\xe9lectionnez le prix de livraison pour d\xe9terminer les pays et r\xe9gions disponibles"},
-gazo(){return"Veuillez d'abord s\xe9lectionner la r\xe9gion"}}
-A.eAP.prototype={
+gb2Y(){return"S\xe9lectionnez le prix de livraison pour d\xe9terminer les pays et r\xe9gions disponibles"},
+gazr(){return"Veuillez d'abord s\xe9lectionner la r\xe9gion"}}
+A.eAW.prototype={
 goe(){var w=this.d
-return w===$?this.d=new A.eAR():w}}
-A.eAJ.prototype={
+return w===$?this.d=new A.eAY():w}}
+A.eAQ.prototype={
 goe(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eAL(w,w)}return v}}
-A.eAx.prototype={
+v=this.d=new A.eAS(w,w)}return v}}
+A.eAE.prototype={
 goe(){var w=this.d
-return w===$?this.d=new A.eAz():w}}
-A.eAB.prototype={
+return w===$?this.d=new A.eAG():w}}
+A.eAI.prototype={
 gN(){return"Champs personnalis\xe9s"},
-gb0h(){return"Aucun champ rempli"},
-aWp(d,e){return""+d+" sur "+e+" champs remplis"}}
-A.eAT.prototype={
+gb0l(){return"Aucun champ rempli"},
+aWs(d,e){return""+d+" sur "+e+" champs remplis"}}
+A.eB_.prototype={
 gt5(){return"Prix mis \xe0 jour"},
-aCa(d,e,f,g){return"Sous-total : "+f+" | Livraison : "+e+" | Total : "+g+" "+d},
-gaQJ(){return"Confirmer la suppression"},
-gaQN(){return"Le montant final sera supprim\xe9 et le prix d'origine de la commande sera r\xe9tabli"},
-gaUY(){return"Modifier le montant final"},
-gaWu(){return"Montant final"}}
-A.eAD.prototype={
-ga5(){return"Email du client"},
-gSl(){return"Adresse email invalide"}}
-A.eAG.prototype={
-gaPK(){return"Impossible d'appeler ce num\xe9ro"},
-gaPL(){return"Impossible d'envoyer un SMS \xe0 ce num\xe9ro"},
+aCd(d,e,f,g){return"Sous-total : "+f+" | Livraison : "+e+" | Total : "+g+" "+d},
+gaQM(){return"Confirmer la suppression"},
+gaQQ(){return"Le montant final sera supprim\xe9 et le prix d'origine de la commande sera r\xe9tabli"},
+gaV0(){return"Modifier le montant final"},
+gaWx(){return"Montant final"}}
+A.eAK.prototype={
+ga4(){return"Email du client"},
+gSm(){return"Adresse email invalide"}}
+A.eAN.prototype={
+gaPN(){return"Impossible d'appeler ce num\xe9ro"},
+gaPO(){return"Impossible d'envoyer un SMS \xe0 ce num\xe9ro"},
 gJO(){return"Erreur de connexion au serveur"},
-aVA(d){return"Erreur : "+d}}
-A.eAX.prototype={
-gb1I(){return"Commande cr\xe9\xe9e avec succ\xe8s"},
-gb1N(){return"Commande mise \xe0 jour avec succ\xe8s"}}
-A.eAZ.prototype={
+aVD(d){return"Erreur : "+d}}
+A.eB3.prototype={
+gb1M(){return"Commande cr\xe9\xe9e avec succ\xe8s"},
+gb1R(){return"Commande mise \xe0 jour avec succ\xe8s"}}
+A.eB5.prototype={
 gN(){return"Distribution des commandes"},
 gbh(){return"D\xe9finir comment les nouvelles commandes sont attribu\xe9es aux confirmeurs (al\xe9atoire, tour de r\xf4le, premier \xe0 mettre \xe0 jour, etc.)"},
 gc9(){return"Param\xe8tres"},
-gRy(){return"Activer"},
-gb68(){return"D\xe9sinstaller"}}
-A.eB2.prototype={
+gRz(){return"Activer"},
+gb6c(){return"D\xe9sinstaller"}}
+A.eB9.prototype={
 gN(){return"Distribution des commandes"},
 gbh(){return"Choisissez comment attribuer les nouvelles commandes aux confirmeurs"},
-gaVd(){return"Activer la distribution automatique"},
-gaVe(){return"Lorsqu'activ\xe9, les commandes seront attribu\xe9es selon la strat\xe9gie s\xe9lectionn\xe9e"},
-gaBZ(){return"Strat\xe9gie de distribution"},
-gA4(){var w=this.d
-return w===$?this.d=new A.eB4():w}}
-A.eB6.prototype={
-gb7w(){return"Poids (0-100)"},
-gaB3(){return"Ordre des confirmeurs"},
-gaB4(){return"Par nom"},
-gaB5(){return"Par identifiant"},
-gb3a(){return"Ordre de priorit\xe9 (le premier de la liste a la priorit\xe9 la plus \xe9lev\xe9e)"},
-gaaf(){return"Aucun confirmer. Ajoutez des confirmeurs dans les param\xe8tres du magasin."}}
-A.eBa.prototype={
+gaVg(){return"Activer la distribution automatique"},
+gaVh(){return"Lorsqu'activ\xe9, les commandes seront attribu\xe9es selon la strat\xe9gie s\xe9lectionn\xe9e"},
+gaC1(){return"Strat\xe9gie de distribution"},
+gA5(){var w=this.d
+return w===$?this.d=new A.eBb():w}}
+A.eBd.prototype={
+gb7A(){return"Poids (0-100)"},
+gaB6(){return"Ordre des confirmeurs"},
+gaB7(){return"Par nom"},
+gaB8(){return"Par identifiant"},
+gb3e(){return"Ordre de priorit\xe9 (le premier de la liste a la priorit\xe9 la plus \xe9lev\xe9e)"},
+gaag(){return"Aucun confirmer. Ajoutez des confirmeurs dans les param\xe8tres du magasin."}}
+A.eBh.prototype={
 gMi(){return"\xc9gal \xe0"},
-gb0G(){return"Diff\xe9rent de"},
+gb0K(){return"Diff\xe9rent de"},
 grH(d){return"Contient"},
-gGM(d){return"Commence par"},
-ga8n(d){return"Se termine par"},
-gayA(){return"Sup\xe9rieur \xe0"},
-gayz(){return"Sup\xe9rieur ou \xe9gal \xe0"},
-gaZr(){return"Inf\xe9rieur \xe0"},
-gaZq(){return"Inf\xe9rieur ou \xe9gal \xe0"},
-gaXY(){return"Dans la liste"},
-gb0H(){return"Pas dans"},
-gaYK(){return"Est nul"},
-gaYJ(){return"N'est pas nul"},
-bk(d,e){return this.gGM(this).$1(e)}}
-A.eBe.prototype={
-gaVf(){return"Activer l'exportation vers Google Sheets"},
-gaVg(){return"D\xe9sactiver cette option signifie que ce produit ne sera pas export\xe9 vers Google Sheets"},
-gR2(){return"Personnaliser les colonnes"},
-gQH(){return"Colonnes Google Sheets"},
-gQG(){return y.D},
-gQg(){return"Ajouter une colonne"},
-gRa(){return"Supprimer la colonne"},
-gaCS(){return"Synchroniser les en-t\xeates"},
-gaCU(){return"Vous devez s\xe9lectionner le fichier et la feuille pour synchroniser les en-t\xeates"}}
-A.eBk.prototype={
+gGN(d){return"Commence par"},
+ga8o(d){return"Se termine par"},
+gayD(){return"Sup\xe9rieur \xe0"},
+gayC(){return"Sup\xe9rieur ou \xe9gal \xe0"},
+gaZv(){return"Inf\xe9rieur \xe0"},
+gaZu(){return"Inf\xe9rieur ou \xe9gal \xe0"},
+gaY0(){return"Dans la liste"},
+gb0L(){return"Pas dans"},
+gaYN(){return"Est nul"},
+gaYM(){return"N'est pas nul"},
+bk(d,e){return this.gGN(this).$1(e)}}
+A.eBl.prototype={
+gaVi(){return"Activer l'exportation vers Google Sheets"},
+gaVj(){return"D\xe9sactiver cette option signifie que ce produit ne sera pas export\xe9 vers Google Sheets"},
+gR3(){return"Personnaliser les colonnes"},
+gQI(){return"Colonnes Google Sheets"},
+gQH(){return y.D},
+gQh(){return"Ajouter une colonne"},
+gRb(){return"Supprimer la colonne"},
+gaCV(){return"Synchroniser les en-t\xeates"},
+gaCX(){return"Vous devez s\xe9lectionner le fichier et la feuille pour synchroniser les en-t\xeates"}}
+A.eBr.prototype={
 gN(){return"Param\xe8tres Google Sheets"},
-gaZu(){return"Lier Google Sheets"},
-gaZv(){return"La page d'autorisation s'ouvrira. Apr\xe8s avoir termin\xe9, veuillez cliquer sur actualiser"},
-gSA(){return"Google Sheets li\xe9 avec succ\xe8s"},
+gaZy(){return"Lier Google Sheets"},
+gaZz(){return"La page d'autorisation s'ouvrira. Apr\xe8s avoir termin\xe9, veuillez cliquer sur actualiser"},
+gSB(){return"Google Sheets li\xe9 avec succ\xe8s"},
 gt1(){return"Actualiser"},
-gaOG(){return"Erreur lors de l'obtention de l'URL d'autorisation : {error}"},
+gaOJ(){return"Erreur lors de l'obtention de l'URL d'autorisation : {error}"},
 gkW(){return"Lier"},
-gaVN(){return"Param\xe8tres d'exportation Google Sheets"},
+gaVQ(){return"Param\xe8tres d'exportation Google Sheets"},
 gwG(){return"Activer le service"},
 gCP(){return"Activer le service Google Sheets"},
-gR2(){return"Personnaliser les colonnes"},
-gQH(){return"Colonnes Google Sheets"},
-gQG(){return y.D},
-gQg(){return"Ajouter une colonne"},
-gRa(){return"Supprimer la colonne"}}
-A.eBh.prototype={
-gaWi(){return"Fichier Google Sheets"},
-gaWg(){return"S\xe9lectionnez un fichier Google Sheets ou entrez l'ID manuellement"},
-gaWh(){return"Entrez l'ID de la feuille de calcul manuellement"},
-gaB9(){return"ID de la feuille de calcul"},
-gaub(){return"Saisie manuelle"},
-gb_1(){return"Entrer l'ID de la feuille de calcul manuellement"},
-gb1v(){return"Ouvrir la feuille dans Google"},
-gae6(){return"Nom de la feuille"},
-gaAw(){return"S\xe9lectionnez une feuille du fichier ou entrez un nom manuellement"},
-gaAx(){return"Entrez le nom de la feuille manuellement"},
-gb_3(){return"Entrer le nom de la feuille manuellement"}}
-A.eBq.prototype={
+gR3(){return"Personnaliser les colonnes"},
+gQI(){return"Colonnes Google Sheets"},
+gQH(){return y.D},
+gQh(){return"Ajouter une colonne"},
+gRb(){return"Supprimer la colonne"}}
+A.eBo.prototype={
+gaWl(){return"Fichier Google Sheets"},
+gaWj(){return"S\xe9lectionnez un fichier Google Sheets ou entrez l'ID manuellement"},
+gaWk(){return"Entrez l'ID de la feuille de calcul manuellement"},
+gaBc(){return"ID de la feuille de calcul"},
+gaud(){return"Saisie manuelle"},
+gb_5(){return"Entrer l'ID de la feuille de calcul manuellement"},
+gb1z(){return"Ouvrir la feuille dans Google"},
+gae7(){return"Nom de la feuille"},
+gaAz(){return"S\xe9lectionnez une feuille du fichier ou entrez un nom manuellement"},
+gaAA(){return"Entrez le nom de la feuille manuellement"},
+gb_7(){return"Entrer le nom de la feuille manuellement"}}
+A.eBx.prototype={
 gN(){return"G\xe9n\xe9rateur d'images de page d'accueil"},
 gdn(){return"G\xe9n\xe9rez de belles images de pages d'accueil pour vos produits, marques ou magasins"}}
-A.eBA.prototype={
-gawg(){return"Pr\xeat"},
+A.eBH.prototype={
+gawi(){return"Pr\xeat"},
 gkX(){return"En attente..."}}
-A.eBm.prototype={
+A.eBt.prototype={
 go9(){return"Aper\xe7u"},
 gkH(){return"Modifier"},
 gzi(){return"T\xe9l\xe9charger"},
 gJP(){return"Partager"},
 gN9(){return"Ouvrir l'URL"}}
-A.eBw.prototype={
+A.eBD.prototype={
 gDz(){return"Entrez les informations sur le produit/marque/magasin..."}}
-A.eBo.prototype={
+A.eBv.prototype={
 gpb(){return"G\xe9n\xe9rer"},
 gpc(){return"G\xe9n\xe9ration en cours..."}}
-A.eBy.prototype={
-gb7D(){return"L'aper\xe7u appara\xeetra ici"},
-gaQo(){return"Cliquez sur une g\xe9n\xe9ration pour l'aper\xe7u"},
-gauH(){return"Aper\xe7u non disponible"},
+A.eBF.prototype={
+gb7H(){return"L'aper\xe7u appara\xeetra ici"},
+gaQr(){return"Cliquez sur une g\xe9n\xe9ration pour l'aper\xe7u"},
+gauJ(){return"Aper\xe7u non disponible"},
 gpc(){return"G\xe9n\xe9ration en cours..."},
-gRF(){return"\xc9chec du chargement de l'image"}}
-A.eBt.prototype={
-gRx(){return"Veuillez entrer les informations sur le produit/marque/magasin"},
-gau1(){return"\xc9chec du chargement de l'image"},
-gayE(){return"\xc9chec de l'enregistrement de l'image"},
-gb1x(){return"\xc9chec de l'ouverture de l'URL"},
-gael(){return"\xc9chec du d\xe9marrage de la g\xe9n\xe9ration de la page d'accueil"}}
-A.eBC.prototype={
-gaxW(){return"\u2705 G\xe9n\xe9ration de la page d'accueil d\xe9marr\xe9e. Elle se poursuivra en arri\xe8re-plan."},
-gaXL(){return"Image enregistr\xe9e avec succ\xe8s"},
-gae5(){return"Partag\xe9 avec succ\xe8s"}}
-A.eBE.prototype={
+gRH(){return"\xc9chec du chargement de l'image"}}
+A.eBA.prototype={
+gRy(){return"Veuillez entrer les informations sur le produit/marque/magasin"},
+gau3(){return"\xc9chec du chargement de l'image"},
+gayH(){return"\xc9chec de l'enregistrement de l'image"},
+gb1B(){return"\xc9chec de l'ouverture de l'URL"},
+gaem(){return"\xc9chec du d\xe9marrage de la g\xe9n\xe9ration de la page d'accueil"}}
+A.eBJ.prototype={
+gaxZ(){return"\u2705 G\xe9n\xe9ration de la page d'accueil d\xe9marr\xe9e. Elle se poursuivra en arri\xe8re-plan."},
+gaXO(){return"Image enregistr\xe9e avec succ\xe8s"},
+gae6(){return"Partag\xe9 avec succ\xe8s"}}
+A.eBL.prototype={
 gN(){return"Choisir un mod\xe8le"}}
-A.eBG.prototype={
+A.eBN.prototype={
 gld(){return"Retour"},
-gaRe(){return"Continuer"},
-gaxU(){return"Generer un apercu"},
-gaOn(){return"Appliquer le resultat"},
-gap2(){return"Choisir une image"},
+gaRh(){return"Continuer"},
+gaxX(){return"Generer un apercu"},
+gaOq(){return"Appliquer le resultat"},
+gap4(){return"Choisir une image"},
 gjl(){return"Reessayer"},
 gzi(){return"Telecharger"},
 gJP(){return"Partager"}}
-A.eBS.prototype={
+A.eBZ.prototype={
 gN(){return"Choisir un modele"},
 gdn(){return"Choisissez un style professionnel puis adaptez-le a ce produit."},
-gGu(){return"Rechercher des modeles ou des tags"},
-gRF(){return"Echec du chargement des modeles."},
+gGv(){return"Rechercher des modeles ou des tags"},
+gRH(){return"Echec du chargement des modeles."},
 gpS(){return"Aucun modele n'est disponible pour le moment."},
-gazs(){return"Choisissez d'abord un modele."}}
-A.eBI.prototype={
-gaAt(){return"Parametres"},
-gaAu(){return"Parametres de generation"},
-gad2(){return"Selectionner un media"},
-gaSX(){return"Prompt personnalise"},
-gaSW(){return"Ajoutez vos propres instructions au modele (style, ambiance, details)."},
-gaOw(){return"Format (rapport)"},
-gaXP(){return"Taille d'image (sortie)"},
-gaXM(){return"1K (Standard)"},
-gaXN(){return"2K (Moyen)"},
-gaXO(){return"4K (Haut)"},
-gb4D(){return"Resolution des images de reference (entree)"},
-gaY7(){return"Faible"},
-gaY8(){return"Moyenne"},
-gaY6(){return"Haute"},
-gaNQ(){return"Options avancees"},
-gaNP(){return"Les utilisateurs avances peuvent modifier les variables du modele avant la generation."},
-gb05(){return"Ce modele n'a pas d'options avancees."},
-gaAg(){return"Definir le libelle de l'image"},
-gaAh(){return"Libelle pour cette image de reference (envoye a l'IA)"}}
-A.eBO.prototype={
-gaVR(){return"La generation de l'apercu a echoue"},
-gb7m(){return"Generation de votre image professionnelle..."}}
-A.eBQ.prototype={
-gHT(){return"Image generee appliquee."},
-gaUC(){return"Image telechargee."}}
-A.eBL.prototype={
-gaVU(){return"Impossible de charger l'image generee."},
-gaYl(){return"Le service IA a renvoye une reponse invalide."},
+gazv(){return"Choisissez d'abord un modele."}}
+A.eBP.prototype={
+gaAw(){return"Parametres"},
+gaAx(){return"Parametres de generation"},
+gad3(){return"Selectionner un media"},
+gaT_(){return"Prompt personnalise"},
+gaSZ(){return"Ajoutez vos propres instructions au modele (style, ambiance, details)."},
+gaOz(){return"Format (rapport)"},
+gaXS(){return"Taille d'image (sortie)"},
+gaXP(){return"1K (Standard)"},
+gaXQ(){return"2K (Moyen)"},
+gaXR(){return"4K (Haut)"},
+gb4H(){return"Resolution des images de reference (entree)"},
+gaYa(){return"Faible"},
+gaYb(){return"Moyenne"},
+gaY9(){return"Haute"},
+gaNT(){return"Options avancees"},
+gaNS(){return"Les utilisateurs avances peuvent modifier les variables du modele avant la generation."},
+gb09(){return"Ce modele n'a pas d'options avancees."},
+gaAj(){return"Definir le libelle de l'image"},
+gaAk(){return"Libelle pour cette image de reference (envoye a l'IA)"}}
+A.eBV.prototype={
+gaVU(){return"La generation de l'apercu a echoue"},
+gb7q(){return"Generation de votre image professionnelle..."}}
+A.eBX.prototype={
+gHU(){return"Image generee appliquee."},
+gaUF(){return"Image telechargee."}}
+A.eBS.prototype={
+gaVX(){return"Impossible de charger l'image generee."},
+gaYo(){return"Le service IA a renvoye une reponse invalide."},
 gDU(){return"La generation d'image a echoue."},
-gaxX(){return"La generation d'image prend trop de temps. Reessayez."},
-garI(){return"Echec du telechargement de l'image."},
-gRJ(){return"Echec du partage de l'image."}}
-A.eC9.prototype={
+gay_(){return"La generation d'image prend trop de temps. Reessayez."},
+garK(){return"Echec du telechargement de l'image."},
+gRK(){return"Echec du partage de l'image."}}
+A.eCg.prototype={
 gi1(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eC8(w,w)}return v}}
-A.eCx.prototype={
+v=this.d=new A.eCf(w,w)}return v}}
+A.eCE.prototype={
 gi1(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eCw(w,w)}return v}}
-A.eCB.prototype={
+v=this.d=new A.eCD(w,w)}return v}}
+A.eCI.prototype={
 gqP(){return"Aujourd'hui"},
 gJx(){return"Cette semaine"},
 gy_(){return"Ce mois"},
 gpk(){return"Tout le temps"}}
-A.eCD.prototype={
+A.eCK.prototype={
 ger(){return"R\xe9ussi"},
 gkt(){return"\xc9chou\xe9"},
-gaXZ(){return"En r\xe9vision"},
-gaXX(){return"En livraison"}}
-A.eDg.prototype={
-gb4s(){return"Veuillez remplir les champs requis"},
-gaue(){return"Ne doit pas d\xe9passer 200 caract\xe8res"}}
-A.eDe.prototype={
-gb3f(){return"Produit cr\xe9\xe9"},
-gb3s(){return"Produit mis \xe0 jour"}}
-A.eCL.prototype={
+gaY1(){return"En r\xe9vision"},
+gaY_(){return"En livraison"}}
+A.eDn.prototype={
+gb4w(){return"Veuillez remplir les champs requis"},
+gaug(){return"Ne doit pas d\xe9passer 200 caract\xe8res"}}
+A.eDl.prototype={
+gb3j(){return"Produit cr\xe9\xe9"},
+gb3w(){return"Produit mis \xe0 jour"}}
+A.eCS.prototype={
 gN(){return"\xcates-vous s\xfbr ?"},
 grI(){return"Les modifications seront annul\xe9es."},
 gbU(){return"Annuler"},
 gpL(){return"Confirmer"}}
-A.eCN.prototype={
+A.eCU.prototype={
 gdU(){var w=this.f
-return w===$?this.f=new A.eCR():w},
+return w===$?this.f=new A.eCY():w},
 gcH(){var w=this.r
-return w===$?this.r=new A.eCT():w},
-giw(){var w=this.w
-return w===$?this.w=new A.eCP():w}}
-A.eCJ.prototype={
+return w===$?this.r=new A.eD_():w},
+gix(){var w=this.w
+return w===$?this.w=new A.eCW():w}}
+A.eCQ.prototype={
 gN(){return"Assistant IA"},
 gdn(){return"\xc9crivez ce que vous voulez cr\xe9er ou modifier"},
-gaxP(){return"Veuillez d'abord \xe9crire les instructions"},
+gaxS(){return"Veuillez d'abord \xe9crire les instructions"},
 gCi(){return"Les modifications de l'IA ont \xe9t\xe9 appliqu\xe9es."},
-gacc(){return"G\xe9n\xe9rer"},
-gatp(){return"Exemple : Ajoutez des couleurs (noir, blanc) chaque couleur avec des tailles S,M,L\nR\xe9\xe9crivez la description de mani\xe8re marketing..."},
+gacd(){return"G\xe9n\xe9rer"},
+gatr(){return"Exemple : Ajoutez des couleurs (noir, blanc) chaque couleur avec des tailles S,M,L\nR\xe9\xe9crivez la description de mani\xe8re marketing..."},
 gDU(){return"G\xe9n\xe9ration \xe9chou\xe9e"},
 gFi(){return"Am\xe9liorer avec l'IA"},
-gaUX(){return"Modifier la consigne d'am\xe9lioration"}}
-A.eCZ.prototype={
-gauE(){return"Aucun pixel activ\xe9"},
+gaV_(){return"Modifier la consigne d'am\xe9lioration"}}
+A.eD5.prototype={
+gauG(){return"Aucun pixel activ\xe9"},
 gdU(){var w=this.f
-return w===$?this.f=new A.eD2():w},
+return w===$?this.f=new A.eD9():w},
 gcH(){var w=this.r
-return w===$?this.r=new A.eD4():w},
-giw(){var w=this.w
-return w===$?this.w=new A.eD0():w}}
-A.eDa.prototype={
-gaU6(){return"Informations d\xe9taill\xe9es"},
-gaSR(){return"Cr\xe9er avec l'IA"},
-gb08(){return"Aucun contenu pour le moment, cliquez sur le bouton de modification pour ajouter des informations d\xe9taill\xe9es sur le produit"},
-gavV(){return"Contenu du produit"},
-gaUW(){return"Modifier le contenu d\xe9taill\xe9"},
-gaSC(){return"Cr\xe9er du contenu avec l'IA"}}
-A.eCH.prototype={
+return w===$?this.r=new A.eDb():w},
+gix(){var w=this.w
+return w===$?this.w=new A.eD7():w}}
+A.eDh.prototype={
+gaU9(){return"Informations d\xe9taill\xe9es"},
+gaSU(){return"Cr\xe9er avec l'IA"},
+gb0c(){return"Aucun contenu pour le moment, cliquez sur le bouton de modification pour ajouter des informations d\xe9taill\xe9es sur le produit"},
+gavX(){return"Contenu du produit"},
+gaUZ(){return"Modifier le contenu d\xe9taill\xe9"},
+gaSF(){return"Cr\xe9er du contenu avec l'IA"}}
+A.eCO.prototype={
 gN(){return"Compl\xe9ments"},
-gaqC(){var w=this.d
-return w===$?this.d=new A.eCF():w},
-ga6C(){return"Ajouter un nouveau"},
+gaqE(){var w=this.d
+return w===$?this.d=new A.eCM():w},
+ga6D(){return"Ajouter un nouveau"},
 gkH(){return"Modifier le compl\xe9ment"},
 gfN(){return"Image du compl\xe9ment"},
 gBB(){return"Titre du compl\xe9ment"},
 gCJ(){return"Description du compl\xe9ment"},
 gx4(){return"Prix du compl\xe9ment"},
-gaBJ(){return"Stock"},
-gb_z(){return"Minimum"},
-gb_i(){return"Maximum"},
-gb04(){return"Aucun compl\xe9ment pour le moment"},
-gaN0(){return"Ajoutez d'abord un compl\xe9ment pour qu'il soit visible par les clients"}}
-A.eDi.prototype={
-gaN1(){return"Ajouter un attribut"},
-gb45(){return"R\xe9g\xe9n\xe9rer"},
-gb_Z(){return"Nouveau"},
-ganS(){return"Ajouter une option"},
-gaN4(){return"Ajouter des sous-options"},
-gb0o(){return'Aucune option. Appuyez sur "Ajouter une option" ou cr\xe9ez \xe0 partir des attributs ci-dessus.'},
-gb6V(){return"Param\xe8tres de la variante"},
-gaon(){return"Principes de base"},
-gb6T(){return"Nom de la variante"},
-gaUs(){return"M\xe9thode d'affichage"},
+gaBM(){return"Stock"},
+gb_D(){return"Minimum"},
+gb_m(){return"Maximum"},
+gb08(){return"Aucun compl\xe9ment pour le moment"},
+gaN3(){return"Ajoutez d'abord un compl\xe9ment pour qu'il soit visible par les clients"}}
+A.eDp.prototype={
+gaN4(){return"Ajouter un attribut"},
+gb49(){return"R\xe9g\xe9n\xe9rer"},
+gb02(){return"Nouveau"},
+ganU(){return"Ajouter une option"},
+gaN7(){return"Ajouter des sous-options"},
+gb0s(){return'Aucune option. Appuyez sur "Ajouter une option" ou cr\xe9ez \xe0 partir des attributs ci-dessus.'},
+gb6Z(){return"Param\xe8tres de la variante"},
+gaop(){return"Principes de base"},
+gb6X(){return"Nom de la variante"},
+gaUv(){return"M\xe9thode d'affichage"},
 gi6(){return"Options"},
 gt2(){return"Requis"},
 gtX(){return"Prix"},
 gda(){return"Couleur"},
 gfN(){return"Image"},
-gb1G(){return"Param\xe8tres de l'option"},
-gb1F(){return"Nom de l'option"},
-gb1H(){return"Type d'option"},
+gb1K(){return"Param\xe8tres de l'option"},
+gb1J(){return"Nom de l'option"},
+gb1L(){return"Type d'option"},
 gn(){return"Valeur"},
-gb3_(){return"Prix et stock"},
-gA1(){return"SKU"},
+gb33(){return"Prix et stock"},
+gA2(){return"SKU"},
 gxJ(){return"Remise"},
-gb3E(){return"Quantit\xe9"},
+gb3I(){return"Quantit\xe9"},
 gaP(){return"Statut"},
-ga96(){return"Masqu\xe9"},
-gaWC(){return"Forcer la s\xe9lection de la branche"},
+ga97(){return"Masqu\xe9"},
+gaWF(){return"Forcer la s\xe9lection de la branche"},
 gOh(){return"S\xe9lectionner"},
-gaXQ(){return"URL de l'image"},
-gb0j(){return"Aucune image"},
-gazg(){return"Choisir parmi les images"},
-gap3(){return"Choisir une image"},
-gb0k(){return"Aucune image disponible"},
-gaV3(){return"Modifier"},
-gaqM(){return"Supprimer"},
-gb1B(){return"Option"},
-gaTp(){return"\xc9l\xe9ment 1"},
-gaUS(){return"Modifier l'attribut"},
-gaNo(){return"Ajouter un nouvel attribut"},
-b6P(d){return""+d+" valeur(s)"},
-ga_P(){return"Texte"},
-gaQy(){return"Valeur couleur (d\xe9cimal)"},
-gaOF(){return"Nom de l'attribut"},
-gaOE(){return"ex. Couleur, Taille..."},
-gb6S(){return"Valeurs"},
-gaN3(){return"Ajouter"},
-gaNx(){return"Ajoutez d'abord des images au produit"},
-aXR(d){return""+d+" image(s) disponible(s)"},
-aXK(d){return"Image "+d},
-gb1E(){return"Nom de l'option ou valeur..."},
-gb1C(){return"Nom de la couleur (ex. rouge)..."},
-gb1D(){return"Nom de l'option (ex. premi\xe8re image)..."},
-gb0p(){return"Aucune option pour le moment"},
-gaNb(){return"Ajoutez une premi\xe8re option \xe0 afficher aux clients"},
-aYW(d){return"\xc9l\xe9ment "+d}}
-A.eDc.prototype={
-gaAF(){return"Prix d'exp\xe9dition"},
-gaxB(){return"Utiliser le prix d'exp\xe9dition par d\xe9faut de la boutique"},
-gaSZ(){return"Prix d'exp\xe9dition personnalis\xe9"},
-gb_C(){return"Modificateurs"},
-gb_B(){return"Couleurs, offres et compl\xe9ments"},
-gaNO(){return"Mod\xe8le, lien, exp\xe9dition et plus"},
-gaT0(){return"Mod\xe8le personnalis\xe9"},
-gb6F(){return"Le prix d'exp\xe9dition de la boutique sera utilis\xe9"},
-gb0A(){return"Aucun prix d'exp\xe9dition ajout\xe9"}}
-A.eD6.prototype={
-gaU_(){return"Description de l'offre (optionnel)"},
-gasA(){return"Livraison gratuite"},
-gaWO(){return"Activer la livraison gratuite pour cette offre"},
-gb0n(){return"Aucune offre pour le moment"},
-gaNr(){return"Ajouter une offre"},
-gaV1(){return"Modifier l'offre"},
-gb0_(){return"Nouvelle offre"},
-gaC2(){return"Mettre \xe0 jour et enregistrer"},
-gaC3(){return"Code, titre, prix"},
-gaz3(){return"Infos offre"},
+gaXT(){return"URL de l'image"},
+gb0n(){return"Aucune image"},
+gazj(){return"Choisir parmi les images"},
+gap5(){return"Choisir une image"},
+gb0o(){return"Aucune image disponible"},
+gaV6(){return"Modifier"},
+gaqO(){return"Supprimer"},
+gb1F(){return"Option"},
+gaTs(){return"\xc9l\xe9ment 1"},
+gaUV(){return"Modifier l'attribut"},
+gaNr(){return"Ajouter un nouvel attribut"},
+b6T(d){return""+d+" valeur(s)"},
+ga_R(){return"Texte"},
+gaQB(){return"Valeur couleur (d\xe9cimal)"},
+gaOI(){return"Nom de l'attribut"},
+gaOH(){return"ex. Couleur, Taille..."},
+gb6W(){return"Valeurs"},
+gaN6(){return"Ajouter"},
+gaNA(){return"Ajoutez d'abord des images au produit"},
+aXU(d){return""+d+" image(s) disponible(s)"},
+aXN(d){return"Image "+d},
+gb1I(){return"Nom de l'option ou valeur..."},
+gb1G(){return"Nom de la couleur (ex. rouge)..."},
+gb1H(){return"Nom de l'option (ex. premi\xe8re image)..."},
+gb0t(){return"Aucune option pour le moment"},
+gaNe(){return"Ajoutez une premi\xe8re option \xe0 afficher aux clients"},
+aYZ(d){return"\xc9l\xe9ment "+d}}
+A.eDj.prototype={
+gaAI(){return"Prix d'exp\xe9dition"},
+gaxE(){return"Utiliser le prix d'exp\xe9dition par d\xe9faut de la boutique"},
+gaT1(){return"Prix d'exp\xe9dition personnalis\xe9"},
+gb_G(){return"Modificateurs"},
+gb_F(){return"Couleurs, offres et compl\xe9ments"},
+gaNR(){return"Mod\xe8le, lien, exp\xe9dition et plus"},
+gaT3(){return"Mod\xe8le personnalis\xe9"},
+gb6J(){return"Le prix d'exp\xe9dition de la boutique sera utilis\xe9"},
+gb0E(){return"Aucun prix d'exp\xe9dition ajout\xe9"}}
+A.eDd.prototype={
+gaU2(){return"Description de l'offre (optionnel)"},
+gasC(){return"Livraison gratuite"},
+gaWR(){return"Activer la livraison gratuite pour cette offre"},
+gb0r(){return"Aucune offre pour le moment"},
+gaNu(){return"Ajouter une offre"},
+gaV4(){return"Modifier l'offre"},
+gb03(){return"Nouvelle offre"},
+gaC5(){return"Mettre \xe0 jour et enregistrer"},
+gaC6(){return"Code, titre, prix"},
+gaz6(){return"Infos offre"},
 gOy(){return"Code offre"},
 gBB(){return"Titre de l'offre"},
-gb5h(){return"Visible par le client"},
-gaz4(){return"Prix et conditions"},
+gb5l(){return"Visible par le client"},
+gaz7(){return"Prix et conditions"},
 gx4(){return"Prix de l'offre"},
-gb4t(){return"Veuillez saisir le code de l'offre"},
-gb4u(){return"Veuillez saisir le titre de l'offre"},
-gb_j(){return"Ne doit pas d\xe9passer 100 caract\xe8res"},
-gaNs(){return"Ajoutez d'abord une offre pour qu'elle soit visible par les clients"}}
-A.eD8.prototype={
+gb4x(){return"Veuillez saisir le code de l'offre"},
+gb4y(){return"Veuillez saisir le titre de l'offre"},
+gb_n(){return"Ne doit pas d\xe9passer 100 caract\xe8res"},
+gaNv(){return"Ajoutez d'abord une offre pour qu'elle soit visible par les clients"}}
+A.eDf.prototype={
 gN(){return"M\xe9thode de paiement"},
 god(){return"Configurer la m\xe9thode de paiement"},
 gd3(){return"Supprimer les param\xe8tres de paiement"},
-gAK(){return"Supprimer les param\xe8tres de paiement"},
+gAL(){return"Supprimer les param\xe8tres de paiement"},
 gM2(){return"\xcates-vous s\xfbr de vouloir supprimer les param\xe8tres de paiement pour ce produit ?"},
-gaVh(){return"Activ\xe9 - par d\xe9faut"},
+gaVk(){return"Activ\xe9 - par d\xe9faut"},
 gCL(){return"D\xe9sactiv\xe9"},
-aVi(d){return"Activ\xe9 - "+d}}
-A.eCW.prototype={
-aVS(d){return"\xc9chec de la cr\xe9ation de la cat\xe9gorie : "+B.h(d)},
-RI(d){return y.h+B.h(d)},
-aVX(d){return"\xc9chec de l'ouverture de l'\xe9diteur de mod\xe8le : "+B.h(d)}}
-A.eDl.prototype={
-aZD(d){return"\xc9chec du chargement des donn\xe9es : "+d}}
-A.eDo.prototype={
-gaOL(){return"Aucune donn\xe9e"}}
-A.eDu.prototype={
+aVl(d){return"Activ\xe9 - "+d}}
+A.eD2.prototype={
+aVV(d){return"\xc9chec de la cr\xe9ation de la cat\xe9gorie : "+B.h(d)},
+RJ(d){return y.h+B.h(d)},
+aW_(d){return"\xc9chec de l'ouverture de l'\xe9diteur de mod\xe8le : "+B.h(d)}}
+A.eDs.prototype={
+aZH(d){return"\xc9chec du chargement des donn\xe9es : "+d}}
+A.eDv.prototype={
+gaOO(){return"Aucune donn\xe9e"}}
+A.eDB.prototype={
 gqP(){return"Aujourd'hui"},
-gzS(){return"Hier"},
+gzT(){return"Hier"},
 gDG(){return"Cette semaine"},
-gSy(){return"Semaine derni\xe8re"},
+gSz(){return"Semaine derni\xe8re"},
 gDF(){return"Ce mois"},
-gSw(){return"Mois dernier"},
-gb_D(){return"Il y a {months} mois"},
-gb7O(){return"Il y a 1 an"},
-gb7P(){return"Il y a {years} ans"}}
-A.eDq.prototype={
-gaTC(){return"Supprimer {count} commande(s)"},
-gaqK(){return"\xcates-vous s\xfbr de vouloir supprimer les commandes s\xe9lectionn\xe9es ?\nCette action est permanente et ne peut pas \xeatre annul\xe9e."},
-gaTD(){return"Commandes s\xe9lectionn\xe9es supprim\xe9es avec succ\xe8s"},
-gaof(){return"Assigner {count} commande(s) \xe0 un membre"},
-gaOB(){return"Assigner la commande \xe0 un membre"},
-gazi(){return"S\xe9lectionnez le membre auquel vous voulez assigner les commandes :"},
-gazk(){return"S\xe9lectionnez le membre auquel vous voulez assigner la commande :"},
-gazj(){return"S\xe9lectionner un membre"},
-ga6U(){return"{count} commande(s) assign\xe9e(s) avec succ\xe8s"},
-gaOC(){return"Commande assign\xe9e avec succ\xe8s"},
-gaOz(){return"Erreur lors de l'assignation des commandes : {error}"},
-gaOA(){return"Erreur lors de l'assignation de la commande : {error}"},
+gSx(){return"Mois dernier"},
+gb_H(){return"Il y a {months} mois"},
+gb7S(){return"Il y a 1 an"},
+gb7T(){return"Il y a {years} ans"}}
+A.eDx.prototype={
+gaTF(){return"Supprimer {count} commande(s)"},
+gaqM(){return"\xcates-vous s\xfbr de vouloir supprimer les commandes s\xe9lectionn\xe9es ?\nCette action est permanente et ne peut pas \xeatre annul\xe9e."},
+gaTG(){return"Commandes s\xe9lectionn\xe9es supprim\xe9es avec succ\xe8s"},
+gaoh(){return"Assigner {count} commande(s) \xe0 un membre"},
+gaOE(){return"Assigner la commande \xe0 un membre"},
+gazl(){return"S\xe9lectionnez le membre auquel vous voulez assigner les commandes :"},
+gazn(){return"S\xe9lectionnez le membre auquel vous voulez assigner la commande :"},
+gazm(){return"S\xe9lectionner un membre"},
+ga6V(){return"{count} commande(s) assign\xe9e(s) avec succ\xe8s"},
+gaOF(){return"Commande assign\xe9e avec succ\xe8s"},
+gaOC(){return"Erreur lors de l'assignation des commandes : {error}"},
+gaOD(){return"Erreur lors de l'assignation de la commande : {error}"},
 gN1(){return"Aucun membre dans ce magasin"},
-gar4(){return"R\xe9partir {count} commandes"},
-gaUp(){return"Attribuer les commandes s\xe9lectionn\xe9es aux confirmeurs selon la strat\xe9gie choisie."},
-gazq(){return"S\xe9lectionner la strat\xe9gie de r\xe9partition"},
-gaUn(){return"R\xe9partir"},
-gaUr(){return"{count} commande(s) r\xe9partie(s) avec succ\xe8s"},
-gaUo(){return"Erreur lors de la r\xe9partition : {error}"}}
-A.eE9.prototype={
-gadj(){return"Envoyer des \xe9v\xe9nements {eventName} pour {count} commande(s)"},
-gadl(){return"\xcates-vous s\xfbr de vouloir envoyer des \xe9v\xe9nements {eventName} pour toutes les commandes s\xe9lectionn\xe9es \xe0 {pixelType} ?"},
-gadn(){return"{count} \xe9v\xe9nement(s) seront envoy\xe9s \xe0 {pixelCount} pixel(s)"},
-gadI(){return"Envoi des \xe9v\xe9nements {eventName}..."},
-gadp(){return"\xc9v\xe9nements {eventName} envoy\xe9s avec succ\xe8s pour toutes les commandes ({successfulEvents} \xe9v\xe9nement(s))"},
-gado(){return"{successfulEvents} \xe9v\xe9nement(s) envoy\xe9(s) avec succ\xe8s, {failedEvents} \xe9v\xe9nement(s) ont \xe9chou\xe9 sur {totalOrders} commandes"},
-gadm(){return"Erreur lors de l'envoi des \xe9v\xe9nements {eventName} : {error}"},
-gadk(){return"Envoyer les \xe9v\xe9nements"},
+gar6(){return"R\xe9partir {count} commandes"},
+gaUs(){return"Attribuer les commandes s\xe9lectionn\xe9es aux confirmeurs selon la strat\xe9gie choisie."},
+gazt(){return"S\xe9lectionner la strat\xe9gie de r\xe9partition"},
+gaUq(){return"R\xe9partir"},
+gaUu(){return"{count} commande(s) r\xe9partie(s) avec succ\xe8s"},
+gaUr(){return"Erreur lors de la r\xe9partition : {error}"}}
+A.eEg.prototype={
+gadk(){return"Envoyer des \xe9v\xe9nements {eventName} pour {count} commande(s)"},
+gadm(){return"\xcates-vous s\xfbr de vouloir envoyer des \xe9v\xe9nements {eventName} pour toutes les commandes s\xe9lectionn\xe9es \xe0 {pixelType} ?"},
+gado(){return"{count} \xe9v\xe9nement(s) seront envoy\xe9s \xe0 {pixelCount} pixel(s)"},
+gadJ(){return"Envoi des \xe9v\xe9nements {eventName}..."},
+gadq(){return"\xc9v\xe9nements {eventName} envoy\xe9s avec succ\xe8s pour toutes les commandes ({successfulEvents} \xe9v\xe9nement(s))"},
+gadp(){return"{successfulEvents} \xe9v\xe9nement(s) envoy\xe9(s) avec succ\xe8s, {failedEvents} \xe9v\xe9nement(s) ont \xe9chou\xe9 sur {totalOrders} commandes"},
+gadn(){return"Erreur lors de l'envoi des \xe9v\xe9nements {eventName} : {error}"},
+gadl(){return"Envoyer les \xe9v\xe9nements"},
 gdU(){var w=this.e
-return w===$?this.e=new A.eEb():w},
+return w===$?this.e=new A.eEi():w},
 gcH(){var w=this.f
-return w===$?this.f=new A.eEd():w}}
-A.eDw.prototype={
-gadF(){return"Envoyer vers Zimou Express"},
+return w===$?this.f=new A.eEk():w}}
+A.eDD.prototype={
+gadG(){return"Envoyer vers Zimou Express"},
 gvg(){return"Envoi en cours..."},
-gzY(){return"Commande envoy\xe9e avec succ\xe8s"},
-gazE(){return"Erreur : {error}"},
+gzZ(){return"Commande envoy\xe9e avec succ\xe8s"},
+gazH(){return"Erreur : {error}"},
 gJM(){return"Envoyer vers Ecomanager"},
-gb1r(){return"Ouvrir Ecomanager"},
-gaPw(){return"Annuler le lien Ecomanager"},
-gaPx(){return"Annuler le lien Ecomanager"},
-gaPv(){return"Les donn\xe9es de lien Ecomanager seront supprim\xe9es de la commande"},
-gaoI(){return"Lien Ecomanager annul\xe9 avec succ\xe8s"},
-gaoH(){return"Erreur lors de l'annulation du lien : {error}"},
-gaoM(){return"\xcates-vous s\xfbr de vouloir annuler le lien ?"},
-ga74(){return"Lien annul\xe9 avec succ\xe8s"},
-gaPz(){return"Annuler le lien"},
+gb1v(){return"Ouvrir Ecomanager"},
+gaPz(){return"Annuler le lien Ecomanager"},
+gaPA(){return"Annuler le lien Ecomanager"},
+gaPy(){return"Les donn\xe9es de lien Ecomanager seront supprim\xe9es de la commande"},
+gaoK(){return"Lien Ecomanager annul\xe9 avec succ\xe8s"},
+gaoJ(){return"Erreur lors de l'annulation du lien : {error}"},
+gaoO(){return"\xcates-vous s\xfbr de vouloir annuler le lien ?"},
+ga75(){return"Lien annul\xe9 avec succ\xe8s"},
+gaPC(){return"Annuler le lien"},
 gEZ(){return"Annuler l'envoi"},
-garn(){return"Le service Ecotrack n'est pas disponible"},
-gaoJ(){return"Annuler le lien supprimera d\xe9finitivement la commande d'ecotrack"},
-gaPB(){return"Annuler le lien supprimera d\xe9finitivement la commande de Noest"},
-gaPE(){return"Lien Noest annul\xe9 avec succ\xe8s"},
-gadG(){return"Envoyer \xe0 ZR Express"},
-gao5(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 ZR Express"},
-gao3(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 Ecotrack"},
-ga75(){return"Lien annul\xe9 avec succ\xe8s pour {count} commande(s)"},
-ga73(){return"Lien annul\xe9 pour {successCount} commande(s), \xe9chec {failCount}"},
-gaoQ(){return"Annuler le lien supprimera d\xe9finitivement la commande de ZR Express"},
-gaPJ(){return"Lien ZR Express annul\xe9 avec succ\xe8s"},
-gadA(){return"Envoyer \xe0 Maystro"},
-gao4(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 Maystro"},
-gaoO(){return"Annuler le lien avec Maystro"},
-gaoP(){return"Annuler le lien avec Maystro"},
-gaoN(){return"Annuler le lien supprimera la commande de Maystro"},
-gaPA(){return"Lien Maystro annul\xe9 avec succ\xe8s"}}
-A.eEf.prototype={
+garp(){return"Le service Ecotrack n'est pas disponible"},
+gaoL(){return"Annuler le lien supprimera d\xe9finitivement la commande d'ecotrack"},
+gaPE(){return"Annuler le lien supprimera d\xe9finitivement la commande de Noest"},
+gaPH(){return"Lien Noest annul\xe9 avec succ\xe8s"},
+gadH(){return"Envoyer \xe0 ZR Express"},
+gao7(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 ZR Express"},
+gao5(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 Ecotrack"},
+ga76(){return"Lien annul\xe9 avec succ\xe8s pour {count} commande(s)"},
+ga74(){return"Lien annul\xe9 pour {successCount} commande(s), \xe9chec {failCount}"},
+gaoS(){return"Annuler le lien supprimera d\xe9finitivement la commande de ZR Express"},
+gaPM(){return"Lien ZR Express annul\xe9 avec succ\xe8s"},
+gadB(){return"Envoyer \xe0 Maystro"},
+gao6(){return"Toutes les commandes s\xe9lectionn\xe9es sont d\xe9j\xe0 envoy\xe9es \xe0 Maystro"},
+gaoQ(){return"Annuler le lien avec Maystro"},
+gaoR(){return"Annuler le lien avec Maystro"},
+gaoP(){return"Annuler le lien supprimera la commande de Maystro"},
+gaPD(){return"Lien Maystro annul\xe9 avec succ\xe8s"}}
+A.eEm.prototype={
 gq5(){return"Risque retour"},
 gN(){return"Risque de retour ({count} num\xe9ro(s))"},
-gb0w(){return"Aucun num\xe9ro de t\xe9l\xe9phone disponible pour v\xe9rifier le risque de retour"},
+gb0A(){return"Aucun num\xe9ro de t\xe9l\xe9phone disponible pour v\xe9rifier le risque de retour"},
 gel(){return"Une erreur s'est produite lors de la v\xe9rification du risque de retour"},
 grX(){return"Aucune donn\xe9e disponible"},
-gb0b(){return"Aucune information sur le risque de retour trouv\xe9e pour les num\xe9ros s\xe9lectionn\xe9s"},
-gaQ4(){return"{count} num\xe9ro(s) de t\xe9l\xe9phone v\xe9rifi\xe9(s)"},
-gaWL(){return"Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"},
-gaXs(){return"Risque \xe9lev\xe9"},
-gb_q(){return"Risque moyen"},
-gaZQ(){return"Risque faible"},
-gRe(){return"Livr\xe9"},
+gb0f(){return"Aucune information sur le risque de retour trouv\xe9e pour les num\xe9ros s\xe9lectionn\xe9s"},
+gaQ7(){return"{count} num\xe9ro(s) de t\xe9l\xe9phone v\xe9rifi\xe9(s)"},
+gaWO(){return"Donn\xe9es trouv\xe9es pour {count} num\xe9ro(s)"},
+gaXv(){return"Risque \xe9lev\xe9"},
+gb_u(){return"Risque moyen"},
+gaZU(){return"Risque faible"},
+gRf(){return"Livr\xe9"},
 gkt(){return"\xc9chec de la livraison"},
-gb5R(){return"Total des commandes"},
-gb4R(){return"Pourcentage de risque"},
-aOS(d,e){return"Risque de retour \xe9lev\xe9, "+d+" sur "+e+" commandes retourn\xe9es"},
-aOT(d,e){return"Risque de retour moyen, "+d+" sur "+e+" commandes retourn\xe9es"},
-aom(d,e){return"Risque de retour faible, "+d+" sur "+e+" commandes retourn\xe9es"},
-aOU(d,e){return"Risque de retour tr\xe8s \xe9lev\xe9, "+d+" sur "+e+" commandes retourn\xe9es"}}
-A.eDZ.prototype={
-gAL(){var w=this.d
-return w===$?this.d=new A.eDX():w},
+gb5V(){return"Total des commandes"},
+gb4V(){return"Pourcentage de risque"},
+aOV(d,e){return"Risque de retour \xe9lev\xe9, "+d+" sur "+e+" commandes retourn\xe9es"},
+aOW(d,e){return"Risque de retour moyen, "+d+" sur "+e+" commandes retourn\xe9es"},
+aoo(d,e){return"Risque de retour faible, "+d+" sur "+e+" commandes retourn\xe9es"},
+aOX(d,e){return"Risque de retour tr\xe8s \xe9lev\xe9, "+d+" sur "+e+" commandes retourn\xe9es"}}
+A.eE5.prototype={
+gAM(){var w=this.d
+return w===$?this.d=new A.eE3():w},
 gze(){return"Filtre de date"},
 ghV(){return"Filtre d'\xe9tiquettes"},
-gaui(){return"Filtre confirm\xe9 par"},
+gauk(){return"Filtre confirm\xe9 par"},
 gNk(){return"Filtre de produit"},
 gcK(){return"Filtre d'\xe9tat"},
 gaP(){return"Filtre de statut de commande"},
 gr5(){return"Filtre de statut personnalis\xe9"},
-gaqN(){return"Filtre de service de livraison"},
+gaqP(){return"Filtre de service de livraison"},
 gqz(){return"Filtre de statut de livraison"},
 gqI(){return"Filtre de statut de paiement"},
-gaSV(){return"Date personnalis\xe9e"},
-gaAY(){return"Depuis aujourd'hui"},
-gaAZ(){return"Depuis hier"},
-gSv(){return"Derni\xe8res 2 heures"},
-gSu(){return"Derni\xe8res 24 heures"},
-gSy(){return"Derni\xe8re semaine"},
-gaZa(){return"30 derniers jours"},
-gaAX(){return"Depuis {date}"},
-gaOX(){return"Avant {date}"}}
-A.eEj.prototype={
-gaNt(){return"Ajouter une commande"},
-gavT(){return"Imprimer les \xe9tiquettes"},
-gazS(){return"Envoyer \xe0 la livraison"},
-gazJ(){return"Envoyer des \xe9v\xe9nements Meta Pixel"},
-gQB(){return"Changer le statut"},
-gRc(){return"Supprimer la s\xe9lection"},
-gXT(){return"Annuler la s\xe9lection"},
+gaSY(){return"Date personnalis\xe9e"},
+gaB0(){return"Depuis aujourd'hui"},
+gaB1(){return"Depuis hier"},
+gSw(){return"Derni\xe8res 2 heures"},
+gSv(){return"Derni\xe8res 24 heures"},
+gSz(){return"Derni\xe8re semaine"},
+gaZe(){return"30 derniers jours"},
+gaB_(){return"Depuis {date}"},
+gaP_(){return"Avant {date}"}}
+A.eEq.prototype={
+gaNw(){return"Ajouter une commande"},
+gavV(){return"Imprimer les \xe9tiquettes"},
+gazV(){return"Envoyer \xe0 la livraison"},
+gazM(){return"Envoyer des \xe9v\xe9nements Meta Pixel"},
+gQC(){return"Changer le statut"},
+gRd(){return"Supprimer la s\xe9lection"},
+gXV(){return"Annuler la s\xe9lection"},
 gMY(){return"Plus"},
-gGx(){return"{count} s\xe9lectionn\xe9(s)"},
-gaCX(){return"Synchroniser les commandes"},
-gaCY(){return"Commandes synchronis\xe9es avec Ecotrack avec succ\xe8s"},
-gaCR(){return"\xc9chec de la synchronisation des commandes : {error}"},
-gb1L(){return"Num\xe9ro de commande copi\xe9"},
-gaTB(){return"Commande supprim\xe9e avec succ\xe8s"},
-gaQ_(){return"Statut modifi\xe9 avec succ\xe8s pour {count} commande(s)"},
-gaPZ(){return"Changer le statut de {count} commande(s)"},
-ga1E(){var w=this.d
-return w===$?this.d=new A.eEl():w},
-gGu(){return"Exemple : num\xe9ro de t\xe9l\xe9phone.."},
-gb_t(){return"Entrez le texte du message"},
+gGy(){return"{count} s\xe9lectionn\xe9(s)"},
+gaD_(){return"Synchroniser les commandes"},
+gaD0(){return"Commandes synchronis\xe9es avec Ecotrack avec succ\xe8s"},
+gaCU(){return"\xc9chec de la synchronisation des commandes : {error}"},
+gb1P(){return"Num\xe9ro de commande copi\xe9"},
+gaTE(){return"Commande supprim\xe9e avec succ\xe8s"},
+gaQ2(){return"Statut modifi\xe9 avec succ\xe8s pour {count} commande(s)"},
+gaQ1(){return"Changer le statut de {count} commande(s)"},
+ga1F(){var w=this.d
+return w===$?this.d=new A.eEs():w},
+gGv(){return"Exemple : num\xe9ro de t\xe9l\xe9phone.."},
+gb_x(){return"Entrez le texte du message"},
 gbU(){return"Annuler"},
 gBh(){return"Sans nom"},
-gaVM(){return"Exporter les commandes"}}
-A.eDs.prototype={
+gaVP(){return"Exporter les commandes"}}
+A.eDz.prototype={
 gN(){return"\xc9tiquettes personnalis\xe9es"},
-gaNB(){return"\xc9tiqueter"},
-gaNq(){return"Ajouter une nouvelle \xe9tiquette"},
-gaN9(){return"Date d'ajout"},
+gaNE(){return"\xc9tiqueter"},
+gaNt(){return"Ajouter une nouvelle \xe9tiquette"},
+gaNc(){return"Date d'ajout"},
 gy3(){return"Note"},
-gaND(){return"Ajout\xe9 par"},
-gb6b(){return"Inconnu"},
-gb4Z(){return"Commande \xe9tiquet\xe9e avec succ\xe8s"},
-gaTL(){return"\xc9tiquette supprim\xe9e avec succ\xe8s"}}
-A.eE5.prototype={
-gb2m(){return"Paiement re\xe7u"},
-gaTN(){return"En cours de livraison"},
-gaQA(){var w=this.d
-return w===$?this.d=new A.eE3():w}}
-A.eE1.prototype={
-gaaB(){return"\xc9chec de l'ouverture de l'\xe9tiquette. Veuillez r\xe9essayer."},
+gaNG(){return"Ajout\xe9 par"},
+gb6f(){return"Inconnu"},
+gb52(){return"Commande \xe9tiquet\xe9e avec succ\xe8s"},
+gaTO(){return"\xc9tiquette supprim\xe9e avec succ\xe8s"}}
+A.eEc.prototype={
+gb2q(){return"Paiement re\xe7u"},
+gaTQ(){return"En cours de livraison"},
+gaQD(){var w=this.d
+return w===$?this.d=new A.eEa():w}}
+A.eE8.prototype={
+gaaC(){return"\xc9chec de l'ouverture de l'\xe9tiquette. Veuillez r\xe9essayer."},
 guV(){return"Erreur de chargement de l'\xe9tiquette : {error}"},
-gaqh(){return"\xc9chec de la cr\xe9ation de l'\xe9tiquette. Veuillez r\xe9essayer plus tard."},
-gauG(){return"Aucun num\xe9ro de suivi pour cette commande. Veuillez patienter pour que ZR Express g\xe9n\xe8re le num\xe9ro de suivi."},
-gb0r(){return"Aucune commande li\xe9e au service de livraison pour l'impression"},
-gatI(){return"\xc9chec de l'ouverture des \xe9tiquettes. Veuillez r\xe9essayer."},
-gatH(){return"Erreur de chargement des \xe9tiquettes : {error}"}}
-A.eEh.prototype={
-gb0s(){return"Aucune commande li\xe9e \xe0 Ecotrack pour l'impression"}}
-A.eDP.prototype={
+gaqj(){return"\xc9chec de la cr\xe9ation de l'\xe9tiquette. Veuillez r\xe9essayer plus tard."},
+gauI(){return"Aucun num\xe9ro de suivi pour cette commande. Veuillez patienter pour que ZR Express g\xe9n\xe8re le num\xe9ro de suivi."},
+gb0v(){return"Aucune commande li\xe9e au service de livraison pour l'impression"},
+gatK(){return"\xc9chec de l'ouverture des \xe9tiquettes. Veuillez r\xe9essayer."},
+gatJ(){return"Erreur de chargement des \xe9tiquettes : {error}"}}
+A.eEo.prototype={
+gb0w(){return"Aucune commande li\xe9e \xe0 Ecotrack pour l'impression"}}
+A.eDW.prototype={
 gbR(){var w=this.w
-return w===$?this.w=new A.eDO():w},
+return w===$?this.w=new A.eDV():w},
 gJU(){var w=this.x
-return w===$?this.x=new A.eDV():w},
-gYK(){var w=this.y
-return w===$?this.y=new A.eDL():w},
-gaaO(){var w=this.z
-return w===$?this.z=new A.eDR():w},
+return w===$?this.x=new A.eE1():w},
+gYM(){var w=this.y
+return w===$?this.y=new A.eDS():w},
+gaaP(){var w=this.z
+return w===$?this.z=new A.eDY():w},
 gJS(){var w=this.Q
-return w===$?this.Q=new A.eDT():w}}
-A.eE7.prototype={
-gaSI(){return"Cr\xe9er un lien de paiement"},
-gaSS(){return"Cr\xe9ation du lien de paiement..."},
-gIa(){return"Copier"},
-gb1t(){return"Ouvrir le lien"},
-gaSJ(){return"\xc9chec de la cr\xe9ation du lien de paiement"},
-gaVy(){return"Une erreur s'est produite : {error}"},
-gb2l(){return"Lien de paiement pr\xeat"},
-gb2k(){return"Lien de paiement"},
-gb2j(){return"Lien de paiement copi\xe9 avec succ\xe8s"}}
-A.eDE.prototype={
-gQm(){return"Montant ({symbol})"},
-gaTg(){return"Valeur d\xe9clar\xe9e ({symbol})"},
-gaTf(){return"Valeur r\xe9elle des produits pour l'assurance"},
-gax0(){return"Montant total :"},
-b5S(d,e){return"Total : "+d+" "+e},
-gadx(){return"Envoy\xe9 avec succ\xe8s :"},
-gads(){return"\xc9chec d'envoi :"},
-gaT2(){return"Client :"},
-gT2(){return"T\xe9l\xe9phone :"},
-ganZ(){return"Adresse :"},
-gQD(){return"Ville :"},
-gGN(){return"Wilaya :"},
-gb3v(){return"Produits :"},
-gST(){return"D\xe9tails de la commande"},
+return w===$?this.Q=new A.eE_():w}}
+A.eEe.prototype={
+gaSL(){return"Cr\xe9er un lien de paiement"},
+gaSV(){return"Cr\xe9ation du lien de paiement..."},
+gIb(){return"Copier"},
+gb1x(){return"Ouvrir le lien"},
+gaSM(){return"\xc9chec de la cr\xe9ation du lien de paiement"},
+gaVB(){return"Une erreur s'est produite : {error}"},
+gb2p(){return"Lien de paiement pr\xeat"},
+gb2o(){return"Lien de paiement"},
+gb2n(){return"Lien de paiement copi\xe9 avec succ\xe8s"}}
+A.eDL.prototype={
+gQn(){return"Montant ({symbol})"},
+gaTj(){return"Valeur d\xe9clar\xe9e ({symbol})"},
+gaTi(){return"Valeur r\xe9elle des produits pour l'assurance"},
+gax3(){return"Montant total :"},
+b5W(d,e){return"Total : "+d+" "+e},
+gady(){return"Envoy\xe9 avec succ\xe8s :"},
+gadt(){return"\xc9chec d'envoi :"},
+gaT5(){return"Client :"},
+gT3(){return"T\xe9l\xe9phone :"},
+gao0(){return"Adresse :"},
+gQE(){return"Ville :"},
+gGO(){return"Wilaya :"},
+gb3z(){return"Produits :"},
+gSU(){return"D\xe9tails de la commande"},
 gDo(){return"Non sp\xe9cifi\xe9"},
-gYw(){return"Client"},
-gAt(){return"Ajouter un produit"},
+gYy(){return"Client"},
+gAu(){return"Ajouter un produit"},
 gx4(){return"Prix"},
-gb5Q(){return"Montant total"},
-gaAE(){return"Prix de livraison"},
-gaTh(){return"La valeur d\xe9clar\xe9e doit \xeatre inf\xe9rieure ou \xe9gale \xe0 150000"},
-gayV(){return"Num\xe9ro de t\xe9l\xe9phone secondaire"},
+gb5U(){return"Montant total"},
+gaAH(){return"Prix de livraison"},
+gaTk(){return"La valeur d\xe9clar\xe9e doit \xeatre inf\xe9rieure ou \xe9gale \xe0 150000"},
+gayY(){return"Num\xe9ro de t\xe9l\xe9phone secondaire"},
 gCJ(){return"Description"},
-gaO4(){return"Montant"},
-gaZB(){return"Charger les communes"},
-gaxM(){return"Poids (kg)"},
-gb7u(){return"Le poids doit \xeatre sup\xe9rieur ou \xe9gal \xe0 0"},
-gaO6(){return"Le montant doit \xeatre sup\xe9rieur ou \xe9gal \xe0 0"},
-gaO5(){return"Le montant doit \xeatre inf\xe9rieur ou \xe9gal \xe0 150000"},
-gZK(){return"Longueur (cm)"},
-ga0c(){return"Largeur (cm)"},
-gZp(){return"Hauteur (cm)"},
-gb23(){return"Informations du colis"},
-gaYi(){return"Assurance"},
-gaYj(){return"En cas d'assurance, des frais de 1% de la valeur d\xe9clar\xe9e seront appliqu\xe9s"},
-aoU(d){return"Centre "+d},
+gaO7(){return"Montant"},
+gaZF(){return"Charger les communes"},
+gaxP(){return"Poids (kg)"},
+gb7y(){return"Le poids doit \xeatre sup\xe9rieur ou \xe9gal \xe0 0"},
+gaO9(){return"Le montant doit \xeatre sup\xe9rieur ou \xe9gal \xe0 0"},
+gaO8(){return"Le montant doit \xeatre inf\xe9rieur ou \xe9gal \xe0 150000"},
+gZM(){return"Longueur (cm)"},
+ga0d(){return"Largeur (cm)"},
+gZr(){return"Hauteur (cm)"},
+gb27(){return"Informations du colis"},
+gaYl(){return"Assurance"},
+gaYm(){return"En cas d'assurance, des frais de 1% de la valeur d\xe9clar\xe9e seront appliqu\xe9s"},
+aoW(d){return"Centre "+d},
 gkN(){return"Erreur inconnue"},
-b1R(d){return"Les commandes suivantes n'ont pas de wilaya : "+d},
-b1Q(d){return"Les commandes suivantes n'ont pas de commune : "+d},
+b1V(d){return"Les commandes suivantes n'ont pas de wilaya : "+d},
+b1U(d){return"Les commandes suivantes n'ont pas de commune : "+d},
 gbJ(){var w=this.w
-return w===$?this.w=new A.eDC():w},
+return w===$?this.w=new A.eDJ():w},
 gNb(){var w=this.x
-return w===$?this.x=new A.eDG():w},
+return w===$?this.x=new A.eDN():w},
 gpQ(){var w=this.y
-return w===$?this.y=new A.eDA():w},
+return w===$?this.y=new A.eDH():w},
 gxC(){var w=this.z
-return w===$?this.z=new A.eDy():w},
+return w===$?this.z=new A.eDF():w},
 gt7(){var w=this.Q
-return w===$?this.Q=new A.eDI():w}}
-A.eEt.prototype={
+return w===$?this.Q=new A.eDP():w}}
+A.eEA.prototype={
 gtD(){var w=this.w
-return w===$?this.w=new A.eEr():w},
-gXN(){var w=this.x
-return w===$?this.x=new A.eEn():w},
-gXX(){var w=this.y
-return w===$?this.y=new A.eEp():w},
-gUt(){var w,v=this.z
+return w===$?this.w=new A.eEy():w},
+gXP(){var w=this.x
+return w===$?this.x=new A.eEu():w},
+gXZ(){var w=this.y
+return w===$?this.y=new A.eEw():w},
+gUv(){var w,v=this.z
 if(v===$){w=this.r
-v=this.z=new A.eEz(w,w)}return v},
-gaaM(){var w=this.Q
-return w===$?this.Q=new A.eEv():w}}
-A.eEH.prototype={
+v=this.z=new A.eEG(w,w)}return v},
+gaaN(){var w=this.Q
+return w===$?this.Q=new A.eEC():w}}
+A.eEO.prototype={
 gnh(){return"Rechercher un magasin par nom ou slug"}}
-A.eEF.prototype={
-gir(){return"Votre compte partenaire est en cours d'examen. Contactez-nous via WhatsApp pour activer les permissions."},
-gb7A(){return"Contacter via WhatsApp"}}
-A.eED.prototype={
+A.eEM.prototype={
+gis(){return"Votre compte partenaire est en cours d'examen. Contactez-nous via WhatsApp pour activer les permissions."},
+gb7E(){return"Contacter via WhatsApp"}}
+A.eEK.prototype={
 gN(){return"Informations l\xe9gales"},
 gbh(){return"Toutes les op\xe9rations sont effectu\xe9es \xe0 votre demande pour le compte des magasins. Veuillez v\xe9rifier l'identit\xe9 du magasin avant d'effectuer tout paiement. Des conditions suppl\xe9mentaires peuvent s'appliquer selon la m\xe9thode de paiement utilis\xe9e."},
-gQP(){return"Contacter le support"}}
-A.eEP.prototype={
-gb4r(){return"Veuillez saisir le montant"},
-gaYm(){return"Veuillez entrer un nombre valide"}}
-A.eEJ.prototype={
-ga8c(){return"DZD"},
-gb6C(){return"USD"}}
-A.eEN.prototype={
+gQQ(){return"Contacter le support"}}
+A.eEW.prototype={
+gb4v(){return"Veuillez saisir le montant"},
+gaYp(){return"Veuillez entrer un nombre valide"}}
+A.eEQ.prototype={
+ga8d(){return"DZD"},
+gb6G(){return"USD"}}
+A.eEU.prototype={
 gbU(){return"Annuler"}}
-A.eET.prototype={
-gb54(){return"Chargement des mod\xe8les\u2026"},
-gb0C(){return"Aucun mod\xe8le disponible. Le mod\xe8le par d\xe9faut sera utilis\xe9."},
-gaTr(){return"Nouvelle page d'atterrissage"},
-gb00(){return"Nouvelle page"},
-gb4f(){return"Renommer"},
-gb4g(){return"Renommer la page d'atterrissage"},
-b4h(d){return'Renomm\xe9 en "'+d+'"'}}
-A.eEZ.prototype={
+A.eF_.prototype={
+gb58(){return"Chargement des mod\xe8les\u2026"},
+gb0G(){return"Aucun mod\xe8le disponible. Le mod\xe8le par d\xe9faut sera utilis\xe9."},
+gaTu(){return"Nouvelle page d'atterrissage"},
+gb04(){return"Nouvelle page"},
+gb4j(){return"Renommer"},
+gb4k(){return"Renommer la page d'atterrissage"},
+b4l(d){return'Renomm\xe9 en "'+d+'"'}}
+A.eF5.prototype={
 gj0(){return"Suivant"}}
-A.eF0.prototype={
+A.eF7.prototype={
 gw1(){return"Nom de la page"},
 gBg(){return"ex. Soldes d'\xe9t\xe9 2024"},
-gb63(){return"Image"},
-gb62(){return"Vide"},
-gb64(){return"Mod\xe8le"},
-gb60(){return"Page d'atterrissage IA"},
-gb61(){return"D\xe9crivez votre page, nous la concevons"},
+gb67(){return"Image"},
+gb66(){return"Vide"},
+gb68(){return"Mod\xe8le"},
+gb64(){return"Page d'atterrissage IA"},
+gb65(){return"D\xe9crivez votre page, nous la concevons"},
 gj0(){return"Suivant"},
-gb01(){return"Ensuite : choisir un mod\xe8le"},
-gb53(){return"Ensuite : choisir un mod\xe8le \xe0 cloner"},
-gaV9(){return"Cr\xe9er une page vierge et ajouter votre contenu"},
-gaqg(){return"Cr\xe9er"},
-gaSD(){return"Cr\xe9er"},
-gb3i(){return"Produit"},
-gb3g(){return"Appuyez pour choisir le produit de cette page"}}
-A.eF4.prototype={
+gb05(){return"Ensuite : choisir un mod\xe8le"},
+gb57(){return"Ensuite : choisir un mod\xe8le \xe0 cloner"},
+gaVc(){return"Cr\xe9er une page vierge et ajouter votre contenu"},
+gaqi(){return"Cr\xe9er"},
+gaSG(){return"Cr\xe9er"},
+gb3m(){return"Produit"},
+gb3k(){return"Appuyez pour choisir le produit de cette page"}}
+A.eFb.prototype={
 gN(){return"Galerie de mod\xe8les"}}
-A.eF6.prototype={
+A.eFd.prototype={
 gpc(){return"G\xe9n\xe9ration de votre image..."},
-gawB(){return"Votre image est pr\xeate"},
-giB(){return"Termin\xe9"},
+gawD(){return"Votre image est pr\xeate"},
+giC(){return"Termin\xe9"},
 gjl(){return"R\xe9essayer"},
-ga7I(){return"Page d'atterrissage cr\xe9\xe9e avec succ\xe8s"}}
-A.eEW.prototype={
-gb_R(){return"Veuillez entrer un nom"},
-gavZ(){return"Veuillez s\xe9lectionner un produit"}}
+ga7J(){return"Page d'atterrissage cr\xe9\xe9e avec succ\xe8s"}}
 A.eF2.prototype={
+gb_V(){return"Veuillez entrer un nom"},
+gaw0(){return"Veuillez s\xe9lectionner un produit"}}
+A.eF9.prototype={
 gN(){return"Confirmer"},
 goe(){return"V\xe9rifier et ajouter un contexte optionnel"},
-gavh(){return"Instructions ou consignes (optionnel)"},
+gavj(){return"Instructions ou consignes (optionnel)"},
 gpb(){return"G\xe9n\xe9rer"}}
-A.eF8.prototype={
+A.eFf.prototype={
 gN(){return"Confirmer et instructions"},
-aC9(d,e){return"Page : "+d+" \xb7 Produit : "+e},
-gaYg(){return"Instructions (optionnel)"},
-gaYf(){return"D\xe9crivez le style, les sections ou le ton souhait\xe9..."},
+aCc(d,e){return"Page : "+d+" \xb7 Produit : "+e},
+gaYj(){return"Instructions (optionnel)"},
+gaYi(){return"D\xe9crivez le style, les sections ou le ton souhait\xe9..."},
 gpb(){return"G\xe9n\xe9rer"}}
-A.eFa.prototype={
+A.eFh.prototype={
 gpc(){return"G\xe9n\xe9ration de votre page..."},
 gel(){return"\xc9chec de la g\xe9n\xe9ration"},
 gjl(){return"R\xe9essayer"},
-gava(){return"Ouvrir l'\xe9diteur"}}
-A.eFE.prototype={
+gavc(){return"Ouvrir l'\xe9diteur"}}
+A.eFL.prototype={
 gN8(){return"Ouvrir la page produit"},
-gaRt(){return"Copier le lien du produit"},
+gaRw(){return"Copier le lien du produit"},
 gDg(){return"Lien du produit copi\xe9"},
-gaRr(){return"Copier le produit"},
-gaRm(){return"Copier le code d'int\xe9gration"},
-gaSF(){return"Cr\xe9er une page d'atterrissage image"},
-gaSQ(){return"Cr\xe9er une voix off"},
+gaRu(){return"Copier le produit"},
+gaRp(){return"Copier le code d'int\xe9gration"},
+gaSI(){return"Cr\xe9er une page d'atterrissage image"},
+gaST(){return"Cr\xe9er une voix off"},
 gkH(){return"Modifier"},
 gd3(){return"Supprimer"}}
-A.eFx.prototype={
-gb3m(){return"Statut du produit"},
-gaw0(){return"Type de produit"},
-gaPR(){return"Cat\xe9gorie"},
+A.eFE.prototype={
+gb3q(){return"Statut du produit"},
+gaw2(){return"Type de produit"},
+gaPU(){return"Cat\xe9gorie"},
 gtX(){return"Prix"},
 gJV(){return"Stock"},
-gaB2(){return"Vendu"},
-gA1(){return"SKU"},
+gaB5(){return"Vendu"},
+gA2(){return"SKU"},
 gLj(){return"Code-barres"},
-gb3k(){return"Nom du produit"},
+gb3o(){return"Nom du produit"},
 gbh(){return"Description"},
 gkW(){return"Lien"},
-gaY_(){return"En stock"},
-gaXj(){return"Contient des m\xe9dias"},
-gaXi(){return"Contient une image"},
-gaXk(){return"Contient des options"},
+gaY2(){return"En stock"},
+gaXm(){return"Contient des m\xe9dias"},
+gaXl(){return"Contient une image"},
+gaXn(){return"Contient des options"},
 gvJ(){return"Cr\xe9\xe9 le"},
-gU0(){return"Mis \xe0 jour le"}}
-A.eFr.prototype={
+gU2(){return"Mis \xe0 jour le"}}
+A.eFy.prototype={
 gaP(){var w=this.e
-return w===$?this.e=new A.eFt():w},
+return w===$?this.e=new A.eFA():w},
 gff(){var w=this.f
-return w===$?this.f=new A.eFv():w},
+return w===$?this.f=new A.eFC():w},
 gpk(){return"Tout"}}
-A.eFk.prototype={
+A.eFr.prototype={
 gN(){return"Supprimer le produit"},
-gaQV(){return'\xcates-vous s\xfbr de vouloir supprimer le produit "{name}" ?\nCette action est d\xe9finitive et ne peut pas \xeatre annul\xe9e.'},
+gaQY(){return'\xcates-vous s\xfbr de vouloir supprimer le produit "{name}" ?\nCette action est d\xe9finitive et ne peut pas \xeatre annul\xe9e.'},
 gBY(){return'Produit "{name}" supprim\xe9 avec succ\xe8s'}}
-A.eFp.prototype={
+A.eFw.prototype={
 gJW(){return"Boutique introuvable"},
-gaRs(){return"\xc9chec de la copie du produit : {error}"}}
-A.eFm.prototype={
-gaXD(){return"HTML"},
-gaYX(){return"JavaScript"},
-gaRl(){return"Copier le code"},
+gaRv(){return"\xc9chec de la copie du produit : {error}"}}
+A.eFt.prototype={
+gaXG(){return"HTML"},
+gaZ_(){return"JavaScript"},
+gaRo(){return"Copier le code"},
 gLy(){return"Code copi\xe9 dans le presse-papiers"},
 gN(){return"Configuration du code d'int\xe9gration"}}
-A.eFg.prototype={
+A.eFn.prototype={
 gN(){return"Copier le produit"},
-gazp(){return"S\xe9lectionnez les boutiques vers lesquelles vous souhaitez copier le produit :"},
-gzX(){return"Tout s\xe9lectionner"},
-gAM(){return"Tout d\xe9s\xe9lectionner"},
-gb28(){return"Coller"},
-gb29(){return"Coller ({count})"},
+gazs(){return"S\xe9lectionnez les boutiques vers lesquelles vous souhaitez copier le produit :"},
+gzY(){return"Tout s\xe9lectionner"},
+gAN(){return"Tout d\xe9s\xe9lectionner"},
+gb2c(){return"Coller"},
+gb2d(){return"Coller ({count})"},
 gbU(){return"Annuler"},
-gaC6(){return'Produit "{productName}" copi\xe9 avec succ\xe8s vers {count} boutique(s)'},
-gaC5(){return'Produit "{productName}" copi\xe9 avec succ\xe8s vers {count} boutique(s). \xc9chec de la copie vers {failedCount} boutique(s) : {failedStores}'},
+gaC9(){return'Produit "{productName}" copi\xe9 avec succ\xe8s vers {count} boutique(s)'},
+gaC8(){return'Produit "{productName}" copi\xe9 avec succ\xe8s vers {count} boutique(s). \xc9chec de la copie vers {failedCount} boutique(s) : {failedStores}'},
 gkt(){return"\xc9chec de la copie du produit vers toutes les boutiques s\xe9lectionn\xe9es"},
-gaSv(){return"Copie en cours..."},
-gaRj(){return"Copi\xe9 vers {pastedCount} sur {total} boutique(s)"},
-gaVQ(){return"\xc9chec : {count}"}}
-A.eFc.prototype={
+gaSy(){return"Copie en cours..."},
+gaRm(){return"Copi\xe9 vers {pastedCount} sur {total} boutique(s)"},
+gaVT(){return"\xc9chec : {count}"}}
+A.eFj.prototype={
 gtV(){return"Ouvrir"}}
-A.eFi.prototype={
+A.eFp.prototype={
 gvJ(){return"Cr\xe9\xe9 le"},
 gze(){return"Date"},
-gaWQ(){return"\xc0 partir d'aujourd'hui"},
-gaWR(){return"\xc0 partir d'hier"},
-gSv(){return"Derni\xe8res 2 heures"},
-gSu(){return"Derni\xe8res 24 heures"},
-gaZb(){return"7 derniers jours"}}
-A.eFe.prototype={
-ga7b(){return"Annuler la s\xe9lection"},
-gazv(){return"{count} produit(s) s\xe9lectionn\xe9(s)"},
-gRc(){return"Supprimer les produits s\xe9lectionn\xe9s"},
-gQB(){return"Changer le statut"},
-gAK(){return"Supprimer les produits s\xe9lectionn\xe9s"},
-gaTv(){return"\xcates-vous s\xfbr de vouloir supprimer {count} produit(s) ? Cette action est irr\xe9versible."},
+gaWT(){return"\xc0 partir d'aujourd'hui"},
+gaWU(){return"\xc0 partir d'hier"},
+gSw(){return"Derni\xe8res 2 heures"},
+gSv(){return"Derni\xe8res 24 heures"},
+gaZf(){return"7 derniers jours"}}
+A.eFl.prototype={
+ga7c(){return"Annuler la s\xe9lection"},
+gazy(){return"{count} produit(s) s\xe9lectionn\xe9(s)"},
+gRd(){return"Supprimer les produits s\xe9lectionn\xe9s"},
+gQC(){return"Changer le statut"},
+gAL(){return"Supprimer les produits s\xe9lectionn\xe9s"},
+gaTy(){return"\xcates-vous s\xfbr de vouloir supprimer {count} produit(s) ? Cette action est irr\xe9versible."},
 gM4(){return"Produits supprim\xe9s avec succ\xe8s"},
-gaTx(){return"\xc9chec de la suppression des produits : {error}"},
-gaBv(){return"Statut des produits mis \xe0 jour vers {status}"},
-gaBu(){return"\xc9chec de la mise \xe0 jour du statut : {error}"}}
-A.eFG.prototype={
+gaTA(){return"\xc9chec de la suppression des produits : {error}"},
+gaBy(){return"Statut des produits mis \xe0 jour vers {status}"},
+gaBx(){return"\xc9chec de la mise \xe0 jour du statut : {error}"}}
+A.eFN.prototype={
 gnh(){return"Rechercher des produits..."},
-gabE(){return"Rechercher"}}
-A.eFA.prototype={
+gabF(){return"Rechercher"}}
+A.eFH.prototype={
 gbU(){return"Annuler"},
 gd3(){return"Supprimer"}}
-A.eFC.prototype={
-gaaD(){return"Ouvrir le graphique d'activit\xe9 sur 8 jours"},
-gaZ1(){return"Mis \xe0 jour"},
-gb6c(){return"\u2014"},
+A.eFJ.prototype={
+gaaE(){return"Ouvrir le graphique d'activit\xe9 sur 8 jours"},
+gaZ5(){return"Meilleur jour"},
+gaZ4(){return"Mis \xe0 jour"},
+gb6g(){return"\u2014"},
 grX(){return"Aucune commande sur cette p\xe9riode"},
 guV(){return"Impossible de charger les donn\xe9es."},
-gaBc(){return"Donn\xe9es en cache ; actualisation impossible."},
+gaBf(){return"Donn\xe9es en cache ; actualisation impossible."},
 gjl(){return"R\xe9essayer"},
-gatO(){return"Termin\xe9es"},
-gatN(){return"Annul\xe9es"},
-gatP(){return"Autres"},
-gaQz(){return"8 j \xb7 UTC"},
-gaBb(){return"Chaque barre = commandes du jour (empil\xe9 : termin\xe9es \xb7 annul\xe9es \xb7 autres)"},
-gb5P(){return"Total : {count}"},
-gaZ6(){return"Rapport"},
-gaZ7(){return"\u03a3 8 j"},
-gaZ3(){return"OK"},
-gaZ2(){return"Annul."},
-gaZ4(){return"Autres"},
-gaZ5(){return"Pic"}}
-A.eG5.prototype={
-gTZ(){return"Mettre \xe0 jour les images"},
-ga1q(){var w=this.e
-return w===$?this.e=new A.eG7():w},
-ga1r(){var w=this.f
-return w===$?this.f=new A.eG9():w},
-gaPV(){return"Changer les images"}}
-A.eG3.prototype={
+gatQ(){return"Termin\xe9es"},
+gatP(){return"Annul\xe9es"},
+gatR(){return"Autres"},
+gaQC(){return"8 j \xb7 UTC"},
+gaBe(){return"Chaque barre = commandes du jour (empil\xe9 : termin\xe9es \xb7 annul\xe9es \xb7 autres)"},
+gb5T(){return"Total : {count}"},
+gaZa(){return"Rapport"},
+gaZb(){return"\u03a3 8 j"},
+gaZ7(){return"OK"},
+gaZ6(){return"Annul."},
+gaZ8(){return"Autres"},
+gaZ9(){return"Pic"},
+gawR(){return"Aujourd'hui"}}
+A.eGc.prototype={
+gU0(){return"Mettre \xe0 jour les images"},
+ga1r(){var w=this.e
+return w===$?this.e=new A.eGe():w},
+ga1s(){var w=this.f
+return w===$?this.f=new A.eGg():w},
+gaPY(){return"Changer les images"}}
+A.eGa.prototype={
 gN(){return"Informations g\xe9n\xe9rales"},
 gaQ(){return"Nom"},
 gw1(){return"Nom"},
-gb_P(){return"Titre de la boutique, utilis\xe9 pour la recherche et le logo"},
+gb_T(){return"Titre de la boutique, utilis\xe9 pour la recherche et le logo"},
 gbh(){return"Description de la boutique, utilis\xe9e pour la recherche et le r\xe9f\xe9rencement"},
 gCJ(){return"Description"},
-gb5_(){return"Slogan publicitaire (affich\xe9 en haut du site)"},
+gb53(){return"Slogan publicitaire (affich\xe9 en haut du site)"},
 gBB(){return"Titre"},
-gb6A(){return"URL"},
-gaMV(){return"Activer"},
-gaMW(){return"Afficher ou masquer le slogan"},
+gb6E(){return"URL"},
+gaMY(){return"Activer"},
+gaMZ(){return"Afficher ou masquer le slogan"},
 gBh(){return"Nom non ajout\xe9"},
-gauF(){return"Sans titre"},
-gb0f(){return"Sans description"},
-gaZK(){return"Emplacement et adresse"},
-gaAL(){return"Afficher le code QR"},
-gaTn(){return"Alg\xe9rie"}}
-A.eG_.prototype={
+gauH(){return"Sans titre"},
+gb0j(){return"Sans description"},
+gaZO(){return"Emplacement et adresse"},
+gaAO(){return"Afficher le code QR"},
+gaTq(){return"Alg\xe9rie"}}
+A.eG6.prototype={
 gN(){return"Domaine de votre site"},
-gauv(){return"Nom de domaine"},
-ga09(){return"V\xe9rifi\xe9"},
-gaqG(){return"Supprimer le domaine"},
-gapr(){return"\xcates-vous s\xfbr de vouloir supprimer ce domaine ?"},
-gatR(){return"Erreur lors de l'ouverture du lien"}}
-A.eGL.prototype={
+gaux(){return"Nom de domaine"},
+ga0a(){return"V\xe9rifi\xe9"},
+gaqI(){return"Supprimer le domaine"},
+gapt(){return"\xcates-vous s\xfbr de vouloir supprimer ce domaine ?"},
+gatT(){return"Erreur lors de l'ouverture du lien"}}
+A.eGS.prototype={
 gN(){return"Nom du sous-domaine"},
-ga5(){return"Sous-domaine"},
+ga4(){return"Sous-domaine"},
 gDz(){return"Nom du sous-domaine"}}
-A.eGz.prototype={
-ga83(){return"D\xe9sactiver les paniers abandonn\xe9s"},
-gar2(){return"Les paniers abandonn\xe9s ne seront pas sauvegard\xe9s"}}
-A.eFM.prototype={
-gaaV(){return"Couleur principale"},
-gb32(){return"Utilis\xe9e pour les \xe9l\xe9ments principaux, les boutons et les autres \xe9l\xe9ments interactifs"},
-gayW(){return"Couleur secondaire"},
-gaz1(){return"Utilis\xe9e pour les \xe9l\xe9ments secondaires et les textes importants"},
-gaTa(){return"Couleurs du mode sombre"},
-gaTb(){return"Personnaliser les couleurs en mode sombre"},
-gb30(){return"Couleur principale du mode sombre"},
-gb31(){return"Utilis\xe9e pour les \xe9l\xe9ments principaux en mode sombre"},
-gayZ(){return"Couleur secondaire du mode sombre"},
-gaz_(){return"Utilis\xe9e pour les \xe9l\xe9ments secondaires en mode sombre"}}
-A.eFI.prototype={
+A.eGG.prototype={
+ga84(){return"D\xe9sactiver les paniers abandonn\xe9s"},
+gar4(){return"Les paniers abandonn\xe9s ne seront pas sauvegard\xe9s"}}
+A.eFT.prototype={
+gaaW(){return"Couleur principale"},
+gb36(){return"Utilis\xe9e pour les \xe9l\xe9ments principaux, les boutons et les autres \xe9l\xe9ments interactifs"},
+gayZ(){return"Couleur secondaire"},
+gaz4(){return"Utilis\xe9e pour les \xe9l\xe9ments secondaires et les textes importants"},
+gaTd(){return"Couleurs du mode sombre"},
+gaTe(){return"Personnaliser les couleurs en mode sombre"},
+gb34(){return"Couleur principale du mode sombre"},
+gb35(){return"Utilis\xe9e pour les \xe9l\xe9ments principaux en mode sombre"},
+gaz1(){return"Couleur secondaire du mode sombre"},
+gaz2(){return"Utilis\xe9e pour les \xe9l\xe9ments secondaires en mode sombre"}}
+A.eFP.prototype={
 gN(){return"Adresses et succursales"},
-gaN2(){return"Ajouter une succursale"},
-gaQe(){return"Ville et r\xe9gion non sp\xe9cifi\xe9es"},
-gaTs(){return"Supprimer la succursale"},
-gaQK(){return"Voulez-vous supprimer cette succursale ?"},
-gaUT(){return"Modifier la succursale"}}
-A.eFO.prototype={
+gaN5(){return"Ajouter une succursale"},
+gaQh(){return"Ville et r\xe9gion non sp\xe9cifi\xe9es"},
+gaTv(){return"Supprimer la succursale"},
+gaQN(){return"Voulez-vous supprimer cette succursale ?"},
+gaUW(){return"Modifier la succursale"}}
+A.eFV.prototype={
 gN(){return"Moyens de contact"},
-gaN7(){return"Ajouter un contact"},
-gaUV(){return"Modifier le contact"},
-gaTw(){return"Supprimer le contact"},
-gaQM(){return"Voulez-vous supprimer ce contact ?"},
+gaNa(){return"Ajouter un contact"},
+gaUY(){return"Modifier le contact"},
+gaTz(){return"Supprimer le contact"},
+gaQP(){return"Voulez-vous supprimer ce contact ?"},
 gw1(){return"Nom"},
 gCO(){return"Aucun moyen de contact ajout\xe9"},
-gaxC(){return"Valeur"},
-gaxb(){return"Type"}}
-A.eFU.prototype={
+gaxF(){return"Valeur"},
+gaxe(){return"Type"}}
+A.eG0.prototype={
 gN(){return"\xc9tiquettes personnalis\xe9es pour les commandes"},
-gaNi(){return"Ajouter une \xe9tiquette"},
-gaV0(){return"Modifier l'\xe9tiquette"},
-gatG(){return"\xc9tiquette"},
-gapk(){return"Couleur"},
-gb6z(){return"Mise \xe0 jour r\xe9ussie"}}
-A.eFW.prototype={
+gaNl(){return"Ajouter une \xe9tiquette"},
+gaV3(){return"Modifier l'\xe9tiquette"},
+gatI(){return"\xc9tiquette"},
+gapm(){return"Couleur"},
+gb6D(){return"Mise \xe0 jour r\xe9ussie"}}
+A.eG2.prototype={
 gN(){return"Statuts de commande personnalis\xe9s"},
-gb0a(){return"Aucun statut personnalis\xe9 ajout\xe9 pour le moment"},
-gaXV(){return"Importer un mod\xe8le"},
-gaT_(){return"Nom du statut personnalis\xe9"},
-gaQu(){return"Code (optionnel)"},
+gb0e(){return"Aucun statut personnalis\xe9 ajout\xe9 pour le moment"},
+gaXY(){return"Importer un mod\xe8le"},
+gaT2(){return"Nom du statut personnalis\xe9"},
+gaQx(){return"Code (optionnel)"},
 gBg(){return"ex. Pas de r\xe9ponse au t\xe9l\xe9phone"},
-gQE(){return"ex. no_response"},
-gaZw(){return"Lier aux statuts syst\xe8me :"},
+gQF(){return"ex. no_response"},
+gaZA(){return"Lier aux statuts syst\xe8me :"},
 gy6(){return"Statut de commande"},
 gqz(){return"Statut de livraison"},
 gqI(){return"Statut de paiement"},
-aQO(d){return'\xcates-vous s\xfbr de vouloir supprimer le statut "'+d+'" ?'},
-gb0l(){return"Aucun lien"},
-gb0m(){return"Aucun lien"},
-gb_8(){return"Statut"},
-gb_5(){return"Livraison"},
-gb_7(){return"Paiement"},
-gb_4(){return"Code"},
-gb_6(){return"\xc9tapes suivantes sugg\xe9r\xe9es"},
-gb03(){return"Statuts suivants sugg\xe9r\xe9s"},
-gb02(){return"S\xe9lectionnez les statuts propos\xe9s comme raccourcis apr\xe8s celui-ci (code de chaque statut, ou nom si le code est vide)."},
+aQR(d){return'\xcates-vous s\xfbr de vouloir supprimer le statut "'+d+'" ?'},
+gb0p(){return"Aucun lien"},
+gb0q(){return"Aucun lien"},
+gb_c(){return"Statut"},
+gb_9(){return"Livraison"},
+gb_b(){return"Paiement"},
+gb_8(){return"Code"},
+gb_a(){return"\xc9tapes suivantes sugg\xe9r\xe9es"},
+gb07(){return"Statuts suivants sugg\xe9r\xe9s"},
+gb06(){return"S\xe9lectionnez les statuts propos\xe9s comme raccourcis apr\xe8s celui-ci (code de chaque statut, ou nom si le code est vide)."},
 gnB(){return"Activ\xe9"},
 gCL(){return"D\xe9sactiv\xe9"}}
-A.eFK.prototype={
+A.eFR.prototype={
 gN(){return"Cat\xe9gories"},
-ganF(){return"Ajouter une cat\xe9gorie"},
-gaBR(){return"Cat\xe9gorie de la boutique"},
-gaUU(){return"Modifier la cat\xe9gorie"},
-gaTt(){return"Supprimer la cat\xe9gorie"},
-gaQL(){return"Voulez-vous supprimer cette cat\xe9gorie ?"}}
-A.eGH.prototype={
+ganH(){return"Ajouter une cat\xe9gorie"},
+gaBU(){return"Cat\xe9gorie de la boutique"},
+gaUX(){return"Modifier la cat\xe9gorie"},
+gaTw(){return"Supprimer la cat\xe9gorie"},
+gaQO(){return"Voulez-vous supprimer cette cat\xe9gorie ?"}}
+A.eGO.prototype={
 gN(){return"Exp\xe9dition et livraison"}}
-A.eGJ.prototype={
+A.eGQ.prototype={
 gN(){return"M\xe9thodes d'exp\xe9dition"},
-gaXr(){return"Ajoutez les m\xe9thodes d'exp\xe9dition que vous utilisez"},
-gaXq(){return"Vous pouvez \xe9galement copier les tarifs des soci\xe9t\xe9s avec lesquelles vous travaillez et les ajuster"},
-gaz5(){return"Exp\xe9dition et livraison"},
-gaNn(){return"Ajouter une m\xe9thode d'exp\xe9dition"},
-gAK(){return"Supprimer la m\xe9thode d'exp\xe9dition"},
+gaXu(){return"Ajoutez les m\xe9thodes d'exp\xe9dition que vous utilisez"},
+gaXt(){return"Vous pouvez \xe9galement copier les tarifs des soci\xe9t\xe9s avec lesquelles vous travaillez et les ajuster"},
+gaz8(){return"Exp\xe9dition et livraison"},
+gaNq(){return"Ajouter une m\xe9thode d'exp\xe9dition"},
+gAL(){return"Supprimer la m\xe9thode d'exp\xe9dition"},
 gM2(){return"Voulez-vous supprimer cette m\xe9thode ?"},
 gM4(){return"M\xe9thode d'exp\xe9dition supprim\xe9e"},
 gCO(){return"Aucune m\xe9thode d'exp\xe9dition ajout\xe9e"},
-gaTO(){return"Livraison"},
-gR4(){return"Zone dangereuse"},
-gRd(){return"Supprimer la boutique"},
-gaTJ(){return"Supprimer ma boutique"},
-gaTI(){return"Veuillez supprimer ma boutique"},
-gQP(){return"Pour toute question ou probl\xe8me, contactez-nous par e-mail ou t\xe9l\xe9phone"},
-ganL(){return"Ajouter une m\xe9thode d'exp\xe9dition"},
+gaTR(){return"Livraison"},
+gR5(){return"Zone dangereuse"},
+gRe(){return"Supprimer la boutique"},
+gaTM(){return"Supprimer ma boutique"},
+gaTL(){return"Veuillez supprimer ma boutique"},
+gQQ(){return"Pour toute question ou probl\xe8me, contactez-nous par e-mail ou t\xe9l\xe9phone"},
+ganN(){return"Ajouter une m\xe9thode d'exp\xe9dition"},
 gMe(){return"Modifier la m\xe9thode d'exp\xe9dition"},
-gaZs(){return"Image mode clair"},
-gaT9(){return"Image mode sombre"},
-gaz0(){return"Donn\xe9es secondaires"},
-gb76(){return"Visibilit\xe9"},
-gaa6(){return"Nom de la m\xe9thode d'exp\xe9dition"},
-gb_w(){return"Ce nom sera utilis\xe9 pour afficher et identifier la m\xe9thode d'exp\xe9dition"},
-gaBp(){return"Statut"},
-gb77(){return"Politique de visibilit\xe9"},
-gb2X(){return"Prix de livraison par r\xe9gion"},
-gb_n(){return"Maystro"},
-gb_m(){return"Connectez votre boutique au service de livraison rapide Maystro\nFournit les tarifs de livraison et l'envoi direct des commandes"}}
-A.eFS.prototype={
+gaZw(){return"Image mode clair"},
+gaTc(){return"Image mode sombre"},
+gaz3(){return"Donn\xe9es secondaires"},
+gb7a(){return"Visibilit\xe9"},
+gaa7(){return"Nom de la m\xe9thode d'exp\xe9dition"},
+gb_A(){return"Ce nom sera utilis\xe9 pour afficher et identifier la m\xe9thode d'exp\xe9dition"},
+gaBs(){return"Statut"},
+gb7b(){return"Politique de visibilit\xe9"},
+gb30(){return"Prix de livraison par r\xe9gion"},
+gb_r(){return"Maystro"},
+gb_q(){return"Connectez votre boutique au service de livraison rapide Maystro\nFournit les tarifs de livraison et l'envoi direct des commandes"}}
+A.eFZ.prototype={
 gN(){return"Devises"},
-gad0(){return"S\xe9lectionnez les devises"},
-gazd(){return"Choisissez les devises que votre boutique accepte. Vous pouvez s\xe9lectionner plusieurs devises et en d\xe9finir une par d\xe9faut pour la tarification."},
-gad_(){return"Veuillez s\xe9lectionner au moins une devise"},
-gad1(){return"Veuillez s\xe9lectionner une devise par d\xe9faut"},
-gYE(){return"Par d\xe9faut"},
+gad1(){return"S\xe9lectionnez les devises"},
+gazg(){return"Choisissez les devises que votre boutique accepte. Vous pouvez s\xe9lectionner plusieurs devises et en d\xe9finir une par d\xe9faut pour la tarification."},
+gad0(){return"Veuillez s\xe9lectionner au moins une devise"},
+gad2(){return"Veuillez s\xe9lectionner une devise par d\xe9faut"},
+gYG(){return"Par d\xe9faut"},
 gBT(){return"D\xe9finir par d\xe9faut"},
-ganI(){return"Ajouter une devise"},
-gQj(){return"Toutes les devises ont \xe9t\xe9 ajout\xe9es"}}
-A.eFQ.prototype={
+ganK(){return"Ajouter une devise"},
+gQk(){return"Toutes les devises ont \xe9t\xe9 ajout\xe9es"}}
+A.eFX.prototype={
 gOi(){return"Veuillez s\xe9lectionner un pays par d\xe9faut"},
-gaSz(){return"Pays"},
-gb09(){return"Aucun pays ajout\xe9"},
-ganH(){return"Ajouter un pays"},
+gaSC(){return"Pays"},
+gb0d(){return"Aucun pays ajout\xe9"},
+ganJ(){return"Ajouter un pays"},
 gBT(){return"D\xe9finir par d\xe9faut"},
-gQj(){return"Tous les pays ont \xe9t\xe9 ajout\xe9s"}}
-A.eGd.prototype={
+gQk(){return"Tous les pays ont \xe9t\xe9 ajout\xe9s"}}
+A.eGk.prototype={
 gN(){return"Membres et r\xf4les"},
-ganR(){return"Ajouter un membre"},
-garr(){return"Modifier le membre"},
-gaqJ(){return"Supprimer le membre"},
-aQP(d){return"Voulez-vous retirer "+d+" des membres ?"},
+ganT(){return"Ajouter un membre"},
+gart(){return"Modifier le membre"},
+gaqL(){return"Supprimer le membre"},
+aQS(d){return"Voulez-vous retirer "+d+" des membres ?"},
 gw1(){return"Nom"},
-gaV6(){return"E-mail"},
-gawE(){return"R\xf4le"},
-gavu(){return"Invitations en attente"},
-gTx(){return"R\xe9voquer l'invitation"},
-awD(d){return"R\xe9voquer l'invitation envoy\xe9e \xe0 "+d+" ?"},
-gb4c(){return"Retirer le membre"},
-ga9F(){return"Quitter le magasin"},
-gaQU(){return"Quitter ce magasin ? Vous perdrez l'acc\xe8s jusqu'\xe0 une nouvelle invitation."},
+gaV9(){return"E-mail"},
+gawG(){return"R\xf4le"},
+gavw(){return"Invitations en attente"},
+gTy(){return"R\xe9voquer l'invitation"},
+awF(d){return"R\xe9voquer l'invitation envoy\xe9e \xe0 "+d+" ?"},
+gb4g(){return"Retirer le membre"},
+ga9G(){return"Quitter le magasin"},
+gaQX(){return"Quitter ce magasin ? Vous perdrez l'acc\xe8s jusqu'\xe0 une nouvelle invitation."},
 gFz(){var w=this.d
-return w===$?this.d=new A.eGf():w}}
-A.eGh.prototype={
+return w===$?this.d=new A.eGm():w}}
+A.eGo.prototype={
 gLy(){return"Code copi\xe9 avec succ\xe8s"},
 gt5(){return"Mise \xe0 jour r\xe9ussie"},
-aWk(d){return"Fichier enregistr\xe9 dans "+d},
+aWn(d){return"Fichier enregistr\xe9 dans "+d},
 gD8(){return"Donn\xe9es import\xe9es avec succ\xe8s"},
-gaWn(){return"Remplir tout avec la valeur"}}
-A.eFY.prototype={
-gaN8(){return"Ajouter un statut personnalis\xe9"},
-gaBo(){return"Couleur du statut (optionnel)"},
-gaQ6(){return"Choisir"},
-garq(){return"Modifier le statut personnalis\xe9"},
-gaqF(){return"Supprimer le statut personnalis\xe9"},
+gaWq(){return"Remplir tout avec la valeur"}}
+A.eG4.prototype={
+gaNb(){return"Ajouter un statut personnalis\xe9"},
+gaBr(){return"Couleur du statut (optionnel)"},
+gaQ9(){return"Choisir"},
+gars(){return"Modifier le statut personnalis\xe9"},
+gaqH(){return"Supprimer le statut personnalis\xe9"},
 gbU(){return"Annuler"},
 gd3(){return"Supprimer"}}
-A.eGF.prototype={
-gaz6(){return"S\xe9curit\xe9 et donn\xe9es"},
-gaz8(){return"Nous nous engageons \xe0 respecter la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations"},
-gb6W(){return"Compte v\xe9rifi\xe9"}}
-A.eGD.prototype={
-gaNG(){return"Param\xe8tres suppl\xe9mentaires"},
-gaU5(){return"Design et couleurs"},
-gaPi(){return"Entreprise"},
-gb1S(){return"Commandes"},
+A.eGM.prototype={
+gaz9(){return"S\xe9curit\xe9 et donn\xe9es"},
+gazb(){return"Nous nous engageons \xe0 respecter la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations"},
+gb7_(){return"Compte v\xe9rifi\xe9"}}
+A.eGK.prototype={
+gaNJ(){return"Param\xe8tres suppl\xe9mentaires"},
+gaU8(){return"Design et couleurs"},
+gaPl(){return"Entreprise"},
+gb1W(){return"Commandes"},
 gdz(){return"Produits"},
-gawI(){return"\xc9quipe"},
-gaU7(){return"D\xe9veloppement"},
-gR4(){return"Zone dangereuse"}}
-A.eGB.prototype={
-gaZZ(){return"G\xe9rer les images et ic\xf4nes de la boutique"},
-gb__(){return"G\xe9rer le sous-domaine de la boutique"},
-gaT8(){return"Personnaliser les couleurs de la boutique"},
-gaZS(){return"G\xe9rer les succursales et adresses"},
-gaZU(){return"G\xe9rer les moyens de contact"},
-gaZY(){return"G\xe9rer les m\xe9thodes d'exp\xe9dition"},
-gaZV(){return"G\xe9rer les pays o\xf9 la boutique op\xe8re"},
-gaZW(){return"G\xe9rer les \xe9tiquettes personnalis\xe9es des commandes"},
-gaZX(){return"G\xe9rer les statuts de commande personnalis\xe9s"},
-gaZT(){return"G\xe9rer les cat\xe9gories de la boutique"},
-gb_0(){return"G\xe9rer les membres de l'\xe9quipe"},
-gaOd(){return"Cl\xe9s d'acc\xe8s pour le d\xe9veloppement et l'int\xe9gration"},
-gaTK(){return"Supprimer d\xe9finitivement la boutique"}}
-A.eGN.prototype={
+gawK(){return"\xc9quipe"},
+gaUa(){return"D\xe9veloppement"},
+gR5(){return"Zone dangereuse"}}
+A.eGI.prototype={
+gb_2(){return"G\xe9rer les images et ic\xf4nes de la boutique"},
+gb_3(){return"G\xe9rer le sous-domaine de la boutique"},
+gaTb(){return"Personnaliser les couleurs de la boutique"},
+gaZW(){return"G\xe9rer les succursales et adresses"},
+gaZY(){return"G\xe9rer les moyens de contact"},
+gb_1(){return"G\xe9rer les m\xe9thodes d'exp\xe9dition"},
+gaZZ(){return"G\xe9rer les pays o\xf9 la boutique op\xe8re"},
+gb__(){return"G\xe9rer les \xe9tiquettes personnalis\xe9es des commandes"},
+gb_0(){return"G\xe9rer les statuts de commande personnalis\xe9s"},
+gaZX(){return"G\xe9rer les cat\xe9gories de la boutique"},
+gb_4(){return"G\xe9rer les membres de l'\xe9quipe"},
+gaOg(){return"Cl\xe9s d'acc\xe8s pour le d\xe9veloppement et l'int\xe9gration"},
+gaTN(){return"Supprimer d\xe9finitivement la boutique"}}
+A.eGU.prototype={
 gmy(){return"Pays"},
-gaOc(){return"Cl\xe9s API"},
-gRd(){return"Supprimer la boutique"}}
-A.eGb.prototype={
+gaOf(){return"Cl\xe9s API"},
+gRe(){return"Supprimer la boutique"}}
+A.eGi.prototype={
 gN(){return"Langues"},
 gdn(){return"G\xe9rer les langues prises en charge dans la boutique"},
 gOi(){return y.y},
-gaze(){return y.y},
-gauC(){return"Aucune langue ajout\xe9e"},
-gXx(){return"Ajouter une langue"},
-ganK(){return"Ajouter une langue personnalis\xe9e"},
+gazh(){return y.y},
+gauE(){return"Aucune langue ajout\xe9e"},
+gXz(){return"Ajouter une langue"},
+ganM(){return"Ajouter une langue personnalis\xe9e"},
 gBT(){return"D\xe9finir par d\xe9faut"},
-gaQt(){return"Code de la langue"},
-gb_Q(){return"Nom de la langue (en anglais)"},
-gb_U(){return"Nom natif de la langue"},
-gQE(){return"ex. ar, en, fr"},
+gaQw(){return"Code de la langue"},
+gb_U(){return"Nom de la langue (en anglais)"},
+gb_Y(){return"Nom natif de la langue"},
+gQF(){return"ex. ar, en, fr"},
 gBg(){return"ex. Arabe"},
-gb_T(){return"ex. \u0627\u0644\u0639\u0631\u0628\u064a\u0629"},
-gb4W(){return"Droite \xe0 gauche (RTL)"},
-gb4V(){return"Comme l'arabe et l'h\xe9breu"},
-gaWm(){return"Veuillez remplir tous les champs"},
-gaZ9(){return"Cette langue est d\xe9j\xe0 ajout\xe9e"},
+gb_X(){return"ex. \u0627\u0644\u0639\u0631\u0628\u064a\u0629"},
+gb5_(){return"Droite \xe0 gauche (RTL)"},
+gb4Z(){return"Comme l'arabe et l'h\xe9breu"},
+gaWp(){return"Veuillez remplir tous les champs"},
+gaZd(){return"Cette langue est d\xe9j\xe0 ajout\xe9e"},
 gbh(){return"Ajoutez les langues prises en charge dans votre boutique. La langue par d\xe9faut est utilis\xe9e pour afficher les r\xe9gions et villes dans leur nom local."},
 gLV(){return"Personnalis\xe9e"},
 gDl(){return"Aucun r\xe9sultat"},
-gayT(){return"Rechercher une langue..."},
-gaNk(){return"Ajoutez une langue pour commencer \xe0 prendre en charge le multilingue"},
-gaTl(){return"Par d\xe9faut"},
-gaA7(){return"D\xe9finir comme langue par d\xe9faut"},
-aQY(d){return"Voulez-vous supprimer "+d+" ?"}}
-A.eGl.prototype={
-gaep(){var w=this.y
-return w===$?this.y=new A.eGn():w},
-gaeu(){var w=this.z
-return w===$?this.z=new A.eGv():w},
-gaeq(){var w=this.Q
-return w===$?this.Q=new A.eGp():w},
-gaes(){var w=this.as
-return w===$?this.as=new A.eGr():w},
-ga1n(){var w=this.at
-return w===$?this.at=new A.eGx():w},
-gaet(){var w=this.ax
-return w===$?this.ax=new A.eGt():w},
+gayW(){return"Rechercher une langue..."},
+gaNn(){return"Ajoutez une langue pour commencer \xe0 prendre en charge le multilingue"},
+gaTo(){return"Par d\xe9faut"},
+gaAa(){return"D\xe9finir comme langue par d\xe9faut"},
+aR0(d){return"Voulez-vous supprimer "+d+" ?"}}
+A.eGs.prototype={
+gaeq(){var w=this.y
+return w===$?this.y=new A.eGu():w},
+gaev(){var w=this.z
+return w===$?this.z=new A.eGC():w},
+gaer(){var w=this.Q
+return w===$?this.Q=new A.eGw():w},
+gaet(){var w=this.as
+return w===$?this.as=new A.eGy():w},
+ga1o(){var w=this.at
+return w===$?this.at=new A.eGE():w},
+gaeu(){var w=this.ax
+return w===$?this.ax=new A.eGA():w},
 gj0(){return"Suivant"},
-gaB0(d){return"Passer"},
-giB(){return"Termin\xe9"},
+gaB3(d){return"Passer"},
+giC(){return"Termin\xe9"},
 gCv(){var w=this.ay
-return w===$?this.ay=new A.eGj():w},
-gb4H(){return"Red\xe9marrer la configuration de la boutique"},
-gb4I(){return"Red\xe9marrer le guide de configuration de la boutique"}}
-A.eGR.prototype={
+return w===$?this.ay=new A.eGq():w},
+gb4L(){return"Red\xe9marrer la configuration de la boutique"},
+gb4M(){return"Red\xe9marrer le guide de configuration de la boutique"}}
+A.eGY.prototype={
 goo(){return"Brouillon"},
 gDC(){return"Publi\xe9"}}
-A.eGZ.prototype={
-gQL(){return"Connect\xe9"},
-gQM(){return"Connexion..."},
-gTj(){return"Reconnexion..."},
-gRs(){return"D\xe9connect\xe9"},
-gSe(){return"Initialisation..."},
-gb5J(){return"Realtime : Connect\xe9\nCliquez pour les d\xe9tails de connexion"},
-gb5K(){return"Realtime : Connexion...\nCliquez pour forcer la reconnexion"},
-gb5N(){return"Realtime : Reconnexion...\nCliquez pour forcer la reconnexion"},
-gb5L(){return"Realtime : D\xe9connect\xe9\nCliquez pour reconnecter"},
-gb5M(){return"Realtime : Initialisation..."},
-b5O(d,e){return"Abonnements : "+d+"\nTotal \xe9v\xe9nements : "+e+"\nCliquez pour les stats"}}
-A.eGW.prototype={
-gSJ(){return"Aucune op\xe9ration pour l'instant"},
-b1A(d){return"Statistiques des op\xe9rations :\n"+d}}
-A.eH0.prototype={
-gSJ(){return"Aucune op\xe9ration effectu\xe9e"},
-b3S(d,e,f){return"Realtime : "+f+" \u2022 "+e+" abonnement(s) \u2022 "+d+" \xe9v\xe9nement(s)"},
-b1z(d){return"Op\xe9rations : "+d}}
+A.eH5.prototype={
+gQM(){return"Connect\xe9"},
+gQN(){return"Connexion..."},
+gTk(){return"Reconnexion..."},
+gRt(){return"D\xe9connect\xe9"},
+gSf(){return"Initialisation..."},
+gb5N(){return"Realtime : Connect\xe9\nCliquez pour les d\xe9tails de connexion"},
+gb5O(){return"Realtime : Connexion...\nCliquez pour forcer la reconnexion"},
+gb5R(){return"Realtime : Reconnexion...\nCliquez pour forcer la reconnexion"},
+gb5P(){return"Realtime : D\xe9connect\xe9\nCliquez pour reconnecter"},
+gb5Q(){return"Realtime : Initialisation..."},
+b5S(d,e){return"Abonnements : "+d+"\nTotal \xe9v\xe9nements : "+e+"\nCliquez pour les stats"}}
 A.eH2.prototype={
-gQL(){return"Connected"},
-gQM(){return"Connecting"},
-gTj(){return"Reconnecting"},
-gRs(){return"Disconnected"},
-gSe(){return"Initializing"}}
-A.eH6.prototype={
-gaT7(){return"Personnaliser"}}
+gSK(){return"Aucune op\xe9ration pour l'instant"},
+b1E(d){return"Statistiques des op\xe9rations :\n"+d}}
+A.eH7.prototype={
+gSK(){return"Aucune op\xe9ration effectu\xe9e"},
+b3W(d,e,f){return"Realtime : "+f+" \u2022 "+e+" abonnement(s) \u2022 "+d+" \xe9v\xe9nement(s)"},
+b1D(d){return"Op\xe9rations : "+d}}
 A.eH9.prototype={
-gb4G(){return"Responsive"},
-gaA3(){return"SEO optimis\xe9"}}
-A.eHc.prototype={
-goh(){return"Actif"}}
+gQM(){return"Connected"},
+gQN(){return"Connecting"},
+gTk(){return"Reconnecting"},
+gRt(){return"Disconnected"},
+gSf(){return"Initializing"}}
+A.eHd.prototype={
+gaTa(){return"Personnaliser"}}
 A.eHg.prototype={
+gb4K(){return"Responsive"},
+gaA6(){return"SEO optimis\xe9"}}
+A.eHj.prototype={
+goh(){return"Actif"}}
+A.eHn.prototype={
 gN(){return"Voix off"},
 gdn(){return"Transformez le texte en parole \xe0 l'aide de l'IA"}}
-A.eHu.prototype={
+A.eHB.prototype={
 gN5(){return"maintenant"},
 gMX(){return"{mins}m"},
 gMD(){return"{hours}h"},
 gzf(){return"{days}j"},
-gaxL(){return"{weeks}s"},
-gJ0(){return"{months}mois"}}
-A.eHq.prototype={
+gaxO(){return"{weeks}s"},
+gJ1(){return"{months}mois"}}
+A.eHx.prototype={
 gno(){return"Traitement en cours\u2026"},
-giB(){return"Termin\xe9"},
+giC(){return"Termin\xe9"},
 gkt(){return"\xc9chec"}}
-A.eHe.prototype={
+A.eHl.prototype={
 gfh(){return"Enregistrer"},
 gN9(){return"Ouvrir l'URL"},
 gtZ(d){return"Supprimer"},
-gb2C(){return"Lire la d\xe9mo"},
+gb2G(){return"Lire la d\xe9mo"},
 gpb(){return"G\xe9n\xe9rer"},
 gpc(){return"G\xe9n\xe9ration en cours..."}}
-A.eHo.prototype={
-gaos(){return"Mise en m\xe9moire tampon\u2026"}}
-A.eHm.prototype={
+A.eHv.prototype={
+gaou(){return"Mise en m\xe9moire tampon\u2026"}}
+A.eHt.prototype={
 gDz(){return"Entrez le texte \xe0 convertir en parole..."}}
-A.eHj.prototype={
-gRx(){return"Veuillez entrer du texte \xe0 convertir en parole"},
-ga9S(){return"\xc9chec du chargement de l'audio"},
-gavE(){return"Erreur lors de la lecture de l'audio : {error}"},
-gb2c(){return"Erreur lors de la pause de l'audio : {error}"},
+A.eHq.prototype={
+gRy(){return"Veuillez entrer du texte \xe0 convertir en parole"},
+ga9T(){return"\xc9chec du chargement de l'audio"},
+gavG(){return"Erreur lors de la lecture de l'audio : {error}"},
+gb2g(){return"Erreur lors de la pause de l'audio : {error}"},
 gNS(){return"\xc9chec de la g\xe9n\xe9ration de la voix off"},
-gaZf(){return"Impossible d'ouvrir l'URL"}}
-A.eHs.prototype={
-gaxV(){return"\u2705 Voix off g\xe9n\xe9r\xe9e avec succ\xe8s !"},
-gayG(){return"\u2705 Enregistr\xe9"}}
-A.eHC.prototype={
+gaZj(){return"Impossible d'ouvrir l'URL"}}
+A.eHz.prototype={
+gaxY(){return"\u2705 Voix off g\xe9n\xe9r\xe9e avec succ\xe8s !"},
+gayJ(){return"\u2705 Enregistr\xe9"}}
+A.eHJ.prototype={
 gN(){return"Yalidine"},
 gi9(){return"Connecter"},
 gc9(){return"Param\xe8tres"},
 ghO(){return"D\xe9connecter"},
 gio(){return"\xcates-vous s\xfbr de vouloir d\xe9connecter Yalidine de votre magasin ?"},
-garJ(){return"Service de livraison rapide et fiable dans toute l'Alg\xe9rie"},
+garL(){return"Service de livraison rapide et fiable dans toute l'Alg\xe9rie"},
 glI(){return"Copier les tarifs"},
 gr3(){return"Copier les tarifs Yalidine"},
 goL(){return"Les tarifs de livraison de Yalidine seront copi\xe9s dans vos param\xe8tres d'exp\xe9dition"},
 gmS(){return"Tarifs copi\xe9s avec succ\xe8s"}}
-A.eHG.prototype={
-gaOH(){return"Envoi automatique des commandes"},
+A.eHN.prototype={
+gaOK(){return"Envoi automatique des commandes"},
 gCp(){return'Envoyer automatiquement les commandes \xe0 Yalidine lorsque le statut de la commande passe \xe0 "Envoy\xe9"'}}
-A.eHy.prototype={
+A.eHF.prototype={
 gj5(){return"Nom du client"},
 gkY(){return"Num\xe9ro de t\xe9l\xe9phone"},
 glT(){return"Adresse"},
 gcK(){return"\xc9tat"},
 gn4(){return"S\xe9lectionner la ville"},
-gju(){return"Montant total"},
+gjv(){return"Montant total"},
 gDS(){return"Poids (kg)"},
 gLW(){return"Informations client"},
-ga7W(){return"Informations de livraison"},
-gb3h(){return"Informations produit"},
-gavA(){return"Centre de retrait"},
-gad3(){return"S\xe9lectionner le centre de retrait"},
-gauA(){return"Aucun centre disponible pour cette ville"},
-gaC8(){return"Choisissez une ville avec un centre de retrait :"},
-gasC(){return"Livraison gratuite"},
-gasD(){return"Livraison gratuite (Forc\xe9e)"},
+ga7X(){return"Informations de livraison"},
+gb3l(){return"Informations produit"},
+gavC(){return"Centre de retrait"},
+gad4(){return"S\xe9lectionner le centre de retrait"},
+gauC(){return"Aucun centre disponible pour cette ville"},
+gaCb(){return"Choisissez une ville avec un centre de retrait :"},
+gasE(){return"Livraison gratuite"},
+gasF(){return"Livraison gratuite (Forc\xe9e)"},
 gMw(){return"L'exp\xe9diteur paie les frais de livraison au lieu du destinataire"},
-gavB(){return"Retrait au centre"},
-gb2B(){return"Livraison au point de retrait"},
-gb2A(){return"Livrer le colis au point de retrait au lieu de l'adresse"},
-gaTV(){return"Type de livraison: Point de retrait"},
-gaTT(){return"Type de livraison: Livraison \xe0 domicile"},
-gaWD(){return"La livraison gratuite forc\xe9e a \xe9t\xe9 activ\xe9e pour toutes les commandes"},
-gap5(){return"Non sp\xe9cifi\xe9 - requis"},
-gQD(){return"Ville"},
-gasv(){return"La livraison gratuite forc\xe9e a \xe9t\xe9 activ\xe9e dans les param\xe8tres d'int\xe9gration"},
-gavX(){return"Description des produits"},
-gavW(){return"Exemple: Smartphone, Livres, V\xeatements"},
-gaVI(){return"Demande d'\xe9change"},
-gaVH(){return"S'il y a un produit \xe0 \xe9changer"},
-gb3p(){return"Produit \xe0 collecter"},
-gb3o(){return"Description du produit \xe0 collecter pour l'\xe9change"},
+gavD(){return"Retrait au centre"},
+gb2F(){return"Livraison au point de retrait"},
+gb2E(){return"Livrer le colis au point de retrait au lieu de l'adresse"},
+gaTY(){return"Type de livraison: Point de retrait"},
+gaTW(){return"Type de livraison: Livraison \xe0 domicile"},
+gaWG(){return"La livraison gratuite forc\xe9e a \xe9t\xe9 activ\xe9e pour toutes les commandes"},
+gap7(){return"Non sp\xe9cifi\xe9 - requis"},
+gQE(){return"Ville"},
+gasx(){return"La livraison gratuite forc\xe9e a \xe9t\xe9 activ\xe9e dans les param\xe8tres d'int\xe9gration"},
+gavZ(){return"Description des produits"},
+gavY(){return"Exemple: Smartphone, Livres, V\xeatements"},
+gaVL(){return"Demande d'\xe9change"},
+gaVK(){return"S'il y a un produit \xe0 \xe9changer"},
+gb3t(){return"Produit \xe0 collecter"},
+gb3s(){return"Description du produit \xe0 collecter pour l'\xe9change"},
 ger(){return"Commande envoy\xe9e avec succ\xe8s"},
 gkN(){return"Une erreur inattendue s'est produite"}}
-A.eHw.prototype={
+A.eHD.prototype={
 gN(){return"Envoyer \xe0 Yalidine"},
 grY(){return"Aucune commande s\xe9lectionn\xe9e"},
 gDn(){return"Yalidine n'est pas connect\xe9 au magasin"},
-gb66(){return"Indisponible"},
-gb1K(){return"Commande introuvable dans la r\xe9ponse"},
-gaBl(){return"La wilaya et la commune doivent \xeatre sp\xe9cifi\xe9es avant l'envoi"}}
-A.eHI.prototype={
+gb6a(){return"Indisponible"},
+gb1O(){return"Commande introuvable dans la r\xe9ponse"},
+gaBo(){return"La wilaya et la commune doivent \xeatre sp\xe9cifi\xe9es avant l'envoi"}}
+A.eHP.prototype={
 BZ(d){return"Envoy\xe9 - "+d}}
-A.eHE.prototype={
+A.eHL.prototype={
 OK(d){return""+d+" commandes envoy\xe9es avec succ\xe8s"},
-T_(d,e){return""+e+" commandes envoy\xe9es, "+d+" commandes \xe9chou\xe9es"}}
-A.eHK.prototype={
-gb2s(){return"Le num\xe9ro de t\xe9l\xe9phone doit commencer par 0 et contenir 9-10 chiffres"},
-gb2z(){return"Le point de retrait doit \xeatre s\xe9lectionn\xe9 lorsqu'il est activ\xe9"},
-gb2y(){return"Requis lors de la s\xe9lection de la livraison au point de retrait"},
-gb3r(){return"Le produit \xe0 collecter doit \xeatre sp\xe9cifi\xe9"},
-gb3q(){return"Requis lors de la demande d'\xe9change"}}
-A.eHW.prototype={
+T0(d,e){return""+e+" commandes envoy\xe9es, "+d+" commandes \xe9chou\xe9es"}}
+A.eHR.prototype={
+gb2w(){return"Le num\xe9ro de t\xe9l\xe9phone doit commencer par 0 et contenir 9-10 chiffres"},
+gb2D(){return"Le point de retrait doit \xeatre s\xe9lectionn\xe9 lorsqu'il est activ\xe9"},
+gb2C(){return"Requis lors de la s\xe9lection de la livraison au point de retrait"},
+gb3v(){return"Le produit \xe0 collecter doit \xeatre sp\xe9cifi\xe9"},
+gb3u(){return"Requis lors de la demande d'\xe9change"}}
+A.eI2.prototype={
 gN(){return"ZR Express"},
 gbh(){return"Service de livraison ZR Express"},
 gi9(){return"Connecter"},
@@ -3760,85 +3764,85 @@ glI(){return"Copier les tarifs"},
 gr3(){return"Copier les tarifs ZR Express"},
 goL(){return"Les tarifs de livraison de ZR Express seront copi\xe9s dans vos param\xe8tres d'exp\xe9dition"},
 gmS(){return"Tarifs copi\xe9s avec succ\xe8s"},
-gGH(){return"Configurer Webhook"},
+gGI(){return"Configurer Webhook"},
 gDQ(){return"Configurez webhook pour recevoir les mises \xe0 jour de commandes de ZR Express"},
 gDR(){return"URL Webhook"},
 gDP(){return"Copier l'URL"},
 gDO(){return"URL Webhook copi\xe9e"},
 gOp(){return"Configurer automatiquement"},
 gOq(){return"Webhook configur\xe9 avec succ\xe8s"}}
-A.eHO.prototype={
+A.eHV.prototype={
 gN(){return"Connecter votre magasin au service de livraison ZR Express"},
 gbh(){return"Obtenez votre cl\xe9 API et l'ID locataire depuis votre compte ZR Express"},
-gQo(){return"Cl\xe9 API (x-api-key)"},
+gQp(){return"Cl\xe9 API (x-api-key)"},
 gCl(){return"esDYVbMlHT00mB41..."},
-gQn(){return"Vous pouvez l'obtenir dans les param\xe8tres API"},
-gb57(){return"ID Locataire (x-tenant)"},
-gb56(){return"79fdc7b5-a2d5-419c-801c-a62c5bfebdb1"},
-gb55(){return"Votre UUID locataire"},
+gQo(){return"Vous pouvez l'obtenir dans les param\xe8tres API"},
+gb5b(){return"ID Locataire (x-tenant)"},
+gb5a(){return"79fdc7b5-a2d5-419c-801c-a62c5bfebdb1"},
+gb59(){return"Votre UUID locataire"},
 gwG(){return"Activer le service"},
 gCP(){return"Activer le service de livraison ZR Express"},
-gQu(){return"Envoi automatique"},
+gQv(){return"Envoi automatique"},
 gCp(){return"Envoyer automatiquement les commandes lorsqu'elles sont confirm\xe9es"},
-gSA(){return"ZR Express connect\xe9 avec succ\xe8s"}}
-A.eHM.prototype={
+gSB(){return"ZR Express connect\xe9 avec succ\xe8s"}}
+A.eHT.prototype={
 gN(){return"Envoyer \xe0 ZR Express"},
 grY(){return"Aucune commande s\xe9lectionn\xe9e"},
 gDn(){return"ZR Express n'est pas connect\xe9 au magasin"},
-b1O(d){return""+d+" commandes"},
-aA_(d){return"Envoi en cours... ("+d+" commandes)"},
-azV(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
+b1S(d){return""+d+" commandes"},
+aA2(d){return"Envoi en cours... ("+d+" commandes)"},
+azY(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
 gqf(){return"Envoyer"},
-azT(d){return"Envoyer ("+d+")"},
+azW(d){return"Envoyer ("+d+")"},
 ge5(){return"Fermer"},
 gbU(){return"Annuler"},
 gjl(){return"R\xe9essayer"},
-b4M(d){return"R\xe9essayer les \xe9chou\xe9es ("+d+")"},
-gb4J(){return"R\xe9essayer"},
-gaV2(){return"Modifier la commande"},
+b4Q(d){return"R\xe9essayer les \xe9chou\xe9es ("+d+")"},
+gb4N(){return"R\xe9essayer"},
+gaV5(){return"Modifier la commande"},
 gMd(){return"Modifier et renvoyer"},
 gfh(){return"Enregistrer"},
-gaRv(){return"Copier le num\xe9ro de suivi"},
-gb5U(){return"Num\xe9ro de suivi copi\xe9"}}
-A.eI1.prototype={
+gaRy(){return"Copier le num\xe9ro de suivi"},
+gb5Y(){return"Num\xe9ro de suivi copi\xe9"}}
+A.eI8.prototype={
 gkX(){return"En attente"},
-gU2(){return"Validation en cours..."},
+gU4(){return"Validation en cours..."},
 gvg(){return"Envoi en cours..."},
 ger(){return"Envoy\xe9 avec succ\xe8s"},
 BZ(d){return"Envoy\xe9 - "+d},
 gkt(){return"\xc9chec de l'envoi"},
 gyt(){return"Ignor\xe9 (d\xe9j\xe0 envoy\xe9)"}}
-A.eI3.prototype={
+A.eIa.prototype={
 gkX(){return"En attente"},
 ger(){return"Envoy\xe9"},
 gkt(){return"\xc9chou\xe9"},
 gyt(){return"Ignor\xe9"}}
-A.eI_.prototype={
+A.eI6.prototype={
 OK(d){return""+d+" commandes envoy\xe9es avec succ\xe8s"},
-T_(d,e){return""+e+" commandes envoy\xe9es, "+d+" commandes \xe9chou\xe9es"}}
-A.eI5.prototype={
-gaT5(){return"Le nom du client est requis"},
-gaT4(){return"Le nom du client ne doit pas d\xe9passer 100 caract\xe8res"},
-gb2w(){return"Le num\xe9ro de t\xe9l\xe9phone est requis"},
-gaNI(){return"L'adresse est requise"},
-gaNH(){return"L'adresse ne doit pas d\xe9passer 200 caract\xe8res"},
-gaQd(){return"La ville est requise"},
-gaBm(){return"L'\xe9tat est requis"},
-gaQc(){return"Le code de la ville est requis"},
-gaU1(){return"La description doit contenir au moins 2 caract\xe8res"},
-gaU0(){return"La description ne doit pas d\xe9passer 250 caract\xe8res"},
-gaO3(){return"Le montant doit \xeatre sup\xe9rieur ou \xe9gal \xe0 z\xe9ro"},
-gb3x(){return"La commande doit contenir au moins un produit"}}
-A.eHR.prototype={
+T0(d,e){return""+e+" commandes envoy\xe9es, "+d+" commandes \xe9chou\xe9es"}}
+A.eIc.prototype={
+gaT8(){return"Le nom du client est requis"},
+gaT7(){return"Le nom du client ne doit pas d\xe9passer 100 caract\xe8res"},
+gb2A(){return"Le num\xe9ro de t\xe9l\xe9phone est requis"},
+gaNL(){return"L'adresse est requise"},
+gaNK(){return"L'adresse ne doit pas d\xe9passer 200 caract\xe8res"},
+gaQg(){return"La ville est requise"},
+gaBp(){return"L'\xe9tat est requis"},
+gaQf(){return"Le code de la ville est requis"},
+gaU4(){return"La description doit contenir au moins 2 caract\xe8res"},
+gaU3(){return"La description ne doit pas d\xe9passer 250 caract\xe8res"},
+gaO6(){return"Le montant doit \xeatre sup\xe9rieur ou \xe9gal \xe0 z\xe9ro"},
+gb3B(){return"La commande doit contenir au moins un produit"}}
+A.eHY.prototype={
 gDK(){return"Erreur inattendue"},
 NJ(d){return"Erreur inattendue : "+d},
-gSL(){return"Aucune r\xe9ponse re\xe7ue du serveur"},
-gaR5(){return"D\xe9lai de connexion expir\xe9"},
-gb3V(){return"D\xe9lai de r\xe9ception expir\xe9"},
-gaR3(){return"Erreur de connexion - v\xe9rifiez votre internet"},
+gSM(){return"Aucune r\xe9ponse re\xe7ue du serveur"},
+gaR8(){return"D\xe9lai de connexion expir\xe9"},
+gb3Z(){return"D\xe9lai de r\xe9ception expir\xe9"},
+gaR6(){return"Erreur de connexion - v\xe9rifiez votre internet"},
 gJO(){return"Erreur de connexion au serveur"},
 gFa(){return"Erreur de donn\xe9es"}}
-A.eHT.prototype={
+A.eI_.prototype={
 gj5(){return"Nom du client"},
 gkY(){return"Num\xe9ro de t\xe9l\xe9phone"},
 gBn(){return"Num\xe9ro de t\xe9l\xe9phone 2"},
@@ -3846,340 +3850,340 @@ glT(){return"Adresse"},
 gnf(){return"Ville"},
 gcK(){return"\xc9tat"},
 gbh(){return"Description"},
-gaO2(){return"Montant"}}
-A.eHY.prototype={
+gaO5(){return"Montant"}}
+A.eI4.prototype={
 gBh(){return"Sans nom"},
 gmV(){return"DZD"}}
-A.exG.prototype={
-b_k(d){return"Maximum "+d+" fichiers"},
-gatV(){return"Passer en mode Liste"},
-gacO(){return"Passer en mode Grille"},
+A.exN.prototype={
+b_o(d){return"Maximum "+d+" fichiers"},
+gatX(){return"Passer en mode Liste"},
+gacP(){return"Passer en mode Grille"},
 gNM(){var w=this.e
-return w===$?this.e=new A.exI():w},
-gb0g(){return"Aucun fichier trouv\xe9"},
-gYW(){return"Glissez-d\xe9posez les fichiers ici"},
-gaP5(){return"Parcourir"},
-ad9(d){return""+d+" fichier s\xe9lectionn\xe9"},
-azw(d){return""+d+" fichiers s\xe9lectionn\xe9s"},
-gaqE(){return"\xcates-vous s\xfbr de vouloir supprimer ce fichier ?"},
-gaWl(){var w=this.f
-return w===$?this.f=new A.exF():w}}
-A.ewl.prototype={
-gaae(){return"NOUVEAU"}}
-A.ewp.prototype={
+return w===$?this.e=new A.exP():w},
+gb0k(){return"Aucun fichier trouv\xe9"},
+gYY(){return"Glissez-d\xe9posez les fichiers ici"},
+gaP8(){return"Parcourir"},
+ada(d){return""+d+" fichier s\xe9lectionn\xe9"},
+azz(d){return""+d+" fichiers s\xe9lectionn\xe9s"},
+gaqG(){return"\xcates-vous s\xfbr de vouloir supprimer ce fichier ?"},
+gaWo(){var w=this.f
+return w===$?this.f=new A.exM():w}}
+A.ews.prototype={
+gaaf(){return"NOUVEAU"}}
+A.eww.prototype={
 gN(){return"Importer des produits"},
-gazm(){return"S\xe9lectionnez la plateforme depuis laquelle vous voulez importer des produits"},
-gaBh(){return"D\xe9marrer l'importation"},
-gasH(){return"Importer depuis WooCommerce"},
-gasE(){return"Importer depuis Foorweb"},
-gasG(){return"Importer depuis Storeino"},
-gasI(){return"Importer depuis YouCan"},
-gasF(){return"Importer depuis Lightfunnels"},
-gb7G(){return"Importer des produits depuis une boutique WooCommerce"},
-gaWz(){return"Importer des produits depuis une boutique Foorweb"},
-gaBX(){return"Importer des produits depuis une boutique Storeino"},
-gb7Q(){return"Importer des produits depuis une boutique YouCan"},
-gaZt(){return"Importer des produits depuis une boutique Lightfunnels"},
+gazp(){return"S\xe9lectionnez la plateforme depuis laquelle vous voulez importer des produits"},
+gaBk(){return"D\xe9marrer l'importation"},
+gasJ(){return"Importer depuis WooCommerce"},
+gasG(){return"Importer depuis Foorweb"},
+gasI(){return"Importer depuis Storeino"},
+gasK(){return"Importer depuis YouCan"},
+gasH(){return"Importer depuis Lightfunnels"},
+gb7K(){return"Importer des produits depuis une boutique WooCommerce"},
+gaWC(){return"Importer des produits depuis une boutique Foorweb"},
+gaC_(){return"Importer des produits depuis une boutique Storeino"},
+gb7U(){return"Importer des produits depuis une boutique YouCan"},
+gaZx(){return"Importer des produits depuis une boutique Lightfunnels"},
 gnX(){var w=this.e
-return w===$?this.e=new A.ewt():w},
-gZY(){var w=this.f
-return w===$?this.f=new A.ewr():w},
-gzX(){return"Tout s\xe9lectionner"},
-gAM(){return"Tout d\xe9s\xe9lectionner"},
-gata(){return"Une erreur est survenue lors de l'importation"},
-ga7a(){return"V\xe9rification..."},
-gaoY(){return"V\xe9rifier la boutique"},
-gaQS(){return"\xcates-vous s\xfbr de vouloir importer"},
-gaw_(){return"produit"},
-gaw2(){return"Les produits s\xe9lectionn\xe9s seront ajout\xe9s \xe0 votre boutique"},
+return w===$?this.e=new A.ewA():w},
+ga__(){var w=this.f
+return w===$?this.f=new A.ewy():w},
+gzY(){return"Tout s\xe9lectionner"},
+gAN(){return"Tout d\xe9s\xe9lectionner"},
+gatc(){return"Une erreur est survenue lors de l'importation"},
+ga7b(){return"V\xe9rification..."},
+gap_(){return"V\xe9rifier la boutique"},
+gaQV(){return"\xcates-vous s\xfbr de vouloir importer"},
+gaw1(){return"produit"},
+gaw4(){return"Les produits s\xe9lectionn\xe9s seront ajout\xe9s \xe0 votre boutique"},
 gD8(){return"Importation r\xe9ussie"},
-gaQZ(){return"Confirmer la s\xe9lection"},
-gaxF(){return"Voir les produits"},
-gaQ3(){return"V\xe9rifier le produit"},
-gaQT(){return"\xcates-vous s\xfbr de vouloir importer ce produit ?"},
-gb3t(){return"Le produit sera ajout\xe9 \xe0 votre boutique"},
-gaXT(){return"Produit import\xe9 avec succ\xe8s"},
-atc(d){return"Une erreur est survenue lors de l'importation : "+d},
-aQR(d){return"\xcates-vous s\xfbr de vouloir importer "+d+" produits ?"},
-aXU(d){return""+d+" produits import\xe9s avec succ\xe8s"},
-aR_(d){return"Confirmer la s\xe9lection ("+d+")"},
-gb6G(){return"Utiliser le chemin exact"},
-gb6H(){return"Cochez cette option si votre boutique WooCommerce est install\xe9e dans un sous-r\xe9pertoire (comme /store)"},
-aw1(d){return""+d+" produits trouv\xe9s"},
-gath(){return"Importation des produits..."},
-ate(d,e){return""+d+" sur "+e+" produits import\xe9s"},
-gatb(){return"Erreur d'importation"},
-gatf(){return"Produits import\xe9s avec succ\xe8s"},
-atg(d){return""+d+" produits import\xe9s"},
-ada(d){return""+d+" produits s\xe9lectionn\xe9s"},
-gaps(){return"Voulez-vous importer les produits s\xe9lectionn\xe9s ?"},
-gZz(){return"Importer des produits"},
+gaR1(){return"Confirmer la s\xe9lection"},
+gaxI(){return"Voir les produits"},
+gaQ6(){return"V\xe9rifier le produit"},
+gaQW(){return"\xcates-vous s\xfbr de vouloir importer ce produit ?"},
+gb3x(){return"Le produit sera ajout\xe9 \xe0 votre boutique"},
+gaXW(){return"Produit import\xe9 avec succ\xe8s"},
+ate(d){return"Une erreur est survenue lors de l'importation : "+d},
+aQU(d){return"\xcates-vous s\xfbr de vouloir importer "+d+" produits ?"},
+aXX(d){return""+d+" produits import\xe9s avec succ\xe8s"},
+aR2(d){return"Confirmer la s\xe9lection ("+d+")"},
+gb6K(){return"Utiliser le chemin exact"},
+gb6L(){return"Cochez cette option si votre boutique WooCommerce est install\xe9e dans un sous-r\xe9pertoire (comme /store)"},
+aw3(d){return""+d+" produits trouv\xe9s"},
+gatj(){return"Importation des produits..."},
+atg(d,e){return""+d+" sur "+e+" produits import\xe9s"},
+gatd(){return"Erreur d'importation"},
+gath(){return"Produits import\xe9s avec succ\xe8s"},
+ati(d){return""+d+" produits import\xe9s"},
+adb(d){return""+d+" produits s\xe9lectionn\xe9s"},
+gapu(){return"Voulez-vous importer les produits s\xe9lectionn\xe9s ?"},
+gZB(){return"Importer des produits"},
 gld(){return"Retour"}}
-A.ewv.prototype={
-gapf(){return"DZD"},
+A.ewC.prototype={
+gaph(){return"DZD"},
 gOR(){return"\u062f\u062c"},
 gaQ(){return"Dinar alg\xe9rien"}}
-A.evo.prototype={
-gjv(){var w=this.f
-return w===$?this.f=new A.evu():w},
-gaAW(){return"\xcates-vous s\xfbr de vouloir vous d\xe9connecter ?"},
-gJc(){var w,v=this.r
+A.evv.prototype={
+gjw(){var w=this.f
+return w===$?this.f=new A.evB():w},
+gaAZ(){return"\xcates-vous s\xfbr de vouloir vous d\xe9connecter ?"},
+gJd(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.evq(w,w)}return v},
-gao1(){var w=this.w
-return w===$?this.w=new A.evm():w},
-gb2q(){return"Informations personnelles"},
-gaz7(){return"S\xe9curit\xe9 et connexion"},
+v=this.r=new A.evx(w,w)}return v},
+gao3(){var w=this.w
+return w===$?this.w=new A.evt():w},
+gb2u(){return"Informations personnelles"},
+gaza(){return"S\xe9curit\xe9 et connexion"},
 gOw(){return"Se d\xe9connecter"},
-gaTz(){return"Supprimer mon compte"},
-gb41(){return"Mon code de parrainage"},
-gaPW(){return"Changer le mot de passe"},
-gaPX(){return"Changez votre mot de passe pour s\xe9curiser votre compte."},
-gaR9(){return"Pour toute demande ou probl\xe8me, vous pouvez nous contacter par email ou par t\xe9l\xe9phone."}}
-A.evk.prototype={
-gb4Q(){return"R\xe9vocation des jetons d\u2019acc\xe8s"},
-gaQn(){return"Nettoyage du cache de l\u2019application"},
-gaAV(){return"D\xe9connexion de votre compte"},
-gaZP(){return"D\xe9connexion termin\xe9e"},
-gaZM(){return"D\xe9connexion en cours"},
-gb40(){return"Redirection vers la page d\u2019accueil..."},
-gb2D(){return"Veuillez patienter pendant que nous vous d\xe9connectons en toute s\xe9curit\xe9"}}
-A.ez5.prototype={
+gaTC(){return"Supprimer mon compte"},
+gb45(){return"Mon code de parrainage"},
+gaPZ(){return"Changer le mot de passe"},
+gaQ_(){return"Changez votre mot de passe pour s\xe9curiser votre compte."},
+gaRc(){return"Pour toute demande ou probl\xe8me, vous pouvez nous contacter par email ou par t\xe9l\xe9phone."}}
+A.evr.prototype={
+gb4U(){return"R\xe9vocation des jetons d\u2019acc\xe8s"},
+gaQq(){return"Nettoyage du cache de l\u2019application"},
+gaAY(){return"D\xe9connexion de votre compte"},
+gaZT(){return"D\xe9connexion termin\xe9e"},
+gaZQ(){return"D\xe9connexion en cours"},
+gb44(){return"Redirection vers la page d\u2019accueil..."},
+gb2H(){return"Veuillez patienter pendant que nous vous d\xe9connectons en toute s\xe9curit\xe9"}}
+A.ezc.prototype={
 gaP(){var w=this.dx
-return w===$?this.dx=new A.ezj():w},
+return w===$?this.dx=new A.ezq():w},
 gff(){var w=this.dy
-return w===$?this.dy=new A.ezp():w},
+return w===$?this.dy=new A.ezw():w},
 gi_(){var w=this.fr
-return w===$?this.fr=new A.ez7():w},
+return w===$?this.fr=new A.eze():w},
 gxJ(){var w=this.fx
-return w===$?this.fx=new A.ez3():w},
+return w===$?this.fx=new A.eza():w},
 gij(){var w=this.fy
-return w===$?this.fy=new A.ezb():w},
+return w===$?this.fy=new A.ezi():w},
 gbh(){var w=this.go
-return w===$?this.go=new A.ez1():w},
+return w===$?this.go=new A.ez8():w},
 gyh(){var w=this.id
-return w===$?this.id=new A.ezr():w},
+return w===$?this.id=new A.ezy():w},
 gaQ(){var w=this.k1
-return w===$?this.k1=new A.ez9():w},
+return w===$?this.k1=new A.ezg():w},
 gN(){var w=this.k2
-return w===$?this.k2=new A.ezn():w},
+return w===$?this.k2=new A.ezu():w},
 gtX(){var w=this.k3
-return w===$?this.k3=new A.ezd():w},
+return w===$?this.k3=new A.ezk():w},
 glP(){var w=this.p3
-return w===$?this.p3=new A.ezh():w},
+return w===$?this.p3=new A.ezo():w},
 gLj(){var w=this.p4
-return w===$?this.p4=new A.eyY():w},
+return w===$?this.p4=new A.ez4():w},
 gJV(){var w=this.R8
-return w===$?this.R8=new A.ezl():w},
-gaSy(){var w=this.RG
-return w===$?this.RG=new A.ez_():w},
-gA1(){var w=this.rx
-return w===$?this.rx=new A.ezf():w}}
-A.ezy.prototype={
-gTd(){var w=this.y
-return w===$?this.y=new A.ezC():w},
-ga7Y(){var w=this.z
-return w===$?this.z=new A.ezw():w},
-gaNN(){var w=this.Q
-return w===$?this.Q=new A.ezu():w},
-gaYq(){var w=this.as
-return w===$?this.as=new A.ezA():w},
-ga17(){var w=this.at
-return w===$?this.at=new A.ezE():w}}
-A.eAi.prototype={
+return w===$?this.R8=new A.ezs():w},
+gaSB(){var w=this.RG
+return w===$?this.RG=new A.ez6():w},
+gA2(){var w=this.rx
+return w===$?this.rx=new A.ezm():w}}
+A.ezF.prototype={
+gTe(){var w=this.y
+return w===$?this.y=new A.ezJ():w},
+ga7Z(){var w=this.z
+return w===$?this.z=new A.ezD():w},
+gaNQ(){var w=this.Q
+return w===$?this.Q=new A.ezB():w},
+gaYt(){var w=this.as
+return w===$?this.as=new A.ezH():w},
+ga18(){var w=this.at
+return w===$?this.at=new A.ezL():w}}
+A.eAp.prototype={
 gaQ(){var w=this.r
-return w===$?this.r=new A.eAk():w},
+return w===$?this.r=new A.eAr():w},
 gFg(){var w=this.w
-return w===$?this.w=new A.eAg():w},
+return w===$?this.w=new A.eAn():w},
 gkY(){var w=this.x
-return w===$?this.x=new A.eAo():w},
+return w===$?this.x=new A.eAv():w},
 gNg(){var w=this.y
-return w===$?this.y=new A.eAm():w}}
-A.exM.prototype={
+return w===$?this.y=new A.eAt():w}}
+A.exT.prototype={
 gwY(){return"Commande"},
 gze(){return"Date"},
 gtw(){return"Panier"},
-gju(){return"Total"},
-gh8(){return"Livraison"}}
-A.ey5.prototype={
-ga5(){return"Aucune commande"},
+gjv(){return"Total"},
+gh9(){return"Livraison"}}
+A.eyc.prototype={
+ga4(){return"Aucune commande"},
 gbh(){return"Les commandes appara\xeetront ici lorsque vous en ajouterez"}}
-A.exQ.prototype={
+A.exX.prototype={
 gbJ(){var w=this.x
-return w===$?this.x=new A.exO():w},
+return w===$?this.x=new A.exV():w},
 gmD(){var w=this.y
-return w===$?this.y=new A.ey_():w},
-gh2(){var w=this.z
-return w===$?this.z=new A.ey1():w},
+return w===$?this.y=new A.ey6():w},
+gh3(){var w=this.z
+return w===$?this.z=new A.ey8():w},
 gfK(){var w=this.Q
-return w===$?this.Q=new A.exY():w},
+return w===$?this.Q=new A.ey4():w},
 gbY(){var w=this.as
-return w===$?this.as=new A.ey3():w},
+return w===$?this.as=new A.eya():w},
 gfT(){var w,v=this.at
 if(v===$){w=this.w
-v=this.at=new A.exU(w,w)}return v}}
-A.eyP.prototype={
+v=this.at=new A.ey0(w,w)}return v}}
+A.eyW.prototype={
 goo(){return"Brouillon"},
 gkX(){return"Nouveau"},
-gJp(){return"En r\xe9vision"},
+gJq(){return"En r\xe9vision"},
 gz1(){return"Confirm\xe9"},
 gno(){return"En livraison"},
 gz9(){return"Termin\xe9"},
 guy(){return"\xc9chou\xe9"}}
-A.eyI.prototype={
+A.eyP.prototype={
 gbg(){var w=this.f
-return w===$?this.f=new A.eyK():w},
+return w===$?this.f=new A.eyR():w},
 gfU(){var w=this.r
-return w===$?this.r=new A.eyG():w},
+return w===$?this.r=new A.eyN():w},
 gi0(){var w=this.w
-return w===$?this.w=new A.eyM():w}}
-A.eyk.prototype={
+return w===$?this.w=new A.eyT():w}}
+A.eyr.prototype={
 gj5(){var w=this.p1
-return w===$?this.p1=new A.eya():w},
+return w===$?this.p1=new A.eyh():w},
 grJ(){var w=this.p2
-return w===$?this.p2=new A.eye():w},
+return w===$?this.p2=new A.eyl():w},
 gF9(){var w=this.p4
-return w===$?this.p4=new A.eyc():w},
+return w===$?this.p4=new A.eyj():w},
 gEf(){var w=this.R8
-return w===$?this.R8=new A.eyu():w},
+return w===$?this.R8=new A.eyB():w},
 gyq(){var w=this.rx
-return w===$?this.rx=new A.eyq():w},
+return w===$?this.rx=new A.eyx():w},
 gmM(){var w=this.ry
-return w===$?this.ry=new A.eys():w},
+return w===$?this.ry=new A.eyz():w},
 gkE(){var w=this.to
-return w===$?this.to=new A.eyw():w},
-gGI(){var w=this.x2
-return w===$?this.x2=new A.eyy():w},
+return w===$?this.to=new A.eyD():w},
+gGJ(){var w=this.x2
+return w===$?this.x2=new A.eyF():w},
 gJX(){var w=this.y2
-return w===$?this.y2=new A.eyC():w},
+return w===$?this.y2=new A.eyJ():w},
 gxJ(){var w=this.bw
-return w===$?this.bw=new A.eyi():w},
+return w===$?this.bw=new A.eyp():w},
 gU(){var w=this.an
-return w===$?this.an=new A.eym():w},
+return w===$?this.an=new A.eyt():w},
 gaP(){var w=this.aA
-return w===$?this.aA=new A.eyA():w},
+return w===$?this.aA=new A.eyH():w},
 gqI(){var w=this.aD
-return w===$?this.aD=new A.eyo():w},
+return w===$?this.aD=new A.eyv():w},
 gqz(){var w=this.bb
-return w===$?this.bb=new A.eyg():w},
+return w===$?this.bb=new A.eyn():w},
 gvJ(){var w=this.aW
-return w===$?this.aW=new A.ey8():w},
-gju(){var w=this.by
-return w===$?this.by=new A.eyE():w}}
-A.eA_.prototype={
+return w===$?this.aW=new A.eyf():w},
+gjv(){var w=this.by
+return w===$?this.by=new A.eyL():w}}
+A.eA6.prototype={
 gN(){return"Contenu verrouill\xe9"},
-gir(){return"Vous avez d\xe9pass\xe9 le montant d\xfb autoris\xe9. Veuillez payer le montant pour acc\xe9der \xe0 ce contenu."},
-gaZL(){return"Verrouill\xe9"}}
-A.ezO.prototype={
+gis(){return"Vous avez d\xe9pass\xe9 le montant d\xfb autoris\xe9. Veuillez payer le montant pour acc\xe9der \xe0 ce contenu."},
+gaZP(){return"Verrouill\xe9"}}
+A.ezV.prototype={
 gN(){return"Vous avez un montant d\xfb \xe0 payer"},
-gir(){return"Vous avez {due} points dus \xe0 payer. Veuillez payer le montant pour maintenir votre service actif."},
-gavr(){return"Payer le montant d\xfb"},
-gb2e(){return"Payer"},
-gaR8(){return"Si vous avez des probl\xe8mes, vous pouvez nous contacter"},
-gapw(){return"Contacter via WhatsApp"},
-gaRa(){return"WhatsApp"},
+gis(){return"Vous avez {due} points dus \xe0 payer. Veuillez payer le montant pour maintenir votre service actif."},
+gavt(){return"Payer le montant d\xfb"},
+gb2i(){return"Payer"},
+gaRb(){return"Si vous avez des probl\xe8mes, vous pouvez nous contacter"},
+gapy(){return"Contacter via WhatsApp"},
+gaRd(){return"WhatsApp"},
 gci(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.ezI(w,w)}return v}}
-A.eA5.prototype={
-ga5(){return"Abonnement"},
-gb4j(){return"Renouveler l\u2019abonnement"},
-gaw3(){return"Code promo"},
+v=this.d=new A.ezP(w,w)}return v}}
+A.eAc.prototype={
+ga4(){return"Abonnement"},
+gb4n(){return"Renouveler l\u2019abonnement"},
+gaw5(){return"Code promo"},
 gCm(){return"Appliquer"},
-gaYn(){return"Code invalide ou expir\xe9"},
-gaXm(){return"Vous avez un code promo ?"},
-gb3z(){return"Code promo appliqu\xe9"},
-gHT(){return"Appliqu\xe9"},
-gb3A(){return"ex. SAVE20"},
-gb6g(){return"Jusqu'\xe0 {percent} % de r\xe9duction"},
-gaXE(){return"100 % de r\xe9duction"},
+gaYq(){return"Code invalide ou expir\xe9"},
+gaXp(){return"Vous avez un code promo ?"},
+gb3D(){return"Code promo appliqu\xe9"},
+gHU(){return"Appliqu\xe9"},
+gb3E(){return"ex. SAVE20"},
+gb6k(){return"Jusqu'\xe0 {percent} % de r\xe9duction"},
+gaXH(){return"100 % de r\xe9duction"},
 gy_(){return"mois"},
-gJ0(){return"mois"},
-gaUN(){return"Dur\xe9e de l'abonnement"},
+gJ1(){return"mois"},
+gaUQ(){return"Dur\xe9e de l'abonnement"},
 gzc(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eA1(w,w)}return v}}
-A.ezX.prototype={
+v=this.d=new A.eA8(w,w)}return v}}
+A.eA3.prototype={
 gF7(){return"Cr\xe9er un magasin"}}
-A.ezR.prototype={
+A.ezY.prototype={
 gaQ(){var w=this.w
-return w===$?this.w=new A.ezT():w},
+return w===$?this.w=new A.eA_():w},
 glP(){var w=this.Q
-return w===$?this.Q=new A.ezV():w}}
-A.eAb.prototype={
-gaNX(){return"Tous les magasins"},
-gaSM(){return"Cr\xe9er un magasin"},
-gaBi(){return"Commencez \xe0 vendre aujourd'hui"},
-gb0B(){return"Aucun magasin trouv\xe9"},
-gb6_(){return"Essayez un autre terme de recherche"},
-gaQ7(){return"Choisir la couleur du magasin"},
-aZE(d){return""+d+" magasins charg\xe9s avec succ\xe8s"},
+return w===$?this.Q=new A.eA1():w}}
+A.eAi.prototype={
+gaO_(){return"Tous les magasins"},
+gaSP(){return"Cr\xe9er un magasin"},
+gaBl(){return"Commencez \xe0 vendre aujourd'hui"},
+gb0F(){return"Aucun magasin trouv\xe9"},
+gb63(){return"Essayez un autre terme de recherche"},
+gaQa(){return"Choisir la couleur du magasin"},
+aZI(d){return""+d+" magasins charg\xe9s avec succ\xe8s"},
 guV(){return"Erreur lors du chargement des magasins"},
-gaZC(){return"Une erreur s'est produite lors du chargement des magasins. Veuillez v\xe9rifier votre connexion Internet et r\xe9essayer."},
+gaZG(){return"Une erreur s'est produite lors du chargement des magasins. Veuillez v\xe9rifier votre connexion Internet et r\xe9essayer."},
 gjl(){return"R\xe9essayer"},
-gaCP(){return"Support"},
-gaV8(){return"Cr\xe9ez votre premier magasin"},
-gaV7(){return"Commencez votre parcours e-commerce en cr\xe9ant votre premier magasin.\nVous pouvez facilement ajouter des produits et g\xe9rer les commandes."},
-gb7o(){return"Regarder la vid\xe9o tutorielle"},
-gaTk(){return"Offres et r\xe9ductions compl\xe8tes"},
-gaTo(){return"Description du plus beau magasin sur la lune"},
-gb1w(){return"Ouvrir mon magasin"},
+gaCS(){return"Support"},
+gaVb(){return"Cr\xe9ez votre premier magasin"},
+gaVa(){return"Commencez votre parcours e-commerce en cr\xe9ant votre premier magasin.\nVous pouvez facilement ajouter des produits et g\xe9rer les commandes."},
+gb7s(){return"Regarder la vid\xe9o tutorielle"},
+gaTn(){return"Offres et r\xe9ductions compl\xe8tes"},
+gaTr(){return"Description du plus beau magasin sur la lune"},
+gb1A(){return"Ouvrir mon magasin"},
 gCj(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.eA7(w,w)}return v},
-gavq(){var w=this.w
-return w===$?this.w=new A.eAd():w}}
-A.evI.prototype={
+v=this.r=new A.eAe(w,w)}return v},
+gavs(){var w=this.w
+return w===$?this.w=new A.eAk():w}}
+A.evP.prototype={
 gDr(){var w,v=this.ax
 if(v===$){w=this.at
-v=this.ax=new A.evO(w,w)}return v},
+v=this.ax=new A.evV(w,w)}return v},
 gmN(){var w,v=this.ay
 if(v===$){w=this.at
-v=this.ay=new A.ew5(w,w)}return v},
+v=this.ay=new A.ewc(w,w)}return v},
 gaM(){var w=this.ch
-return w===$?this.ch=new A.evM():w},
+return w===$?this.ch=new A.evT():w},
 gdz(){var w=this.cx
-return w===$?this.cx=new A.evU():w},
-gh8(){var w,v=this.dx
+return w===$?this.cx=new A.ew0():w},
+gh9(){var w,v=this.dx
 if(v===$){w=this.at
-v=this.dx=new A.ew_(w,w)}return v},
+v=this.dx=new A.ew6(w,w)}return v},
 gad(){var w=this.dy
-return w===$?this.dy=new A.evK():w},
+return w===$?this.dy=new A.evR():w},
 gc9(){var w,v=this.fr
 if(v===$){w=this.at
-v=this.fr=new A.evW(w,w)}return v},
-gavY(){var w=this.fx
-return w===$?this.fx=new A.evS():w},
+v=this.fr=new A.ew2(w,w)}return v},
+gaw_(){var w=this.fx
+return w===$?this.fx=new A.evZ():w},
 gLR(){var w=this.fy
-return w===$?this.fy=new A.evG():w}}
-A.eyV.prototype={
-gaB1(){return"Ignorer la bo\xeete d\u2019impression"},
-ga5(){return"Ticket"},
-gawJ(){return"Merci pour votre achat"},
+return w===$?this.fy=new A.evN():w}}
+A.ez1.prototype={
+gaB4(){return"Ignorer la bo\xeete d\u2019impression"},
+ga4(){return"Ticket"},
+gawL(){return"Merci pour votre achat"},
 go9(){return"Aper\xe7u"},
-gb33(){return"Imprimer"}}
-A.eyR.prototype={
+gb37(){return"Imprimer"}}
+A.eyY.prototype={
 gpS(){return"Le panier est vide"},
-gaoZ(){return"Encaisser"},
+gap0(){return"Encaisser"},
 gno(){return"Traitement..."},
-gaNC(){return"ajout\xe9 au panier"},
+gaNF(){return"ajout\xe9 au panier"},
 guz(d){return"Vider le panier"},
-gap8(){return"Vider le panier"},
-gap7(){return"Voulez-vous vraiment vider le panier ?"}}
-A.exk.prototype={
+gapa(){return"Vider le panier"},
+gap9(){return"Voulez-vous vraiment vider le panier ?"}}
+A.exr.prototype={
 gN(){return"Int\xe9gration de s\xe9curit\xe9"},
 gpJ(){var w=this.w
-return w===$?this.w=new A.exg():w},
+return w===$?this.w=new A.exn():w},
 gci(){var w=this.x
-return w===$?this.x=new A.exi():w},
+return w===$?this.x=new A.exp():w},
 gV(){var w=this.y
-return w===$?this.y=new A.exm():w},
+return w===$?this.y=new A.ext():w},
 gaM(){var w,v=this.z
 if(v===$){w=this.r
-v=this.z=new A.exo(w,w)}return v},
-gb6a(){var w=this.Q
-return w===$?this.Q=new A.exs():w}}
-A.ewD.prototype={
+v=this.z=new A.exv(w,w)}return v},
+gb6e(){var w=this.Q
+return w===$?this.Q=new A.exz():w}}
+A.ewK.prototype={
 gN(){return"Ecotrack"},
 gbh(){return"Connectez votre boutique au service de livraison rapide Ecotrack\nFournit les tarifs de livraison et l\u2019envoi direct des commandes"},
 glI(){return"Copier les tarifs"},
@@ -4188,24 +4192,24 @@ goL(){return y.f},
 gmS(){return"Tarifs copi\xe9s avec succ\xe8s"},
 gi9(){return"Connecter ma boutique"},
 gc9(){var w=this.r
-return w===$?this.r=new A.ewF():w},
-gAC(){var w=this.w
-return w===$?this.w=new A.ewz():w},
+return w===$?this.r=new A.ewM():w},
+gAD(){var w=this.w
+return w===$?this.w=new A.ewG():w},
 glg(){var w=this.x
-return w===$?this.x=new A.ewC():w},
+return w===$?this.x=new A.ewJ():w},
 gmN(){var w=this.y
-return w===$?this.y=new A.ewH():w}}
-A.exA.prototype={
+return w===$?this.y=new A.ewO():w}}
+A.exH.prototype={
 glI(){return"Copier les tarifs"},
-gb7p(){return"Webhook"},
-gb7t(){return"Param\xe8tres Webhook"},
+gb7t(){return"Webhook"},
+gb7x(){return"Param\xe8tres Webhook"},
 gDQ(){return"Utilisez cette URL pour configurer le webhook dans le panneau de contr\xf4le Yalidine/GuepEX :"},
 gDR(){return"URL du Webhook"},
 gDP(){return"Copier l'URL"},
 gDO(){return"URL du webhook copi\xe9e"},
 gc9(){var w=this.d
-return w===$?this.d=new A.exC():w}}
-A.exe.prototype={
+return w===$?this.d=new A.exJ():w}}
+A.exl.prototype={
 gN(){return"Procolis"},
 goL(){return"Copiez les tarifs de livraison de votre compte Procolis vers votre boutique"},
 gmS(){return"Tarifs copi\xe9s depuis Procolis avec succ\xe8s"},
@@ -4214,46 +4218,46 @@ gbh(){return"Connectez votre boutique au service de livraison Procolis\nFournit 
 gi9(){return"Connecter ma boutique"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service Procolis de votre boutique ?"}}
-A.ewV.prototype={
+A.ex1.prototype={
 gN(){return"Meta Pixel"},
 gbh(){return"Connectez votre boutique au service de publicit\xe9 et marketing Meta Pixel\nSuivez les visiteurs et clients et optimisez vos publicit\xe9s"},
 gi9(){return"Connecter ma boutique"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service Meta Pixel de votre boutique ?"},
-gHL(){return"Ajouter un Pixel"},
-gT6(){return"ID Pixel"},
-gSK(){return y.b},
-gT7(){return"ex. : Pixel principal du site"},
+gHM(){return"Ajouter un Pixel"},
+gT7(){return"ID Pixel"},
+gSL(){return y.b},
+gT8(){return"ex. : Pixel principal du site"},
 gc9(){var w=this.d
-return w===$?this.d=new A.ewX():w},
-gRv(){return"Modifier le Pixel"},
-Rb(d){return y.B+d+" ?"},
-gQA(){return"Catalogue produits"},
+return w===$?this.d=new A.ex3():w},
+gRw(){return"Modifier le Pixel"},
+Rc(d){return y.B+d+" ?"},
+gQB(){return"Catalogue produits"},
 gBR(){return"Envoyer un \xe9v\xe9nement test"},
-gGB(){return"Envoyer un \xe9v\xe9nement test avec votre pixel ?"},
-gTE(){return"Code test"},
-gTF(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
-A.exu.prototype={
+gGC(){return"Envoyer un \xe9v\xe9nement test avec votre pixel ?"},
+gTF(){return"Code test"},
+gTG(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
+A.exB.prototype={
 gN(){return"TikTok Pixel"},
 gbh(){return"Connectez votre boutique au service de publicit\xe9 et marketing TikTok Pixel\nSuivez les visiteurs et clients pour am\xe9liorer vos publicit\xe9s"},
 gi9(){return"Connecter ma boutique"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service TikTok Pixel de votre boutique ?"},
-gHL(){return"Ajouter un Pixel"},
-gRv(){return"Modifier le Pixel"},
-gT6(){return"ID Pixel"},
-gT7(){return"ex. : Pixel principal du site"},
-gaMP(){return"Jeton d\u2019acc\xe8s"},
-gSK(){return y.b},
-Rb(d){return y.B+d+" ?"},
+gHM(){return"Ajouter un Pixel"},
+gRw(){return"Modifier le Pixel"},
+gT7(){return"ID Pixel"},
+gT8(){return"ex. : Pixel principal du site"},
+gaMS(){return"Jeton d\u2019acc\xe8s"},
+gSL(){return y.b},
+Rc(d){return y.B+d+" ?"},
 gc9(){var w=this.d
-return w===$?this.d=new A.exw():w},
-gQA(){return"Catalogue produits"},
+return w===$?this.d=new A.exD():w},
+gQB(){return"Catalogue produits"},
 gBR(){return"Envoyer un \xe9v\xe9nement test"},
-gGB(){return"Envoyer un \xe9v\xe9nement test avec votre pixel TikTok ?"},
-gTE(){return"Code test"},
-gTF(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
-A.ewT.prototype={
+gGC(){return"Envoyer un \xe9v\xe9nement test avec votre pixel TikTok ?"},
+gTF(){return"Code test"},
+gTG(){return"\xc9v\xe9nement test envoy\xe9 avec succ\xe8s"}}
+A.ex_.prototype={
 gN(){return"Maystro"},
 gbh(){return"Connectez votre boutique au service de livraison rapide Maystro\nFournit les tarifs de livraison et l\u2019envoi direct des commandes"},
 gi9(){return"Connecter ma boutique"},
@@ -4264,7 +4268,7 @@ gr3(){return"Copier les tarifs"},
 goL(){return"Les tarifs Maystro seront copi\xe9s dans votre boutique. Continuer remplace les tarifs actuels ; nous recommandons une sauvegarde."},
 gmS(){return"Tarifs copi\xe9s avec succ\xe8s"},
 gc9(){return"Param\xe8tres"},
-gGH(){return"Configurer le webhook"},
+gGI(){return"Configurer le webhook"},
 gOq(){return"Webhook enregistr\xe9 avec Maystro avec succ\xe8s"},
 gDQ(){return'Copiez le lien ci-dessous pour configurer le webhook manuellement dans Maystro, ou utilisez "Configurer automatiquement".'},
 gDR(){return"URL du webhook"},
@@ -4272,8 +4276,8 @@ gDP(){return"Copier le lien"},
 gDO(){return"URL du webhook copi\xe9e"},
 gOp(){return"Configurer automatiquement"},
 gci(){var w=this.d
-return w===$?this.d=new A.ewR():w}}
-A.ex4.prototype={
+return w===$?this.d=new A.ewY():w}}
+A.exb.prototype={
 gN(){return"Noest"},
 gbh(){return"Connectez votre boutique au service de livraison rapide Noest\nFournit les tarifs de livraison et l\u2019envoi direct des commandes"},
 gi9(){return"Connecter ma boutique"},
@@ -4283,197 +4287,197 @@ glI(){return"Copier les tarifs"},
 gr3(){return"Copier les tarifs"},
 goL(){return y.f},
 gmS(){return"Tarifs copi\xe9s avec succ\xe8s"},
-gb1M(){return"Type de commande"},
-gaTQ(){return"Type de livraison"},
+gb1Q(){return"Type de commande"},
+gaTT(){return"Type de livraison"},
 gNa(){var w,v=this.r
 if(v===$){w=this.e
-v=this.r=new A.exa(w,w)}return v},
-gYL(){var w,v=this.w
+v=this.r=new A.exh(w,w)}return v},
+gYN(){var w,v=this.w
 if(v===$){w=this.e
-v=this.w=new A.ex0(w,w)}return v}}
-A.ewP.prototype={
+v=this.w=new A.ex7(w,w)}return v}}
+A.ewW.prototype={
 gN(){return"Google Sheets"},
 gbh(){return"Exporter les commandes et les clients vers Google Sheets automatiquement"},
 gi9(){return"Connecter"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service Google Sheets de votre boutique ?"},
-gGG(){return"Param\xe8tres"},
-gzZ(){return"Lier une feuille, personnaliser les colonnes et exporter"},
-gaCV(){return"Synchronisation des en-t\xeates..."},
-gaCW(){return"En-t\xeates synchronis\xe9s avec succ\xe8s"},
-gaCT(){return"Erreur lors de la synchronisation des en-t\xeates"}}
-A.exy.prototype={
+gGH(){return"Param\xe8tres"},
+gA_(){return"Lier une feuille, personnaliser les colonnes et exporter"},
+gaCY(){return"Synchronisation des en-t\xeates..."},
+gaCZ(){return"En-t\xeates synchronis\xe9s avec succ\xe8s"},
+gaCW(){return"Erreur lors de la synchronisation des en-t\xeates"}}
+A.exF.prototype={
 gN(){return"Webhooks"},
 gbh(){return"Connectez votre boutique \xe0 des services externes via Webhooks pour des notifications instantan\xe9es"},
 gi9(){return"Connecter"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service Webhooks de votre boutique ?"},
 gc9(){return"Param\xe8tres"},
-gzZ(){return"Configurer les points de terminaison Webhook et vos notifications"}}
-A.ewL.prototype={
+gA_(){return"Configurer les points de terminaison Webhook et vos notifications"}}
+A.ewS.prototype={
 gN(){return"Google Analytics"},
 gbh(){return"Connectez votre boutique \xe0 Google Analytics pour suivre les visiteurs et analyser les donn\xe9es"},
 gi9(){return"Connecter ma boutique"},
 ghO(){return"D\xe9connecter"},
 gio(){return"Voulez-vous d\xe9connecter le service Google Analytics de votre boutique ?"},
-gGG(){return"Param\xe8tres"},
-gzZ(){return"Activer le service Google Analytics"},
+gGH(){return"Param\xe8tres"},
+gA_(){return"Activer le service Google Analytics"},
 gwG(){return"Activer le service"},
 gc9(){var w=this.d
-return w===$?this.d=new A.ewN():w}}
-A.ewx.prototype={
+return w===$?this.d=new A.ewU():w}}
+A.ewE.prototype={
 gN(){return"Int\xe9gration IA"},
 gbh(){return"Int\xe9gration avec Google AI Studio pour des fonctionnalit\xe9s IA avanc\xe9es"},
-gaOb(){return"Cl\xe9 API"},
+gaOe(){return"Cl\xe9 API"},
 gCl(){return"Entrez votre cl\xe9 API depuis aistudio.google.com"},
-gb5c(){return"Mod\xe8le de texte"},
-gaXJ(){return"Mod\xe8le d'image"},
+gb5g(){return"Mod\xe8le de texte"},
+gaXM(){return"Mod\xe8le d'image"},
 god(){return"Configurer l'int\xe9gration IA"},
-gRy(){return"Activer l'int\xe9gration IA"},
+gRz(){return"Activer l'int\xe9gration IA"},
 ghO(){return"D\xe9connecter"},
 gMa(){return"\xcates-vous s\xfbr de vouloir d\xe9connecter l'int\xe9gration IA de votre boutique ?"}}
-A.eva.prototype={
-ga7F(){return"Cr\xe9er nouveau"},
+A.evh.prototype={
+ga7G(){return"Cr\xe9er nouveau"},
 go7(){return"Historique"}}
-A.ev4.prototype={
-gaUZ(){return"Entrez les modifications..."},
-gaxS(){return"Entrez une description..."}}
-A.euZ.prototype={
-garm(){return"D\xe9poser une image"},
-gazh(){return"S\xe9lectionner une image"},
-gaPU(){return"Changer l'image"},
-gaQi(){return"Effacer l'image"},
-gaV_(){return"Modifier l'image"},
-gb4A(){return"R\xe9initialiser le zoom"},
-gzQ(){return"Annuler"},
+A.evb.prototype={
+gaV1(){return"Entrez les modifications..."},
+gaxV(){return"Entrez une description..."}}
+A.ev5.prototype={
+garo(){return"D\xe9poser une image"},
+gazk(){return"S\xe9lectionner une image"},
+gaPX(){return"Changer l'image"},
+gaQl(){return"Effacer l'image"},
+gaV2(){return"Modifier l'image"},
+gb4E(){return"R\xe9initialiser le zoom"},
+gzR(){return"Annuler"},
 gpb(){return"G\xe9n\xe9rer"},
-gaOk(){return"Appliquer"},
+gaOn(){return"Appliquer"},
 gno(){return"Traitement..."},
-gb3d(){return"Traitement de l'image..."},
-b7E(d,e,f){return f+" \xb7 "+d+" "+e}}
-A.ev6.prototype={
+gb3h(){return"Traitement de l'image..."},
+b7I(d,e,f){return f+" \xb7 "+d+" "+e}}
+A.evd.prototype={
 gML(){var w=this.d
-return w===$?this.d=new A.ev8():w}}
-A.ev1.prototype={
-gb0y(){return"Veuillez entrer une description ou s\xe9lectionner une image \xe0 modifier"},
-gb0i(){return"Aucune image \xe0 modifier"},
-gRH(){return"\xc9chec du chargement de l'image"},
-gaVT(){return"\xc9chec de l'affichage de l'image"},
-gaVW(){return"\xc9chec de l'ouverture de l'\xe9diteur d'images"},
-gRJ(){return"\xc9chec du partage de l'image"},
+return w===$?this.d=new A.evf():w}}
+A.ev8.prototype={
+gb0C(){return"Veuillez entrer une description ou s\xe9lectionner une image \xe0 modifier"},
+gb0m(){return"Aucune image \xe0 modifier"},
+gRI(){return"\xc9chec du chargement de l'image"},
+gaVW(){return"\xc9chec de l'affichage de l'image"},
+gaVZ(){return"\xc9chec de l'ouverture de l'\xe9diteur d'images"},
+gRK(){return"\xc9chec du partage de l'image"},
 gNS(){return"\xc9chec de la g\xe9n\xe9ration de l'image"}}
-A.evc.prototype={
-gaXI(){return"Image g\xe9n\xe9r\xe9e avec succ\xe8s"},
-gaV4(){return"Modifications enregistr\xe9es. Vous pouvez continuer \xe0 modifier ou g\xe9n\xe9rer"},
+A.evj.prototype={
+gaXL(){return"Image g\xe9n\xe9r\xe9e avec succ\xe8s"},
+gaV7(){return"Modifications enregistr\xe9es. Vous pouvez continuer \xe0 modifier ou g\xe9n\xe9rer"},
 gDg(){return"Lien de l'image copi\xe9"}}
-A.euX.prototype={
-gaBa(){return"Carr\xe9"},
-gavK(){return"Portrait"},
-gaBY(){return"Story"},
-gatJ(){return"Paysage"}}
-A.eAv.prototype={
+A.ev3.prototype={
+gaBd(){return"Carr\xe9"},
+gavM(){return"Portrait"},
+gaC0(){return"Story"},
+gatL(){return"Paysage"}}
+A.eAC.prototype={
 gtD(){return"D\xe9p\xf4t"},
 gnY(){return"Abonnement"},
-gT8(){return"Points"},
-gaBS(){return"Paiement du magasin"},
+gT9(){return"Points"},
+gaBV(){return"Paiement du magasin"},
 gqf(){return"Envoyer"},
-gb3T(){return"Recevoir"},
-gb5W(){return"Transaction"},
-gaNV(){return"G\xe9n\xe9ration IA"},
-gb43(){return"Remboursement"},
-gaNK(){return"Ajustement"}}
-A.eAr.prototype={
+gb3X(){return"Recevoir"},
+gb6_(){return"Transaction"},
+gaNY(){return"G\xe9n\xe9ration IA"},
+gb47(){return"Remboursement"},
+gaNN(){return"Ajustement"}}
+A.eAy.prototype={
 gz9(){return"Termin\xe9"},
 gkX(){return"En attente"},
 gkt(){return"\xc9chou\xe9"},
 guy(){return"Annul\xe9"}}
-A.eAR.prototype={
-b3e(d,e,f){return""+d+" produit(s) \u2022 "+f+" "+e}}
-A.eAL.prototype={
-gb0q(){return"Aucun historique de commande"},
+A.eAY.prototype={
+b3i(d,e,f){return""+d+" produit(s) \u2022 "+f+" "+e}}
+A.eAS.prototype={
+gb0u(){return"Aucun historique de commande"},
 gu1(){var w=this.d
-return w===$?this.d=new A.eAN():w}}
-A.eAz.prototype={
+return w===$?this.d=new A.eAU():w}}
+A.eAG.prototype={
 gy3(){return"Note"}}
-A.eB4.prototype={
-gaWv(){return"Premier \xe0 mettre \xe0 jour (par d\xe9faut)"},
-ga_B(){return"Al\xe9atoire"},
-gaxN(){return"Al\xe9atoire pond\xe9r\xe9"},
-gawF(){return"Tour de r\xf4le"},
-gb_2(){return"Manuel uniquement"},
-gTb(){return"Par priorit\xe9"}}
-A.eC8.prototype={
+A.eBb.prototype={
+gaWy(){return"Premier \xe0 mettre \xe0 jour (par d\xe9faut)"},
+ga_D(){return"Al\xe9atoire"},
+gaxQ(){return"Al\xe9atoire pond\xe9r\xe9"},
+gawH(){return"Tour de r\xf4le"},
+gb_6(){return"Manuel uniquement"},
+gTc(){return"Par priorit\xe9"}}
+A.eCf.prototype={
 gN(){return"Choisir type d\u2019\xe9v\xe9nement"},
 gic(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eC_(w,w)}return v},
+v=this.d=new A.eC6(w,w)}return v},
 gOk(){return"Envoyer"},
 gBY(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
-gRD(){return"Erreur : {error}"}}
-A.eCw.prototype={
+gRE(){return"Erreur : {error}"}}
+A.eCD.prototype={
 gN(){return"Choisir type d\u2019\xe9v\xe9nement"},
 gic(){var w,v=this.d
 if(v===$){w=this.c
-v=this.d=new A.eCl(w,w)}return v},
+v=this.d=new A.eCs(w,w)}return v},
 gOk(){return"Envoyer"},
 gBY(){return"\xc9v\xe9nement {eventName} envoy\xe9"},
-gRD(){return"Erreur : {error}"}}
-A.eCR.prototype={
+gRE(){return"Erreur : {error}"}}
+A.eCY.prototype={
 gN(){return"Confirmer la suppression"},
 grI(){return"Supprimer les r\xe9glages Meta Pixel pour ce produit ?"},
 gbU(){return"Annuler"},
 gd3(){return"Supprimer"}}
-A.eCT.prototype={
+A.eD_.prototype={
 gN(){return"Confirmer la suppression"},
 grI(){return"Supprimer les r\xe9glages TikTok Pixel pour ce produit ?"},
 gbU(){return"Annuler"},
 gd3(){return"Supprimer"}}
-A.eCP.prototype={
+A.eCW.prototype={
 gN(){return"Confirmer la suppression"},
 grI(){return"Supprimer les r\xe9glages Google Sheets pour ce produit ?"},
 gbU(){return"Annuler"},
 gd3(){return"Supprimer"}}
-A.eD2.prototype={
+A.eD9.prototype={
 god(){return"Configurer Meta Pixel"},
 gd3(){return"Supprimer Meta Pixel"}}
-A.eD4.prototype={
+A.eDb.prototype={
 god(){return"Configurer TikTok Pixel"},
 gd3(){return"Supprimer TikTok Pixel"}}
-A.eD0.prototype={
+A.eD7.prototype={
 god(){return"Configurer Google Sheets"},
 gd3(){return"Supprimer Google Sheets"},
-gaAz(){return"Feuille :"},
-gaAy(){return"Nom de la feuille :"},
+gaAC(){return"Feuille :"},
+gaAB(){return"Nom de la feuille :"},
 gDo(){return"Non sp\xe9cifi\xe9"}}
-A.eCF.prototype={
+A.eCM.prototype={
 gN(){return"Compl\xe9ments"},
 grI(){return"\xcates-vous s\xfbr de vouloir supprimer tous les compl\xe9ments ?"}}
-A.eEb.prototype={
+A.eEi.prototype={
 gt_(){return"Achat"},
-gIT(){return"Piste"},
+gIU(){return"Piste"},
 gt6(){return"Voir le contenu"},
 grA(){return"Ajouter au panier"},
 grS(){return"Initier le paiement"}}
-A.eEd.prototype={
+A.eEk.prototype={
 gt_(){return"Achat"},
-gJ9(){return"Passer une commande"},
+gJa(){return"Passer une commande"},
 gt6(){return"Voir le contenu"},
-gHP(){return"Ajouter \xe0 la liste de souhaits"},
+gHQ(){return"Ajouter \xe0 la liste de souhaits"},
 goc(){return"Recherche"},
-gHK(){return"Ajouter les informations de paiement"},
+gHL(){return"Ajouter les informations de paiement"},
 grA(){return"Ajouter au panier"},
 grS(){return"Initier le paiement"},
-gI7(){return"Terminer l'inscription"}}
-A.eDX.prototype={
-gh2(){return"Yalidine"},
+gI8(){return"Terminer l'inscription"}}
+A.eE3.prototype={
+gh3(){return"Yalidine"},
 gbJ(){return"Ecotrack"},
 gmD(){return"Procolis"},
 gfK(){return"Noest"},
 gNb(){return"OrderDZ"}}
-A.eEl.prototype={
+A.eEs.prototype={
 gi(){return"Appeler"},
-gA2(){return"SMS"},
-gaOy(){return"Assigner"},
+gA3(){return"SMS"},
+gaOB(){return"Assigner"},
 $0(){return this.gi().$0()},
 $1(d){return this.gi().$1(d)},
 $2(d,e){return this.gi().$2(d,e)},
@@ -5166,6 +5170,7 @@ $1$maxExtent(d){return this.gi().$1$maxExtent(d)},
 $1$members(d){return this.gi().$1$members(d)},
 $2$imported$total(d,e){return this.gi().$2$imported$total(d,e)},
 $2$fontWeight$height(d,e){return this.gi().$2$fontWeight$height(d,e)},
+$4$color$fontWeight$height$letterSpacing(d,e,f,g){return this.gi().$4$color$fontWeight$height$letterSpacing(d,e,f,g)},
 $6$oldLayer(d,e,f,g,h,i){return this.gi().$6$oldLayer(d,e,f,g,h,i)},
 $2$radius(d,e){return this.gi().$2$radius(d,e)},
 $1$source(d){return this.gi().$1$source(d)},
@@ -5227,6 +5232,7 @@ $6$error$errorMessage$shippingMethods$status$store$stores(d,e,f,g,h,i){return th
 $4$error$errorMessage$store$stores(d,e,f,g){return this.gi().$4$error$errorMessage$store$stores(d,e,f,g)},
 $2$error$errorMessage(d,e){return this.gi().$2$error$errorMessage(d,e)},
 $3$error$errorMessage$store(d,e,f){return this.gi().$3$error$errorMessage$store(d,e,f)},
+$7$error$errorMessage$shippingMethods$status$store$stores$summary(d,e,f,g,h,i,j){return this.gi().$7$error$errorMessage$shippingMethods$status$store$stores$summary(d,e,f,g,h,i,j)},
 $4$error$errorMessage$status$stores(d,e,f,g){return this.gi().$4$error$errorMessage$status$stores(d,e,f,g)},
 $2$params$userId(d,e){return this.gi().$2$params$userId(d,e)},
 $1$summary(d){return this.gi().$1$summary(d)},
@@ -5241,10 +5247,10 @@ $2$accept$capture(d,e){return this.gi().$2$accept$capture(d,e)},
 $1$fragment(d){return this.gi().$1$fragment(d)},
 $2$test(d,e){return this.gi().$2$test(d,e)},
 $2$filterToEdit(d,e){return this.gi().$2$filterToEdit(d,e)}}
-A.eE3.prototype={
-gaR0(){return"Confirm\xe9 par un autre membre"},
-gaXF(){return"Soyez plus rapide ! Confirmez les commandes avant les autres \ud83c\udfc3"}}
-A.eDO.prototype={
+A.eEa.prototype={
+gaR3(){return"Confirm\xe9 par un autre membre"},
+gaXI(){return"Soyez plus rapide ! Confirmez les commandes avant les autres \ud83c\udfc3"}}
+A.eDV.prototype={
 gaP(){return"Statut"},
 gqz(){return"Statut de livraison"},
 gqI(){return"Statut de paiement"},
@@ -5255,305 +5261,305 @@ gzd(){return"Email du client"},
 gkE(){return"Wilaya"},
 gmM(){return"Ville"},
 gvl(){return"Source"},
-gju(){return"Total"},
+gjv(){return"Total"},
 gvJ(){return"Date de cr\xe9ation"},
-gU0(){return"Date de mise \xe0 jour"}}
-A.eDV.prototype={
+gU2(){return"Date de mise \xe0 jour"}}
+A.eE1.prototype={
 goo(){return"Brouillon"},
 gkX(){return"En attente"},
 gz1(){return"Accept\xe9"},
-gb49(){return"Rejet\xe9"},
+gb4d(){return"Rejet\xe9"},
 guy(){return"Annul\xe9"},
-gTv(){return"Retourn\xe9"}}
-A.eDL.prototype={
+gTw(){return"Retourn\xe9"}}
+A.eDS.prototype={
 gkX(){return"En attente"},
-gaAC(){return"Exp\xe9di\xe9"},
-gRe(){return"Livr\xe9"},
-gTv(){return"Retourn\xe9"}}
-A.eDR.prototype={
-gb6e(){return"Non pay\xe9"},
-gb1Y(){return"Pay\xe9"},
-gb44(){return"Rembours\xe9"}}
-A.eDT.prototype={
-gb_v(){return"Meta"},
-gaYd(){return"Instagram"},
-gb7R(){return"YouTube"},
-gayy(){return"Google"},
-gb5f(){return"TikTok"},
-gaUk(){return"Direct"}}
-A.eDC.prototype={
+gaAF(){return"Exp\xe9di\xe9"},
+gRf(){return"Livr\xe9"},
+gTw(){return"Retourn\xe9"}}
+A.eDY.prototype={
+gb6i(){return"Non pay\xe9"},
+gb21(){return"Pay\xe9"},
+gb48(){return"Rembours\xe9"}}
+A.eE_.prototype={
+gb_z(){return"Meta"},
+gaYg(){return"Instagram"},
+gb7V(){return"YouTube"},
+gayB(){return"Google"},
+gb5j(){return"TikTok"},
+gaUn(){return"Direct"}}
+A.eDJ.prototype={
 grY(){return"Aucune commande s\xe9lectionn\xe9e pour l'envoi \xe0 Ecotrack"},
-gaBT(){return"Votre boutique n'est pas connect\xe9e \xe0 Ecotrack"},
-azP(d){return"Envoy\xe9 avec succ\xe8s - Suivi : "+d},
-a8f(d){return"Modifier la commande "+d},
-gacS(){return"Enregistrer les modifications"},
-gaqw(){return"Donn\xe9es mises \xe0 jour mais pas encore envoy\xe9es"},
-art(d){return"Modifications enregistr\xe9es pour la commande "+d},
-a8d(d){return"Modifier et envoyer la commande "+d},
-gapq(){return"Confirmer et envoyer"},
-awz(d){return"Commande "+d+" renvoy\xe9e avec succ\xe8s"},
-Ts(d){return"\xc9chec du renvoi : "+d},
-gaad(){return"Erreur r\xe9seau"},
-gavm(){return"R\xe9sum\xe9 des commandes"},
-gavk(){return"Nombre de commandes :"},
-azU(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
-gaqt(){return"Client sans nom"},
-avj(d){return"Num\xe9ro de commande : "+d},
-gawH(){return"Appuyez pour modifier les donn\xe9es avant l'envoi"},
+gaBW(){return"Votre boutique n'est pas connect\xe9e \xe0 Ecotrack"},
+azS(d){return"Envoy\xe9 avec succ\xe8s - Suivi : "+d},
+a8g(d){return"Modifier la commande "+d},
+gacT(){return"Enregistrer les modifications"},
+gaqy(){return"Donn\xe9es mises \xe0 jour mais pas encore envoy\xe9es"},
+arv(d){return"Modifications enregistr\xe9es pour la commande "+d},
+a8e(d){return"Modifier et envoyer la commande "+d},
+gaps(){return"Confirmer et envoyer"},
+awB(d){return"Commande "+d+" renvoy\xe9e avec succ\xe8s"},
+Tt(d){return"\xc9chec du renvoi : "+d},
+gaae(){return"Erreur r\xe9seau"},
+gavo(){return"R\xe9sum\xe9 des commandes"},
+gavm(){return"Nombre de commandes :"},
+azX(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
+gaqv(){return"Client sans nom"},
+avl(d){return"Num\xe9ro de commande : "+d},
+gawJ(){return"Appuyez pour modifier les donn\xe9es avant l'envoi"},
 gMd(){return"Modifier et renvoyer"},
 gvg(){return"Envoi en cours..."},
-gaen(){return"D\xe9marrer l'envoi"},
+gaeo(){return"D\xe9marrer l'envoi"},
 gcn(){return"Erreurs"},
-aup(d){return"... et "+d+" erreurs suppl\xe9mentaires"},
+aur(d){return"... et "+d+" erreurs suppl\xe9mentaires"},
 gjl(){return"R\xe9essayer"},
-b4L(d){return"R\xe9essayer les \xe9checs ("+d+")"},
-aA2(d){return""+d+" commande(s) envoy\xe9e(s) avec succ\xe8s"},
-aA0(d,e){return""+e+" envoy\xe9e(s), "+d+" en \xe9chec"},
-gb5V(){return"Num\xe9ro de suivi copi\xe9"},
-gaRw(){return"Copier le num\xe9ro de suivi"},
-azB(d){return"Envoyer ("+d+")"},
-azW(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
-gb2O(){return"Pr\xe9paration des commandes et des adresses\u2026"}}
-A.eDG.prototype={
+b4P(d){return"R\xe9essayer les \xe9checs ("+d+")"},
+aA5(d){return""+d+" commande(s) envoy\xe9e(s) avec succ\xe8s"},
+aA3(d,e){return""+e+" envoy\xe9e(s), "+d+" en \xe9chec"},
+gb5Z(){return"Num\xe9ro de suivi copi\xe9"},
+gaRz(){return"Copier le num\xe9ro de suivi"},
+azE(d){return"Envoyer ("+d+")"},
+azZ(d,e){return"Envoi en cours... ("+d+"/"+e+")"},
+gb2S(){return"Pr\xe9paration des commandes et des adresses\u2026"}}
+A.eDN.prototype={
 gN3(){return"L'int\xe9gration OrderDZ n'est pas configur\xe9e ou inactive"},
-gQl(){return"Cette commande a d\xe9j\xe0 \xe9t\xe9 envoy\xe9e \xe0 OrderDZ"},
-gazR(){return"Envoyer la commande \xe0 OrderDZ"},
-gazD(){return"La commande sera envoy\xe9e au service de livraison OrderDZ"},
-gST(){return"D\xe9tails de la commande"},
-gzY(){return"Commande envoy\xe9e \xe0 OrderDZ avec succ\xe8s"},
+gQm(){return"Cette commande a d\xe9j\xe0 \xe9t\xe9 envoy\xe9e \xe0 OrderDZ"},
+gazU(){return"Envoyer la commande \xe0 OrderDZ"},
+gazG(){return"La commande sera envoy\xe9e au service de livraison OrderDZ"},
+gSU(){return"D\xe9tails de la commande"},
+gzZ(){return"Commande envoy\xe9e \xe0 OrderDZ avec succ\xe8s"},
 JL(d){return"Erreur lors de l'envoi de la commande : "+d},
 gDK(){return"Une erreur inattendue s'est produite lors de l'envoi de la commande"}}
-A.eDA.prototype={
+A.eDH.prototype={
 gLW(){return"Informations client"},
-gaT3(){return"Nom du client"},
-gb2v(){return"Num\xe9ro de t\xe9l\xe9phone"},
-gb2r(){return"Num\xe9ro de t\xe9l\xe9phone 2 (optionnel)"},
-gaAD(){return"Informations de livraison"},
-gapm(){return"Commune"},
-gaBP(){return"Retrait au bureau (Stopdesk)"},
-gaBO(){return"La commande sera livr\xe9e au bureau au lieu de la livraison \xe0 domicile"},
-gb3w(){return"Liste des produits"},
-b3l(d){return"Produit n\xb0"+d},
-gaTH(){return"Supprimer le produit"},
+gaT6(){return"Nom du client"},
+gb2z(){return"Num\xe9ro de t\xe9l\xe9phone"},
+gb2v(){return"Num\xe9ro de t\xe9l\xe9phone 2 (optionnel)"},
+gaAG(){return"Informations de livraison"},
+gapo(){return"Commune"},
+gaBS(){return"Retrait au bureau (Stopdesk)"},
+gaBR(){return"La commande sera livr\xe9e au bureau au lieu de la livraison \xe0 domicile"},
+gb3A(){return"Liste des produits"},
+b3p(d){return"Produit n\xb0"+d},
+gaTK(){return"Supprimer le produit"},
 gOy(){return"SKU"},
-gb3F(){return"Quantit\xe9"},
-gb0K(){return"Notes"},
-gb7s(){return"Le statut de la commande sera mis \xe0 jour automatiquement via Webhook lors des changements dans Ecomanager"},
-gaSx(){return"Veuillez corriger les champs surlign\xe9s"},
+gb3J(){return"Quantit\xe9"},
+gb0O(){return"Notes"},
+gb7w(){return"Le statut de la commande sera mis \xe0 jour automatiquement via Webhook lors des changements dans Ecomanager"},
+gaSA(){return"Veuillez corriger les champs surlign\xe9s"},
 gJM(){return"Envoyer \xe0 Ecomanager"},
-gzY(){return"Commande envoy\xe9e \xe0 Ecomanager avec succ\xe8s"},
+gzZ(){return"Commande envoy\xe9e \xe0 Ecomanager avec succ\xe8s"},
 gE9(){return"\xc9chec de l'envoi de la commande"},
 JL(d){return"Erreur d'envoi : "+d},
-azF(d){return"\xc9chec de l'envoi de la commande : "+d},
+azI(d){return"\xc9chec de l'envoi de la commande : "+d},
 grY(){return"Aucune commande s\xe9lectionn\xe9e pour l'envoi \xe0 Ecomanager"},
-aPf(d){return""+d+" commande(s) envoy\xe9e(s) \xe0 Ecomanager avec succ\xe8s"},
-aPe(d,e){return""+d+" sur "+e+" commande(s) envoy\xe9e(s)"},
-aR4(d){return"Erreur de connexion : "+d},
-aPd(d){return"\xc9chec de l'envoi des commandes : "+d},
-gb67(){return"Une erreur s'est produite lors de l'envoi"},
-gQx(){return"Envoyer plusieurs commandes \xe0 Ecomanager"}}
-A.eDy.prototype={
+aPi(d){return""+d+" commande(s) envoy\xe9e(s) \xe0 Ecomanager avec succ\xe8s"},
+aPh(d,e){return""+d+" sur "+e+" commande(s) envoy\xe9e(s)"},
+aR7(d){return"Erreur de connexion : "+d},
+aPg(d){return"\xc9chec de l'envoi des commandes : "+d},
+gb6b(){return"Une erreur s'est produite lors de l'envoi"},
+gQy(){return"Envoyer plusieurs commandes \xe0 Ecomanager"}}
+A.eDF.prototype={
 grY(){return"Aucune commande s\xe9lectionn\xe9e pour l'envoi"},
-gb0t(){return"Aucune commande restante \xe0 envoyer"},
+gb0x(){return"Aucune commande restante \xe0 envoyer"},
 gE9(){return"\xc9chec de l'envoi"},
-gaA4(){return"\xc9chec de la connexion au serveur"},
-gaBs(){return"En attente"},
-gaBt(){return"Envoy\xe9"},
-gb0v(){return"Aucune commande en attente"},
-gb0u(){return"Aucune commande envoy\xe9e pour le moment"},
-a8s(d){return"Erreur : "+d}}
-A.eDI.prototype={
+gaA7(){return"\xc9chec de la connexion au serveur"},
+gaBv(){return"En attente"},
+gaBw(){return"Envoy\xe9"},
+gb0z(){return"Aucune commande en attente"},
+gb0y(){return"Aucune commande envoy\xe9e pour le moment"},
+a8t(d){return"Erreur : "+d}}
+A.eDP.prototype={
 gN3(){return"Zimou Express n'est pas activ\xe9 ou non configur\xe9"},
-gQl(){return"Cette commande a d\xe9j\xe0 \xe9t\xe9 envoy\xe9e \xe0 Zimou Express"},
-au5(d){return"\xc9chec du chargement des wilayas : "+d},
-aZA(d){return"\xc9chec du chargement des communes : "+d},
-gaB_(){return"Commande envoy\xe9e \xe0 Zimou Express avec succ\xe8s"},
-gaNW(){return"Toutes les commandes s\xe9lectionn\xe9es ont d\xe9j\xe0 \xe9t\xe9 envoy\xe9es \xe0 Zimou Express"},
-aPg(d){return""+d+" commande(s) envoy\xe9e(s) \xe0 Zimou Express avec succ\xe8s"},
-aPc(d,e,f){return""+e+" sur "+f+" commande(s) envoy\xe9e(s). "+d+" commande(s) en \xe9chec."},
-gQx(){return"Envoyer les commandes \xe0 Zimou Express"},
-gju(){return"Total"},
-gaUj(){return"Dimensions et poids (optionnel)"},
-gazX(){return"Envoi en cours..."},
-gaTR(){return"Express"},
-gaTW(){return"Point relais"},
-gaTS(){return"Flexible"}}
-A.eEr.prototype={
+gQm(){return"Cette commande a d\xe9j\xe0 \xe9t\xe9 envoy\xe9e \xe0 Zimou Express"},
+au7(d){return"\xc9chec du chargement des wilayas : "+d},
+aZE(d){return"\xc9chec du chargement des communes : "+d},
+gaB2(){return"Commande envoy\xe9e \xe0 Zimou Express avec succ\xe8s"},
+gaNZ(){return"Toutes les commandes s\xe9lectionn\xe9es ont d\xe9j\xe0 \xe9t\xe9 envoy\xe9es \xe0 Zimou Express"},
+aPj(d){return""+d+" commande(s) envoy\xe9e(s) \xe0 Zimou Express avec succ\xe8s"},
+aPf(d,e,f){return""+e+" sur "+f+" commande(s) envoy\xe9e(s). "+d+" commande(s) en \xe9chec."},
+gQy(){return"Envoyer les commandes \xe0 Zimou Express"},
+gjv(){return"Total"},
+gaUm(){return"Dimensions et poids (optionnel)"},
+gaA_(){return"Envoi en cours..."},
+gaTU(){return"Express"},
+gaTZ(){return"Point relais"},
+gaTV(){return"Flexible"}}
+A.eEy.prototype={
 gN(){return"D\xe9poser un solde"},
 gbh(){return"Ajoutez des fonds \xe0 votre portefeuille en utilisant les m\xe9thodes de paiement disponibles"},
 go1(){return"D\xe9poser maintenant"}}
-A.eEn.prototype={
+A.eEu.prototype={
 gN(){return"Acheter un abonnement"},
 gbh(){return"Recherchez un magasin et achetez un plan d'abonnement pour celui-ci"},
 go1(){return"Acheter un abonnement"},
 gzg(){return"S\xe9lectionner le magasin pour acheter un abonnement"}}
-A.eEp.prototype={
+A.eEw.prototype={
 gN(){return"Recharger des points"},
 gbh(){return"Ajoutez des points directement \xe0 un magasin depuis votre solde"},
 go1(){return"Recharger des points"},
 gzg(){return"S\xe9lectionner le magasin pour recharger des points"}}
-A.eEz.prototype={
+A.eEG.prototype={
 gN(){return"Envoyer de l'argent"},
 gbh(){return"Envoyez de l'argent \xe0 un autre utilisateur facilement et en toute s\xe9curit\xe9"},
 go1(){return"Envoyer maintenant"},
 gci(){var w=this.d
-return w===$?this.d=new A.eEx():w}}
-A.eEv.prototype={
+return w===$?this.d=new A.eEE():w}}
+A.eEC.prototype={
 gN(){return"Payer les dettes"},
 gbh(){return"Payez les dettes accumul\xe9es du magasin depuis votre solde actuel"},
 go1(){return"Payer maintenant"}}
-A.eFt.prototype={
+A.eFA.prototype={
 gDC(){return"Publi\xe9"},
 goo(){return"Brouillon"},
-gTW(){return"Non list\xe9"},
-gQr(){return"Archiv\xe9"}}
-A.eFv.prototype={
-gavy(){return"Physique"},
-gar1(){return"Num\xe9rique"},
-gadK(){return"Service"}}
-A.eG7.prototype={
+gTY(){return"Non list\xe9"},
+gQs(){return"Archiv\xe9"}}
+A.eFC.prototype={
+gavA(){return"Physique"},
+gar3(){return"Num\xe9rique"},
+gadL(){return"Service"}}
+A.eGe.prototype={
 gN(){return"Ic\xf4ne de la boutique"},
 gbh(){return"Image carr\xe9e utilis\xe9e comme ic\xf4ne de la boutique (100\xd7100)"}}
-A.eG9.prototype={
+A.eGg.prototype={
 gN(){return"Logo de la boutique"},
 gbh(){return"Image large utilis\xe9e comme logo de la boutique (300\xd7100)"}}
-A.eGf.prototype={
+A.eGm.prototype={
 gN(){return"Invitation au magasin"},
-aXn(d){return'Invitation \xe0 rejoindre un magasin "'+d+'"'},
-aYr(d,e){return"Vous \xeates invit\xe9 \xe0 rejoindre \xab "+e+" \xbb en tant que "+d+"."},
-gaML(){return"Accepter l'invitation"},
-gaMN(){return"Acceptation..."},
-gR6(){return"Refuser"},
-gb6I(){return"Utilisez le lien envoy\xe9 \xe0 votre e-mail pour accepter l'invitation."},
-gaO0(){return"Cette invitation a d\xe9j\xe0 \xe9t\xe9 accept\xe9e."},
-gb4P(){return"Cette invitation a \xe9t\xe9 r\xe9voqu\xe9e."},
+aXq(d){return'Invitation \xe0 rejoindre un magasin "'+d+'"'},
+aYu(d,e){return"Vous \xeates invit\xe9 \xe0 rejoindre \xab "+e+" \xbb en tant que "+d+"."},
+gaMO(){return"Accepter l'invitation"},
+gaMQ(){return"Acceptation..."},
+gR7(){return"Refuser"},
+gb6M(){return"Utilisez le lien envoy\xe9 \xe0 votre e-mail pour accepter l'invitation."},
+gaO3(){return"Cette invitation a d\xe9j\xe0 \xe9t\xe9 accept\xe9e."},
+gb4T(){return"Cette invitation a \xe9t\xe9 r\xe9voqu\xe9e."},
 gMk(){return"Cette invitation a expir\xe9."},
-b7M(d,e){return"Cette invitation a \xe9t\xe9 envoy\xe9e \xe0 "+e+". Vous \xeates connect\xe9 en tant que "+d+". Changez de compte pour accepter."},
+b7Q(d,e){return"Cette invitation a \xe9t\xe9 envoy\xe9e \xe0 "+e+". Vous \xeates connect\xe9 en tant que "+d+". Changez de compte pour accepter."},
 guV(){return"Impossible de charger l'invitation. V\xe9rifiez le lien et r\xe9essayez."}}
-A.eGn.prototype={
+A.eGu.prototype={
 gN(){return"Personnalisez votre boutique"},
 gbh(){return"Ajoutez votre logo et ic\xf4ne pour un look professionnel"}}
-A.eGv.prototype={
+A.eGC.prototype={
 gN(){return"S\xe9lectionner la langue"},
 gbh(){return"Choisissez la langue par d\xe9faut de votre boutique"}}
-A.eGp.prototype={
+A.eGw.prototype={
 gN(){return"S\xe9lectionner le pays"},
 gbh(){return"Choisissez le pays dans lequel votre boutique op\xe8re"}}
-A.eGr.prototype={
+A.eGy.prototype={
 gN(){return"S\xe9lectionner la devise"},
 gbh(){return"Choisissez la devise par d\xe9faut de votre boutique"}}
-A.eGx.prototype={
+A.eGE.prototype={
 gN(){return"Ajouter des membres de l'\xe9quipe"},
 gbh(){return"Invitez des membres de l'\xe9quipe pour vous aider \xe0 g\xe9rer votre boutique"},
 gN1(){return"Aucun membre de l'\xe9quipe ajout\xe9"}}
-A.eGt.prototype={
+A.eGA.prototype={
 gN(){return"Choisir un service de livraison"},
 gbh(){return"Choisissez un service de livraison ou d'exp\xe9dition pour traiter les commandes"}}
-A.eGj.prototype={
+A.eGq.prototype={
 gN(){return"F\xe9licitations ! Votre boutique est configur\xe9e"},
 gdn(){return"Vous pouvez maintenant commencer \xe0 g\xe9rer votre boutique"},
-gR_(){return"Cr\xe9er un produit"},
-gaSL(){return"Ajoutez votre premier produit \xe0 la boutique"},
-gb2R(){return"Aper\xe7u de la boutique"},
-gb2S(){return"Voir comment votre boutique appara\xeet aux clients"},
-gaNu(){return"Ajouter des pixels"},
-gaNv(){return"Suivre les visiteurs avec Facebook, Google, etc."},
-gayo(){return"Commencer"}}
-A.exI.prototype={
+gR0(){return"Cr\xe9er un produit"},
+gaSO(){return"Ajoutez votre premier produit \xe0 la boutique"},
+gb2V(){return"Aper\xe7u de la boutique"},
+gb2W(){return"Voir comment votre boutique appara\xeet aux clients"},
+gaNx(){return"Ajouter des pixels"},
+gaNy(){return"Suivre les visiteurs avec Facebook, Google, etc."},
+gayr(){return"Commencer"}}
+A.exP.prototype={
 gN(){return"T\xe9l\xe9verser un fichier"},
 go1(){return"T\xe9l\xe9verser"},
-gb3y(){return"T\xe9l\xe9versement..."}}
-A.exF.prototype={
+gb3C(){return"T\xe9l\xe9versement..."}}
+A.exM.prototype={
 gfN(){return"Image"}}
-A.ewt.prototype={
+A.ewA.prototype={
 gJK(){return"S\xe9lectionner une boutique"},
-gad7(){return"Entrez le lien de la boutique pour commencer"},
-gad5(){return"S\xe9lectionner des produits"},
-gad6(){return"S\xe9lectionnez les produits que vous souhaitez importer"},
-gI8(){return"Confirmer l'importation"},
-ga7l(){return"V\xe9rifiez et confirmez le processus d'importation"},
-gTd(){return"Lien du produit"},
-gb3j(){return"Entrez le lien du produit pour commencer"}}
-A.ewr.prototype={
-gTa(){return"Pr\xe9c\xe9dent"},
+gad8(){return"Entrez le lien de la boutique pour commencer"},
+gad6(){return"S\xe9lectionner des produits"},
+gad7(){return"S\xe9lectionnez les produits que vous souhaitez importer"},
+gI9(){return"Confirmer l'importation"},
+ga7m(){return"V\xe9rifiez et confirmez le processus d'importation"},
+gTe(){return"Lien du produit"},
+gb3n(){return"Entrez le lien du produit pour commencer"}}
+A.ewy.prototype={
+gTb(){return"Pr\xe9c\xe9dent"},
 gj0(){return"Suivant"}}
-A.evu.prototype={
-ga5(){return"Portefeuille"},
-aOR(d,e){return"Solde : "+d+" "+e}}
-A.evq.prototype={
-ga5(){return"Mon profil"},
-gaxq(){var w=this.d
-return w===$?this.d=new A.evs():w}}
-A.evm.prototype={
+A.evB.prototype={
+ga4(){return"Portefeuille"},
+aOU(d,e){return"Solde : "+d+" "+e}}
+A.evx.prototype={
+ga4(){return"Mon profil"},
+gaxt(){var w=this.d
+return w===$?this.d=new A.evz():w}}
+A.evt.prototype={
 gN(){return"S\xe9curit\xe9 et donn\xe9es"},
 gdn(){return"Nous nous engageons \xe0 prot\xe9ger la confidentialit\xe9 et la s\xe9curit\xe9 de vos donn\xe9es dans toutes nos op\xe9rations."}}
-A.ezj.prototype={
-ga5(){return"Statut"}}
-A.ezp.prototype={
-ga5(){return"Type"}}
-A.ez7.prototype={
-ga5(){return"M\xe9dias"},
+A.ezq.prototype={
+ga4(){return"Statut"}}
+A.ezw.prototype={
+ga4(){return"Type"}}
+A.eze.prototype={
+ga4(){return"M\xe9dias"},
 gfL(d){return"Ajouter m\xe9dia"},
-gaA8(){return"D\xe9finir comme image principale"},
-gauD(){return"Aucun m\xe9dia"},
+gaAb(){return"D\xe9finir comme image principale"},
+gauF(){return"Aucun m\xe9dia"},
 gmn(){return"Mettre \xe0 jour"},
 gfN(){return"Image"}}
-A.ez3.prototype={
-ga5(){return"R\xe9duction"},
+A.eza.prototype={
+ga4(){return"R\xe9duction"},
 gkw(){return"R\xe9duction appliqu\xe9e"}}
-A.ezb.prototype={
-ga5(){return"Offres"},
+A.ezi.prototype={
+ga4(){return"Offres"},
 gnh(){return"Ajouter des offres"},
 gfL(d){return"Ajouter une offre"}}
-A.ez1.prototype={
-ga5(){return"Description"},
+A.ez8.prototype={
+ga4(){return"Description"},
 gkw(){return"Description du produit"}}
-A.ezr.prototype={
-ga5(){return"Variantes"},
+A.ezy.prototype={
+ga4(){return"Variantes"},
 gnh(){return"Ajouter des variantes"}}
-A.ez9.prototype={
-ga5(){return"Nom"},
+A.ezg.prototype={
+ga4(){return"Nom"},
 gkw(){return"Nom du produit"}}
-A.ezn.prototype={
-ga5(){return"Titre du produit"},
-gkw(){return"Titre du produit"}}
-A.ezd.prototype={
-ga5(){return"Prix"},
-gkw(){return"Prix du produit"}}
-A.ezh.prototype={
-ga5(){return"Slug"},
-gkw(){return"Identifiant unique du produit (URL)"}}
-A.eyY.prototype={
-ga5(){return"Code-barres"},
-gkw(){return"Code-barres du produit"}}
-A.ezl.prototype={
-ga5(){return"Stock"}}
-A.ez_.prototype={
-ga5(){return"Co\xfbt"}}
-A.ezf.prototype={
-ga5(){return"SKU"},
-gkw(){return"Identifiant interne du produit"}}
-A.ezC.prototype={
-ga5(){return"Lien du produit"}}
-A.ezw.prototype={
-ga5(){return"Donn\xe9es descriptives"},
-gaoT(){return"Aide les clients \xe0 trouver vos produits"}}
 A.ezu.prototype={
-ga5(){return"Param\xe8tres avanc\xe9s"}}
-A.ezA.prototype={
-ga5(){return"Stock et comptabilit\xe9"}}
-A.ezE.prototype={
-ga5(){return"M\xe9thode de livraison"},
-gaqz(){return"Prix par d\xe9faut"}}
-A.eAk.prototype={
-ga5(){return"Nom"}}
-A.eAg.prototype={
-ga5(){return"Email"}}
-A.eAo.prototype={
-ga5(){return"T\xe9l\xe9phone"}}
-A.eAm.prototype={
-ga5(){return"Mot de passe"}}
-A.exO.prototype={
+ga4(){return"Titre du produit"},
+gkw(){return"Titre du produit"}}
+A.ezk.prototype={
+ga4(){return"Prix"},
+gkw(){return"Prix du produit"}}
+A.ezo.prototype={
+ga4(){return"Slug"},
+gkw(){return"Identifiant unique du produit (URL)"}}
+A.ez4.prototype={
+ga4(){return"Code-barres"},
+gkw(){return"Code-barres du produit"}}
+A.ezs.prototype={
+ga4(){return"Stock"}}
+A.ez6.prototype={
+ga4(){return"Co\xfbt"}}
+A.ezm.prototype={
+ga4(){return"SKU"},
+gkw(){return"Identifiant interne du produit"}}
+A.ezJ.prototype={
+ga4(){return"Lien du produit"}}
+A.ezD.prototype={
+ga4(){return"Donn\xe9es descriptives"},
+gaoV(){return"Aide les clients \xe0 trouver vos produits"}}
+A.ezB.prototype={
+ga4(){return"Param\xe8tres avanc\xe9s"}}
+A.ezH.prototype={
+ga4(){return"Stock et comptabilit\xe9"}}
+A.ezL.prototype={
+ga4(){return"M\xe9thode de livraison"},
+gaqB(){return"Prix par d\xe9faut"}}
+A.eAr.prototype={
+ga4(){return"Nom"}}
+A.eAn.prototype={
+ga4(){return"Email"}}
+A.eAv.prototype={
+ga4(){return"T\xe9l\xe9phone"}}
+A.eAt.prototype={
+ga4(){return"Mot de passe"}}
+A.exV.prototype={
 gN(){return"Envoyer \xe0 Ecotrack"},
 gj5(){return"Nom du client"},
 gkY(){return"T\xe9l\xe9phone client"},
@@ -5564,30 +5570,30 @@ gnf(){return"Ville"},
 gn4(){return"S\xe9lectionner une ville"},
 gDp(){return"Notes"},
 gDS(){return"Poids (kg)"},
-gju(){return"Montant total"},
+gjv(){return"Montant total"},
 gCs(){return"Peut ouvrir le colis ?"},
-gQz(){return"Indiquez si le colis peut \xeatre ouvert"},
-gaWM(){return"Fragile"},
-gaWN(){return"Indiquez si le colis est fragile"},
-gb2L(){return"Pr\xe9parer du stock"},
-gb2M(){return"Indiquez si la commande sera pr\xe9par\xe9e du stock"},
-gT4(){return"Retrait en agence"},
-gT5(){return"Indiquez si la commande est livr\xe9e \xe0 domicile ou en agence"},
+gQA(){return"Indiquez si le colis peut \xeatre ouvert"},
+gaWP(){return"Fragile"},
+gaWQ(){return"Indiquez si le colis est fragile"},
+gb2P(){return"Pr\xe9parer du stock"},
+gb2Q(){return"Indiquez si la commande sera pr\xe9par\xe9e du stock"},
+gT5(){return"Retrait en agence"},
+gT6(){return"Indiquez si la commande est livr\xe9e \xe0 domicile ou en agence"},
 ger(){return"Commande envoy\xe9e \xe0 Ecotrack avec succ\xe8s"},
 gkN(){return"Erreur inconnue"}}
-A.ey_.prototype={
+A.ey6.prototype={
 gDn(){return"Magasin non connect\xe9 \xe0 Procolis"},
 ger(){return"Commande envoy\xe9e \xe0 Procolis avec succ\xe8s"},
 gel(){return"Erreur"},
 gkN(){return"Erreur inconnue"}}
-A.ey1.prototype={
+A.ey8.prototype={
 gj5(){return"Nom du client"},
 gkY(){return"T\xe9l\xe9phone client"},
 glT(){return"Adresse client"},
 gcK(){return"R\xe9gion"},
 gnf(){return"Ville"},
 gn4(){return"S\xe9lectionner une ville"}}
-A.exY.prototype={
+A.ey4.prototype={
 gN(){return"Envoyer \xe0 Noest"},
 gj5(){return"Nom du client"},
 gkY(){return"T\xe9l\xe9phone client"},
@@ -5597,26 +5603,26 @@ gcK(){return"R\xe9gion"},
 gnf(){return"Ville"},
 gn4(){return"S\xe9lectionner une ville"},
 gDS(){return"Poids (kg)"},
-gju(){return"Montant total"},
+gjv(){return"Montant total"},
 gCs(){return"Peut ouvrir le colis ?"},
-gQz(){return"Indiquez si le colis peut \xeatre ouvert"},
-gaBn(){return"Code station"},
+gQA(){return"Indiquez si le colis peut \xeatre ouvert"},
+gaBq(){return"Code station"},
 ger(){return"Commande envoy\xe9e \xe0 Noest avec succ\xe8s"},
 gel(){return"Erreur"},
 gkN(){return"Erreur inconnue"},
-gavi(){return"Commande du magasin"},
-gb1X(){return"Type d'envoi"},
-gaTU(){return"Type de livraison"},
-gb1U(){return"Standard (Classic)"},
-gb1V(){return"Express"},
-gb1W(){return"Premium"},
-gasq(){return"Pr\xe9nom"},
-gb3u(){return"Description des produits"},
-gaWP(){return"Livraison gratuite"},
+gavk(){return"Commande du magasin"},
+gb20(){return"Type d'envoi"},
+gaTX(){return"Type de livraison"},
+gb1Y(){return"Standard (Classic)"},
+gb1Z(){return"Express"},
+gb2_(){return"Premium"},
+gass(){return"Pr\xe9nom"},
+gb3y(){return"Description des produits"},
+gaWS(){return"Livraison gratuite"},
 gMw(){return"Le client ne paie pas les frais de livraison"},
-gaPs(){return"Colis ouvrable"},
-gaPr(){return"Permettre au client d'ouvrir le colis avant paiement"}}
-A.ey3.prototype={
+gaPv(){return"Colis ouvrable"},
+gaPu(){return"Permettre au client d'ouvrir le colis avant paiement"}}
+A.eya.prototype={
 gN(){return"Envoyer \xe0 ZR Express"},
 gj5(){return"Nom du client"},
 gkY(){return"T\xe9l\xe9phone client"},
@@ -5625,17 +5631,17 @@ gcK(){return"Wilaya"},
 gnf(){return"Ville"},
 gn4(){return"S\xe9lectionner une ville"},
 gDp(){return"Notes"},
-gju(){return"Montant total"},
-gT4(){return"Retrait au bureau"},
-gT5(){return"Indiquez si la commande sera livr\xe9e au bureau ou \xe0 domicile"},
+gjv(){return"Montant total"},
+gT5(){return"Retrait au bureau"},
+gT6(){return"Indiquez si la commande sera livr\xe9e au bureau ou \xe0 domicile"},
 ger(){return"Commande envoy\xe9e \xe0 ZR Express avec succ\xe8s"},
 gkN(){return"Erreur inconnue"},
-gaXA(){return"Communes avec un point de retrait ZR"},
-aXz(d){return d},
-gaXy(){return"Aucune commune de cette wilaya n\u2019a de bureau ZR r\xe9pertori\xe9. Changez de wilaya ou v\xe9rifiez les m\xe9tadonn\xe9es."},
-gaXx(){return"Cette commune n\u2019a pas de bureau/centre ZR dans nos donn\xe9es. Le retrait au bureau en a en g\xe9n\xe9ral besoin\u2014choisissez une commune avec bureau ou passez \xe0 la livraison \xe0 domicile."},
-gaXw(){return"Pas de bureau local pour cette commune ; le retrait peut quand m\xeame utiliser un hub au niveau wilaya s\u2019il est configur\xe9."}}
-A.exU.prototype={
+gaXD(){return"Communes avec un point de retrait ZR"},
+aXC(d){return d},
+gaXB(){return"Aucune commune de cette wilaya n\u2019a de bureau ZR r\xe9pertori\xe9. Changez de wilaya ou v\xe9rifiez les m\xe9tadonn\xe9es."},
+gaXA(){return"Cette commune n\u2019a pas de bureau/centre ZR dans nos donn\xe9es. Le retrait au bureau en a en g\xe9n\xe9ral besoin\u2014choisissez une commune avec bureau ou passez \xe0 la livraison \xe0 domicile."},
+gaXz(){return"Pas de bureau local pour cette commune ; le retrait peut quand m\xeame utiliser un hub au niveau wilaya s\u2019il est configur\xe9."}}
+A.ey0.prototype={
 gN(){return"Envoyer \xe0 Maystro"},
 gj5(){return"Nom du client"},
 gkY(){return"T\xe9l\xe9phone client"},
@@ -5644,953 +5650,953 @@ gcK(){return"Wilaya"},
 gnf(){return"Commune"},
 gn4(){return"S\xe9lectionner une commune"},
 gDp(){return"Notes"},
-gju(){return"Montant total"},
+gjv(){return"Montant total"},
 ger(){return"Commande envoy\xe9e \xe0 Maystro avec succ\xe8s"},
 gkN(){return"Erreur inconnue"},
-gaPh(){return"Envoi group\xe9 \xe0 Maystro"},
+gaPk(){return"Envoi group\xe9 \xe0 Maystro"},
 gaP(){var w=this.e
-return w===$?this.e=new A.exW():w},
+return w===$?this.e=new A.ey2():w},
 gcn(){var w=this.f
-return w===$?this.f=new A.exT():w}}
-A.eyK.prototype={
-gaT1(){return"Informations client"},
-gh8(){return"Informations de livraison"},
+return w===$?this.f=new A.ey_():w}}
+A.eyR.prototype={
+gaT4(){return"Informations client"},
+gh9(){return"Informations de livraison"},
 gfF(){return"Articles"}}
-A.eyG.prototype={
+A.eyN.prototype={
 gfh(){return"Enregistrer la commande"}}
-A.eyM.prototype={
+A.eyT.prototype={
 gt2(){return"Ce champ est obligatoire"},
-gaYo(){return"Num\xe9ro de t\xe9l\xe9phone invalide"}}
-A.eya.prototype={
-ga5(){return"Nom client"}}
-A.eye.prototype={
-ga5(){return"T\xe9l\xe9phone client"}}
-A.eyc.prototype={
-ga5(){return"Note du client"}}
-A.eyu.prototype={
-ga5(){return"Note livraison"}}
-A.eyq.prototype={
-ga5(){return"Adresse de livraison"}}
-A.eys.prototype={
-ga5(){return"Ville"}}
-A.eyw.prototype={
-ga5(){return"R\xe9gion"}}
-A.eyy.prototype={
-ga5(){return"Type de livraison"}}
-A.eyC.prototype={
-ga5(){return"Sous-total"}}
-A.eyi.prototype={
-ga5(){return"Remise"}}
-A.eym.prototype={
-ga5(){return"M\xe9tadonn\xe9es"}}
-A.eyA.prototype={
-ga5(){return"Statut commande"}}
-A.eyo.prototype={
-ga5(){return"Statut paiement"}}
-A.eyg.prototype={
-ga5(){return"Statut livraison"}}
-A.ey8.prototype={
-ga5(){return"Cr\xe9\xe9 le"}}
-A.eyE.prototype={
-ga5(){return"Total"}}
-A.ezI.prototype={
-gaUL(){return"Montant d\xfb"},
-gT8(){return"points"},
-gb2i(){return"Montant \xe0 payer"},
-gaaX(){var w=this.f
-return w===$?this.f=new A.ezK():w},
+gaYr(){return"Num\xe9ro de t\xe9l\xe9phone invalide"}}
+A.eyh.prototype={
+ga4(){return"Nom client"}}
+A.eyl.prototype={
+ga4(){return"T\xe9l\xe9phone client"}}
+A.eyj.prototype={
+ga4(){return"Note du client"}}
+A.eyB.prototype={
+ga4(){return"Note livraison"}}
+A.eyx.prototype={
+ga4(){return"Adresse de livraison"}}
+A.eyz.prototype={
+ga4(){return"Ville"}}
+A.eyD.prototype={
+ga4(){return"R\xe9gion"}}
+A.eyF.prototype={
+ga4(){return"Type de livraison"}}
+A.eyJ.prototype={
+ga4(){return"Sous-total"}}
+A.eyp.prototype={
+ga4(){return"Remise"}}
+A.eyt.prototype={
+ga4(){return"M\xe9tadonn\xe9es"}}
+A.eyH.prototype={
+ga4(){return"Statut commande"}}
+A.eyv.prototype={
+ga4(){return"Statut paiement"}}
+A.eyn.prototype={
+ga4(){return"Statut livraison"}}
+A.eyf.prototype={
+ga4(){return"Cr\xe9\xe9 le"}}
+A.eyL.prototype={
+ga4(){return"Total"}}
+A.ezP.prototype={
+gaUO(){return"Montant d\xfb"},
+gT9(){return"points"},
+gb2m(){return"Montant \xe0 payer"},
+gaaY(){var w=this.f
+return w===$?this.f=new A.ezR():w},
 gi0(){var w=this.r
-return w===$?this.r=new A.ezM():w},
+return w===$?this.r=new A.ezT():w},
 gfU(){var w=this.w
-return w===$?this.w=new A.ezG():w},
+return w===$?this.w=new A.ezN():w},
 ger(){return"Paiement r\xe9ussi ! Montant pay\xe9 : {amount} DZD"}}
-A.eA1.prototype={
-ga5(){return"Temps restant pour l\u2019abonnement"},
+A.eA8.prototype={
+ga4(){return"Temps restant pour l\u2019abonnement"},
 gzf(){return"Jour"},
-gb3G(){var w=this.d
-return w===$?this.d=new A.eA3():w},
-gXM(){return"Acheter un forfait"},
-gasB(){return"Forfait gratuit"}}
-A.ezT.prototype={
-ga5(){return"Nom"},
+gb3K(){var w=this.d
+return w===$?this.d=new A.eAa():w},
+gXO(){return"Acheter un forfait"},
+gasD(){return"Forfait gratuit"}}
+A.eA_.prototype={
+ga4(){return"Nom"},
 gnh(){return"Entrer le nom du magasin"},
 gkw(){return"Nom de votre magasin"}}
-A.ezV.prototype={
-ga5(){return"Slug"},
+A.eA1.prototype={
+ga4(){return"Slug"},
 gkw(){return"Le slug est le sous-domaine du magasin"},
 gi0(){return"Doit \xeatre en anglais, minuscules, chiffres et tirets uniquement"}}
-A.eA7.prototype={
+A.eAe.prototype={
 gN(){return"Outils IA"},
-gaxT(){return"G\xe9n\xe9rer des images"},
-gb_O(){return"Ma galerie d'images"},
+gaxW(){return"G\xe9n\xe9rer des images"},
+gb_S(){return"Ma galerie d'images"},
 gMS(){var w=this.d
-return w===$?this.d=new A.eA9():w}}
-A.eAd.prototype={
+return w===$?this.d=new A.eAg():w}}
+A.eAk.prototype={
 gN(){return"Programme Partenaire"},
 gbh(){return"Abonnez-vous au Programme Partenaire et obtenez une commission sur chaque transaction marketing"}}
-A.evO.prototype={
-ga5(){return"Aper\xe7u"},
+A.evV.prototype={
+ga4(){return"Aper\xe7u"},
 gNp(){var w=this.f
-return w===$?this.f=new A.evQ():w}}
-A.ew5.prototype={
-ga5(){return"Statistiques"},
-gb1P(){return"Distribution des commandes"},
-gazn(){return"S\xe9lectionnez un \xe9tat pour afficher les statistiques"},
-gazx(){return"\xc9tat s\xe9lectionn\xe9 : {state}"},
+return w===$?this.f=new A.evX():w}}
+A.ewc.prototype={
+ga4(){return"Statistiques"},
+gb1T(){return"Distribution des commandes"},
+gazq(){return"S\xe9lectionnez un \xe9tat pour afficher les statistiques"},
+gazA(){return"\xc9tat s\xe9lectionn\xe9 : {state}"},
 gMW(){var w=this.x
-return w===$?this.x=new A.ew9():w},
+return w===$?this.x=new A.ewg():w},
 gaM(){var w=this.y
-return w===$?this.y=new A.ewb():w},
+return w===$?this.y=new A.ewi():w},
 gx7(){var w=this.z
-return w===$?this.z=new A.ewd():w},
-gaT6(){var w=this.Q
-return w===$?this.Q=new A.ew3():w},
-gSh(){var w=this.at
-return w===$?this.at=new A.ew7():w}}
-A.evM.prototype={
-ga5(){return"Commandes"},
+return w===$?this.z=new A.ewk():w},
+gaT9(){var w=this.Q
+return w===$?this.Q=new A.ewa():w},
+gSi(){var w=this.at
+return w===$?this.at=new A.ewe():w}}
+A.evT.prototype={
+ga4(){return"Commandes"},
 goc(){return"Rechercher des commandes"}}
-A.evU.prototype={
-ga5(){return"Produits"},
-gAt(){return"Ajouter un produit"},
+A.ew0.prototype={
+ga4(){return"Produits"},
+gAu(){return"Ajouter un produit"},
 gNk(){return"Produit"},
 gtX(){return"Prix"}}
-A.ew_.prototype={
-ga5(){return"Exp\xe9dition"},
+A.ew6.prototype={
+ga4(){return"Exp\xe9dition"},
 gkq(){return"Prix d'exp\xe9dition"},
 gy3(){var w=this.d
-return w===$?this.d=new A.ew1():w},
-gG2(){return"Au bureau"},
-gG3(){return"\xc0 domicile"},
+return w===$?this.d=new A.ew8():w},
+gG3(){return"Au bureau"},
+gG4(){return"\xc0 domicile"},
 gcK(){return"\xc9tat"},
-gb6v(){return"Prix mis \xe0 jour avec succ\xe8s"},
-gb6o(){return"Une erreur est survenue lors de la mise \xe0 jour des prix"},
-gaVO(){return"Exporter les donn\xe9es vers un fichier CSV"},
-aWj(d){return"Fichier enregistr\xe9 \xe0 "+d},
-gaXW(){return"Importer des donn\xe9es depuis un fichier CSV ou une entreprise de transport"},
+gb6z(){return"Prix mis \xe0 jour avec succ\xe8s"},
+gb6s(){return"Une erreur est survenue lors de la mise \xe0 jour des prix"},
+gaVR(){return"Exporter les donn\xe9es vers un fichier CSV"},
+aWm(d){return"Fichier enregistr\xe9 \xe0 "+d},
+gaXZ(){return"Importer des donn\xe9es depuis un fichier CSV ou une entreprise de transport"},
 gD8(){return"Donn\xe9es import\xe9es avec succ\xe8s"},
-gaUQ(){return"Modifier tous les prix"},
-garo(){return"Modifier les prix pour tous les \xc9tats"},
-gaUR(){return"Vous pouvez modifier les prix pour tous les \xc9tats en m\xeame temps"},
-gb5i(){return"Au bureau"},
-gb5n(){return"\xc0 domicile"}}
-A.evK.prototype={
-ga5(){return"Int\xe9grations"}}
-A.evW.prototype={
-ga5(){return"Param\xe8tres"},
-ga1p(){var w=this.d
-return w===$?this.d=new A.evY():w}}
-A.evS.prototype={
-ga5(){return"Pages d'atterrissage"}}
-A.evG.prototype={
-gR_(){return"Cr\xe9er un produit"},
-gaSH(){return"Cr\xe9er une commande"},
-gaqe(){return"Cr\xe9er une cat\xe9gorie"},
-gaSG(){return"Cr\xe9er un membre"},
-gaSE(){return"Cr\xe9er une image"}}
-A.exg.prototype={
+gaUT(){return"Modifier tous les prix"},
+garq(){return"Modifier les prix pour tous les \xc9tats"},
+gaUU(){return"Vous pouvez modifier les prix pour tous les \xc9tats en m\xeame temps"},
+gb5m(){return"Au bureau"},
+gb5r(){return"\xc0 domicile"}}
+A.evR.prototype={
+ga4(){return"Int\xe9grations"}}
+A.ew2.prototype={
+ga4(){return"Param\xe8tres"},
+ga1q(){var w=this.d
+return w===$?this.d=new A.ew4():w}}
+A.evZ.prototype={
+ga4(){return"Pages d'atterrissage"}}
+A.evN.prototype={
+gR0(){return"Cr\xe9er un produit"},
+gaSK(){return"Cr\xe9er une commande"},
+gaqg(){return"Cr\xe9er une cat\xe9gorie"},
+gaSJ(){return"Cr\xe9er un membre"},
+gaSH(){return"Cr\xe9er une image"}}
+A.exn.prototype={
 gN(){return"S\xe9curit\xe9"},
 gbh(){return"Prot\xe9gez votre boutique contre le spam, les abus et les commandes frauduleuses"},
 gc9(){return"Param\xe8tres"},
 god(){return"Configurer la s\xe9curit\xe9"},
 ghO(){return"D\xe9connecter"}}
-A.exi.prototype={
+A.exp.prototype={
 gio(){return"Voulez-vous d\xe9connecter l'int\xe9gration de s\xe9curit\xe9 de votre boutique ?"}}
-A.exm.prototype={
+A.ext.prototype={
 gN(){return"Int\xe9gration de s\xe9curit\xe9"},
 gbh(){return"Prot\xe9gez votre boutique contre le spam, les abus et les activit\xe9s frauduleuses"},
-gb5B(){return"Activer la s\xe9curit\xe9"},
-gb5A(){return"Activer la protection de s\xe9curit\xe9 pour votre boutique"},
+gb5F(){return"Activer la s\xe9curit\xe9"},
+gb5E(){return"Activer la protection de s\xe9curit\xe9 pour votre boutique"},
 gnB(){return"S\xe9curit\xe9 activ\xe9e avec succ\xe8s"},
 gCL(){return"S\xe9curit\xe9 d\xe9sactiv\xe9e avec succ\xe8s"},
 gel(){return"Impossible de mettre \xe0 jour les param\xe8tres de s\xe9curit\xe9"}}
-A.exo.prototype={
+A.exv.prototype={
 gN(){return"Protection des commandes"},
 gdn(){return"Configurer les r\xe8gles de protection pour les commandes entrantes"},
-gaWT(){return"Activer la protection sur l'interface"},
-gaWS(){return"Ajoute des v\xe9rifications imm\xe9diates au formulaire public"},
-gaOO(){return"Activer la protection c\xf4t\xe9 serveur"},
-gaON(){return"V\xe9rifie la source et limite les tentatives r\xe9p\xe9t\xe9es"},
-gaUm(){return"Bloquer les commandes directes"},
-gaUl(){return"Refuser toute commande dont la source est marqu\xe9e comme directe"},
-gaNM(){return"Accepter uniquement les commandes issues de publicit\xe9s"},
-gaNL(){return"N\xe9cessite un fbclid valide pour chaque commande"},
-gaUP(){return"Dur\xe9es de blocage"},
-gaUO(){return"Choisissez la dur\xe9e de gel des IP et num\xe9ros r\xe9p\xe9t\xe9s"},
-gaYw(){return"Blocage IP"},
-gaYv(){return"Exemple : 24 heures"},
-gT2(){return"Blocage num\xe9ro de t\xe9l\xe9phone"},
-gb2t(){return"Exemple : 3 jours"},
-gb69(){return"Unit\xe9"},
+gaWW(){return"Activer la protection sur l'interface"},
+gaWV(){return"Ajoute des v\xe9rifications imm\xe9diates au formulaire public"},
+gaOR(){return"Activer la protection c\xf4t\xe9 serveur"},
+gaOQ(){return"V\xe9rifie la source et limite les tentatives r\xe9p\xe9t\xe9es"},
+gaUp(){return"Bloquer les commandes directes"},
+gaUo(){return"Refuser toute commande dont la source est marqu\xe9e comme directe"},
+gaNP(){return"Accepter uniquement les commandes issues de publicit\xe9s"},
+gaNO(){return"N\xe9cessite un fbclid valide pour chaque commande"},
+gaUS(){return"Dur\xe9es de blocage"},
+gaUR(){return"Choisissez la dur\xe9e de gel des IP et num\xe9ros r\xe9p\xe9t\xe9s"},
+gaYz(){return"Blocage IP"},
+gaYy(){return"Exemple : 24 heures"},
+gT3(){return"Blocage num\xe9ro de t\xe9l\xe9phone"},
+gb2x(){return"Exemple : 3 jours"},
+gb6d(){return"Unit\xe9"},
 gfh(){return"Enregistrer la protection des commandes"},
-gayH(){return"Enregistrement..."},
+gayK(){return"Enregistrement..."},
 ger(){return"Protection des commandes enregistr\xe9e"},
 gel(){return"Impossible d'enregistrer la protection des commandes"},
 gi0(){var w=this.d
-return w===$?this.d=new A.exq():w}}
-A.exs.prototype={
-gaz2(){return"Secondes"},
+return w===$?this.d=new A.exx():w}}
+A.exz.prototype={
+gaz5(){return"Secondes"},
 gMX(){return"Minutes"},
 gMD(){return"Heures"},
 gzf(){return"Jours"}}
-A.ewF.prototype={
+A.ewM.prototype={
 gLk(){return"URL de base"},
-gb5D(){return"Jeton API"},
-gaOI(){return"Synchronisation auto des commandes"},
-gaOJ(){return"Synchroniser le statut de livraison avec Ecotrack"}}
-A.ewz.prototype={
-gaBD(){return"Choisir le transporteur"},
-gaBC(){return"S\xe9lectionnez votre soci\xe9t\xe9 Ecotrack ou saisissez une autre URL de base."},
-gaBB(){return"M\xe9thode de connexion"},
-gaBA(){return"Utilisez un jeton API ou connectez-vous avec votre compte transporteur."},
-gaBG(){return"Jeton API"},
-gaBF(){return"Collez le jeton fourni par le transporteur (souvent 60 caract\xe8res)."},
-gaBE(){return"Connexion transporteur"},
-gaer(){return"Votre mot de passe transite par Feeef uniquement vers l\u2019API de connexion du transporteur."},
-gaBI(){return"Options"},
-gaBH(){return"Activez l\u2019int\xe9gration et la synchronisation."},
-gb1T(){return"Autre"},
-gaWw(){return"Corriger l\u2019URL"},
-gb6B(){return"Veuillez saisir une URL de serveur valide"},
-gaxA(){return"Saisissez une URL valide"},
-gb6D(){return"Jeton API"},
-gb6E(){return"J\u2019ai d\xe9j\xe0 un jeton du transporteur"},
-gaAS(){return"Connexion transporteur"},
-gaAT(){return"E-mail et mot de passe du compte transporteur"},
+gb5H(){return"Jeton API"},
+gaOL(){return"Synchronisation auto des commandes"},
+gaOM(){return"Synchroniser le statut de livraison avec Ecotrack"}}
+A.ewG.prototype={
+gaBG(){return"Choisir le transporteur"},
+gaBF(){return"S\xe9lectionnez votre soci\xe9t\xe9 Ecotrack ou saisissez une autre URL de base."},
+gaBE(){return"M\xe9thode de connexion"},
+gaBD(){return"Utilisez un jeton API ou connectez-vous avec votre compte transporteur."},
+gaBJ(){return"Jeton API"},
+gaBI(){return"Collez le jeton fourni par le transporteur (souvent 60 caract\xe8res)."},
+gaBH(){return"Connexion transporteur"},
+gaes(){return"Votre mot de passe transite par Feeef uniquement vers l\u2019API de connexion du transporteur."},
+gaBL(){return"Options"},
+gaBK(){return"Activez l\u2019int\xe9gration et la synchronisation."},
+gb1X(){return"Autre"},
+gaWz(){return"Corriger l\u2019URL"},
+gb6F(){return"Veuillez saisir une URL de serveur valide"},
+gaxD(){return"Saisissez une URL valide"},
+gb6H(){return"Jeton API"},
+gb6I(){return"J\u2019ai d\xe9j\xe0 un jeton du transporteur"},
+gaAV(){return"Connexion transporteur"},
+gaAW(){return"E-mail et mot de passe du compte transporteur"},
 gFg(){return"E-mail"},
 gNg(){return"Mot de passe"},
-gaAR(){return"Se connecter"},
-gaAU(){return"Connexion\u2026"},
-gb5H(){return"Le jeton est requis"},
-gb5G(){return"Le jeton doit faire 60 caract\xe8res"},
-gayD(){return"Enregistrer et connecter"},
-gau8(){return"\xc9chec de la connexion"},
-gaWo(){return"Saisissez l\u2019e-mail et le mot de passe"},
-gaMU(){return"Compte reli\xe9"},
-aMS(d){return"Connect\xe9 en tant que "+d},
-aMT(d){return"Boutique : "+d},
-aMQ(d){return"Transporteur : "+d},
-gaMR(){return"Votre jeton API a \xe9t\xe9 r\xe9cup\xe9r\xe9. Appuyez sur Continuer pour terminer."},
-gaRd(){return"Continuer"},
-gaA5(){return"Activer Ecotrack"},
-gaA6(){return"Activer la livraison rapide via Ecotrack"}}
-A.ewC.prototype={
+gaAU(){return"Se connecter"},
+gaAX(){return"Connexion\u2026"},
+gb5L(){return"Le jeton est requis"},
+gb5K(){return"Le jeton doit faire 60 caract\xe8res"},
+gayG(){return"Enregistrer et connecter"},
+gaua(){return"\xc9chec de la connexion"},
+gaWr(){return"Saisissez l\u2019e-mail et le mot de passe"},
+gaMX(){return"Compte reli\xe9"},
+aMV(d){return"Connect\xe9 en tant que "+d},
+aMW(d){return"Boutique : "+d},
+aMT(d){return"Transporteur : "+d},
+gaMU(){return"Votre jeton API a \xe9t\xe9 r\xe9cup\xe9r\xe9. Appuyez sur Continuer pour terminer."},
+gaRg(){return"Continuer"},
+gaA8(){return"Activer Ecotrack"},
+gaA9(){return"Activer la livraison rapide via Ecotrack"}}
+A.ewJ.prototype={
 gN(){return"R\xe9sum\xe9 financier"},
-gzA(){return"Chargement des donn\xe9es financi\xe8res..."},
+gzB(){return"Chargement des donn\xe9es financi\xe8res..."},
 gel(){return"\xc9chec du chargement des donn\xe9es financi\xe8res"},
 gt1(){return"Rafra\xeechir"},
-ga0_(){return"Total encaiss\xe9"},
-ga00(){return"Non encaiss\xe9"},
-gax1(){return"Paiement pr\xeat"},
-gb3W(){return"Fonds re\xe7us"},
-gaQw(){return"Taux de recouvrement"},
-gaTP(){return"Taux de livraison"},
-gb4N(){return"Taux de retour"},
-gb5w(){return"Succ\xe8s d'aujourd'hui"},
-gaO8(){return"Montants"},
-gaVZ(){return"Frais"},
-gb_Y(){return"Net"},
+ga00(){return"Total encaiss\xe9"},
+ga01(){return"Non encaiss\xe9"},
+gax4(){return"Paiement pr\xeat"},
+gb4_(){return"Fonds re\xe7us"},
+gaQz(){return"Taux de recouvrement"},
+gaTS(){return"Taux de livraison"},
+gb4R(){return"Taux de retour"},
+gb5A(){return"Succ\xe8s d'aujourd'hui"},
+gaOb(){return"Montants"},
+gaW1(){return"Frais"},
+gb01(){return"Net"},
 gmV(){return"DZD"},
 grX(){return"Aucune donn\xe9e financi\xe8re disponible"}}
-A.ewH.prototype={
+A.ewO.prototype={
 gN(){return"Statistiques"},
-gaVb(){return"En traitement"},
-gatZ(){return"Livr\xe9"},
-gawC(){return"Retours"},
-gju(){return"Total"}}
-A.exC.prototype={
+gaVe(){return"En traitement"},
+gau0(){return"Livr\xe9"},
+gawE(){return"Retours"},
+gjv(){return"Total"}}
+A.exJ.prototype={
 gN(){return"Connectez votre boutique au service de livraison GuepEX / Yalidine"},
 gbh(){return"Entrez l'ID de l'application APP ID et la cl\xe9 API, vous pouvez les trouver dans la page d\xe9veloppeur"},
-gaOg(){return"ID de l'application APP ID"},
-gaOf(){return"737001705622XXXXXXXX"},
-gaOe(){return"Compos\xe9 de 20 chiffres, vous pouvez\n l'obtenir depuis la page d\xe9veloppeur"},
-gQo(){return"Cl\xe9 API"},
+gaOj(){return"ID de l'application APP ID"},
+gaOi(){return"737001705622XXXXXXXX"},
+gaOh(){return"Compos\xe9 de 20 chiffres, vous pouvez\n l'obtenir depuis la page d\xe9veloppeur"},
+gQp(){return"Cl\xe9 API"},
 gCl(){return"ETfCW1W8mtxa..."},
-gQn(){return"Vous pouvez l'obtenir depuis la page d\xe9veloppeur dans votre compte Yalidine"},
-gU7(){return"Cl\xe9 secr\xe8te du Webhook (Optionnel)"},
-gb7r(){return"webhook_secret_key_123..."},
-gb7q(){return"La cl\xe9 secr\xe8te pour s\xe9curiser le webhook, vous pouvez l'obtenir depuis le panneau de contr\xf4le du webhook"},
-gaNT(){return"Agent"},
-gGN(){return"\xc9tat de d\xe9part"},
-gaMZ(){return"Activer le service"},
-gaWF(){return"Forcer la livraison gratuite"},
-gaWE(){return"Lorsqu'elle est activ\xe9e, la livraison gratuite sera automatiquement activ\xe9e pour toutes les commandes envoy\xe9es via Yalidine"}}
-A.ewX.prototype={
+gQo(){return"Vous pouvez l'obtenir depuis la page d\xe9veloppeur dans votre compte Yalidine"},
+gU9(){return"Cl\xe9 secr\xe8te du Webhook (Optionnel)"},
+gb7v(){return"webhook_secret_key_123..."},
+gb7u(){return"La cl\xe9 secr\xe8te pour s\xe9curiser le webhook, vous pouvez l'obtenir depuis le panneau de contr\xf4le du webhook"},
+gaNW(){return"Agent"},
+gGO(){return"\xc9tat de d\xe9part"},
+gaN1(){return"Activer le service"},
+gaWI(){return"Forcer la livraison gratuite"},
+gaWH(){return"Lorsqu'elle est activ\xe9e, la livraison gratuite sera automatiquement activ\xe9e pour toutes les commandes envoy\xe9es via Yalidine"}}
+A.ex3.prototype={
 gN(){return"Param\xe8tres Meta Pixel"},
 goh(){return"Actif"},
-gHF(){return y.k},
-gTo(){return"Mode d'envoi"},
-gTp(){return"O\xf9 envoyer les \xe9v\xe9nements de conversion : serveur (CAPI), client (boutique), ou les deux."},
-gJj(){return"Par d\xe9faut (auto)"},
-gJm(){return"Serveur uniquement (CAPI)"},
-gJl(){return"Client uniquement (boutique)"},
-gJk(){return"Les deux (serveur + client)"}}
-A.exw.prototype={
+gHG(){return y.k},
+gTp(){return"Mode d'envoi"},
+gTq(){return"O\xf9 envoyer les \xe9v\xe9nements de conversion : serveur (CAPI), client (boutique), ou les deux."},
+gJk(){return"Par d\xe9faut (auto)"},
+gJn(){return"Serveur uniquement (CAPI)"},
+gJm(){return"Client uniquement (boutique)"},
+gJl(){return"Les deux (serveur + client)"}}
+A.exD.prototype={
 gN(){return"Param\xe8tres TikTok Pixel"},
 goh(){return"Actif"},
-gHF(){return y.k},
-gTo(){return"Mode d'envoi"},
-gTp(){return"O\xf9 envoyer les \xe9v\xe9nements : serveur, client ou les deux."},
-gJj(){return"Par d\xe9faut (auto)"},
-gJm(){return"Serveur uniquement"},
-gJl(){return"Client uniquement (boutique)"},
-gJk(){return"Les deux (serveur + client)"}}
-A.ewR.prototype={
+gHG(){return y.k},
+gTp(){return"Mode d'envoi"},
+gTq(){return"O\xf9 envoyer les \xe9v\xe9nements : serveur, client ou les deux."},
+gJk(){return"Par d\xe9faut (auto)"},
+gJn(){return"Serveur uniquement"},
+gJm(){return"Client uniquement (boutique)"},
+gJl(){return"Les deux (serveur + client)"}}
+A.ewY.prototype={
 gN(){return"Maystro Livraison"},
 gbh(){return"Entrez votre jeton utilisateur ou boutique Maystro (Bearer). Optionnel : URL de base et secret webhook."},
-gb5F(){return"Jeton API"},
-gb5E(){return"Votre jeton Maystro"},
-gaOW(){return"URL de base (optionnel)"},
-gaOV(){return"https://backend.maystro-delivery.com/api"},
-gU7(){return"Secret webhook (optionnel)"},
+gb5J(){return"Jeton API"},
+gb5I(){return"Votre jeton Maystro"},
+gaOZ(){return"URL de base (optionnel)"},
+gaOY(){return"https://backend.maystro-delivery.com/api"},
+gU9(){return"Secret webhook (optionnel)"},
 gwG(){return"Activer le service"},
 gCP(){return"Permettre l'envoi des commandes \xe0 Maystro"},
-gQu(){return"Envoi automatique des commandes"},
+gQv(){return"Envoi automatique des commandes"},
 gCp(){return'Envoyer automatiquement les commandes \xe0 Maystro lorsque le statut est "Envoy\xe9"'}}
-A.exa.prototype={
+A.exh.prototype={
 gM5(){var w=this.f
-return w===$?this.f=new A.ex6():w},
-garE(){var w=this.r
-return w===$?this.r=new A.ex9():w},
-gavz(){var w=this.w
-return w===$?this.w=new A.exc():w}}
-A.ex0.prototype={
-gat8(){var w=this.e
-return w===$?this.e=new A.ex2():w},
-gaqP(){var w=this.f
-return w===$?this.f=new A.ewZ():w}}
-A.ewN.prototype={
-gb_o(){return"ID de mesure"},
-gb_p(){return"UA-XXXXXXXXX-X"}}
-A.ev8.prototype={
+return w===$?this.f=new A.exd():w},
+garG(){var w=this.r
+return w===$?this.r=new A.exg():w},
+gavB(){var w=this.w
+return w===$?this.w=new A.exj():w}}
+A.ex7.prototype={
+gata(){var w=this.e
+return w===$?this.e=new A.ex9():w},
+gaqR(){var w=this.f
+return w===$?this.f=new A.ex5():w}}
+A.ewU.prototype={
+gb_s(){return"ID de mesure"},
+gb_t(){return"UA-XXXXXXXXX-X"}}
+A.evf.prototype={
 gN(){return"\xc9tiquette de l'image de r\xe9f\xe9rence"},
 gbh(){return"Ajoutez une \xe9tiquette pour aider \xe0 identifier cette image (ex. : logo, style, couleurs)"},
 gnh(){return"Exemple : Logo de l'entreprise"},
 guz(d){return"Effacer"},
 gbU(){return"Annuler"},
 gfh(){return"Enregistrer"}}
-A.eAN.prototype={
-aTd(d){return""+d+" jours"},
-aXB(d){return""+d+" heures"},
-b_A(d){return""+d+" minutes"},
+A.eAU.prototype={
+aTg(d){return""+d+" jours"},
+aXE(d){return""+d+" heures"},
+b_E(d){return""+d+" minutes"},
 gN5(){return"Maintenant"}}
-A.eC_.prototype={
+A.eC6.prototype={
 gt_(){var w=this.w
-return w===$?this.w=new A.eC5():w},
-gIT(){var w=this.x
-return w===$?this.x=new A.eC3():w},
+return w===$?this.w=new A.eCc():w},
+gIU(){var w=this.x
+return w===$?this.x=new A.eCa():w},
 gt6(){var w=this.y
-return w===$?this.y=new A.eC7():w},
+return w===$?this.y=new A.eCe():w},
 grA(){var w=this.z
-return w===$?this.z=new A.eBY():w},
+return w===$?this.z=new A.eC4():w},
 grS(){var w=this.Q
-return w===$?this.Q=new A.eC1():w}}
-A.eCl.prototype={
+return w===$?this.Q=new A.eC8():w}}
+A.eCs.prototype={
 gt_(){var w=this.Q
-return w===$?this.Q=new A.eCr():w},
-gJ9(){var w=this.as
-return w===$?this.as=new A.eCp():w},
+return w===$?this.Q=new A.eCy():w},
+gJa(){var w=this.as
+return w===$?this.as=new A.eCw():w},
 gt6(){var w=this.at
-return w===$?this.at=new A.eCv():w},
-gHP(){var w=this.ax
-return w===$?this.ax=new A.eCh():w},
+return w===$?this.at=new A.eCC():w},
+gHQ(){var w=this.ax
+return w===$?this.ax=new A.eCo():w},
 goc(){var w=this.ay
-return w===$?this.ay=new A.eCt():w},
-gHK(){var w=this.ch
-return w===$?this.ch=new A.eCd():w},
+return w===$?this.ay=new A.eCA():w},
+gHL(){var w=this.ch
+return w===$?this.ch=new A.eCk():w},
 grA(){var w=this.CW
-return w===$?this.CW=new A.eCf():w},
+return w===$?this.CW=new A.eCm():w},
 grS(){var w=this.cx
-return w===$?this.cx=new A.eCn():w},
-gI7(){var w=this.cy
-return w===$?this.cy=new A.eCj():w}}
-A.eEx.prototype={
-gaQ8(){return"Choisir le destinataire"},
-gaQ9(){return"Recherchez l'utilisateur \xe0 qui vous voulez envoyer de l'argent"},
-gb5r(){return"\xc0"},
-gb3X(){return"ID utilisateur, e-mail ou num\xe9ro de t\xe9l\xe9phone"},
-gayU(){return"Recherche..."},
-gazY(){return"Envoi \xe0 cet e-mail"},
-gazZ(){return"Envoi \xe0 ce num\xe9ro"},
-gayL(){return"Scanner le code de r\xe9ception"},
-gaQW(){return"Confirmer le destinataire"},
-gazI(){return"Envoyer de l'argent"},
-gaVr(){return"Entrez le montant \xe0 envoyer"},
-aBQ(d){return"Magasin \u2022 "+d},
-gaPY(){return"Changer le destinataire"},
-gQm(){return"Montant"},
-gaO7(){return"0,00"},
-gaST(){return"DA"},
-gb0J(){return"Note (facultatif)"},
-gaQX(){return"Veuillez d'abord confirmer le destinataire"},
-gaVu(){return"Entrez un montant valide"},
-gaum(){return"Vous devez garder au moins 500 DA sur votre compte pour envoyer de l'argent"},
-ao6(d){return"Le montant d\xe9passe la limite autoris\xe9e. Vous pouvez envoyer jusqu'\xe0 "+d+" DA"},
-azO(d){return d+" DA envoy\xe9s avec succ\xe8s"},
-gb6L(){return"Utilisateur introuvable"},
-gaYh(){return"Solde insuffisant"},
-gaPM(){return"Vous ne pouvez pas vous envoyer de l'argent"},
+return w===$?this.cx=new A.eCu():w},
+gI8(){var w=this.cy
+return w===$?this.cy=new A.eCq():w}}
+A.eEE.prototype={
+gaQb(){return"Choisir le destinataire"},
+gaQc(){return"Recherchez l'utilisateur \xe0 qui vous voulez envoyer de l'argent"},
+gb5v(){return"\xc0"},
+gb40(){return"ID utilisateur, e-mail ou num\xe9ro de t\xe9l\xe9phone"},
+gayX(){return"Recherche..."},
+gaA0(){return"Envoi \xe0 cet e-mail"},
+gaA1(){return"Envoi \xe0 ce num\xe9ro"},
+gayO(){return"Scanner le code de r\xe9ception"},
+gaQZ(){return"Confirmer le destinataire"},
+gazL(){return"Envoyer de l'argent"},
+gaVu(){return"Entrez le montant \xe0 envoyer"},
+aBT(d){return"Magasin \u2022 "+d},
+gaQ0(){return"Changer le destinataire"},
+gQn(){return"Montant"},
+gaOa(){return"0,00"},
+gaSW(){return"DA"},
+gb0N(){return"Note (facultatif)"},
+gaR_(){return"Veuillez d'abord confirmer le destinataire"},
+gaVx(){return"Entrez un montant valide"},
+gauo(){return"Vous devez garder au moins 500 DA sur votre compte pour envoyer de l'argent"},
+ao8(d){return"Le montant d\xe9passe la limite autoris\xe9e. Vous pouvez envoyer jusqu'\xe0 "+d+" DA"},
+azR(d){return d+" DA envoy\xe9s avec succ\xe8s"},
+gb6P(){return"Utilisateur introuvable"},
+gaYk(){return"Solde insuffisant"},
+gaPP(){return"Vous ne pouvez pas vous envoyer de l'argent"},
 gJW(){return"Magasin introuvable"},
-gaBU(){return"Impossible de trouver le magasin"},
-b3D(d){return"Erreur de lecture du code : "+d}}
-A.evs.prototype={
+gaBX(){return"Impossible de trouver le magasin"},
+b3H(d){return"Erreur de lecture du code : "+d}}
+A.evz.prototype={
 ger(){return"Photo mise \xe0 jour avec succ\xe8s"},
 gel(){return"Une erreur est survenue lors de la mise \xe0 jour de la photo"}}
-A.exW.prototype={
+A.ey2.prototype={
 gkX(){return"En attente"},
-gU2(){return"Validation"},
+gU4(){return"Validation"},
 gvg(){return"Envoi"},
 ger(){return"Envoy\xe9"},
 BZ(d){return"Envoy\xe9 ("+d+")"},
 gkt(){return"\xc9chec"},
 gyt(){return"Ignor\xe9"}}
-A.exT.prototype={
-gSL(){return"Aucune r\xe9ponse du serveur"},
+A.ey_.prototype={
+gSM(){return"Aucune r\xe9ponse du serveur"},
 gDK(){return"Erreur inattendue"},
 NJ(d){return"Erreur inattendue : "+d}}
-A.ezK.prototype={
-gb2f(){return"Payer le montant complet"},
-gb2g(){return"Payer la moiti\xe9"},
-gb2h(){return"Payer le quart"}}
-A.ezM.prototype={
+A.ezR.prototype={
+gb2j(){return"Payer le montant complet"},
+gb2k(){return"Payer la moiti\xe9"},
+gb2l(){return"Payer le quart"}}
+A.ezT.prototype={
 gt2(){return"Veuillez saisir le montant"},
-gSl(){return"Veuillez saisir un montant valide"},
-gaVG(){return"Le montant d\xe9passe le montant d\xfb ({amount} DZD)"},
-gb0I(){return"Le montant doit \xeatre un multiple de {multiple}"}}
-A.ezG.prototype={
-gb2d(){return"Payer"}}
-A.eA3.prototype={
-gir(){return"Votre abonnement a expir\xe9. Passez \xe0 un forfait sup\xe9rieur pour continuer."}}
-A.eA9.prototype={
+gSm(){return"Veuillez saisir un montant valide"},
+gaVJ(){return"Le montant d\xe9passe le montant d\xfb ({amount} DZD)"},
+gb0M(){return"Le montant doit \xeatre un multiple de {multiple}"}}
+A.ezN.prototype={
+gb2h(){return"Payer"}}
+A.eAa.prototype={
+gis(){return"Votre abonnement a expir\xe9. Passez \xe0 un forfait sup\xe9rieur pour continuer."}}
+A.eAg.prototype={
 gN(){return"Studio Logo"},
-gaZO(){return"Nom du logo"},
+gaZS(){return"Nom du logo"},
 gbh(){return"Description"},
-gapi(){return"Couleur 1"},
-gapj(){return"Couleur 2"},
+gapk(){return"Couleur 1"},
+gapl(){return"Couleur 2"},
 gjI(){return"Format"},
 gpb(){return"G\xe9n\xe9rer"},
-gaC7(){return"G\xe9n\xe9ration du logo d\xe9marr\xe9e."},
-gaVv(){return"\xc9chec du d\xe9marrage."},
+gaCa(){return"G\xe9n\xe9ration du logo d\xe9marr\xe9e."},
+gaVy(){return"\xc9chec du d\xe9marrage."},
 gpc(){return"G\xe9n\xe9ration du logo\u2026"},
 gzi(){return"T\xe9l\xe9charger"},
-gaRn(){return"Copier le lien"},
-gaOo(){return"Appliquer au magasin"},
+gaRq(){return"Copier le lien"},
+gaOr(){return"Appliquer au magasin"},
 gJK(){return"Choisir un magasin"},
-gaC4(){return"Logo d\xe9fini comme logo du magasin."},
+gaC7(){return"Logo d\xe9fini comme logo du magasin."},
 gDg(){return"Lien copi\xe9."}}
-A.evQ.prototype={
-ga5(){return"Liens rapides"},
-gAt(){return"Ajouter un produit"},
-gaMJ(){return"Paniers abandonn\xe9s"},
-gaQ0(){return"Changer de th\xe8me"},
-gaBW(){return"Param\xe8tres de la boutique"}}
-A.ew9.prototype={
-ga5(){return"Indicateurs cl\xe9s"},
+A.evX.prototype={
+ga4(){return"Liens rapides"},
+gAu(){return"Ajouter un produit"},
+gaMM(){return"Paniers abandonn\xe9s"},
+gaQ3(){return"Changer de th\xe8me"},
+gaBZ(){return"Param\xe8tres de la boutique"}}
+A.ewg.prototype={
+ga4(){return"Indicateurs cl\xe9s"},
 gqP(){return"Aujourd'hui"},
 gDG(){return"Cette semaine"},
 gDF(){return"Ce mois-ci"},
-gSw(){return"Le mois dernier"},
-gaSY(){return"Plage personnalis\xe9e"}}
-A.ewb.prototype={
-ga5(){return"Commandes"}}
-A.ewd.prototype={
-ga5(){return"Revenu"}}
-A.ew3.prototype={
-ga5(){return"Clients"}}
-A.ew7.prototype={
-ga5(){return"Statistiques"},
-gb5Z(){return"Produits tendance"},
-gb2n(){return"Heures de pointe d'achat"},
-gb2E(){return"\xc9tats populaires"}}
-A.ew1.prototype={
+gSx(){return"Le mois dernier"},
+gaT0(){return"Plage personnalis\xe9e"}}
+A.ewi.prototype={
+ga4(){return"Commandes"}}
+A.ewk.prototype={
+ga4(){return"Revenu"}}
+A.ewa.prototype={
+ga4(){return"Clients"}}
+A.ewe.prototype={
+ga4(){return"Statistiques"},
+gb62(){return"Produits tendance"},
+gb2r(){return"Heures de pointe d'achat"},
+gb2I(){return"\xc9tats populaires"}}
+A.ew8.prototype={
 gN(){return"Directives de prix"},
 gdn(){return"Laisser le champ vide signifie que la livraison n'est pas disponible, et entrer z\xe9ro 0 signifie que la livraison est gratuite."}}
-A.evY.prototype={
+A.ew4.prototype={
 gaQ(){return"Nom"},
-gaPS(){return"Image de la cat\xe9gorie"},
-gazb(){return"Choisir une cat\xe9gorie"},
-gb07(){return"Aucune cat\xe9gorie"}}
-A.exq.prototype={
+gaPV(){return"Image de la cat\xe9gorie"},
+gaze(){return"Choisir une cat\xe9gorie"},
+gb0b(){return"Aucune cat\xe9gorie"}}
+A.exx.prototype={
 gt2(){return"Veuillez saisir une dur\xe9e"},
-gb2G(){return"Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"}}
-A.ex6.prototype={
+gb2K(){return"Entrez une valeur sup\xe9rieure \xe0 z\xe9ro"}}
+A.exd.prototype={
 gN(){return"Livraison"},
 gbh(){return"Effectuer une livraison"}}
-A.ex9.prototype={
+A.exg.prototype={
 gN(){return"\xc9change"},
 gbh(){return"\xc9changer le colis avec le client final"}}
-A.exc.prototype={
+A.exj.prototype={
 gN(){return"Ramassage"},
 gbh(){return"R\xe9cup\xe9rer un colis aupr\xe8s du client final"}}
-A.ex2.prototype={
+A.ex9.prototype={
 gN(){return"Livraison \xe0 domicile"},
 gbh(){return"Livrer directement \xe0 l\u2019adresse du client"}}
-A.ewZ.prototype={
+A.ex5.prototype={
 gN(){return"Point relais"},
 gbh(){return"Livrer au bureau Noest le plus proche"}}
-A.eC5.prototype={
+A.eCc.prototype={
 gN(){return"Achat"},
 gdn(){return"Envoyer un achat"}}
-A.eC3.prototype={
+A.eCa.prototype={
 gN(){return"Lead"},
 gdn(){return"Envoyer un lead"}}
-A.eC7.prototype={
+A.eCe.prototype={
 gN(){return"Voir contenu"},
 gdn(){return"Envoyer vue contenu"}}
-A.eBY.prototype={
+A.eC4.prototype={
 gN(){return"Ajouter au panier"},
 gdn(){return"Envoyer ajout panier"}}
-A.eC1.prototype={
+A.eC8.prototype={
 gN(){return"D\xe9but commande"},
 gdn(){return"Envoyer d\xe9but commande"}}
-A.eCr.prototype={
+A.eCy.prototype={
 gN(){return"Achat"},
 gdn(){return"Envoyer un achat"}}
-A.eCp.prototype={
+A.eCw.prototype={
 gN(){return"Commander"},
 gdn(){return"Envoyer une commande"}}
-A.eCv.prototype={
+A.eCC.prototype={
 gN(){return"Voir contenu"},
 gdn(){return"Envoyer vue contenu"}}
-A.eCh.prototype={
+A.eCo.prototype={
 gN(){return"Liste de souhaits"},
 gdn(){return"Envoyer ajout \xe0 la liste"}}
-A.eCt.prototype={
+A.eCA.prototype={
 gN(){return"Recherche"},
 gdn(){return"Envoyer recherche"}}
-A.eCd.prototype={
+A.eCk.prototype={
 gN(){return"Paiement"},
 gdn(){return"Envoyer infos paiement"}}
-A.eCf.prototype={
+A.eCm.prototype={
 gN(){return"Ajouter au panier"},
 gdn(){return"Envoyer ajout panier"}}
-A.eCn.prototype={
+A.eCu.prototype={
 gN(){return"D\xe9but commande"},
 gdn(){return"Envoyer d\xe9but commande"}}
-A.eCj.prototype={
+A.eCq.prototype={
 gN(){return"Inscription"},
 gdn(){return"Envoyer inscription"}}
-A.bFJ.prototype={}
+A.bFO.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var w=a.mixin,v=a.inherit
-v(A.bFJ,B.mn)
-v(A.bhR,A.bFJ)
-v(A.ewj,B.axa)
-v(A.evw,B.axi)
-v(A.eAH,B.azN)
-v(A.eB0,B.aA0)
-v(A.eB8,B.aA5)
-v(A.eBc,B.aA7)
-v(A.eBi,B.aA8)
-v(A.eBu,B.aAd)
-v(A.eBM,B.aAn)
-v(A.eBU,B.aAt)
-v(A.eCz,B.aAO)
-v(A.eCX,B.aAU)
-v(A.eDm,B.aBb)
-v(A.eE_,B.aBe)
-v(A.eEB,B.aBP)
-v(A.eEL,B.aBT)
-v(A.eER,B.aBX)
-v(A.eEX,B.aBZ)
-v(A.eFy,B.aC8)
-v(A.eG1,B.aCn)
-v(A.eGP,B.aCW)
-v(A.eGT,B.aCY)
-v(A.eGX,B.aCZ)
-v(A.eH4,B.aD3)
-v(A.eHa,B.aD5)
-v(A.eHk,B.aD9)
-v(A.eHA,B.aDh)
-v(A.eHU,B.aDp)
-v(A.exK,B.ayl)
-v(A.ewf,B.axF)
-v(A.ewn,B.axH)
-v(A.ewh,B.axG)
-v(A.evi,B.axb)
-v(A.ezs,B.az_)
-v(A.eAp,B.azE)
-v(A.eyN,B.ayp)
-v(A.ezY,B.azm)
-v(A.evE,B.axm)
-v(A.eyT,B.ayX)
-v(A.ewJ,B.axO)
-v(A.evg,B.ax9)
-v(A.eve,B.ax8)
-v(A.ev2,B.ax_)
-v(A.eAt,B.azK)
-v(A.evy,B.axj)
-v(A.evA,B.axk)
-v(A.evC,B.axl)
-v(A.eAV,B.azZ)
-v(A.eAP,B.azW)
-v(A.eAJ,B.azT)
-v(A.eAx,B.azO)
-v(A.eAB,B.azQ)
-v(A.eAT,B.azY)
-v(A.eAD,B.azR)
-v(A.eAG,B.azS)
-v(A.eAX,B.aA_)
-v(A.eAZ,B.aA1)
-v(A.eB2,B.aA2)
-v(A.eB6,B.aA4)
-v(A.eBa,B.aA6)
-v(A.eBe,B.aA9)
-v(A.eBk,B.aAb)
-v(A.eBh,B.aAa)
-v(A.eBq,B.aAf)
-v(A.eBA,B.aAj)
-v(A.eBm,B.aAc)
-v(A.eBw,B.aAh)
-v(A.eBo,B.aAe)
-v(A.eBy,B.aAi)
-v(A.eBt,B.aAg)
-v(A.eBC,B.aAk)
-v(A.eBE,B.aAl)
-v(A.eBG,B.aAm)
-v(A.eBS,B.aAs)
-v(A.eBI,B.aAo)
-v(A.eBO,B.aAq)
-v(A.eBQ,B.aAr)
-v(A.eBL,B.aAp)
-v(A.eC9,B.aAu)
-v(A.eCx,B.aAC)
-v(A.eCB,B.aAP)
-v(A.eCD,B.aAQ)
-v(A.eDg,B.aB9)
-v(A.eDe,B.aB8)
-v(A.eCL,B.aAV)
-v(A.eCN,B.aAW)
-v(A.eCJ,B.aAT)
-v(A.eCZ,B.aB0)
-v(A.eDa,B.aB6)
-v(A.eCH,B.aAR)
-v(A.eDi,B.aBa)
-v(A.eDc,B.aB7)
-v(A.eD6,B.aB4)
-v(A.eD8,B.aB5)
-v(A.eCW,B.aB_)
-v(A.eDl,B.aBc)
-v(A.eDo,B.aBd)
-v(A.eDu,B.aBh)
-v(A.eDq,B.aBf)
-v(A.eE9,B.aBB)
-v(A.eDw,B.aBi)
-v(A.eEf,B.aBE)
-v(A.eDZ,B.aBv)
-v(A.eEj,B.aBG)
-v(A.eDs,B.aBg)
-v(A.eE5,B.aBy)
-v(A.eE1,B.aBx)
-v(A.eEh,B.aBF)
-v(A.eDP,B.aBp)
-v(A.eE7,B.aBA)
-v(A.eDE,B.aBj)
-v(A.eEt,B.aBI)
-v(A.eEH,B.aBS)
-v(A.eEF,B.aBR)
-v(A.eED,B.aBQ)
-v(A.eEP,B.aBW)
-v(A.eEJ,B.aBU)
-v(A.eEN,B.aBV)
-v(A.eET,B.aBY)
-v(A.eEZ,B.aC0)
-v(A.eF0,B.aC1)
-v(A.eF4,B.aC2)
-v(A.eF6,B.aC4)
-v(A.eEW,B.aC_)
-v(A.eF2,B.aC3)
-v(A.eF8,B.aC5)
-v(A.eFa,B.aC6)
-v(A.eFE,B.aCl)
-v(A.eFx,B.aCi)
-v(A.eFr,B.aCf)
-v(A.eFk,B.aCc)
-v(A.eFp,B.aCe)
-v(A.eFm,B.aCd)
-v(A.eFg,B.aCa)
-v(A.eFc,B.aC7)
-v(A.eFi,B.aCb)
-v(A.eFe,B.aC9)
-v(A.eFG,B.aCm)
-v(A.eFA,B.aCj)
-v(A.eFC,B.aCk)
-v(A.eG5,B.aCz)
-v(A.eG3,B.aCy)
-v(A.eG_,B.aCx)
-v(A.eGL,B.aCU)
-v(A.eGz,B.aCO)
-v(A.eFM,B.aCq)
-v(A.eFI,B.aCo)
-v(A.eFO,B.aCr)
-v(A.eFU,B.aCu)
-v(A.eFW,B.aCv)
-v(A.eFK,B.aCp)
-v(A.eGH,B.aCS)
-v(A.eGJ,B.aCT)
-v(A.eFS,B.aCt)
-v(A.eFQ,B.aCs)
-v(A.eGd,B.aCD)
-v(A.eGh,B.aCF)
-v(A.eFY,B.aCw)
-v(A.eGF,B.aCR)
-v(A.eGD,B.aCQ)
-v(A.eGB,B.aCP)
-v(A.eGN,B.aCV)
-v(A.eGb,B.aCC)
-v(A.eGl,B.aCG)
-v(A.eGR,B.aCX)
-v(A.eGZ,B.aD0)
+v(A.bFO,B.mn)
+v(A.bhV,A.bFO)
+v(A.ewq,B.axe)
+v(A.evD,B.axm)
+v(A.eAO,B.azR)
+v(A.eB7,B.aA4)
+v(A.eBf,B.aA9)
+v(A.eBj,B.aAb)
+v(A.eBp,B.aAc)
+v(A.eBB,B.aAh)
+v(A.eBT,B.aAr)
+v(A.eC0,B.aAx)
+v(A.eCG,B.aAS)
+v(A.eD3,B.aAY)
+v(A.eDt,B.aBf)
+v(A.eE6,B.aBi)
+v(A.eEI,B.aBT)
+v(A.eES,B.aBX)
+v(A.eEY,B.aC0)
+v(A.eF3,B.aC2)
+v(A.eFF,B.aCc)
+v(A.eG8,B.aCr)
 v(A.eGW,B.aD_)
-v(A.eH0,B.aD1)
-v(A.eH2,B.aD2)
-v(A.eH6,B.aD4)
+v(A.eH_,B.aD1)
+v(A.eH3,B.aD2)
+v(A.eHb,B.aD7)
+v(A.eHh,B.aD9)
+v(A.eHr,B.aDd)
+v(A.eHH,B.aDl)
+v(A.eI0,B.aDt)
+v(A.exR,B.ayp)
+v(A.ewm,B.axJ)
+v(A.ewu,B.axL)
+v(A.ewo,B.axK)
+v(A.evp,B.axf)
+v(A.ezz,B.az3)
+v(A.eAw,B.azI)
+v(A.eyU,B.ayt)
+v(A.eA4,B.azq)
+v(A.evL,B.axq)
+v(A.ez_,B.az0)
+v(A.ewQ,B.axS)
+v(A.evn,B.axd)
+v(A.evl,B.axc)
+v(A.ev9,B.ax3)
+v(A.eAA,B.azO)
+v(A.evF,B.axn)
+v(A.evH,B.axo)
+v(A.evJ,B.axp)
+v(A.eB1,B.aA2)
+v(A.eAW,B.aA_)
+v(A.eAQ,B.azX)
+v(A.eAE,B.azS)
+v(A.eAI,B.azU)
+v(A.eB_,B.aA1)
+v(A.eAK,B.azV)
+v(A.eAN,B.azW)
+v(A.eB3,B.aA3)
+v(A.eB5,B.aA5)
+v(A.eB9,B.aA6)
+v(A.eBd,B.aA8)
+v(A.eBh,B.aAa)
+v(A.eBl,B.aAd)
+v(A.eBr,B.aAf)
+v(A.eBo,B.aAe)
+v(A.eBx,B.aAj)
+v(A.eBH,B.aAn)
+v(A.eBt,B.aAg)
+v(A.eBD,B.aAl)
+v(A.eBv,B.aAi)
+v(A.eBF,B.aAm)
+v(A.eBA,B.aAk)
+v(A.eBJ,B.aAo)
+v(A.eBL,B.aAp)
+v(A.eBN,B.aAq)
+v(A.eBZ,B.aAw)
+v(A.eBP,B.aAs)
+v(A.eBV,B.aAu)
+v(A.eBX,B.aAv)
+v(A.eBS,B.aAt)
+v(A.eCg,B.aAy)
+v(A.eCE,B.aAG)
+v(A.eCI,B.aAT)
+v(A.eCK,B.aAU)
+v(A.eDn,B.aBd)
+v(A.eDl,B.aBc)
+v(A.eCS,B.aAZ)
+v(A.eCU,B.aB_)
+v(A.eCQ,B.aAX)
+v(A.eD5,B.aB4)
+v(A.eDh,B.aBa)
+v(A.eCO,B.aAV)
+v(A.eDp,B.aBe)
+v(A.eDj,B.aBb)
+v(A.eDd,B.aB8)
+v(A.eDf,B.aB9)
+v(A.eD2,B.aB3)
+v(A.eDs,B.aBg)
+v(A.eDv,B.aBh)
+v(A.eDB,B.aBl)
+v(A.eDx,B.aBj)
+v(A.eEg,B.aBF)
+v(A.eDD,B.aBm)
+v(A.eEm,B.aBI)
+v(A.eE5,B.aBz)
+v(A.eEq,B.aBK)
+v(A.eDz,B.aBk)
+v(A.eEc,B.aBC)
+v(A.eE8,B.aBB)
+v(A.eEo,B.aBJ)
+v(A.eDW,B.aBt)
+v(A.eEe,B.aBE)
+v(A.eDL,B.aBn)
+v(A.eEA,B.aBM)
+v(A.eEO,B.aBW)
+v(A.eEM,B.aBV)
+v(A.eEK,B.aBU)
+v(A.eEW,B.aC_)
+v(A.eEQ,B.aBY)
+v(A.eEU,B.aBZ)
+v(A.eF_,B.aC1)
+v(A.eF5,B.aC4)
+v(A.eF7,B.aC5)
+v(A.eFb,B.aC6)
+v(A.eFd,B.aC8)
+v(A.eF2,B.aC3)
+v(A.eF9,B.aC7)
+v(A.eFf,B.aC9)
+v(A.eFh,B.aCa)
+v(A.eFL,B.aCp)
+v(A.eFE,B.aCm)
+v(A.eFy,B.aCj)
+v(A.eFr,B.aCg)
+v(A.eFw,B.aCi)
+v(A.eFt,B.aCh)
+v(A.eFn,B.aCe)
+v(A.eFj,B.aCb)
+v(A.eFp,B.aCf)
+v(A.eFl,B.aCd)
+v(A.eFN,B.aCq)
+v(A.eFH,B.aCn)
+v(A.eFJ,B.aCo)
+v(A.eGc,B.aCD)
+v(A.eGa,B.aCC)
+v(A.eG6,B.aCB)
+v(A.eGS,B.aCY)
+v(A.eGG,B.aCS)
+v(A.eFT,B.aCu)
+v(A.eFP,B.aCs)
+v(A.eFV,B.aCv)
+v(A.eG0,B.aCy)
+v(A.eG2,B.aCz)
+v(A.eFR,B.aCt)
+v(A.eGO,B.aCW)
+v(A.eGQ,B.aCX)
+v(A.eFZ,B.aCx)
+v(A.eFX,B.aCw)
+v(A.eGk,B.aCH)
+v(A.eGo,B.aCJ)
+v(A.eG4,B.aCA)
+v(A.eGM,B.aCV)
+v(A.eGK,B.aCU)
+v(A.eGI,B.aCT)
+v(A.eGU,B.aCZ)
+v(A.eGi,B.aCG)
+v(A.eGs,B.aCK)
+v(A.eGY,B.aD0)
+v(A.eH5,B.aD4)
+v(A.eH2,B.aD3)
+v(A.eH7,B.aD5)
 v(A.eH9,B.aD6)
-v(A.eHc,B.aD7)
+v(A.eHd,B.aD8)
 v(A.eHg,B.aDa)
-v(A.eHu,B.aDg)
-v(A.eHq,B.aDe)
-v(A.eHe,B.aD8)
-v(A.eHo,B.aDd)
-v(A.eHm,B.aDc)
 v(A.eHj,B.aDb)
-v(A.eHs,B.aDf)
-v(A.eHC,B.aDk)
-v(A.eHG,B.aDm)
-v(A.eHy,B.aDj)
-v(A.eHw,B.aDi)
-v(A.eHI,B.aDn)
-v(A.eHE,B.aDl)
-v(A.eHK,B.aDo)
-v(A.eHW,B.aDu)
-v(A.eHO,B.aDr)
-v(A.eHM,B.aDq)
-v(A.eI1,B.aDx)
-v(A.eI3,B.aDy)
-v(A.eI_,B.aDw)
-v(A.eI5,B.aDz)
+v(A.eHn,B.aDe)
+v(A.eHB,B.aDk)
+v(A.eHx,B.aDi)
+v(A.eHl,B.aDc)
+v(A.eHv,B.aDh)
+v(A.eHt,B.aDg)
+v(A.eHq,B.aDf)
+v(A.eHz,B.aDj)
+v(A.eHJ,B.aDo)
+v(A.eHN,B.aDq)
+v(A.eHF,B.aDn)
+v(A.eHD,B.aDm)
+v(A.eHP,B.aDr)
+v(A.eHL,B.aDp)
 v(A.eHR,B.aDs)
-v(A.eHT,B.aDt)
-v(A.eHY,B.aDv)
-v(A.exG,B.aym)
-v(A.ewl,B.axI)
-v(A.ewp,B.axJ)
-v(A.ewv,B.axM)
-v(A.evo,B.axe)
-v(A.evk,B.axc)
-v(A.ez5,B.az0)
-v(A.ezy,B.azh)
-v(A.eAi,B.azF)
-v(A.exM,B.ayq)
-v(A.ey5,B.ayA)
-v(A.exQ,B.ayr)
-v(A.eyP,B.ayW)
-v(A.eyI,B.ayT)
-v(A.eyk,B.ayB)
-v(A.eA_,B.azw)
-v(A.ezO,B.azn)
-v(A.eA5,B.azx)
-v(A.ezX,B.azv)
-v(A.ezR,B.azs)
-v(A.eAb,B.azC)
-v(A.evI,B.axn)
-v(A.eyV,B.ayZ)
-v(A.eyR,B.ayY)
-v(A.exk,B.ay9)
-v(A.ewD,B.axP)
-v(A.exA,B.ayj)
-v(A.exe,B.ay8)
-v(A.ewV,B.axZ)
-v(A.exu,B.ayg)
-v(A.ewT,B.axX)
-v(A.ex4,B.ay0)
-v(A.ewP,B.axW)
-v(A.exy,B.ayi)
-v(A.ewL,B.axU)
-v(A.ewx,B.axN)
-v(A.eva,B.ax6)
-v(A.ev4,B.ax3)
-v(A.euZ,B.ax1)
-v(A.ev6,B.ax4)
-v(A.ev1,B.ax2)
-v(A.evc,B.ax7)
-v(A.euX,B.ax0)
-v(A.eAv,B.azM)
-v(A.eAr,B.azL)
-v(A.eAR,B.azX)
-v(A.eAL,B.azU)
-v(A.eAz,B.azP)
-v(A.eB4,B.aA3)
-v(A.eC8,B.aAv)
-v(A.eCw,B.aAD)
-v(A.eCR,B.aAY)
-v(A.eCT,B.aAZ)
-v(A.eCP,B.aAX)
-v(A.eD2,B.aB2)
-v(A.eD4,B.aB3)
-v(A.eD0,B.aB1)
-v(A.eCF,B.aAS)
-v(A.eEb,B.aBC)
-v(A.eEd,B.aBD)
-v(A.eDX,B.aBw)
-v(A.eEl,B.aBH)
-v(A.eE3,B.aBz)
-v(A.eDO,B.aBr)
-v(A.eDV,B.aBu)
-v(A.eDL,B.aBq)
-v(A.eDR,B.aBs)
-v(A.eDT,B.aBt)
-v(A.eDC,B.aBm)
-v(A.eDG,B.aBn)
-v(A.eDA,B.aBl)
-v(A.eDy,B.aBk)
-v(A.eDI,B.aBo)
-v(A.eEr,B.aBL)
-v(A.eEn,B.aBJ)
-v(A.eEp,B.aBK)
-v(A.eEz,B.aBN)
-v(A.eEv,B.aBM)
-v(A.eFt,B.aCg)
-v(A.eFv,B.aCh)
-v(A.eG7,B.aCA)
-v(A.eG9,B.aCB)
-v(A.eGf,B.aCE)
-v(A.eGn,B.aCI)
-v(A.eGv,B.aCM)
-v(A.eGp,B.aCJ)
-v(A.eGr,B.aCK)
-v(A.eGx,B.aCN)
-v(A.eGt,B.aCL)
-v(A.eGj,B.aCH)
-v(A.exI,B.ayo)
-v(A.exF,B.ayn)
-v(A.ewt,B.axL)
-v(A.ewr,B.axK)
-v(A.evu,B.axh)
-v(A.evq,B.axf)
-v(A.evm,B.axd)
-v(A.ezj,B.azb)
-v(A.ezp,B.aze)
-v(A.ez7,B.az5)
-v(A.ez3,B.az4)
-v(A.ezb,B.az7)
-v(A.ez1,B.az3)
-v(A.ezr,B.azf)
-v(A.ez9,B.az6)
-v(A.ezn,B.azd)
-v(A.ezd,B.az8)
-v(A.ezh,B.aza)
-v(A.eyY,B.az1)
-v(A.ezl,B.azc)
-v(A.ez_,B.az2)
-v(A.ezf,B.az9)
-v(A.ezC,B.azk)
-v(A.ezw,B.azi)
-v(A.ezu,B.azg)
-v(A.ezA,B.azj)
-v(A.ezE,B.azl)
-v(A.eAk,B.azH)
-v(A.eAg,B.azG)
-v(A.eAo,B.azJ)
-v(A.eAm,B.azI)
-v(A.exO,B.ays)
-v(A.ey_,B.ayx)
-v(A.ey1,B.ayy)
-v(A.exY,B.ayw)
-v(A.ey3,B.ayz)
-v(A.exU,B.ayt)
-v(A.eyK,B.ayU)
-v(A.eyG,B.ayS)
-v(A.eyM,B.ayV)
-v(A.eya,B.ayD)
-v(A.eye,B.ayF)
-v(A.eyc,B.ayE)
-v(A.eyu,B.ayM)
-v(A.eyq,B.ayK)
-v(A.eys,B.ayL)
-v(A.eyw,B.ayN)
-v(A.eyy,B.ayO)
-v(A.eyC,B.ayQ)
-v(A.eyi,B.ayH)
-v(A.eym,B.ayI)
-v(A.eyA,B.ayP)
-v(A.eyo,B.ayJ)
-v(A.eyg,B.ayG)
-v(A.ey8,B.ayC)
-v(A.eyE,B.ayR)
-v(A.ezI,B.azp)
-v(A.eA1,B.azy)
-v(A.ezT,B.azt)
-v(A.ezV,B.azu)
-v(A.eA7,B.azA)
-v(A.eAd,B.azD)
-v(A.evO,B.axr)
-v(A.ew5,B.axz)
-v(A.evM,B.axq)
-v(A.evU,B.axu)
-v(A.ew_,B.axx)
-v(A.evK,B.axp)
-v(A.evW,B.axv)
-v(A.evS,B.axt)
-v(A.evG,B.axo)
-v(A.exg,B.aya)
-v(A.exi,B.ayb)
-v(A.exm,B.ayc)
-v(A.exo,B.ayd)
-v(A.exs,B.ayf)
-v(A.ewF,B.axS)
-v(A.ewz,B.axQ)
-v(A.ewC,B.axR)
-v(A.ewH,B.axT)
-v(A.exC,B.ayk)
-v(A.ewX,B.ay_)
-v(A.exw,B.ayh)
-v(A.ewR,B.axY)
-v(A.exa,B.ay4)
-v(A.ex0,B.ay1)
-v(A.ewN,B.axV)
-v(A.ev8,B.ax5)
-v(A.eAN,B.azV)
-v(A.eC_,B.aAx)
-v(A.eCl,B.aAH)
-v(A.eEx,B.aBO)
-v(A.evs,B.axg)
-v(A.exW,B.ayv)
+v(A.eI2,B.aDy)
+v(A.eHV,B.aDv)
+v(A.eHT,B.aDu)
+v(A.eI8,B.aDB)
+v(A.eIa,B.aDC)
+v(A.eI6,B.aDA)
+v(A.eIc,B.aDD)
+v(A.eHY,B.aDw)
+v(A.eI_,B.aDx)
+v(A.eI4,B.aDz)
+v(A.exN,B.ayq)
+v(A.ews,B.axM)
+v(A.eww,B.axN)
+v(A.ewC,B.axQ)
+v(A.evv,B.axi)
+v(A.evr,B.axg)
+v(A.ezc,B.az4)
+v(A.ezF,B.azl)
+v(A.eAp,B.azJ)
 v(A.exT,B.ayu)
-v(A.ezK,B.azq)
-v(A.ezM,B.azr)
-v(A.ezG,B.azo)
+v(A.eyc,B.ayE)
+v(A.exX,B.ayv)
+v(A.eyW,B.az_)
+v(A.eyP,B.ayX)
+v(A.eyr,B.ayF)
+v(A.eA6,B.azA)
+v(A.ezV,B.azr)
+v(A.eAc,B.azB)
 v(A.eA3,B.azz)
-v(A.eA9,B.azB)
-v(A.evQ,B.axs)
-v(A.ew9,B.axC)
-v(A.ewb,B.axD)
-v(A.ewd,B.axE)
-v(A.ew3,B.axA)
-v(A.ew7,B.axB)
-v(A.ew1,B.axy)
-v(A.evY,B.axw)
-v(A.exq,B.aye)
-v(A.ex6,B.ay5)
-v(A.ex9,B.ay6)
-v(A.exc,B.ay7)
-v(A.ex2,B.ay3)
-v(A.ewZ,B.ay2)
-v(A.eC5,B.aAA)
-v(A.eC3,B.aAz)
-v(A.eC7,B.aAB)
-v(A.eBY,B.aAw)
-v(A.eC1,B.aAy)
-v(A.eCr,B.aAL)
-v(A.eCp,B.aAK)
-v(A.eCv,B.aAN)
-v(A.eCh,B.aAG)
-v(A.eCt,B.aAM)
-v(A.eCd,B.aAE)
-v(A.eCf,B.aAF)
-v(A.eCn,B.aAJ)
-v(A.eCj,B.aAI)
-w(A.bFJ,B.vo)})()
-B.wG(b.typeUniverse,JSON.parse('{"bhR":{"mn":[],"vo":["mw","mn"]}}'))
+v(A.ezY,B.azw)
+v(A.eAi,B.azG)
+v(A.evP,B.axr)
+v(A.ez1,B.az2)
+v(A.eyY,B.az1)
+v(A.exr,B.ayd)
+v(A.ewK,B.axT)
+v(A.exH,B.ayn)
+v(A.exl,B.ayc)
+v(A.ex1,B.ay2)
+v(A.exB,B.ayk)
+v(A.ex_,B.ay0)
+v(A.exb,B.ay4)
+v(A.ewW,B.ay_)
+v(A.exF,B.aym)
+v(A.ewS,B.axY)
+v(A.ewE,B.axR)
+v(A.evh,B.axa)
+v(A.evb,B.ax7)
+v(A.ev5,B.ax5)
+v(A.evd,B.ax8)
+v(A.ev8,B.ax6)
+v(A.evj,B.axb)
+v(A.ev3,B.ax4)
+v(A.eAC,B.azQ)
+v(A.eAy,B.azP)
+v(A.eAY,B.aA0)
+v(A.eAS,B.azY)
+v(A.eAG,B.azT)
+v(A.eBb,B.aA7)
+v(A.eCf,B.aAz)
+v(A.eCD,B.aAH)
+v(A.eCY,B.aB1)
+v(A.eD_,B.aB2)
+v(A.eCW,B.aB0)
+v(A.eD9,B.aB6)
+v(A.eDb,B.aB7)
+v(A.eD7,B.aB5)
+v(A.eCM,B.aAW)
+v(A.eEi,B.aBG)
+v(A.eEk,B.aBH)
+v(A.eE3,B.aBA)
+v(A.eEs,B.aBL)
+v(A.eEa,B.aBD)
+v(A.eDV,B.aBv)
+v(A.eE1,B.aBy)
+v(A.eDS,B.aBu)
+v(A.eDY,B.aBw)
+v(A.eE_,B.aBx)
+v(A.eDJ,B.aBq)
+v(A.eDN,B.aBr)
+v(A.eDH,B.aBp)
+v(A.eDF,B.aBo)
+v(A.eDP,B.aBs)
+v(A.eEy,B.aBP)
+v(A.eEu,B.aBN)
+v(A.eEw,B.aBO)
+v(A.eEG,B.aBR)
+v(A.eEC,B.aBQ)
+v(A.eFA,B.aCk)
+v(A.eFC,B.aCl)
+v(A.eGe,B.aCE)
+v(A.eGg,B.aCF)
+v(A.eGm,B.aCI)
+v(A.eGu,B.aCM)
+v(A.eGC,B.aCQ)
+v(A.eGw,B.aCN)
+v(A.eGy,B.aCO)
+v(A.eGE,B.aCR)
+v(A.eGA,B.aCP)
+v(A.eGq,B.aCL)
+v(A.exP,B.ays)
+v(A.exM,B.ayr)
+v(A.ewA,B.axP)
+v(A.ewy,B.axO)
+v(A.evB,B.axl)
+v(A.evx,B.axj)
+v(A.evt,B.axh)
+v(A.ezq,B.azf)
+v(A.ezw,B.azi)
+v(A.eze,B.az9)
+v(A.eza,B.az8)
+v(A.ezi,B.azb)
+v(A.ez8,B.az7)
+v(A.ezy,B.azj)
+v(A.ezg,B.aza)
+v(A.ezu,B.azh)
+v(A.ezk,B.azc)
+v(A.ezo,B.aze)
+v(A.ez4,B.az5)
+v(A.ezs,B.azg)
+v(A.ez6,B.az6)
+v(A.ezm,B.azd)
+v(A.ezJ,B.azo)
+v(A.ezD,B.azm)
+v(A.ezB,B.azk)
+v(A.ezH,B.azn)
+v(A.ezL,B.azp)
+v(A.eAr,B.azL)
+v(A.eAn,B.azK)
+v(A.eAv,B.azN)
+v(A.eAt,B.azM)
+v(A.exV,B.ayw)
+v(A.ey6,B.ayB)
+v(A.ey8,B.ayC)
+v(A.ey4,B.ayA)
+v(A.eya,B.ayD)
+v(A.ey0,B.ayx)
+v(A.eyR,B.ayY)
+v(A.eyN,B.ayW)
+v(A.eyT,B.ayZ)
+v(A.eyh,B.ayH)
+v(A.eyl,B.ayJ)
+v(A.eyj,B.ayI)
+v(A.eyB,B.ayQ)
+v(A.eyx,B.ayO)
+v(A.eyz,B.ayP)
+v(A.eyD,B.ayR)
+v(A.eyF,B.ayS)
+v(A.eyJ,B.ayU)
+v(A.eyp,B.ayL)
+v(A.eyt,B.ayM)
+v(A.eyH,B.ayT)
+v(A.eyv,B.ayN)
+v(A.eyn,B.ayK)
+v(A.eyf,B.ayG)
+v(A.eyL,B.ayV)
+v(A.ezP,B.azt)
+v(A.eA8,B.azC)
+v(A.eA_,B.azx)
+v(A.eA1,B.azy)
+v(A.eAe,B.azE)
+v(A.eAk,B.azH)
+v(A.evV,B.axv)
+v(A.ewc,B.axD)
+v(A.evT,B.axu)
+v(A.ew0,B.axy)
+v(A.ew6,B.axB)
+v(A.evR,B.axt)
+v(A.ew2,B.axz)
+v(A.evZ,B.axx)
+v(A.evN,B.axs)
+v(A.exn,B.aye)
+v(A.exp,B.ayf)
+v(A.ext,B.ayg)
+v(A.exv,B.ayh)
+v(A.exz,B.ayj)
+v(A.ewM,B.axW)
+v(A.ewG,B.axU)
+v(A.ewJ,B.axV)
+v(A.ewO,B.axX)
+v(A.exJ,B.ayo)
+v(A.ex3,B.ay3)
+v(A.exD,B.ayl)
+v(A.ewY,B.ay1)
+v(A.exh,B.ay8)
+v(A.ex7,B.ay5)
+v(A.ewU,B.axZ)
+v(A.evf,B.ax9)
+v(A.eAU,B.azZ)
+v(A.eC6,B.aAB)
+v(A.eCs,B.aAL)
+v(A.eEE,B.aBS)
+v(A.evz,B.axk)
+v(A.ey2,B.ayz)
+v(A.ey_,B.ayy)
+v(A.ezR,B.azu)
+v(A.ezT,B.azv)
+v(A.ezN,B.azs)
+v(A.eAa,B.azD)
+v(A.eAg,B.azF)
+v(A.evX,B.axw)
+v(A.ewg,B.axG)
+v(A.ewi,B.axH)
+v(A.ewk,B.axI)
+v(A.ewa,B.axE)
+v(A.ewe,B.axF)
+v(A.ew8,B.axC)
+v(A.ew4,B.axA)
+v(A.exx,B.ayi)
+v(A.exd,B.ay9)
+v(A.exg,B.aya)
+v(A.exj,B.ayb)
+v(A.ex9,B.ay7)
+v(A.ex5,B.ay6)
+v(A.eCc,B.aAE)
+v(A.eCa,B.aAD)
+v(A.eCe,B.aAF)
+v(A.eC4,B.aAA)
+v(A.eC8,B.aAC)
+v(A.eCy,B.aAP)
+v(A.eCw,B.aAO)
+v(A.eCC,B.aAR)
+v(A.eCo,B.aAK)
+v(A.eCA,B.aAQ)
+v(A.eCk,B.aAI)
+v(A.eCm,B.aAJ)
+v(A.eCu,B.aAN)
+v(A.eCq,B.aAM)
+w(A.bFO,B.vo)})()
+B.wG(b.typeUniverse,JSON.parse('{"bhV":{"mn":[],"vo":["mw","mn"]}}'))
 var y={k:"Activez ou d\xe9sactivez cette int\xe9gration sur votre boutique.",b:"Aucun pixel configur\xe9 pour le moment. Cliquez sur \xab Ajouter un Pixel \xbb pour commencer.",f:"Les tarifs seront copi\xe9s dans votre boutique actuelle\nContinuer signifie supprimer les tarifs actuels, nous vous recommandons de faire une sauvegarde avant de continuer",y:"Veuillez s\xe9lectionner une langue par d\xe9faut",D:"Vous pouvez r\xe9organiser les colonnes en les faisant glisser",h:"\xc9chec de la r\xe9initialisation du mod\xe8le : ",B:"\xcates-vous s\xfbr de vouloir supprimer ce pixel : "}
 var x={g:B.ag("J<R<j>>"),h:B.ag("J<j>")}};
-(a=>{a["7LLnV/8U8xCoHPoQ/0ohmq2Lbug="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["nMjyD7VTkjZTx/xO4IwLSIaEFkY="]=a.current})($__dart_deferred_initializers__);
